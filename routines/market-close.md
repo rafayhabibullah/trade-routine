@@ -1,5 +1,5 @@
 # Market Close Routine
-**Cron:** 0 15 * * 1-5 (3:00 PM Monday–Friday)
+**Cron:** 0 16 * * 1-5 (4:00 PM Monday–Friday)
 
 ---
 

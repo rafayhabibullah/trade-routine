@@ -42,3 +42,4 @@ These rules can never be overridden by research findings or market conditions:
 - Cut any position down >7% intraday at midday check — no exceptions
 - No options, no leveraged ETFs, no crypto or crypto-adjacent stocks
 - Never buy a stock on its earnings announcement day
+- Keep at least 20% cash — never go more than 80% invested

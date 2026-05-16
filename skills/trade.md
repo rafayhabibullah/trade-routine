@@ -122,5 +122,6 @@ Run through this before every buy order:
 3. Portfolio down < 3% from today's opening value? ✓/✗
 4. Market cap > $1B? ✓/✗
 5. Not an earnings announcement day for this ticker? ✓/✗
+6. Cash remaining after trade ≥ 20% of portfolio_value? ✓/✗
 
-All five must be ✓ before placing the order.
+All six must be ✓ before placing the order.

@@ -30,7 +30,8 @@ f. Wait ~5 seconds, then set 10% trailing stop per skills/trade.md
 g. Append trade entry to memory/trade-log.md
 
 **Step 4 — Update memory/portfolio.md:**
-Reflect all new positions and updated cash balance.
+- Record today's Day Open Value (from account endpoint portfolio_value at session start)
+- Reflect all new positions and updated cash balance.
 
 **Step 5 — Commit and push:**
 ```bash
