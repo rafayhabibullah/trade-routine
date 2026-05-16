@@ -30,7 +30,7 @@ Append today's research output using the format defined in skills/research.md.
 ```bash
 git add memory/research-log.md
 git commit -m "pre-market research $(date +%Y-%m-%d)"
-git push origin main
+git push origin HEAD
 ```
 
 Do not place any trades. Research only.

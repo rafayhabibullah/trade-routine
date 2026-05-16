@@ -37,6 +37,6 @@ For winning positions:
 ```bash
 git add memory/trade-log.md memory/portfolio.md
 git commit -m "midday review $(date +%Y-%m-%d)"
-git push origin main
+git push origin HEAD
 ```
 If no changes were needed, note "midday check — no action required" and skip the commit.

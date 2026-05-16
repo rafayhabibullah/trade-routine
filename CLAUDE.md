@@ -18,7 +18,7 @@ on a $100k Alpaca paper trading account using a long-term, fundamentals-driven s
    ```bash
    git add memory/
    git commit -m "[routine-name] [$(date +%Y-%m-%d)]"
-   git push origin main
+   git push origin HEAD
    ```
 
 ## API Keys — Environment Variables Only

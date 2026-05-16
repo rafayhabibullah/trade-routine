@@ -38,5 +38,5 @@ Append a brief "tomorrow's watch" note:
 ```bash
 git add memory/portfolio.md memory/research-log.md
 git commit -m "market close $(date +%Y-%m-%d)"
-git push origin main
+git push origin HEAD
 ```

@@ -37,5 +37,5 @@ g. Append trade entry to memory/trade-log.md
 ```bash
 git add memory/trade-log.md memory/portfolio.md
 git commit -m "market open $(date +%Y-%m-%d)"
-git push origin main
+git push origin HEAD
 ```

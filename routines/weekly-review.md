@@ -39,5 +39,5 @@ If any durable lessons were learned, add them to the "Current Lessons Learned" s
 ```bash
 git add memory/weekly-review.md memory/trading-strategy.md memory/portfolio.md
 git commit -m "weekly review $(date +%Y-%m-%d)"
-git push origin main
+git push origin HEAD
 ```
