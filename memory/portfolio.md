@@ -18,7 +18,7 @@
 
 ## Week Tracking
 - Week Start Value: $100,000.00
-- Week Start SPY: (record on first Monday)
+- Week Start SPY: $739.17 (Fri 2026-05-15 close — anchor for week of 5/18)
 - Day Open Value: $100,000.00
 - New Positions This Week: 0 of 3 allowed
 - Daily Loss Today: $0.00
