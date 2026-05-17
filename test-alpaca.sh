@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # Alpaca Paper Trading API smoke test
-# Usage: ALPACA_API_KEY=xxx ALPACA_SECRET_KEY=xxx bash test-alpaca.sh
+# Usage: source .env && bash test-alpaca.sh
 
 set -e
 
@@ -35,41 +35,37 @@ echo "=== Alpaca Paper Trading API Tests ==="
 echo "Endpoint: $BASE"
 echo ""
 
+call() {
+  local method="$1" url="$2"
+  local tmp; tmp=$(curl -s -w "\n__STATUS__%{http_code}" -X "$method" "$url" "${AUTH[@]}")
+  STATUS=$(echo "$tmp" | grep "__STATUS__" | sed 's/__STATUS__//')
+  BODY=$(echo "$tmp" | grep -v "__STATUS__")
+}
+
 # 1. Market clock
-BODY=$(curl -s -w "\n%{http_code}" -X GET "$BASE/v2/clock" "${AUTH[@]}")
-STATUS=$(echo "$BODY" | tail -1); BODY=$(echo "$BODY" | head -n -1)
+call GET "$BASE/v2/clock"
 check "GET /v2/clock (market hours)" "$STATUS" "$BODY"
-IS_OPEN=$(echo "$BODY" | grep -o '"is_open":[a-z]*' | head -1)
-echo "      $IS_OPEN"
+echo "      $(echo "$BODY" | grep -o '"is_open":[a-z]*' | head -1)"
 
 # 2. Account details
-BODY=$(curl -s -w "\n%{http_code}" -X GET "$BASE/v2/account" "${AUTH[@]}")
-STATUS=$(echo "$BODY" | tail -1); BODY=$(echo "$BODY" | head -n -1)
+call GET "$BASE/v2/account"
 check "GET /v2/account" "$STATUS" "$BODY"
-PORTFOLIO=$(echo "$BODY" | grep -o '"portfolio_value":"[^"]*"' | head -1)
-CASH=$(echo "$BODY" | grep -o '"cash":"[^"]*"' | head -1)
-echo "      $PORTFOLIO  $CASH"
+echo "      $(echo "$BODY" | grep -o '"portfolio_value":"[^"]*"' | head -1)  $(echo "$BODY" | grep -o '"cash":"[^"]*"' | head -1)"
 
 # 3. Open positions
-BODY=$(curl -s -w "\n%{http_code}" -X GET "$BASE/v2/positions" "${AUTH[@]}")
-STATUS=$(echo "$BODY" | tail -1); BODY=$(echo "$BODY" | head -n -1)
+call GET "$BASE/v2/positions"
 check "GET /v2/positions" "$STATUS" "$BODY"
-COUNT=$(echo "$BODY" | grep -o '"symbol"' | wc -l | tr -d ' ')
-echo "      open positions: $COUNT"
+echo "      open positions: $(echo "$BODY" | grep -o '"symbol"' | wc -l | tr -d ' ')"
 
 # 4. Open orders
-BODY=$(curl -s -w "\n%{http_code}" -X GET "$BASE/v2/orders?status=open" "${AUTH[@]}")
-STATUS=$(echo "$BODY" | tail -1); BODY=$(echo "$BODY" | head -n -1)
+call GET "$BASE/v2/orders?status=open"
 check "GET /v2/orders?status=open" "$STATUS" "$BODY"
-ORDERS=$(echo "$BODY" | grep -o '"id"' | wc -l | tr -d ' ')
-echo "      open orders: $ORDERS"
+echo "      open orders: $(echo "$BODY" | grep -o '"id"' | wc -l | tr -d ' ')"
 
-# 5. Assets endpoint (confirms data feed works)
-BODY=$(curl -s -w "\n%{http_code}" -X GET "$BASE/v2/assets/AAPL" "${AUTH[@]}")
-STATUS=$(echo "$BODY" | tail -1); BODY=$(echo "$BODY" | head -n -1)
+# 5. Assets endpoint
+call GET "$BASE/v2/assets/AAPL"
 check "GET /v2/assets/AAPL (data feed)" "$STATUS" "$BODY"
-TRADABLE=$(echo "$BODY" | grep -o '"tradable":[a-z]*' | head -1)
-echo "      AAPL $TRADABLE"
+echo "      AAPL $(echo "$BODY" | grep -o '"tradable":[a-z]*' | head -1)"
 
 echo ""
 echo "=== Results: $PASS passed, $FAIL failed ==="
