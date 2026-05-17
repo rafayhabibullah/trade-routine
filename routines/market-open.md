@@ -1,5 +1,5 @@
 # Market Open Routine
-**Cron:** 30 8 * * 1-5 (8:30 AM Monday–Friday)
+**Cron:** 30 12 * * 1-5 (8:30 AM ET / 2:30 PM CEST / 12:30 PM UTC, Monday–Friday)
 
 ---
 

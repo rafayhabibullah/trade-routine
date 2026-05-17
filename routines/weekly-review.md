@@ -1,5 +1,5 @@
 # Weekly Review Routine
-**Cron:** 0 16 * * 5 (4:00 PM Fridays only)
+**Cron:** 0 20 * * 5 (4:00 PM ET / 10:00 PM CEST / 8:00 PM UTC, Fridays only)
 
 ---
 

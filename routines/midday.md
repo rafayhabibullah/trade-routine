@@ -1,5 +1,5 @@
 # Midday Routine
-**Cron:** 0 12 * * 1-5 (12:00 PM Monday–Friday)
+**Cron:** 0 16 * * 1-5 (12:00 PM ET / 6:00 PM CEST / 4:00 PM UTC, Monday–Friday)
 
 ---
 

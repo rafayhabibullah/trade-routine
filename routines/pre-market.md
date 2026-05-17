@@ -1,5 +1,5 @@
 # Pre-Market Routine
-**Cron:** 0 6 * * 1-5 (6:00 AM Monday–Friday)
+**Cron:** 0 10 * * 1-5 (6:00 AM ET / 12:00 PM CEST / 10:00 AM UTC, Monday–Friday)
 
 ---
 
