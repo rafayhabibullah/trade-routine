@@ -44,3 +44,14 @@ $739.17 (Monday open reference — record as Week Start SPY in portfolio.md)
 - AMZN: hold as watchlist for next week
 
 ---
+
+## Tomorrow's Watch — 2026-05-19
+- Positions to monitor:
+  - LLY: closed $990.40 (-1.45% on day from $1,004.92). Largest drawdown of the three; intraday low under $990. Watch midday: if -7% intraday cut rule triggers vs today's open (~$1,004.92 → $934.58), close it. Stop is $896.40.
+  - GOOGL: marginally red (-0.27%). HWM still near opening tick ($408.61) — trail not yet tested.
+  - META: up +0.74% net of entry but down -0.49% vs Friday's $614.23 close. HWM $615.59.
+- Macro events tomorrow: No tier-1 US data scheduled for Tuesday 5/19. FOMC minutes land Wednesday 5/20; NVDA reports Wednesday after close — expect AI-trade volatility Wed–Thu. BABA prints pre-market 5/18 (today) — review BABA tone for Chinese-tech read-through.
+- Thesis notes: All three theses (GOOGL cloud reaccel, META ad-pricing power, LLY GLP-1 franchise) intact on day 1. No company-specific news today changed the picture. Mild risk-off tone into NVDA print is normal — do not overreact to day-2 drift unless a position breaches the -7% intraday cut rule or trailing stop.
+- No new buys: week's 3-position cap reached. Tomorrow is a monitor-only day unless a cut is required.
+
+---
