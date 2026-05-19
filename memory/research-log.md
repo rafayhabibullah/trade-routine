@@ -44,3 +44,26 @@ $739.17 (Monday open reference — record as Week Start SPY in portfolio.md)
 - AMZN: hold as watchlist for next week
 
 ---
+
+## Tomorrow's Watch — 2026-05-20
+
+### Positions to monitor
+- **GOOGL** ($387.54, -2.37% today, -2.63% from entry): AI-trade hedge flows ahead of NVDA earnings tonight. Stop at $367.75 — current price has ~5.1% buffer above stop. Thesis (Cloud reacceleration + $460B backlog) unaffected by NVDA print direction; only flag is if AI capex narrative breaks.
+- **META** ($602.21, -1.47% today, -0.75% from entry): Same AI-sentiment tape as GOOGL. Stop at $554.03 — ~8.0% buffer. Thesis (AI ad-targeting price/ad +12%) is self-funded growth, not capex-dependent.
+- **LLY** ($1,019.60, +3.19% today, +2.75% from entry): New HWM $1,021.80, stop ratcheted to $919.62. Independent of AI tape — pure GLP-1 demand thesis. No flag.
+
+### Macro events tomorrow (Wed 5/20)
+- **FOMC meeting minutes** (2:00 PM ET) — Powell's final meeting before Warsh transition. Watch for dissent signals or QT-pace language.
+- **NVDA earnings** (after close, ~4:20 PM ET) — single biggest event of the week for AI-trade re-rating. Reaction will hit GOOGL/META at Thursday open.
+- Approx 30 other large-caps report intraday — verify any candidate against earnings calendar.
+
+### Thesis notes
+- Today's tape: SPY -0.79%, mega-cap tech leading down (AI hedge into NVDA), defensives/healthcare green. Our barbell (2 AI mega-cap + 1 healthcare) worked — LLY offset GOOGL/META drawdown.
+- Week-to-date portfolio -0.02% vs SPY -0.86% → +0.84% relative outperformance with 88% cash buffer still intact. This is the kind of low-beta participation the strategy is built around.
+- NVDA print scenario tree:
+  - **Beat + raise**: GOOGL/META re-rate higher Thursday; trailing stops naturally lift; no action required.
+  - **In-line**: Likely flat-to-down; no thesis change; hold.
+  - **Miss / weak guide**: GOOGL/META could each take -5% to -8% gap. Stops at $367.75 (GOOGL) and $554.03 (META) protect; midday-check -7% intraday rule would kick in before stops.
+- Do NOT buy anything Wednesday — week position cap (3/3) already reached. Cash deployment decisions wait for Monday 5/25 open.
+
+---
