@@ -44,3 +44,56 @@ $739.17 (Monday open reference — record as Week Start SPY in portfolio.md)
 - AMZN: hold as watchlist for next week
 
 ---
+
+## Research — 2026-05-19
+
+### Market Conditions
+S&P 500 futures down ~0.23% Tuesday morning following a tech-led sell-off Monday; both S&P 500 and Nasdaq closed lower for a second consecutive session (S&P −0.07%, Nasdaq −0.51%). ES futures sit at 7,407 (−1.24% past 24h). Big week ahead: FOMC minutes Wednesday 5/20 (Warsh's first as Chair, with notable dissents from last hold), and NVDA earnings Wednesday after close — both can re-rate the AI trade in either direction. Hotter-than-expected recent CPI/PPI keep rate-cut hopes cautious.
+
+### SPY Reference Price
+Not Monday — week-start SPY ($739.17) already recorded 5/18.
+
+### Earnings This Week — Do Not Buy (expanded)
+- NVDA — Nvidia — Wed 5/20 after close
+- BABA — Alibaba — Mon 5/18 pre-market (already reported)
+- WMT — Walmart — Thu 5/21 pre-market
+- MU — Micron — this week
+- WOLF — Wolfspeed — this week
+- HD — Home Depot — this week
+- TJX — TJX Companies — this week
+- INTU — Intuit — this week
+- ADI — Analog Devices — this week
+- LOW — Lowe's — this week
+- DE — Deere — this week
+- Verify any candidate against earnings calendar before placing a buy next week.
+
+### Macro Events This Week
+- Wed 5/20: FOMC minutes (key event — rate-path signals)
+- Wed 5/20 AC: NVDA earnings (AI trade re-rating risk)
+- Housing data: starts (decline expected), permits (slight rise), pending home sales (+1.6% est.)
+
+### Position Count Status
+- New positions this week: 3 of 3 used. **CAP REACHED — no new buys until Monday 5/25.**
+- Today is research/monitoring only.
+
+### Watchlist for Next Week (5/25 Open) — Build, Do Not Trade
+| Symbol | One-Line Thesis | Rev Growth | Moat Type | Analyst Rating | Action |
+|--------|-----------------|------------|-----------|----------------|--------|
+| AMZN | AWS reaccelerated to 28% — fastest in 15 quarters — on $181.5B Q1 rev (+17%) with record op margin | 17% total / 28% AWS | Scale (logistics + cloud); switching costs (AWS) | Buy consensus; PT $285–$325 | Top candidate for 5/25 open (~4% position) |
+| MSFT | Azure +40% YoY (accelerating from 31%) on $82.9B Q1 rev (+18%), AI run-rate $37B (+123%) | 18% total / 40% Azure | Switching costs (enterprise); network effects; AI distribution | 34 of 36 Buy; PT ~$577 (~36% upside) | Strong candidate for 5/25 open (~4% position) |
+| NFLX | $12.25B Q1 rev (+16%) beat; FY26 guide $50.7–51.7B (+12–14%); ad revenue projected to roughly double | 16% | Brand + content scale; data/recommendation moat; pricing power | 51 B / 14 H / 2 S — Strong Buy | Alternate candidate — confirm no late-May earnings event |
+
+### Existing Position Notes
+| Symbol | News | Thesis Still Valid? | Action |
+|--------|------|---------------------|--------|
+| GOOGL | +2.27% to $405.79, new 52-week high $406.29 ahead of Google I/O 2026 (5/19–5/20). Buy reiterated at $430 PT. Berkshire Hathaway position. Q1: rev +22%, Cloud +63%, op margin +220bps, $462B Cloud backlog. | YES — strengthening | Hold; trailing stop should ratchet up on new highs |
+| META | Trading $603.69–$615.59 (~$610.70). Announcing 10% layoffs in 3 batches starting 5/20; reallocating 7,000 workers to AI roles. Cost discipline + AI pivot — typically received positively but expect intraday volatility Wed. Q1 revenue +33% stands. | YES — monitor 5/20 reaction | Hold; watch intraday Wed for >7% drawdown trigger (would force cut per guardrail) |
+| LLY | LLY ~$1,006.70 (+41.73% YoY). Q1 +56% rev ($19.8B), volume +65%, FY guidance raised $2B. 53% intl GLP-1 share; Mounjaro in 55+ countries. Retatrutide Phase 3: 28.7% weight loss (>Zepbound) — pipeline depth deepening moat. | YES — strengthening | Hold; trailing stop should ratchet up if shares break above entry |
+
+### Plan for Today (5/19)
+- No new buys — week cap reached.
+- Monitor existing 3 positions during midday check, especially META given 5/20 layoff announcement risk.
+- Watchlist for 5/25 open: top picks AMZN and MSFT; NFLX as alternate.
+- Verify AMZN/MSFT/NFLX have no earnings catalysts in week of 5/25 before sizing.
+
+---
