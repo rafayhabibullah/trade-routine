@@ -44,3 +44,46 @@ $739.17 (Monday open reference — record as Week Start SPY in portfolio.md)
 - AMZN: hold as watchlist for next week
 
 ---
+
+## Research — 2026-05-20
+
+### Market Conditions
+SPY trading down ~-0.68% intraday after Tuesday's risk-off session as 10Y yields pushed to a 16-month high of 4.69%. VIX futures at 17.80 — still modest but climbing. Today is a high-event day: April 29 FOMC minutes drop at 2:00 PM ET (Warsh's first as Chair; the April meeting produced 4 dissents — most since Oct 1992), and NVDA reports after close with consensus at $1.78 EPS / $79.2B revenue (+79.5% YoY) and ~97% beat probability already priced in.
+
+### SPY Reference Price
+Not Monday — no new SPY reference recorded. Week Start SPY remains $739.17 (5/15 close, logged Monday).
+
+### Earnings This Week — Do Not Buy
+- NVDA — Nvidia — reports today Wed 5/20 (after close)
+- WMT — Walmart — reports Thu 5/21 (pre-market)
+- HD — Home Depot — reported Tue 5/19
+- BIDU — Baidu — reported Mon 5/18
+- PDD — Pinduoduo — reports Fri 5/22
+- DE — Deere — reports Thu 5/21
+- Also reporting this week: INTU, ELF, ADI, NIO, KEYS, SMFG, NBIS, plus ~270 others
+
+### Macro Events This Week
+- Wednesday 5/20 2:00 PM ET: FOMC minutes (April 29 meeting — Powell's final). Markets pricing <3% chance of a cut by year-end; some desks expect a hike by September.
+- Wednesday 5/20 AC: NVDA earnings — likely sets the AI-trade tape into Thursday/Friday for GOOGL, META, and AMZN watchlist.
+- Warsh's first FOMC meeting: June 16–17.
+
+### Watchlist for Next Week (5/26 open — week cap reached this week, 3/3)
+| Symbol | One-Line Thesis | Rev Growth | Moat Type | Analyst Rating | Action |
+|--------|-----------------|------------|-----------|----------------|--------|
+| AMZN | AWS reaccelerated to 28% YoY (15-quarter high) at $37.6B with ad revenue +22% and Q2 guide 16–19% — capex up to $44.2B funding AI infra build-out | 17% total / 28% AWS / 22% ads | Scale (logistics + AWS); switching costs (AWS); two-sided network (marketplace) | Strong Buy; Q2 guide $194–$199B | Watch — primary buy candidate Tue 5/26 open (Monday is Memorial Day market closed); confirm post-NVDA tape before committing |
+
+### Existing Position Notes
+| Symbol | News | Thesis Still Valid? | Action |
+|--------|------|---------------------|--------|
+| GOOGL | Google I/O 2026 keynote 5/19 — Gemini 3.5 Flash, AI Mode search overhaul, Spark agent for recurring tasks, new AI Ultra tier at $100 and Pro tier cut to $200. Reinforces AI-monetization thesis. | Yes — strengthened. Cloud + Search AI roadmap looks executing. | Hold. Trailing stop active (hwm $408.61 → stop $367.75). Monitor for AI-trade reaction Thursday after NVDA. |
+| META | Layoffs of ~8,000 workers executing today 5/20 with 7,000 redeployed into AI; 2026 capex guide raised by up to $10B to as much as $145B. Stock trading $600.56–$613.93 range today. | Yes — workforce reallocation is consistent with AI-spend thesis, not a thesis break. Watch for execution risk/morale headlines. | Hold. Trailing stop active (hwm $615.59 → stop $554.03). No action unless stop trips. |
+| LLY | Stock +3.4% Tuesday to $1,021.41 on olomorasib drug-interaction study completion (de-risks KRAS oncology dosing path). No negative catalysts. CEO reiterates "2026 off to a strong start" — Q1 +56% rev, FY guide raised $2B. | Yes — accelerating. GLP-1 duopoly + oncology optionality intact. | Hold. Trailing stop active (hwm $995.9999 → stop $896.40). Advancing toward new highs — let it run. |
+
+### Plan for Today (5/20) and Rest of Week
+- **No new trades possible** — week new-position cap at 3/3 (CAP REACHED). Mid-day check still required per guardrails (cut anything down >7% intraday).
+- Monitor FOMC minutes 2:00 PM ET for hawkish surprise risk → could pressure long-duration tech (GOOGL, META).
+- Monitor NVDA print after close — high bar (97% beat priced in). A miss or weak Q2 guide pulls AI-trade lower Thursday; a beat + raise re-rates GOOGL/META/AMZN.
+- AMZN remains primary buy candidate for next week (Tue 5/26 open; Mon 5/26 is Memorial Day). Pending NVDA-tape confirmation.
+- Earnings no-buy list active: NVDA, WMT, HD, BIDU, PDD, DE, INTU, ELF, ADI, NIO, KEYS, SMFG, NBIS.
+
+---
