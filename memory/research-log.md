@@ -87,3 +87,23 @@ Not Monday — no new SPY reference recorded. Week Start SPY remains $739.17 (5/
 - Earnings no-buy list active: NVDA, WMT, HD, BIDU, PDD, DE, INTU, ELF, ADI, NIO, KEYS, SMFG, NBIS.
 
 ---
+
+## Tomorrow's Watch — 2026-05-21
+- **Positions to monitor:**
+  - GOOGL ($389.02, -2.25% from entry) — most exposed to NVDA AI-trade tape Thursday. Stop $367.75 (~5.5% below). If NVDA misses or guides weak, GOOGL likely tags first. Thesis (Cloud reaccel + Gemini monetization) still intact.
+  - META ($604.80, -0.32%) — secondary AI-trade exposure via ad-targeting AI thesis. Stop $554.03 (~8.4% below).
+  - LLY ($1,018.60, +2.65%) — independent of AI tape. Hwm advanced today; stop $934.09. Let it run.
+- **Macro events tomorrow (Thu 5/21):**
+  - NVDA earnings reaction is the dominant tape driver — read-through to GOOGL/META in either direction.
+  - WMT earnings pre-market (consumer health signal — risk-off if soft guide).
+  - DE earnings pre-market (industrial / agri demand signal).
+  - PDD reports Friday 5/22.
+  - Weekly jobless claims 8:30 AM ET (consensus 215k).
+- **Thesis notes:**
+  - Day was essentially flat (-0.01%) while SPY rallied +0.52% — underperformance is acceptable; portfolio is only 11.6% invested so beta to SPY is mechanically low. Cash drag will narrow as positions are added next week.
+  - WTD alpha vs SPY is +22 bps — strategy on track.
+  - FOMC minutes showed 4 dissents and hawkish tilt; 10Y at 16-month high (~4.69%). Long-duration tech (GOOGL/META) faces ongoing duration headwind if yields keep rising — monitor for thesis erosion if 10Y breaks 4.80%.
+  - LLY's new hwm at $1,037.88 indicates institutional bid intact post-olomorasib news — GLP-1 + oncology optionality thesis strengthening.
+- **No trades planned Thursday or Friday** — week position cap is 3/3. AMZN initiation deferred to Tue 5/26 (Memorial Day closed Monday) pending NVDA-tape confirmation.
+
+---
