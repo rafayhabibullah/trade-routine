@@ -135,3 +135,25 @@ Not Monday — no new SPY reference. Week Start SPY remains $739.17 (5/15 close,
 - Earnings no-buy carry-over to next week to verify Monday morning: WMT (post-print Thursday), PDD (post-print Friday), and refresh full week 5/26 earnings calendar.
 
 ---
+
+## Tomorrow's Watch — 2026-05-22
+
+### Positions to Monitor
+- **GOOGL** — Closed $388.22 (-2.46% from entry, -0.18% intraday). AI-trade tape sensitive post-NVDA. Stop at $367.75; cushion of ~5.3%. Watch for any AI capex narrative shifts.
+- **META** — Closed $607.51 (+0.13%, +0.40% intraday). Fact-checking policy change still a sentiment risk if misinformation headlines pick up. Stop at $554.03; cushion ~8.8%.
+- **LLY** — Closed $1,041.65 (+4.97%, +2.24% intraday — strongest mover today). Approaching new highs into June ADA Scientific Sessions retatrutide readout. Stop advanced to $942.57; cushion ~9.5%. Let it run.
+
+### Macro Events Tomorrow (Friday 5/22)
+- Michigan Consumer Sentiment (Final) — sentiment risk if inflation expectations tick higher (could reinforce hawkish-Fed narrative weighing on long-duration tech)
+- NY Fed Staff Nowcast release
+- PDD earnings (Friday) — no direct position impact but China ADR sentiment ripple watch
+- No FOMC events; next Fed meeting June 16–17 (Warsh's first as Chair)
+- ~18 other tickers reporting Friday — no current position overlap
+
+### Thesis Notes Based on Today's Price Action
+- Post-NVDA AI-trade digestion landed neutral-to-positive for cloud names — GOOGL/META held the tape despite NVDA -1% AH, suggesting market is differentiating compute infrastructure (NVDA) from compute monetization (GOOGL/META). Supports holding AMZN/MSFT thesis for next week.
+- LLY divergence from broader market (+2.24% intraday vs SPY -0.37%) confirms GLP-1/oncology thesis has independent catalyst path (ADA June). Position acting as portfolio ballast.
+- Portfolio +0.10% vs SPY -0.37% — beta-aware diversification (cloud + ad-tech + pharma) working as intended in a hawkish-Fed tape.
+- No new-position decisions tomorrow — week cap 3/3 holds through Friday close. Monday is Memorial Day market closed; first new-position window is Tue 5/26 open.
+
+---
