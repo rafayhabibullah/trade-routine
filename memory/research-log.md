@@ -87,3 +87,51 @@ Not Monday — no new SPY reference recorded. Week Start SPY remains $739.17 (5/
 - Earnings no-buy list active: NVDA, WMT, HD, BIDU, PDD, DE, INTU, ELF, ADI, NIO, KEYS, SMFG, NBIS.
 
 ---
+
+## Research — 2026-05-21
+
+### Market Conditions
+US futures modestly down post-NVDA — Dow -0.2%, S&P -0.1%, Nasdaq -0.3%. NVDA beat top/bottom line with upbeat chip-sales forecast but shares slipped ~1% after hours as the print failed to clear the very high bar (~97% beat probability was already priced in). SPY closed Wednesday 5/20 at $741.25 — up modestly week-over-week despite mid-week volatility around FOMC minutes (Warsh's April 29 meeting confirmed 4 dissents; markets still pricing <3% chance of cut by year-end). VIX off the post-FOMC pop. The AI-trade reaction tape is now in play: GOOGL, META, and AMZN watchlist all in focus for the rest of the week.
+
+### SPY Reference Price
+Not Monday — no new SPY reference. Week Start SPY remains $739.17 (5/15 close, logged Monday 5/18). Wed close $741.25 implies SPY +0.28% week-to-date.
+
+### Earnings This Week — Do Not Buy
+- NVDA — Nvidia — reported Wed 5/20 (after close) — stock -1% AH despite beat
+- WMT — Walmart — reports today Thu 5/21 (pre-market)
+- DE — Deere — reports today Thu 5/21 (pre-market)
+- INTU — Intuit — reports today Thu 5/21
+- PDD — Pinduoduo — reports Fri 5/22
+- HD — Home Depot — reported Tue 5/19
+- BIDU — Baidu — reported Mon 5/18
+- Also reporting: ELF, ADI, NIO, KEYS, SMFG, NBIS, plus ~48 others Thursday and ~18 Friday
+
+### Macro Events This Week
+- Thursday 5/21: Initial Jobless Claims, Philadelphia Fed Manufacturing Survey, Weekly Economic Index
+- Friday 5/22: Michigan Consumer Sentiment (Final), NY Fed Staff Nowcast
+- No FOMC events remaining this week (April 29 minutes already released Wed 5/20 with 4 dissents — hawkish signal)
+- Next FOMC: June 16–17 (Warsh's first as Chair)
+
+### Watchlist for Next Week (5/26 open — week cap reached this week, 3/3)
+| Symbol | One-Line Thesis | Rev Growth | Moat Type | Analyst Rating | Action |
+|--------|-----------------|------------|-----------|----------------|--------|
+| AMZN | AWS reaccelerated to 28% YoY (15-quarter high) at $37.6B with $150B annualized run rate; AI run rate >$15B; Bedrock token volume +170% QoQ; Q2 guide 16–19% | 17% total / 28% AWS | Scale (logistics + AWS); switching costs (AWS); two-sided marketplace network | Strong Buy (116 B / 1 H / 0 S); avg PT $311.55–$319; TD Cowen $350 (5/12) | Primary buy candidate Tue 5/26 open (Mon 5/26 Memorial Day closed) — confirm post-NVDA tape holds |
+| MSFT | Azure +40% YoY (beat ~35–36% consensus); AI run rate $37B growing 123% YoY; Microsoft Cloud >$54B (+29%); GAAP EPS $4.27 (+23%); capex going to >$40B next qtr ($190B CY26 total) | 18% total / 40% Azure | Switching costs (enterprise + Office); scale (cloud); platform moat (Windows/M365) | Buy consensus (next earnings late July — clear of all near-term earnings risk) | Secondary buy candidate Tue 5/26 — strongest AI-cloud comp to AMZN if AWS-tape weakens |
+| NFLX | Q1 +16.2% revenue to $12.25B; ad business doubling to ~$3B in 2026; member quality at all-time high; FY rev guide $50.7–$51.7B; EPS $1.23 (+86% YoY — note $2.8B WBD breakup fee inflates net income) | 16% | Brand + scale; switching costs (content library + recommendation engine) | Mixed — shares plunged post-Q1 despite beat (sentiment risk) | Watch only — meets growth bar but post-earnings sentiment is weak; prefer AMZN/MSFT for next week |
+| CRM | Q4 FY26 +12% to $11.2B; Agentforce ARR $800M (+169%); FY27 guide 10–11% growth | 12% — **below 15% threshold** | Switching costs (CRM data lock-in); platform moat | Mixed | **Skip** — fails revenue growth criterion |
+
+### Existing Position Notes
+| Symbol | News | Thesis Still Valid? | Action |
+|--------|------|---------------------|--------|
+| GOOGL | Morgan Stanley reiterated Buy with $430 PT post-I/O 2026 (new efficient models + agentic offerings across commerce/travel/daily life); Berkshire Hathaway institutional endorsement noted; Blackstone JV for AI data centers expanding; new 52-week high context though 2026 rising capex flagged as profitability risk. Trading $382.90–$393.86 intraday Thu 5/21. | Yes — strengthened by analyst reiteration and Berkshire flag. Capex caveat is the right risk to monitor. | Hold. Trailing stop active (hwm $408.61 → stop $367.75). Let post-NVDA AI tape develop. |
+| META | Layoffs of 8,000 (10% of workforce) executed yesterday 5/20 — proceeding as planned, redeployment into AI on track. Separately, Meta discontinuing third-party fact-checking program in favor of community notes model (regulatory/PR risk but not a fundamental break). Free WhatsApp access offered to rival AI chatbots in EU to address regulatory issues. Stock at $600.26 (market cap $1.52T, P/E 21.91) — flat to slightly weak. | Yes — workforce + AI capex thesis intact; fact-checking change is policy/PR noise. Watch sentiment risk if misinformation headlines escalate. | Hold. Trailing stop active (hwm $615.59 → stop $554.03). No action unless stop trips. |
+| LLY | Announced 7th acquisition of 2026 — Engage Biologics for up to $202M for Tethosome non-viral DNA delivery platform (next-gen genetic therapies). Stock hit highest level since March 2 on the news. Retatrutide Phase 3 update coming at ADA Scientific Sessions in June — strong tailwind into the June print. Separately, LLY filed suit alleging $200M+ Trulicity rebate fraud by Pentecostal church bishops — legal noise, not material. | Yes — pipeline broadening (genetic therapies) + GLP-1 + oncology optionality all intact. Retatrutide June catalyst is upside. | Hold. Trailing stop hwm advanced to $1,021.80 → stop $919.62. Let it run into ADA. |
+
+### Plan for Today (5/21) and Rest of Week
+- **No new trades possible** — week new-position cap at 3/3 (CAP REACHED). Mid-day check still required per guardrails (cut anything down >7% intraday; daily loss cap −3%).
+- Monitor AI-trade tape post-NVDA: GOOGL and META are direct beneficiaries/casualties of how the market digests NVDA's "good but not great" print. Watch for >7% intraday drawdowns specifically.
+- WMT (today AM) and DE (today AM) earnings could shift retail/industrial sentiment — watch broader tape but no direct position impact.
+- Watchlist for next week (5/26 Tue open after Memorial Day): AMZN primary, MSFT secondary. Both clear of near-term earnings risk. NFLX on the bench. Skip CRM (rev growth below threshold).
+- Earnings no-buy carry-over to next week to verify Monday morning: WMT (post-print Thursday), PDD (post-print Friday), and refresh full week 5/26 earnings calendar.
+
+---
