@@ -1,39 +1,37 @@
 # Portfolio
 
-**Last Updated:** 2026-05-21 (market close routine)
+**Last Updated:** 2026-05-22 (market open routine)
 **Account:** Alpaca Paper Trading
 **Endpoint:** https://paper-api.alpaca.markets
 
 ## Account Summary
 - Cash: $88,410.24
-- Total Portfolio Value: $100,104.10
-- Invested: $11,693.86 (11.68%)
-- Cash Reserve: $88,410.24 (88.32%)
+- Total Portfolio Value: $100,132.36
+- Invested: $11,722.12 (11.71%)
+- Cash Reserve: $88,410.24 (88.29%)
 
 ## Open Positions
 
 | Symbol | Shares | Avg Entry | Current Price | Market Value | Day P&L | Total P&L % | Trailing Stop |
 |--------|--------|-----------|---------------|--------------|---------|-------------|---------------|
-| GOOGL | 10 | $397.996 | $388.22 | $3,882.20 | -$6.90 | -2.46% | 10% trail (hwm $408.61 → stop $367.75) |
-| META | 6 | $606.73 | $607.51 | $3,645.06 | +$14.70 | +0.13% | 10% trail (hwm $615.59 → stop $554.03) |
-| LLY | 4 | $992.355 | $1,041.65 | $4,166.60 | +$91.12 | +4.97% | 10% trail (hwm $1,047.295 → stop $942.57) |
+| GOOGL | 10 | $397.996 | $388.41 | $3,884.10 | +$7.50 | -2.41% | 10% trail (hwm $408.61 → stop $367.75) |
+| META | 6 | $606.73 | $607.61 | $3,645.66 | +$1.38 | +0.15% | 10% trail (hwm $615.59 → stop $554.03) |
+| LLY | 4 | $992.355 | $1,048.09 | $4,192.36 | +$25.76 | +5.62% | 10% trail (hwm $1,047.295 → stop $942.57) |
 
 ## Week Tracking
 - Week Start Value: $100,000.00
 - Week Start SPY: $739.17 (Friday 5/15 close — Monday open reference)
-- Day Open Value: $100,002.21
-- Day Close Value: $100,104.10
-- Day Return: +0.10% (vs SPY -0.37% → +0.47% relative outperformance today)
-- Week-to-Date Portfolio Return: +0.104%
-- Week-to-Date SPY Return: -0.089% ($738.51 close vs $739.17 ref) → +0.19% relative WTD
+- Day Open Value: $100,132.36
+- Day Return (so far): +0.03% ($34.64 above last equity $100,097.72)
+- Week-to-Date Portfolio Return: +0.132%
 - New Positions This Week: 3 of 3 allowed (CAP REACHED)
-- Daily Loss Today: none — portfolio +$98.92 on day (well clear of -3% cap)
+- Daily Loss Today: none — portfolio +$34.64 on day (well clear of -3% cap = -$3,003.92)
 
 ## Notes
-- 5/21 close: portfolio +0.10% on the day vs SPY -0.37% — outperformance driven by LLY (+2.24% intraday on retatrutide ADA tailwind / Engage Bio acquisition momentum). META modestly positive (+0.40%); GOOGL marginally red (-0.18%) on post-NVDA AI-tape digestion. No trades placed (week cap 3/3 reached).
-- LLY trailing stop advanced again today — hwm now $1,047.295 (stop $942.57). GOOGL hwm unchanged at $408.61 (stop $367.75). META hwm unchanged at $615.59 (stop $554.03). All three GTC trailing stops verified active on Alpaca.
-- GOOGL at $388.22 (-2.46% from $397.996 entry) — Morgan Stanley Buy with $430 PT reiterated post-I/O 2026; thesis intact, stop $367.75 well below.
-- META at $607.51 (+0.13% from $606.73 entry) — first day green since entry; layoffs proceeding on plan, fact-checking policy noise contained.
-- LLY at $1,041.65 (+4.97% from $992.355 entry) — strongest position; retatrutide Phase 3 ADA update in June is upside catalyst. Engage Biologics deal closed sentiment.
-- SPY closed $738.51 (-0.37%) on a mixed tape: oil up sharply, jobless claims in line, NVDA post-earnings digestion continued. Warsh hawkish minutes (4 dissents) still weighing on long-duration tech but AI-cloud leaders held.
-- AMZN primary buy candidate for Tue 5/26 open (Mon 5/26 Memorial Day closed); MSFT secondary. Earnings no-buy list to refresh Monday: WMT post-print today, PDD post-print Friday, full 5/26 week earnings calendar.
+- 5/22 open: No new trades — week new-position cap remains 3/3. Monday 5/26 is Memorial Day (market closed); first new-position window is Tue 5/26 open with AMZN as primary candidate, MSFT as secondary.
+- All three trailing stops verified active on Alpaca: GOOGL ($367.749), META ($554.031), LLY ($942.5655). HWMs unchanged from yesterday's session-end values.
+- GOOGL at $388.41 (-2.41% from $397.996 entry) — opens modestly green +0.19% intraday; Morgan Stanley $430 PT and Berkshire flag from yesterday's research remain intact. Stop cushion ~5.3%.
+- META at $607.61 (+0.15% from $606.73 entry) — flat open after first-day-green close; fact-checking policy noise contained. Stop cushion ~8.8%.
+- LLY at $1,048.09 (+5.62% from $992.355 entry) — strongest position; opens +0.62% above yesterday's close $1,041.65. Retatrutide Phase 3 ADA Scientific Sessions readout in June is the upside catalyst. Stop cushion ~10.0% (still trails 10% from hwm).
+- Macro today: Michigan Consumer Sentiment (Final) and NY Fed Staff Nowcast. PDD reports — China ADR ripple watch only, no direct position impact. No FOMC events; next is June 16-17 (Warsh's first).
+- Next decision window: Tue 5/26 open. Refresh earnings no-buy list and confirm AMZN/MSFT thesis Monday pre-market routine.
