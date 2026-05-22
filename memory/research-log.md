@@ -157,3 +157,59 @@ Not Monday — no new SPY reference. Week Start SPY remains $739.17 (5/15 close,
 - No new-position decisions tomorrow — week cap 3/3 holds through Friday close. Monday is Memorial Day market closed; first new-position window is Tue 5/26 open.
 
 ---
+
+## Research — 2026-05-22
+
+### Market Conditions
+US futures modestly higher heading into Friday open — Dow +0.25%, S&P 500 +0.18%, Nasdaq 100 +0.27%. SPY is on track for its eighth straight weekly gain (+0.5% WTD). Volatility this week driven by a sharp rise in long-end yields (30Y briefly touched 5.19% before easing to 5.09% Thursday) and Iran-talks optimism pulling oil lower (WTI -2% to $96.35, Brent -2% to $102.58). Tape is risk-on into the weekend despite hawkish-Fed undertone from the April 29 FOMC minutes earlier this week.
+
+### SPY Reference Price
+Not Monday — no new SPY reference. Week Start SPY remains $739.17 (5/15 close, logged Mon 5/18). Thu 5/21 close $738.51 → SPY -0.089% week-to-date. Note: some intraday outlets reported SPY +0.2% on 5/21 but the official close was -0.37% per yesterday's logs; futures Fri 5/22 imply re-opening above $740.
+
+### Earnings This Week — Do Not Buy
+- PDD — Pinduoduo — reports today Fri 5/22
+- WMT — Walmart — reported Thu 5/21 (pre-market)
+- DE — Deere — reported Thu 5/21
+- INTU — Intuit — reported Thu 5/21
+- NVDA — Nvidia — reported Wed 5/20 (after close)
+- HD — Home Depot — reported Tue 5/19
+- BIDU — Baidu — reported Mon 5/18
+- ~18 other tickers reporting today — no current position overlap; verify any candidate before buying
+
+### Earnings Next Week (5/26–5/29) — Refresh List for Tuesday Open
+- Light week — most large-cap Q1 prints are behind us. No mega-cap confirmed reporters identified in the 5/26–5/29 window from primary calendars; next major cluster is the week of 6/2 (AVGO, CRWD, NOW, PANW, VRT, WELL all on/around 6/4).
+- **Action item for Monday:** re-verify the 5/26–5/29 calendar Monday evening (Memorial Day closed) before placing Tuesday open orders. Specifically confirm AMZN and MSFT have no surprise pre-announcements or guide updates.
+
+### Macro Events This Week / Next Week
+- Today Fri 5/22 10:00 AM ET: Michigan Consumer Sentiment (Final May) — preliminary released earlier in May at record-low territory (48.2 vs 49.8 April); year-ahead inflation expectations 4.5% (down from 4.7%); long-run 3.4% (down from 3.5%). Tape watching for any uptick in inflation expectations that would reinforce hawkish Fed narrative.
+- Today Fri 5/22: NY Fed Staff Nowcast
+- Next week Tue 5/26: Philly Fed Non-Mfg, Consumer Confidence, Dallas Fed Mfg
+- Next week Wed 5/27: New Home Sales, Richmond Fed Mfg
+- Next week Thu 5/28: Initial Claims, Advance Durable Goods, GDP 2nd Release, Personal Income + PCE Deflator (the big one — Fed's preferred inflation gauge)
+- Memorial Day Mon 5/25: US markets closed
+- Next FOMC: June 16–17 (Warsh's first as Chair)
+
+### Watchlist for Tuesday 5/26 Open (Week Cap Resets Monday — Max 3 New Positions Next Week)
+| Symbol | One-Line Thesis | Rev Growth | Moat Type | Analyst Rating | Action |
+|--------|-----------------|------------|-----------|----------------|--------|
+| AMZN | AWS reaccelerated to 28% YoY (15-quarter high) at $37.6B with $150B annualized run rate, AI run rate >$15B, Bedrock tokens +170% QoQ; trading $268.87 with $2.89T cap, +18–20% upside to $312–319 PT consensus (57 of 60 analysts Buy) | 17% total / 28% AWS | Scale (logistics + AWS); switching costs (AWS); two-sided marketplace network | Strong Buy (57 of 60 Buy); avg PT $312–$319; TD Cowen $350 | **Primary buy candidate Tue 5/26 open** — confirm Mon-eve no earnings/guide update; size ~4% (~$4,000) |
+| MSFT | Azure +40% YoY, AI run rate $37B (+123%), Microsoft Cloud >$54B (+29%), Agent 365 GA + EY $1B AI-deployment JV announced; trading $420.30 with $3.11T cap | 18% total / 40% Azure | Switching costs (enterprise + Office); platform moat (Windows/M365); scale (Azure) | Buy consensus; next earnings late July (clear of near-term earnings risk) | **Secondary buy candidate Tue 5/26** — if AMZN tape weakens or to diversify cloud exposure away from a single AWS bet |
+| NFLX | Q1 +16.2% to $12.25B; ad business doubling to ~$3B in 2026; FY rev guide $50.7–$51.7B | 16% | Brand + scale; switching costs (content + recommendation) | Mixed post-Q1 sentiment | Watch only — meets growth bar but prefer AMZN/MSFT |
+| CRM | Q4 FY26 +12% revenue; Agentforce ARR $800M (+169%); FY27 guide 10–11% | 12% — **below 15% threshold** | Switching costs (CRM data); platform | Mixed | **Skip** — fails revenue growth criterion |
+
+### Existing Position Notes
+| Symbol | News | Thesis Still Valid? | Action |
+|--------|------|---------------------|--------|
+| GOOGL | May 2026 Google Search core update officially rolling out today (Thu 5/22 11:43 AM ET, ~2-week rollout) — refreshed AI-powered search box with agent capabilities, all running on Gemini 3.5 Flash. Reinforces I/O 2026 AI-monetization narrative. Apigee CVE-2026-2264 disclosed 5/20 (SSRF in IntegrationRegion param) — minor, patched, not material. | Yes — strengthened. Core update + AI search overhaul executing on the roadmap that drove the original thesis. | Hold. Trailing stop active (hwm $408.61 → stop $367.75). Cushion ~5.3% from yesterday's $388.22 close. |
+| META | "Engagement" metric renamed to "Interactions" across apps (excludes clicks → reported numbers may print lower for creators without performance change — sentiment/noise risk, not fundamental). New Story Highlights editing + "Erase music" copyright tool shipped. Nielsen DMA → Comscore Markets switch for auto ads starting 6/22. Layoffs (8,000) and AI redeployment (7,000) still tracking on plan. | Yes — product cadence + AI capex thesis intact. Metric-rename narrative is the only PR-risk vector to watch. | Hold. Trailing stop active (hwm $615.59 → stop $554.03). Cushion ~8.8% from $607.51. |
+| LLY | RBC Capital reaffirmed Outperform with $1,250 PT on 5/21. Retatrutide Phase 3 data flagged: up to 28% weight reduction over 80 weeks, up to 30% over 104 weeks in high-BMI cohort — full readout staged for June ADA Scientific Sessions. Engage Biologics acquisition closed; ASCO 2026 oncology pipeline showcase ongoing. Stock $1,015.05–$1,047.25 range Fri 5/22 with $981B market cap. | Yes — accelerating. GLP-1 + retatrutide + oncology pipeline all firing; June ADA is the next major upside catalyst. | Hold. Trailing stop hwm advanced to $1,047.295 → stop $942.57 (per yesterday's log). Let it run into ADA. |
+
+### Plan for Today (5/22) and Next Week
+- **No new trades today** — week new-position cap at 3/3 (CAP REACHED). Mid-day check still required per guardrails (cut anything down >7% intraday; daily loss cap −3%).
+- Watch 10:00 AM ET Michigan Sentiment Final for any inflation-expectations uptick → hawkish risk for long-duration tech (GOOGL, META).
+- Memorial Day Mon 5/25 — markets closed. No routines run (or routines no-op if scheduled).
+- **Tuesday 5/26 open is the first new-position window of next week.** Plan: place ~4% AMZN buy at open (primary). MSFT secondary if AMZN tape is weak or for diversification. Confirm AMZN/MSFT earnings calendar clean on Monday eve before placing the order.
+- Refresh earnings no-buy list Monday for the 5/26–5/29 week (currently light — verify before any candidate buy).
+- Continue tracking SPY benchmark — Monday 5/25 is holiday so the next SPY reference recording is Tuesday 5/26 open.
+
+---
