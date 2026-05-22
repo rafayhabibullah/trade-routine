@@ -42,4 +42,6 @@ Beat the S&P 500 on a $100k paper trading account. Time horizon: weeks to months
 
 ## Current Lessons Learned
 *(Agent updates this section during weekly reviews)*
-- Starting fresh — no lessons yet
+- **Stagger weekly entries across the trading week.** When opening 3 positions in a week, distribute entries across Mon/Tue/Wed rather than clustering on Monday open — especially when known volatility catalysts (major earnings, FOMC events) sit mid-week. Clustering exposes the entire week's buys to identical tape conditions and removes optionality to refine entry against fresh data. (2026-05-22)
+- **Cash drag is real and asymmetric.** Holding 88%+ cash in an uptrending market guarantees absolute-return underperformance vs SPY. The 20%-cash floor is the floor — not the target. If guardrails permit and theses are clean, deploy capital faster in weeks 2+ rather than staying maximally defensive. (2026-05-22)
+- **Revenue-growth-first signal ordering held.** Highest-rev-growth name in the week's buys (LLY at +56% YoY) materially outperformed the lower-growth name (GOOGL at 22% / 19% cc) on a 5-day window. Keep revenue growth as the #1 research signal; don't let narrative or sector buzz reorder it. (2026-05-22)
