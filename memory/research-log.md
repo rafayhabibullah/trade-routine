@@ -157,3 +157,25 @@ Not Monday — no new SPY reference. Week Start SPY remains $739.17 (5/15 close,
 - No new-position decisions tomorrow — week cap 3/3 holds through Friday close. Monday is Memorial Day market closed; first new-position window is Tue 5/26 open.
 
 ---
+
+## Tomorrow's Watch — 2026-05-26 (Tue — Mon 5/25 is Memorial Day, market closed)
+
+### Positions to Monitor
+- **GOOGL** — Closed Fri $383.4991 (-3.64% from entry, -1.07% intraday). Worst-positioned name; AI-trade rotation cost ~1pt of P&L this week. Stop $367.75 → cushion only ~4.1%. If Tuesday gaps below $367.75 on long-weekend AI-trade news, position trips. Primary risk-monitor name.
+- **META** — Closed Fri $609.41 (+0.44% from entry, +0.33% intraday). Stabilizing this week. Stop $554.03; cushion ~9.1%. Fact-checking policy headlines and EU AI-chatbot interop story to watch over the long weekend.
+- **LLY** — Closed Fri $1,065.00 (+7.32% from entry, +2.24% intraday — biggest mover today). Trailing stop hwm advanced to $1,070.34 → stop $963.31; cushion ~9.5%. ADA Scientific Sessions retatrutide readout in June remains primary upside catalyst. Let it run.
+
+### Macro Events Tue 5/26 and Next Week
+- Monday 5/25: Memorial Day — US equity markets CLOSED (no trading; no new-position window)
+- Tuesday 5/26: New-position week begins (week cap resets to 0/3). Durable Goods Orders, Consumer Confidence release expected pre-/intra-day.
+- Wednesday–Friday next week: FHFA Home Price, S&P Case-Shiller, Q1 GDP second estimate (Thu), PCE inflation (Fri) — PCE Friday is the macro event of the week.
+- No FOMC events; next Fed meeting June 16–17 (Warsh's first as Chair).
+- Earnings calendar refresh needed Monday morning before Tue 5/26 trades — confirm AMZN/MSFT/NFLX clear of near-term print dates.
+
+### Thesis Notes for Next Week
+- Week 2 trade plan: AMZN primary buy candidate at Tue 5/26 open (~4% position, ~$4,000). MSFT secondary if AMZN tape weakens or pre-market AWS news shifts. NFLX on the bench. Skip CRM (rev growth <15%).
+- Earnings no-buy carry-over to verify Mon AM: WMT (printed 5/21 — should be post-print clear by Tue), PDD (printed 5/22 — post-print clear by Tue), plus full Tue 5/26–Fri 5/29 earnings calendar pull.
+- Portfolio is +0.162% WTD vs SPY +1.127% WTD — lagged the rebound week, but defensive posture (only 11.73% invested) was a deliberate week-1 conservative-entry choice. Add AMZN next week to step exposure toward ~16%; preserves >80% cash buffer per guardrail.
+- GOOGL cushion is the active risk — if it trips at $367.75, immediate plan is: (1) re-confirm thesis vs cloud-tape, (2) do not auto-rebuy per strategy ("do not immediately re-enter"), (3) reallocate freed cash toward AMZN sizing or hold dry powder.
+
+---
