@@ -157,3 +157,32 @@ Not Monday — no new SPY reference. Week Start SPY remains $739.17 (5/15 close,
 - No new-position decisions tomorrow — week cap 3/3 holds through Friday close. Monday is Memorial Day market closed; first new-position window is Tue 5/26 open.
 
 ---
+
+## Tomorrow's Watch — 2026-05-26 (Tuesday, first trading day after Memorial Day)
+
+### Context
+- Monday 5/25 was Memorial Day — market closed, no trading. Portfolio reconciled to Fri 5/22 close: $100,161.50.
+- New week begins: new-position cap RESET to 0 of 3. First new-position window opens at Tue 5/26 open.
+- Record fresh Week Start SPY reference at Tuesday open (no Monday reference due to holiday). Fri 5/22 SPY close was $745.64.
+
+### Positions to Monitor
+- **GOOGL** — $382.97 (−3.78% from entry, weakest position). Slid Friday (−1.35%) while SPY rallied — lagging the AI-tape. Stop $367.75, cushion only ~4.0%. Highest-risk holding; watch for any further AI-capex narrative pressure or a break toward the stop at Tuesday open.
+- **META** — $610.26 (+0.58%). Quietly constructive; fact-checking policy change remains a latent sentiment risk if misinformation headlines escalate. Stop $554.03, cushion ~9.2%.
+- **LLY** — $1,065.00 (+7.32%, strongest). Running into June ADA Scientific Sessions retatrutide readout. Stop advanced to $963.31, cushion ~9.5%. Let it run; ballast for the book.
+
+### Macro Events Tuesday 5/26
+- First post-holiday session — watch for catch-up move to any weekend/Monday global headlines (US cash market was dark Monday).
+- No major scheduled Fed events; next FOMC June 16–17 (Warsh's first as Chair).
+- Refresh full 5/26-week earnings calendar at pre-market before any buy — carry over WMT (post-print 5/21) and PDD (post-print 5/22) and verify AMZN/MSFT remain clear of earnings.
+
+### Buy Candidates (cap reset 0/3)
+- **AMZN** — primary. AWS +28% (15-qtr high), AI run rate >$15B, $364B backlog. Strong Buy, avg PT ~$311–$319. Confirm post-NVDA AI-tape holds and no earnings conflict.
+- **MSFT** — secondary. Azure +40%, AI run rate $37B, Microsoft Cloud >$54B. Next earnings late July (clear of near-term risk). Strongest AWS comp if AWS-tape wobbles.
+- NFLX benched (weak post-earnings sentiment); CRM skipped (rev growth 12%, below 15% threshold).
+
+### Thesis Notes
+- Portfolio underperformed the 5/18–5/22 week (+0.16% vs SPY +0.875%) — GOOGL drag was the culprit as the market re-rated AI names higher and GOOGL didn't participate. GOOGL is the position to watch; thesis (Cloud reaccel + AI monetization) still intact but price action is lagging peers — reassess if it underperforms the cloud cohort again Tuesday.
+- LLY remains the clear winner and is doing the heavy lifting; diversification into pharma is paying off vs a tech-heavy benchmark.
+- With cap reset and ~88% cash, Tuesday is the first real opportunity to add AMZN/MSFT exposure — but only with a clean fundamental thesis, position ≤5%, and ≥20% cash floor preserved.
+
+---
