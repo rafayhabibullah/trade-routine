@@ -157,3 +157,58 @@ Not Monday — no new SPY reference. Week Start SPY remains $739.17 (5/15 close,
 - No new-position decisions tomorrow — week cap 3/3 holds through Friday close. Monday is Memorial Day market closed; first new-position window is Tue 5/26 open.
 
 ---
+
+## Research — 2026-05-25 (Memorial Day — US market CLOSED)
+
+### Market Conditions
+US equity and bond markets are closed today for Memorial Day; regular trading resumes Tuesday 5/26 — so there are no live futures or intraday tape to report. Heading into the long weekend the market was strongly risk-on: SPY closed Friday 5/22 at $745.64 (+0.39% on the day), the Dow set a fresh record high (+2.13% on the week), S&P 500 +0.88% and Nasdaq +0.45%, driven by easing inflation/rate-hike fears on signs of a US–Iran agreement to reopen the Strait of Hormuz plus a solid earnings round. Backdrop risk remains the hawkish Fed under Chair Warsh (funds range 3.50%–3.75%, markets pricing <3% chance of a 2026 cut, some desks flagging a possible hike) — this week's core PCE print is the key test of that narrative.
+
+### SPY Reference Price
+**$745.64** — new Week Start SPY reference (Friday 5/22 close used because today, Monday 5/25, is Memorial Day and the market is closed; this is the last available print before the 5/26 open). Prior week reference was $739.17 (5/15 close), so SPY rose +0.88% over the 5/18–5/22 week.
+
+### Position Count This Week
+New trading week (5/25–5/29). All 3 buys in trade-log.md are dated 2026-05-18 (last week), so the weekly new-position counter **resets to 0 of 3 used → 3 new positions allowed this week**. First execution window is Tuesday 5/26 open.
+
+### Earnings This Week — Do Not Buy
+- MRVL — Marvell Technology — reports Wed 5/27 (after close)
+- CRM — Salesforce — reports this week (Wed 5/27) — note: also fails 15% rev-growth bar
+- COST — Costco Wholesale — reports this week (Thu 5/28)
+- DELL — Dell Technologies — reports this week (Thu 5/28)
+- CRWD — CrowdStrike — reports this week
+- SNOW — Snowflake — reports this week
+- ADSK — Autodesk — reports this week
+- AZO — AutoZone — reports this week
+- PDD — Pinduoduo — reports this week
+- RY / TD — Royal Bank / TD (Canadian banks) — report this week
+- ~61 names Tue 5/26, ~48 Wed 5/27, ~67 Thu 5/28, ~8 Fri 5/29 — verify any candidate against the full calendar before buying.
+- **My candidates AMZN and MSFT both last reported in late April and are NOT on this week's list — clear to trade.**
+
+### Macro Events This Week
+- Tue 5/26: market reopens after holiday; Consumer Confidence and Durable Goods Orders expected.
+- Thu 5/28: Initial Jobless Claims, GDP Q1 2nd estimate, Advance Goods Trade/Durable Goods.
+- Thu–Fri 5/28–5/29: **Core PCE (April) + Personal Income & Spending** — the Fed's preferred inflation gauge and the week's marquee event (sources split on Thu vs Fri release; treat as live both days). A hot print reinforces the hawkish-Warsh tape and pressures long-duration tech (GOOGL, META, AMZN, MSFT); a cool print is a relief rally. Michigan Sentiment (Final) Fri 5/29.
+- No FOMC this week. Next meeting June 16–17 (Warsh's first as Chair).
+
+### Watchlist for Tuesday 5/26 Open
+| Symbol | One-Line Thesis | Rev Growth | Moat Type | Analyst Rating | Action |
+|--------|-----------------|------------|-----------|----------------|--------|
+| AMZN | AWS reaccelerated to 28% YoY (15-quarter high) with advertising compounding and AI run-rate >$15B — operating leverage broadening across cloud, ads, and logistics automation | 17% total / 28% AWS | Scale (logistics + AWS); switching costs (AWS); two-sided marketplace network | Buy/Strong Buy (~41 analysts); avg PT ~$306–$313, JPMorgan OW raised to $330 | **Buy at open (~4–5% position)** — primary; clear of earnings |
+| MSFT | Azure +40% YoY with AI run-rate $37B (+123% YoY) and ~100% commercial-backlog growth giving multi-year revenue visibility; Microsoft Cloud the broadest enterprise AI distribution channel | 18% total / 40% Azure | Switching costs (enterprise + M365); scale (cloud); platform moat | Buy/Strong Buy (31–55 analysts); avg PT ~$560–$587 (≈41% upside cited) | **Buy at open (~4–5% position)** — secondary; clear of earnings (next late July) |
+| NFLX | ~16% rev growth, ad tier doubling toward ~$3B in 2026, member quality at record; FY guide $50.7–$51.7B | 16% | Brand + scale; switching costs (content library + recommendation engine) | Mixed — beat Q1 but post-print sentiment weak | **Watch** — meets growth bar but weak post-earnings sentiment; prefer AMZN/MSFT first |
+
+### Existing Position Notes
+| Symbol | News | Thesis Still Valid? | Action |
+|--------|------|---------------------|--------|
+| GOOGL | Q1 2026 blowout reaffirmed ($109.9B rev +22%, op income +30%). Trading ~$382–$389 (still ~−2 to −4% below $397.996 entry). Up to $190B 2026 capex funded partly by ~$60B multi-currency bond issuance (incl. record yen deal) for AI/data-center build-out; Blackstone $5B TPU cloud JV. Antitrust: avoided Chrome breakup, now appealing the search-monopoly ruling. | Yes — fundamentals strong; capex intensity and antitrust appeal are the risks to monitor, not thesis breaks. | Hold. Trailing stop active (hwm $408.61 → stop $367.75; cushion ~5%). |
+| META | ~$607 (mkt cap ~$1.55T, P/E ~22). New "Forum" app launched 5/23. Regulatory noise rising: Chinese regulators pressuring unwind of ~$2B Manus AI acquisition; New Mexico $3.7B teen-mental-health trial ongoing; 10% layoffs proceeding in batches. Strong Buy consensus, PT ~$826. | Yes — ad/AI thesis intact; regulatory/legal headlines are escalating sentiment risk to watch, not yet a fundamental break. | Hold. Trailing stop active (hwm $615.59 → stop $554.03; cushion ~9%). |
+| LLY | **Thesis materially strengthened.** TRIUMPH-1 Phase 3 retatrutide topline (announced 5/21): 12mg dose −28.3% body weight at 80 weeks (45.3% of patients ≥30% loss), with broad cardiometabolic improvement; stock +~1% on the news. Detailed TRANSCEND-T2D-1 data to be presented at ADA Scientific Sessions in June. | Yes — accelerating. Best-in-class triple-agonist efficacy de-risks the next-gen obesity franchise ahead of the June ADA catalyst. | Hold. Strongest position (+~5% from entry). Trailing stop advanced (hwm ~$1,047.30 → stop ~$942.57; cushion ~9.5%). Let it run into ADA. |
+
+### Plan for Tuesday 5/26 Open
+- Up to 3 new positions available (weekly cap reset to 0/3). Portfolio currently ~11.7% invested / ~88% cash, so ample room within the 80%-invested ceiling.
+- Intended buys: **AMZN (primary) and MSFT (secondary)** at ~4–5% each (~$4,000–$5,000 per name). That lifts invested to ~20%, still ~80% cash — comfortably inside guardrails and keeping a 3rd slot open. Set a 10% trailing stop on each immediately after fills.
+- Hold all three existing positions; no thesis breaks. LLY is the clearest hold into its June ADA catalyst.
+- NFLX stays on the bench; CRM remains a skip (sub-15% growth and reports this week).
+- Earnings no-buy this week: MRVL, CRM, COST, DELL, CRWD, SNOW, ADSK, AZO, PDD, RY, TD — re-verify the full calendar before any buy.
+- Key risk event: core PCE (Thu–Fri). A hot inflation print + hawkish Warsh tape could pressure the mega-cap tech adds; size entries conservatively and rely on the trailing stops. Mid-day guardrail checks still apply daily (cut anything down >7% intraday; −3% daily portfolio loss cap halts trading).
+
+---
