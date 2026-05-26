@@ -186,3 +186,59 @@ Not Monday — no new SPY reference. Week Start SPY remains $739.17 (5/15 close,
 - With cap reset and ~88% cash, Tuesday is the first real opportunity to add AMZN/MSFT exposure — but only with a clean fundamental thesis, position ≤5%, and ≥20% cash floor preserved.
 
 ---
+
+## Research — 2026-05-26
+
+### Market Conditions
+First session after Memorial Day and futures are firmly higher — Dow +0.51%, S&P 500 +0.62%, Nasdaq-100 +0.95% pre-market — as crude slides (WTI July −5%) on US-Iran de-escalation hopes (Trump: talks "proceeding nicely"). Polymarket implied a 91% probability of a higher open. VIX is low at 16.68 (near the bottom of its 13.38–35.30 52-week range), and the S&P enters the week off its 8th consecutive weekly gain — longest streak since late 2023. Risk-on tape into a heavy AI-software earnings week and Friday's PCE inflation read.
+
+### SPY Reference Price
+$746.24 (Tuesday 5/26 open). **Recorded as Week Start SPY for the 5/25–5/29 week** — Monday 5/25 was Memorial Day (market closed), so the week-start reference is taken at the first trading day's open per holiday-adjusted weekly tracking. (Fri 5/22 SPY close was $745.70; intraday range so far $744.48–$748.94.)
+
+### Earnings This Week — Do Not Buy
+- ZS — Zscaler — reports Tue 5/26
+- AZO — AutoZone — reports Tue 5/26
+- CRM — Salesforce — reports Wed 5/27
+- SNOW — Snowflake — reports Wed 5/27
+- MRVL — Marvell — reports Wed 5/27
+- HPQ — HP Inc. — reports Wed 5/27
+- DELL — Dell Technologies — reports Thu 5/28
+- COST — Costco — reports Thu 5/28
+- OKTA — Okta — reports Thu 5/28
+- DLTR — Dollar Tree — reports this week
+- PDD — Pinduoduo — reports this week
+- XPEV / LI — XPeng / Li Auto — report this week
+- ADSK — Autodesk; RY / TD — Royal Bank / TD Bank — report this week
+- ~61 names Tue, ~48 Wed, ~67 Thu, ~8 Fri — verify any candidate against the calendar before buying.
+- Note: CRWD (CrowdStrike) reports first week of June — NOT this week.
+
+### Macro Events This Week
+- Friday 5/29: PCE price index (Fed's preferred inflation gauge) — the week's key macro print; a hot read revives the hawkish-Fed narrative and pressures long-duration tech.
+- Heavy AI-software/infra earnings cluster Wed–Thu (MRVL, CRM, SNOW, DELL) — read-through for AI-capex monetization sentiment across GOOGL/META and AMZN/MSFT candidates.
+- No FOMC this week. Next FOMC: June 16–17 (Warsh's first as Chair). Market still pricing minimal near-term cut odds.
+
+### Position Count This Week (5/25–5/29)
+- Buy entries in trade-log this week: **0**. New-position cap **0 of 3 used → up to 3 new positions allowed**. Cash $88,410.24 (88.27%) — ample room under the 80%-invested / 20%-cash-floor guardrail.
+
+### Watchlist for This Week's Open
+| Symbol | One-Line Thesis | Rev Growth | Moat Type | Analyst Rating | Action |
+|--------|-----------------|------------|-----------|----------------|--------|
+| AMZN | AWS reaccelerated to 28% YoY (15-qtr high, $37.6B, $150B run rate) on top of +17% total revenue ($181.5B) — AI infra capex monetizing and retail margins expanding | 17% total / 28% AWS | Scale (logistics + AWS); switching costs (AWS); two-sided marketplace network | Strong Buy (66 analysts); avg PT $312.63; TD Cowen $350 (5/12) | **Buy — primary** (≤5%); earnings 7/30 — clear of this week |
+| MSFT | Azure +40% YoY (beat ~35% consensus); Microsoft Cloud >$54B; AI run rate ~$37B; Q3 EPS $4.27 beat — enterprise AI platform compounding | 18% total / 40% Azure | Switching costs (enterprise + M365); scale (cloud); platform moat | Buy consensus; earnings 7/28 — clear of this week | **Buy — secondary** (≤5%) |
+| NVDA | Q1 FY27 record $81.6B revenue (+85% YoY), Data Center +92% ($75.2B), EPS $1.87 (+140%); Q2 guide $91B; +$80B buyback, dividend raised to $0.25 | 85% | Switching costs (CUDA ecosystem); scale; AI-infra ecosystem lock-in | Strong Buy; reported 5/20 — clear of earnings this week | **Watch** — fundamentals elite but adds heavy AI-infra concentration atop GOOGL/META + AMZN/MSFT; post-run valuation/volatility caution; do not stack |
+
+### Existing Position Notes
+| Symbol | News | Thesis Still Valid? | Action |
+|--------|------|---------------------|--------|
+| GOOGL | ~$378–385 intraday (GOOG ref $378.68). EU preparing a triple-digit-million-euro antitrust fine; rolling out new AI-powered ad formats; declared $0.22 dividend (ex-date 6/8). Still lagging the cloud/AI cohort. | Yes — Cloud-reaccel + AI-monetization thesis intact, but price action is the laggard and EU fine is a modest overhang (not a thesis break). | **Hold — tightest watch.** Stop $367.75 with only ~3% cushion. Reassess thesis vs cohort if it breaks the stop or underperforms peers again. |
+| META | ~$607 (−9.5% on the month, roughly flat to $606.73 entry). Zuckerberg says no further company-wide layoffs expected in 2026; launched new Facebook Groups app (dinged Reddit −6%); CTO Bosworth leading AI workforce transformation. | Yes — AI-ad + capex thesis intact; fact-checking policy change remains a latent sentiment risk only. | Hold. Stop $554.03 (~9% cushion). No action unless stop trips. |
+| LLY | **Major positive catalyst:** retatrutide TRIUMPH-1 Phase 3 hit all primary/secondary endpoints — top dose ~28%+ body-weight loss, >45% of users near ~30% (bariatric-surgery-level) plus broad cardiometabolic improvement; stock +6% on the news, +14% MTD (best month of 2026). Also positive Verve-102 gene-editing (LDL) Phase 1b data Monday. | Yes — **materially strengthened.** The June ADA catalyst we flagged is delivering; GLP-1 lead extended, pipeline optionality broadening. | Hold — let it run. Trailing stop advances with new highs; ballast for the book. |
+
+### Plan for This Week (research only — no trades placed today)
+- Buy window is open (cap 0/3). **AMZN is the primary buy candidate, MSFT secondary**, each ≤5% (~$5,000 max). Both confirmed clear of near-term earnings (7/30 and 7/28). Adding both would invest ~$8–10k more, leaving ~$78k cash (~78%) — comfortably inside the 20% cash floor. Confirm the risk-on tape holds and no fresh earnings conflict at the trade routine before committing.
+- **NVDA stays on watch** — elite fundamentals but I won't stack a third AI-infra mega-cap on top of GOOGL/META and AMZN/MSFT; revisit only if I trim elsewhere or want a single high-conviction AI-infra slot instead of MSFT.
+- **GOOGL is the position to watch** — only ~3% above its $367.75 trailing stop and lagging the cohort. Midday guardrail check still required (cut anything >7% intraday; daily-loss cap −3% of portfolio).
+- LLY is the clear winner — no action beyond letting the trailing stop ratchet up on new highs into/through the retatrutide readout.
+- Earnings no-buy list active this week: ZS, AZO, CRM, SNOW, MRVL, HPQ, DELL, COST, OKTA, DLTR, PDD, XPEV, LI, ADSK, RY, TD. Watch Friday PCE for inflation surprise risk to long-duration tech.
+
+---
