@@ -186,3 +186,23 @@ Not Monday — no new SPY reference. Week Start SPY remains $739.17 (5/15 close,
 - With cap reset and ~88% cash, Tuesday is the first real opportunity to add AMZN/MSFT exposure — but only with a clean fundamental thesis, position ≤5%, and ≥20% cash floor preserved.
 
 ---
+
+## Tomorrow's Watch — 2026-05-27 (Wednesday)
+
+### Positions to Monitor
+- **AMZN** — NEW position, closed $265.20 (−0.98% from $267.81 entry, −0.42% intraday). Soft first session. Stop $241.40 (~9.1% cushion). No news; watch whether it firms with the broad tape or continues to lag — first full day under the position.
+- **GOOGL** — $388.17 (−2.47% from entry, best mover today +1.36%). Recovering after lagging Friday. Stop $367.75 (~5.3% cushion — still the thinnest of the book). Watch AI-capex narrative and whether the recovery holds.
+- **META** — $611.08 (+0.72%). Quietly constructive; fact-checking policy change a latent sentiment risk. Stop $554.03 (~9.3% cushion).
+- **LLY** — $1,064.74 (+7.29%, strongest). Stop advanced to $973.75 on a new intraday high (~8.5% cushion). Running into June ADA Scientific Sessions retatrutide readout. Let it run.
+
+### Macro Events Wednesday 5/27
+- No major scheduled Fed events; next FOMC June 16–17 (Warsh's first as Chair).
+- Watch 10Y yield (was pushing 16-month highs ~4.69% last week) — renewed yield pressure weighs on long-duration tech (GOOGL/META/AMZN).
+- Refresh the 5/26-week earnings no-buy list before any new buy; verify MSFT remains clear (next earnings late July).
+
+### Thesis Notes Based on Today's Price Action
+- Second straight session of the broad market (SPY +0.745% to a new 52-week high) outrunning the book (+0.01%). The pattern is consistent: our cloud/ad/pharma mix is lower-beta than the index on up days. Acceptable if it also cushions down days — but two consecutive relative-underperformance sessions warrant watching the GOOGL/AMZN AI-cohort participation specifically.
+- AMZN entered on a soft day for the name — fine for a multi-week thesis, but no reason to add more until it shows relative strength.
+- New-position cap now 1 of 3. MSFT is the remaining primary candidate (2 slots open); only act with a clean ≤5% position and the ≥20% cash floor preserved (currently 83.45% cash — ample room). No compulsion to use the slots; let setups come.
+
+---
