@@ -206,3 +206,53 @@ Not Monday — no new SPY reference. Week Start SPY remains $739.17 (5/15 close,
 - New-position cap now 1 of 3. MSFT is the remaining primary candidate (2 slots open); only act with a clean ≤5% position and the ≥20% cash floor preserved (currently 83.45% cash — ample room). No compulsion to use the slots; let setups come.
 
 ---
+
+## Research — 2026-05-27
+
+### Market Conditions
+US futures little changed early Wednesday after Tuesday's tech-led rally pushed the S&P 500 and Nasdaq to fresh record highs (SPY closed $751.19 Tue, a new 52-week high): S&P futures +0.15%, Dow +0.24% (+119 pts), Nasdaq-100 +0.23%. Tape is being supported by hopes for a US–Iran deal to end the war. VIX subdued (indices at record highs); precise level not captured this morning. Watch the 10Y yield — it pushed a 16-month high near 4.69% last week and any renewed yield pressure weighs on long-duration tech (GOOGL/META/AMZN).
+
+### SPY Reference Price
+Not Monday — no new SPY reference recorded. Week Start SPY remains $745.64 (Fri 5/22 close carried through Memorial Day). Tue 5/26 close $751.19 (new 52-wk high) → SPY +0.745% week-to-date.
+
+### Earnings This Week — Do Not Buy
+- CRM — Salesforce — reports today Wed 5/27 (also fails 15% growth bar — permanent skip)
+- MRVL — Marvell — reports today Wed 5/27
+- HPQ — HP Inc. — reports today Wed 5/27
+- DELL — Dell Technologies — reports Thu 5/28
+- ZS — Zscaler — reports this week (~13% implied move)
+- SNOW — Snowflake — reports this week
+- ADSK — Autodesk — reports this week
+- PDD — Pinduoduo — reports this week
+- AZO — AutoZone — reports this week
+- SMTC — Semtech, plus XPEV, LI, RY, TD — report this week
+- ~52 tickers report Wed, ~69 Thu, ~18 Fri — verify any candidate against the calendar before buying
+
+### Macro Events This Week
+- Light economic calendar overall this week.
+- Thursday 5/28: Q1'26 GDP (advance estimate), Personal Income & Outlays incl. PCE price index, weekly Initial Jobless Claims — the week's key data cluster.
+- No FOMC this week; next meeting June 16–17 (Warsh's first as Chair). PPI (May) not until June 11.
+
+### Watchlist for Tomorrow's Open (cap 1/3 used — 2 slots remain)
+| Symbol | One-Line Thesis | Rev Growth | Moat Type | Analyst Rating | Action |
+|--------|-----------------|------------|-----------|----------------|--------|
+| MSFT | Azure reaccelerated to +40% YoY with AI run rate $37B (+123% YoY) and Microsoft Cloud +30% — enterprise AI demand outrunning data-center capacity | 18% total / 40% Azure | Switching costs (enterprise + M365/Office); scale (cloud); platform | Strong Buy (33 B / 2 H / 0 S); avg PT ~$560–$588 | Buy candidate at open (~4% / ≤5%) — clear of earnings (reported 4/29, next late July). Caveat: deepens big-tech/AI concentration (already hold AMZN/GOOGL/META); stock sold off post-earnings on $190B capex/memory-cost concerns |
+| ISRG | Surgical-robotics monopoly — procedures +17% YoY, da Vinci installed base +12% to 11,395 systems; razor-and-blade recurring revenue | ~17% | Wide moat: huge installed base + switching costs (surgeons trained on da Vinci) | ~2/3 Buy/SB of 33 analysts; ~33% implied upside | Watch → preferred diversifier (medtech, low correlation to AI tape). Clear of earnings (reported Q1 in Apr). Caveat: elevated valuation |
+| NVDA | AI-infra leader — FY2026 revenue $215.94B (+65% YoY); CUDA ecosystem lock-in | +65% | Switching costs (CUDA); scale; ecosystem | Strong Buy (57% SB / 41% B); avg PT ~$295–$307 | Watch only — no longer earnings-restricted (reported 5/20, -1% AH) but highest beta and would heavily concentrate the book in AI; valuation/China-export risk |
+| CRM | Agentforce ARR ramping but top-line growth ~12% | 12% — below 15% bar | Switching costs (CRM data lock-in) | Mixed | Skip — fails growth criterion AND reports today (earnings no-buy) |
+
+### Existing Position Notes
+| Symbol | News | Thesis Still Valid? | Action |
+|--------|------|---------------------|--------|
+| AMZN | $266.32 (5/26); 52-wk range $196–$278.56. Strong Buy (62 B / 0 S), avg PT $312.63. Recent product launch + positive analyst notes; broad big-tech regulatory scrutiny rising as it expands internationally (not position-specific). | Yes — AWS +28% / ad-scale thesis intact, no thesis-breaking news. | Hold. Trailing stop $241.40 (~9.1% cushion). First full day under the position; watch for relative strength vs the AI cohort. |
+| GOOGL | Closed $388.76 (5/26). Q1'26 blowout reaffirmed ($109.9B rev +22%, op income $39.7B +30%, 25% upward EPS revisions); $190B 2026 AI capex, Gemini 3.5, $5B TPU JV w/ Blackstone, $15B Missouri AI hub. Risk: EU readying its largest-ever DMA fine (high triple-digit-million €). Dividend $0.22, ex-date 6/8. | Yes — strengthened by Q1 + AI roadmap; EU fine is a manageable, known overhang. | Hold. Trailing stop $367.75 (~5.3% cushion — still thinnest of the book). Watch the EU fine headline and AI-capex narrative. |
+| META | $610.64 (5/26). Zuckerberg: no more company-wide layoffs this year (restructuring done). Noise: shareholder push to tie exec comp to child-safety metrics; Texas privacy probe into smart glasses. Q1 fastest rev growth since 2021; stock ~23% off ~$796 high on $125B 2026 capex. 96% Buy, avg PT ~$839 (~37% upside). | Yes — AI-driven ad pricing + capex thesis intact; items are PR/governance noise, not a fundamental break. | Hold. Trailing stop $554.03 (~9.3% cushion). Monitor sentiment-risk headlines. |
+| LLY | Announced ~$4B acquisition of three vaccine/infectious-disease developers (Curevo, LimmaTech, Vaccine Company) — 10th deal of 2026, broadening beyond GLP-1/obesity. Shares +0.9% intraday / >1% pre-market; tracking its best month of the year. Retatrutide Phase 3 ADA readout still ahead in June. | Yes — accelerating; pipeline diversification (vaccines/oncology) + GLP-1 duopoly + June ADA catalyst all intact. | Hold. Trailing stop $973.75 (~8.5% cushion). Strongest position / portfolio ballast — let it run into ADA. |
+
+### Plan for Tomorrow (5/28) Open
+- 2 new-position slots remain this week. No compulsion to use them — only act on a clean ≤5% thesis with the ≥20% cash floor preserved (currently ~83% cash, ample room).
+- **MSFT** is the cleanest qualifier (18% growth, Strong Buy, clear of earnings) and remains the standing primary — but it deepens an already AI-heavy book (AMZN/GOOGL/META). Lean toward **ISRG** as a diversifier if adding exposure: wide moat, ~17% growth, low correlation to the AI tape, clear of earnings. NVDA stays on watch only (too hot / over-concentrating).
+- Earnings no-buy this week: CRM, MRVL, HPQ, DELL, ZS, SNOW, ADSK, PDD, AZO, SMTC, XPEV, LI, RY, TD — re-verify any candidate before a buy.
+- Mid-day guardrail check still required: cut anything down >7% intraday; −3% daily-loss cap halts trading. Watch GOOGL (thinnest stop cushion ~5.3%) and any 10Y-yield spike pressuring long-duration tech.
+
+---
