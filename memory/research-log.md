@@ -256,3 +256,56 @@ Not Monday — no new SPY reference recorded. Week Start SPY remains $745.64 (Fr
 - Mid-day guardrail check still required: cut anything down >7% intraday; −3% daily-loss cap halts trading. Watch GOOGL (thinnest stop cushion ~5.3%) and any 10Y-yield spike pressuring long-duration tech.
 
 ---
+
+## Research — 2026-05-28
+
+### Market Conditions
+S&P 500 futures −0.1% and Nasdaq-100 futures −0.3% pre-market Thursday after Wednesday's mixed close (Dow record high $50,644.28 +0.36%; S&P +0.02% to $7,520.36; Nasdaq +0.07% to $26,674.73). Risk-off tone overnight on fresh US military strikes on Iran — WTI crude +2.5% above $90/bbl, denting the prior-day US–Iran-deal optimism. Heavy data day: Q1'26 GDP (2nd estimate) and April PCE/core PCE both at 8:30 AM ET — BofA expects core PCE +0.3% m/m (3.3% y/y), still hot vs Fed's 2% target. First major data tests for new Fed Chair Warsh; markets still pricing <3% chance of a 2026 cut. Watch 10Y yield (recent 16-mo high ~4.69%) and any AI-tape divergence on a hawkish print.
+
+### SPY Reference Price
+Not Monday — no new SPY reference recorded. Week Start SPY remains $745.64 (Fri 5/22 close carried through Memorial Day). Tue 5/26 close $751.19 (new 52-wk high) → SPY week-to-date ≈ +0.745%.
+
+### Earnings This Week — Do Not Buy
+- CRM — Salesforce — reported Wed 5/27 (beat top/bottom; FY guide slightly light; stock little changed AH). Also fails 15% growth bar — permanent skip.
+- MRVL — Marvell — reported Wed 5/27
+- HPQ — HP Inc. — reported Wed 5/27
+- DELL — Dell Technologies — reports today Thu 5/28
+- ZS — Zscaler — reported this week
+- SNOW — Snowflake — reports this week
+- ADSK — Autodesk — reports this week
+- PDD — Pinduoduo — reports this week
+- AZO — AutoZone — reported Mon 5/26
+- SMTC — Semtech — reported Mon 5/26
+- XPEV, LI, RY, TD, BOX, APPS — report this week
+- ~73 tickers report Thu, ~19 Fri — verify any candidate against the calendar before a buy.
+
+### Macro Events This Week
+- **Thursday 5/28 8:30 AM ET (today):** Q1'26 GDP (2nd estimate); April PCE & core PCE; weekly Initial Jobless Claims — the week's data crescendo.
+- Friday 5/29: light release schedule.
+- No FOMC this week; next meeting June 16–17 (Warsh's first as Chair). PPI (May) due June 11.
+
+### Watchlist for Tomorrow's Open (cap 1/3 used — 2 slots remain)
+| Symbol | One-Line Thesis | Rev Growth | Moat Type | Analyst Rating | Action |
+|--------|-----------------|------------|-----------|----------------|--------|
+| ISRG | Surgical-robotics monopoly with Q1'26 revenue +23% to $2.77B and 86% recurring; global procedures +17%; installed base 11,395 systems (+12%); Ion procedures +39% — durable razor-and-blade with patent + switching-cost moat | 23% | Wide moat: 4,500+ patents, surgeon-training switching costs, network/scale (11,395-system base), data advantage (15M+ procedures) | Buy (16 SB / 7 Outperform / 9 H / 1 Underperform / 1 S of 33); avg PT $580.16 (high $750 / low $378); Barclays OW PT $651 post-Q1 | **Buy candidate at open** (~3–4% / ≤5%) — preferred diversifier (medtech, low correlation to AI tape); clear of earnings (next late July). Caveat: GLP-1 headwind on bariatric procedures (−10% US), China/Japan softness; mkt cap ~$149B; valuation elevated |
+| MSFT | Q3 FY26: revenue $82.9B +18% YoY; Microsoft Cloud $54.5B +29%; Azure +40%; AI run rate ~$37B (+123%); RPO $627B (+99%); operating income +20% — enterprise AI demand outrunning data-center capacity | 18% total / 40% Azure | Switching costs (enterprise + M365/Office); scale (cloud); platform moat (Windows/M365) | Strong Buy (per S&P Global 55-analyst poll); avg PT $560.63; Wedbush OP $575 (5/13); Tigress high $680 (5/6) | Buy candidate at open (~3–4%) — clear of earnings (reported 4/29, next late July). Caveat: deepens AI/big-tech concentration (already hold AMZN/GOOGL/META); post-earnings overhang on $190B/yr capex + memory cost narrative |
+| NVDA | AI-infra leader, FY26 revenue +65% YoY ($215.94B); CUDA ecosystem lock-in | +65% | Switching costs (CUDA); scale; ecosystem | Strong Buy (57% SB / 41% B); avg PT ~$295–$307 | Watch only — earnings cleared (5/20 -1% AH), but highest-beta name and would over-concentrate the book; China-export + valuation risk |
+| VRTX | CF franchise dominance + non-CF pipeline — Q1'26 rev $2.99B (+8% y/y); FY guide $12.95–13.10B (+8–9%) | 8% — **below 15% bar** | Patent + clinical franchise | Mixed; downward revisions | Skip — fails revenue growth criterion |
+| CRM | Reported 5/27 — beat top/bottom; Agentforce ARR >$1B; FY guide slightly light. Top-line ~12% growth. | 12% — below 15% bar | Switching costs | Mixed | Permanent skip — fails growth criterion |
+
+### Existing Position Notes
+| Symbol | News | Thesis Still Valid? | Action |
+|--------|------|---------------------|--------|
+| AMZN | Wednesday 5/27 surge **+2.47% to $271.85** (intraday peak +2.24% to $270.94) on new AWS-powered AI shopping launch: Amazon offering "Alexa for Shopping" tools so third-party retailers can deploy custom AI shopping assistants in ≤60 days — extends AWS reach beyond Amazon's marketplace. AWS backlog now cited at **$464B** (vs $364B at entry); ad revenue $17.24B Q1; AI partnerships with OpenAI + Anthropic. Trading above 20/50/200-day SMAs. | Yes — strengthened. AWS reach broadening into retail-AI distribution; thesis upgraded. | Hold. First sizable green session since entry — trailing stop should ratchet up if Alpaca high-water mark advances (verify in trade routine). Cushion improving. |
+| GOOGL | EU DMA self-preferencing fine in "high triple-digit million euro" range expected before August recess — would be the largest DMA penalty ever. Separately, EU reportedly preparing a second large fine if Play Store falls short of DMA rules. Known overhang and bounded headline risk; not a thesis break. | Yes — fundamentals intact. EU fine is a one-time hit to a $109.9B/qtr business; AI Cloud + Gemini roadmap unchanged. | Hold. Trailing stop $367.75 — still thinnest cushion of the book. Watch for fine-announcement headline volatility into August. |
+| META | Stock **rallied 3.6% intraday** on global subscription rollout: Instagram Plus $3.99/mo, Facebook Plus $3.99/mo, WhatsApp Plus $2.99/mo — first material non-ad revenue stream at scale; AI-tier subscriptions signaled. Bosworth's AI-monitoring workforce restructuring also being read as structural cost-out. Q1'26 was $56.3B rev (+33%); 38 analysts at Buy. | Yes — **strengthened**. Subscription layer is the long-missing revenue diversifier; reduces ad-cycle beta of the thesis. | Hold. Trailing stop $554.03 (~9.3% cushion). Trailing stop should ratchet up after today's move if Alpaca HWM advances. |
+| LLY | **Major catalyst already printed 5/21**: TRIUMPH-1 Phase 3 retatrutide topline — **28.3% weight loss at 12mg** (avg 70.3 lbs over 80 weeks; 45.3% of pts ≥30% loss) — bariatric-surgery-level efficacy, the headline thesis for the year. Stock +6% on the news (already in the +7.32% mark since entry). Retatrutide programs continue across obesity, T2D, OSA, MASLD, knee OA, cardio-renal. June ADA Scientific Sessions remains as the deeper data presentation. | Yes — **catalyst delivered ahead of schedule**. Pipeline + GLP-1 duopoly thesis fully validated. ADA still on deck as next catalyst beat. | Hold. Trailing stop $973.75 (~8.5% cushion). Strongest position / portfolio ballast — let it run; do not trim. |
+
+### Plan for Tomorrow's Open (Friday 5/29)
+- 2 new-position slots remain (1/3 used). Lean: **ISRG ~3–4%** as the medtech diversifier (cleanest fit for the book given AI-cohort concentration), with **MSFT** secondary. NVDA watch only.
+- Final go/no-go conditional on today's 8:30 ET PCE/GDP prints: a hot core-PCE print + 10Y yield spike pressuring long-duration tech argues for *deferring* both adds; an in-line/cool print and a steady tape argues for adding ISRG at Friday open.
+- Cash floor (≥20%) check post-hypothetical adds: current ~83% cash; one ~4% ISRG add → ~79% cash, still well above floor. A second ~4% MSFT would push to ~75% — still fine, but lean for **one add this week, not two**, to keep dry powder and not crowd the cohort.
+- Earnings no-buy carries: confirm ISRG/MSFT still clear at pre-market Friday (both reported in April; next prints late July).
+- Mid-day guardrail check today required: cut anything down >7% intraday; −3% daily-loss cap halts trading. Watch GOOGL (thinnest stop cushion ~5.3%) for EU-fine headline risk, and any AI-tape softness if PCE prints hot.
+
+---
