@@ -309,3 +309,24 @@ Not Monday — no new SPY reference recorded. Week Start SPY remains $745.64 (Fr
 - Mid-day guardrail check today required: cut anything down >7% intraday; −3% daily-loss cap halts trading. Watch GOOGL (thinnest stop cushion ~5.3%) for EU-fine headline risk, and any AI-tape softness if PCE prints hot.
 
 ---
+
+## Tomorrow's Watch — 2026-05-29 (Friday)
+
+### Positions to Monitor
+- **LLY** — Closed $1,126.80 (+13.55% from $992.355 entry; +4.05% intraday — strongest mover today, intraday high $1,149.10). Trailing stop ratcheted up dramatically to $1,034.19 (hwm $1,149.10, cushion ~9.1%). Watch for continuation/digestion of today's surge into ADA Scientific Sessions in June; no fresh news catalyst was needed today — retatrutide momentum continuing post-5/21 TRIUMPH-1 readout. Let it run.
+- **META** — Closed $635.29 (+4.71% from entry, +0.01% intraday). Quietly flat after Wednesday's 3.6% subscription-rollout surge. Stop advanced to $578.70 (cushion ~9.7%). Watch for whether the subscription thesis can keep momentum without another catalyst; fact-checking-policy/governance noise still latent.
+- **AMZN** — Closed $274.03 (+2.32% from entry, +0.80% intraday). Steady follow-through after Wednesday's AWS retail-AI launch. Stop advanced to $246.93 (cushion ~10.0%). Watch relative strength vs broader AI tape.
+- **GOOGL** — Closed $390.13 (−1.98% from entry, +0.33% intraday). Still the laggard but recovering slowly. Stop unchanged at $367.75 (cushion ~5.8% — thinnest of book). Watch for any EU DMA fine headlines (expected before August recess) and AI-capex narrative shifts.
+
+### Macro Events Tomorrow (Friday 5/29)
+- Light economic calendar — no major scheduled US releases after today's PCE/GDP crescendo.
+- No FOMC events; next meeting June 16–17 (Warsh's first as Chair). PPI (May) due June 11.
+- ~19 tickers reporting Friday — verify any candidate against earnings calendar before a buy. PDD reports Friday (no position impact).
+
+### Thesis Notes Based on Today's Price Action
+- **PCE landed cooler than feared** (+0.4% m/m vs +0.5% expected, 3.8% y/y in line) — net market positive: S&P 500 to fresh record close (SPY $754.64 +0.56%). The "hawkish PCE → defer ISRG" gating concern from yesterday's plan is **not triggered** — confirms green light to proceed with the ISRG add at Friday open if pre-market is clean. 10Y yield contained, no long-duration tech pressure.
+- **LLY's +4.05% rip without fresh news** is the standout: pure momentum-driven continuation of the post-TRIUMPH-1 retatrutide rerate. Position now contributing +$537.78 to the book — doing the heavy lifting (book P&L is +$742.44; LLY alone is +$537.78). The trailing stop now sits well above entry ($1,034.19 vs $992.355 entry), so the position is locked profitable on any subsequent shake-out.
+- **Portfolio −0.33% vs SPY today** — the AI cohort (AMZN/GOOGL/META) didn't carry the tape; LLY did. Two of the last three sessions have been relative-underperformance days (5/26 −0.73, 5/28 −0.33 vs SPY); only 5/27 outperformed (+0.44). The book's cloud/ad-tech/pharma mix is lower-beta than the index on up days — acceptable if it cushions down days, but we don't have a meaningful down session yet to confirm. Watch for a tape down to verify.
+- **Plan for Friday 5/29 open:** Proceed with **ISRG ~3–4% (≤5%) add** as the medtech diversifier (clear of earnings, wide moat, +23% rev growth Q1'26). Cash floor check: ~83% cash → ~79% after add, well above 20% floor. **MSFT** remains secondary; defer unless ISRG fails the pre-market check. Verify earnings no-buy list at pre-market (PDD reports Friday — no overlap). New-position cap: 1 of 3 used → 2 slots remain.
+
+---
