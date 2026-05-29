@@ -309,3 +309,43 @@ Not Monday — no new SPY reference recorded. Week Start SPY remains $745.64 (Fr
 - Mid-day guardrail check today required: cut anything down >7% intraday; −3% daily-loss cap halts trading. Watch GOOGL (thinnest stop cushion ~5.3%) for EU-fine headline risk, and any AI-tape softness if PCE prints hot.
 
 ---
+
+## Tomorrow's Watch — 2026-06-01 (Monday, next trading day; markets closed Sat/Sun)
+
+### Context
+- Friday 5/29 closed soft for the book: Portfolio $100,476.48 (−0.263% day) vs SPY $757.58 (+0.39% day) → portfolio **−0.65% vs SPY today**.
+- Week 5/26–5/29 FINAL: Portfolio +0.314% vs SPY +1.601% → **−1.29% vs SPY this week** (UNDERPERFORMED). Two consecutive UP weeks vs SPY: −0.71% then −1.29% (cumulative ~−2.00% vs SPY since launch; abs +0.48% portfolio vs +2.49% SPY).
+- New week (6/1–6/5) begins Monday: new-position cap RESETS to 0 of 3. Record fresh Week Start SPY at Monday open.
+
+### Positions to Monitor
+- **GOOGL** — $380.77 close (−4.33% from entry, weakest position). Down −2.40% on Friday — **single biggest position-risk into next week**. Stop $367.749, cushion **3.42%** ($13.02/sh from stop) — thinnest in the book by a wide margin. Watch for any further downside Monday open; the >7% intraday cut rule and the "thesis still holds?" question both apply. EU DMA fine overhang persists; pre-ADA AI-capex narrative pressure could continue if 10Y yield resumes climb.
+- **LLY** — $1,105.41 close (+11.39% from entry, strongest). Down −1.90% Friday after Thursday's HWM. Stop $1,034.19, cushion **6.44%** (tightening). Still the book's anchor; let it run into June ADA Scientific Sessions retatrutide deeper data.
+- **AMZN** — $270.68 close (+1.07% from entry). Down −1.21% Friday giving back some of Wednesday's surge. Stop $247.275 (HWM $274.75), cushion ~8.65%. Thesis intact (AWS retail-AI distribution).
+- **META** — $631.66 close (+4.11% from entry). Down −0.57% Friday — minor pullback after Wed/Thu subscription rally. Stop $578.70 (HWM $643.00), cushion ~8.38%. Subscription monetization layer thesis intact.
+- **ISRG** — $424.64 close (−0.12% from entry, NEW). Up +0.24% Friday — only green in book. Stop $383.337 (HWM $425.93), cushion ~9.73%. Diversifier behaving as intended on a tech-down day.
+
+### Macro Events Week 6/1–6/5
+- **Monday 6/1:** ISM Manufacturing PMI (May) + S&P Global Manufacturing PMI final. Watch employment sub-index for ahead-of-NFP signal.
+- **Wednesday 6/3:** ISM Services PMI (May); ADP Employment (May).
+- **Thursday 6/4:** Weekly Initial Jobless Claims; Productivity & Costs final.
+- **Friday 6/5:** **Nonfarm Payrolls (May)** + Unemployment + AHE — the week's main event for Fed-cut probability and 10Y yield direction.
+- No FOMC this week; next meeting June 16–17 (Warsh's first as Chair). PPI (May) 6/11.
+
+### Earnings to Verify Pre-Market Monday
+- New trading week earnings calendar — refresh full list before any buy. Notable that typically appear early-June: GitLab, HPE, Hewlett Packard Enterprise, Dollar General, Lululemon, J.M. Smucker, Toll Brothers, Crowdstrike, MongoDB, Brown-Forman. Verify each name on watchlist (esp. MSFT/ISRG/AMD/CRWD if considered).
+
+### Buy Candidates (cap reset 0/3, but no compulsion)
+- Carry-forward standing watchlist: **MSFT** (Azure +40%, AI run rate $37B; clear of earnings until late July; AI-cohort concentration caveat).
+- **NVDA** — watch only; over-concentration risk + valuation.
+- Consider non-AI diversifiers next: financials (with hawkish-Fed tape, large-cap banks could benefit), industrials (cyclicals participated in Friday's breadth move), or healthcare adjacents to LLY.
+- Two consecutive weeks of underperformance suggests evaluating at the weekend whether the book's concentration is structural — weekly review should consider this. **Lean: do not add Monday open; let NFP week setup develop and reassess Wednesday/Thursday.**
+
+### Thesis Notes Based on This Week's Price Action
+- The book is **two-for-two on UP weeks** (UP weeks = SPY higher) **underperforming**. Pattern: mega-cap-AI + pharma is lower-beta than the index when breadth/cyclicals lead. This was acceptable in week 1 (only 71 bps); week 2 (−1.29%) is starting to compound a real gap.
+- GOOGL is the persistent drag (never participated in the AI-tape recoveries that lifted META/AMZN/NVDA). Its cushion is dangerously thin (~3.4%) — Monday is the moment to decide: hold on thesis (which still reads intact) or cut on price/cohort-lag rule.
+- LLY remains the anchor (+11.39% from entry) but Friday's −1.90% trims some cushion. ADA Scientific Sessions in mid-June still the key forward catalyst.
+- ISRG entered cleanly and Friday was the perfect day for a non-AI diversifier to prove its worth (only green name). Position to build conviction in across week 3.
+- Cash 79.39% — preserved deliberately on Friday by NOT adding the 3rd weekly position. Optionality for Monday if GOOGL needs a cut + immediate redeploy.
+- **Pre-Monday decision queue:** (1) GOOGL hold/cut framework; (2) whether to use the cap-reset to add 1 non-AI diversifier (financials/industrials); (3) confirm trailing stops still GTC and not stale.
+
+---
