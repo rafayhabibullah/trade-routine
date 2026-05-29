@@ -309,3 +309,50 @@ Not Monday — no new SPY reference recorded. Week Start SPY remains $745.64 (Fr
 - Mid-day guardrail check today required: cut anything down >7% intraday; −3% daily-loss cap halts trading. Watch GOOGL (thinnest stop cushion ~5.3%) for EU-fine headline risk, and any AI-tape softness if PCE prints hot.
 
 ---
+
+## Research — 2026-05-29
+
+### Market Conditions
+S&P 500 futures −0.07% (7,576.50) and Nasdaq-100 futures −0.21% (30,244.00) pre-market Friday after Thursday's data crescendo landed on the dovish side: **April core PCE +0.2% m/m vs +0.3% consensus** (3.3% YoY — highest since Oct 2023 but in-line on the y/y print); headline PCE 3.8% YoY (highest since May 2023) was inflated by the Hormuz energy shock (WTI $90.65, Brent $96.29 — Iran tensions persist). **Q1'26 GDP revised down to 1.6%** from 2.0% (consumer + investment cuts) — adds a modestly disinflationary signal. Net effect: a cooler core-PCE print + softer growth gives long-duration tech a relief tape; 10Y yield retreating from last week's 4.69% peak. Asia-Pacific closed lower on the Iran headlines; VIX subdued with indices near records.
+
+### SPY Reference Price
+Not Monday — no new SPY reference recorded. Week Start SPY remains $745.64 (Fri 5/22 close carried through Memorial Day). Tue 5/26 close $751.19 was a new 52-wk high; Thu 5/28 close TBD pending end-of-day routine update — direction supportive after cool-PCE print.
+
+### Earnings Today — Do Not Buy
+- Friday is the light tail of the week — **19 names report** (4 BMO, 3 AMC, 12 TBD).
+- Names today: **BKE** (The Buckle), **GCO** (Genesco), and ~17 smaller tickers — none overlap with watchlist.
+- Carryover this week (already off-limits): CRM (reported 5/27 — beat, FY guide light), MRVL (5/27), HPQ (5/27), DELL (reports 5/28), ZS, SNOW, ADSK, PDD, AZO (5/26), SMTC (5/26), XPEV, LI, RY, TD, BOX, APPS.
+- Next-week earnings calendar to verify Monday: refresh full week 6/1 list before any new buy.
+
+### Macro Events Today/Tomorrow
+- **Friday 5/29:** light US release day after Thursday's PCE/GDP/jobless crescendo. Tokyo May CPI overnight (core +1.5% y/y in-line, headline +1.6%) — no direct US tape impact.
+- No FOMC this week or next; next meeting **June 16–17** (Warsh's first as Chair). Markets still pricing <3% chance of a 2026 cut after April core PCE @ 3.3% y/y.
+- Watch 10Y yield reaction to PCE cool print (recently 4.69% peak); a yield retracement supports long-duration tech.
+- Next data: PPI (May) due **June 11**.
+
+### Watchlist for Today's Open (cap 1/3 used — 2 slots remain)
+| Symbol | One-Line Thesis | Rev Growth | Moat Type | Analyst Rating | Action |
+|--------|-----------------|------------|-----------|----------------|--------|
+| ISRG | **THESIS PAUSE** — Surgical-robotics monopoly hit by **FDA Class I recall** on SureForm 30 Gray Reloads (1 death, 4 serious injuries; incomplete staple lines causing bleeding) + additional da Vinci X/Xi component recall (screw breakage in arm sub-assembly). Stock −4.14% to $418.55 on 5/27, below 200-day SMA, near 52-wk low. | 23% (Q1) | Wide moat intact long-term, but recall hits the safety/trust layer of the razor-and-blade thesis | Mixed PT moves: **BofA cut $650→$520**; **Piper cut $620→$580**; Baird raised $575→$610; Citi reiterated Buy; consensus avg ~$580–$615 (range $378–$750) | **DEFER — do not buy at open.** Class I recall is the most serious FDA category; razor-and-blade depends on instrument trust. Wait for remediation scope clarity (likely 1–2 weeks). Revisit next week. |
+| MSFT | Azure +40% YoY with $37B AI run rate (+123%); Microsoft Cloud +29% to $54.5B; RPO $627B (+99%); op income +20% — enterprise AI demand outrunning data-center capacity. Q3 FY26 closed 5/28 at $427.74. | 18% total / 40% Azure | Switching costs (enterprise + M365/Office); scale (cloud); platform | Strong Buy; consensus PT ~$560 (high $680 Tigress, $575 Wedbush OP); Morgan Stanley constructive on capacity expansion 5GW→20GW by FY28 | **Buy candidate at open ~3–4% (≤5%).** Clear of earnings (reported 4/29, next late July). Cool-PCE tape supportive. Caveat: deepens AI/big-tech concentration (already 4 names: AMZN/GOOGL/META + AMZN AI exposure). |
+| NOW | ServiceNow — subscription revenue +22% YoY in Q1'26 ($3.67B; +19% cc); beat top of guidance, raised FY outlook; positioned as AI-workflow beneficiary (Agentforce-style automation layer above hyperscalers) | 22% subs | Switching costs (workflow data + integrations); platform; enterprise lock-in | Strong Buy consensus; **BofA reinstated Buy** mid-May citing AI beneficiary status | **New on watchlist (next week).** Diversifies AI exposure to software/workflow layer vs hyperscaler infra. Clear of earnings (Q1 reported late April; next late July). Market cap ~$200B (well above $1B). Verify Monday before any add. |
+| COST | Costco — Q3 FY26 net sales +11.6% to $69.15B; YTD +9.6%. Solid execution but **fails 15% growth bar** | 11.6% — below 15% bar | Membership network + scale + cost moat | Buy consensus | **Skip** — growth below threshold AND just reported 5/28 (earnings no-buy this week). |
+| NVDA | AI-infra leader, FY26 +65%; CUDA lock-in | 65% | Switching costs; ecosystem | Strong Buy; avg PT ~$295–$307 | Watch only — earnings cleared but highest-beta + over-concentration risk; China-export risk. |
+
+### Existing Position Notes
+| Symbol | News | Thesis Still Valid? | Action |
+|--------|------|---------------------|--------|
+| AMZN | **Anthropic raised $65B at $965B post-money valuation** and launched Claude Opus 4.8 — now live on AWS Bedrock. Amazon's $13B stake (pledged additional $20B) was worth ~$60B pre-round; now potentially >$120B. Snowflake also announced multi-year strategic collaboration with AWS. Cathie Wood / ARK adding 24.2K shares. Strong Buy consensus (62 B / 0 S). | Yes — **strengthened materially**. Anthropic stake mark-up + AWS partnership flywheel + retail-AI distribution all compounding the thesis. | Hold. Trailing stop $245.17 (hwm $272.41 → ~10% cushion). Let it run; trailing stop should advance further if 5/28 close >$272.41. |
+| GOOGL | EU Commission confirmed preparing **largest-ever DMA fine** ("high triple-digit million euro") before summer parliamentary recess, exceeding €500M (Apple) and €200M (Meta). Scope: self-preferencing of Google Shopping/Flights/Hotels in Search. Second DMA fine reportedly being prepared on Play Store. Known overhang, bounded magnitude (<1% of GOOGL annual op income), but headline-risk window now open. | Yes — fundamentals (Cloud reaccel + AI monetization + Gemini) intact; EU fine is a known, bounded one-time hit. | Hold. Trailing stop $367.75 (~5.3% cushion — still thinnest in book). Watch for fine-announcement headline volatility; do not add until past the print. |
+| META | CNBC piece: "2 major developments may have just put a floor in" — citing **subscription rollout** (Instagram Plus/Facebook Plus/WhatsApp Plus from Wed 5/27) + a separate **Meta One Plus $7.99/Meta One Premium $19.99 AI-tier subscription** under exploration. 38 analysts at Buy. Stock -4% YTD vs SPY +10% / Nasdaq +15% — still the laggard of the AI cohort despite +5.56% from our entry, suggesting room to mean-revert if subscription monetization gains traction. $145B 2026 capex affirmed (AI infra). | Yes — **strengthened**. Subscription layer is the long-missing non-ad revenue diversifier; analyst floor-call adds support. | Hold. Trailing stop $574.65 (hwm $638.50 → ~10.3% cushion). Let it run. |
+| LLY | **+3.03% on 5/28** continuing GLP-1 / obesity tailwind narrative; on track for best month of 2026. ADA Scientific Sessions confirmed **June 5–8 in New Orleans** — retatrutide presentation slate confirmed. 2026 rev guidance raised to **$82–85B** (above prior consensus). Sell-side modeling retatrutide launch 2027, $4.9B 2030 sales, $11B 2034 sales (70% PoS). Note caveat: Seeking Alpha flags retatrutide's tolerability profile worse than tirzepatide — likely positioned as the "step-up" agent for non-responders, not a tirzepatide replacement. | Yes — **catalyst confirmed for next week**. GLP-1 duopoly + pipeline diversification + ADA upside intact. | Hold. Trailing stop $983.70 (hwm $1,093.00 → ~9.7% cushion). Strongest position / portfolio ballast — let it run into ADA; do not trim. |
+
+### Plan for Today (Friday 5/29) Open
+- **Pivot from yesterday's lean.** ISRG was preferred diversifier, but Class I FDA recall + screw-breakage component recall + Friday's −4.14% drop = thesis pause, not entry. **Defer ISRG**; revisit next week once recall scope and remediation are clearer.
+- **Lean: ONE buy today — MSFT ~3–4%** (≤5%) at open. Rationale: cool-PCE tape is supportive for long-duration tech, MSFT is the cleanest qualifier on growth/moat/earnings-clear and the strongest AI-cloud comp after AMZN. Concentration caveat is acknowledged but cash floor remains comfortable.
+- Cash floor check post-add: current ~83% cash → after ~$4k MSFT add → ~79% cash, well above the 20% floor.
+- **Preserve 1 slot for next week** (NOW promoted to watchlist as cleanest non-hyperscaler AI diversifier; verify Monday). Alternative diversifier scan next week if ISRG remains paused.
+- Set 10% trailing stop on MSFT immediately after fill.
+- Mid-day guardrail check today required: cut anything down >7% intraday; −3% daily-loss cap halts trading. Watch GOOGL (thinnest cushion 5.3%) for any EU-fine headline, and oil/equity correlation if Iran tape worsens.
+
+---
