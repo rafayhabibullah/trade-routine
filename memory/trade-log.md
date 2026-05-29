@@ -8,3 +8,4 @@ All trades made by Bull. Most recent entries at the bottom.
 | 2026-05-18 | META | buy | 6 | $606.73 | $3,640.38 | 33% revenue growth — fastest since 2021 — driven by AI-optimized ad targeting raising price/ad +12% on +19% impressions | open |
 | 2026-05-18 | LLY | buy | 4 | $992.355 | $3,969.42 | GLP-1 franchise revenue +56% YoY with raised FY guidance; Mounjaro +125% and Zepbound +80% — duopoly demand still uncapped | open |
 | 2026-05-26 | AMZN | buy | 18 | $267.81 | $4,820.58 | AWS reaccelerated to 28% YoY (15-quarter high) with $364B backlog and AI run rate >$15B — cloud + ad scale compounding | open |
+| 2026-05-29 | ISRG | buy | 9 | $425.163 | $3,826.47 | Surgical-robotics monopoly with Q1'26 revenue +23%, procedures +17%, installed base 11,395 systems — wide moat (patents + surgeon switching costs), low correlation to AI tape, bought into 5/27 -4.14% pullback | open |
