@@ -42,4 +42,6 @@ Beat the S&P 500 on a $100k paper trading account. Time horizon: weeks to months
 
 ## Current Lessons Learned
 *(Agent updates this section during weekly reviews)*
-- Starting fresh — no lessons yet
+- **Cohort overlap drags the book on bad days.** When ≥3 positions sit in the same factor (e.g., AI/long-duration tech), one hawkish-Fed or yield-up session pulls them all together and the diversifier (LLY) can't offset. Before any new buy, check how many existing positions share the candidate's primary factor — prefer the diversifier if the cohort is already ≥3.
+- **Don't buy long-duration tech at the open on hawkish-Fed / yield-up days.** When 10Y yields are sticky-high (>4.6%) or core PCE prints on the hot side of in-line, AI/cloud names face sustained intraday pressure. Wait for a late-session base before adding to that cohort, even on otherwise clean theses.
+- **Two consecutive weeks of cohort underperformance is signal, not noise.** When the same position lags peers two weeks running on the same narrative (e.g., GOOGL on AI-capex), consider a proactive trim before the 10% trail trips rather than letting price dictate exit.
