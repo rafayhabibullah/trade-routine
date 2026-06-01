@@ -1,28 +1,30 @@
 # Portfolio
 
-**Last Updated:** 2026-05-29 (market close routine — Friday)
+**Last Updated:** 2026-06-01 (market open routine — Monday)
 **Account:** Alpaca Paper Trading
 **Endpoint:** https://paper-api.alpaca.markets
 
 ## Account Summary
 - Cash: $79,763.19
-- Total Portfolio Value: $100,476.48
-- Invested: $20,713.29 (20.61%)
-- Cash Reserve: $79,763.19 (79.39%)
-- **Day Open Value (5/29):** $100,741.90 (Thu 5/28 close) → Close $100,476.48 = **−$265.42 / −0.263%** on the day
-- **SPY 5/29:** $757.58 (+0.39%) → portfolio **−0.65% vs SPY today** (UNDERPERFORMED)
+- Total Portfolio Value (intraday snapshot at open routine): $100,397.97
+- Invested (long_market_value): $20,634.78 (20.55%)
+- Cash Reserve: $79,763.19 (79.45%)
+- **Day Open Value (6/1):** $100,474.93 (Fri 5/29 close — carries as Monday open ref) → intraday snapshot $100,397.97 = **−$76.96 / −0.077%** so far today. Daily-loss cap (−3%) NOT triggered — trading permitted.
+- **Week Start SPY (6/1):** $757.58 (Fri 5/29 close — carried as Week Start reference; will refresh with Monday cash-open print if materially different)
+- New positions this week (6/1–6/5): **0 of 3** (cap reset overnight)
+- Daytrade count: 0
 
-## Open Positions (5/29 close)
+## Open Positions (6/1 market-open routine snapshot)
 
-| Symbol | Shares | Avg Entry | Close Price | Market Value | Total P&L $ | Total P&L % | Day Change | Trailing Stop |
-|--------|--------|-----------|-------------|--------------|-------------|-------------|------------|---------------|
-| AMZN | 18 | $267.81 | $270.68 | $4,872.24 | +$51.66 | +1.07% | −1.21% | 10% trail (hwm $274.75 → stop $247.275, ~8.65% cushion) |
-| GOOGL | 10 | $397.996 | $380.77 | $3,807.70 | −$172.26 | −4.33% | −2.40% | 10% trail (hwm $408.61 → stop $367.749, ~3.42% cushion) |
-| ISRG | 9 | $425.163 | $424.64 | $3,821.76 | −$4.71 | −0.12% | +0.24% | 10% trail (hwm $425.93 → stop $383.337, ~9.73% cushion) |
-| LLY | 4 | $992.355 | $1,105.41 | $4,421.63 | +$452.21 | +11.39% | −1.90% | 10% trail (hwm $1,149.10 → stop $1,034.19, ~6.44% cushion) |
-| META | 6 | $606.73 | $631.66 | $3,789.96 | +$149.58 | +4.11% | −0.57% | 10% trail (hwm $643.00 → stop $578.70, ~8.38% cushion) |
+| Symbol | Shares | Avg Entry | Current Price | Market Value | Total P&L $ | Total P&L % | Day Change | Trailing Stop |
+|--------|--------|-----------|---------------|--------------|-------------|-------------|------------|---------------|
+| AMZN | 18 | $267.81 | $268.65 | $4,835.70 | +$15.12 | +0.31% | −0.74% | 10% trail (hwm $274.75 → stop $247.275, ~8.04% cushion) |
+| GOOGL | 10 | $397.996 | $377.25 | $3,772.50 | −$207.46 | −5.21% | −0.81% | 10% trail (hwm $408.61 → stop $367.749, **~2.52% cushion — thinnest by far**) |
+| ISRG | 9 | $425.163 | $425.45 | $3,829.05 | +$2.58 | +0.07% | +0.19% | 10% trail (hwm $425.93 → stop $383.337, ~9.90% cushion) |
+| LLY | 4 | $992.355 | $1,096.88 | $4,387.53 | +$418.11 | +10.53% | −0.74% | 10% trail (hwm $1,149.10 → stop $1,034.19, ~5.71% cushion) |
+| META | 6 | $606.73 | $635.00 | $3,810.00 | +$169.62 | +4.66% | +0.39% | 10% trail (hwm $643.00 → stop $578.70, ~8.87% cushion) |
 
-*(Closing quotes from Alpaca positions endpoint at 4:00 PM ET. All trailing stops live & GTC.)*
+*(Intraday prices from Alpaca positions endpoint at market-open routine. All 5 trailing stops verified live & GTC.)*
 
 ## Week Tracking
 
@@ -44,6 +46,14 @@
 - Daily Loss Today: −0.263% — no daily loss; −3% cap not triggered.
 
 ## Notes
+
+### Market Open Routine — 2026-06-01 (Monday)
+- Account checked at routine: Portfolio $100,397.97 vs Day Open Ref $100,474.93 → **−0.077% intraday**; well above −3% cap. Trading permitted.
+- **Per today's research-log plan, NO new buys at Monday open** — three reasons documented in research-log: (1) NFP Fri + ISM today + ADP/ISM Svcs Wed = data-heavy week, better setup mid-week; (2) GOOGL stop cushion thin (2.52% now) — observe first; (3) 2-week underperformance pattern → prefer non-AI diversifiers, NOW is the standing primary, reassess Wed/Thu.
+- **GOOGL hold/cut check at open:** Price $377.25 vs stop $367.749 (cushion ~2.52%). Down −0.81% intraday — has NOT broken $370 trigger, has NOT run −7%. Holding per framework. Trailing stop will auto-trigger at $367.749 if hit. Will recheck at midday routine.
+- **LLY cushion tightened** to 5.71% (from 6.44% Fri) as price drifted lower while HWM held at $1,149.10. Still book anchor. ADA Scientific Sessions retatrutide symposium Sat 6/6 — no pre-catalyst trim.
+- **META** ratcheted up +0.39% intraday; **ISRG** the only other green; **AMZN** flat/soft.
+- All 5 trailing stops verified GTC and active (order IDs unchanged from 5/29 log).
 
 ### Day Recap (5/29)
 - Broad red day across the book with only ISRG marginally green. Cash position (79.39%) cushioned the decline — the index gain came from breadth/cyclicals rotation; our concentrated mega-cap-AI + pharma + medtech mix underperformed.
