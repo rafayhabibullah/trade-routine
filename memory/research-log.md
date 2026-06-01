@@ -349,3 +349,63 @@ Not Monday — no new SPY reference recorded. Week Start SPY remains $745.64 (Fr
 - **Pre-Monday decision queue:** (1) GOOGL hold/cut framework; (2) whether to use the cap-reset to add 1 non-AI diversifier (financials/industrials); (3) confirm trailing stops still GTC and not stale.
 
 ---
+
+## Research — 2026-06-01 (Monday)
+
+### Market Conditions
+US futures modestly higher entering Monday — E-mini S&P +0.2–0.29%, Nasdaq-100 +0.3–0.57% — after a strong May (Nasdaq +8%, S&P +5%, Dow +3% on the month). Chicago PMI printed 62.7 in May (4-year high) on Friday; 10Y yield has eased to ~4.45% (from 4.69% mid-May high), a tailwind for long-duration tech. ISM Manufacturing PMI (May) drops today at 10:00 AM ET — first major data of the week ahead of Friday NFP. Tape supportive into June.
+
+### SPY Reference Price (Week Start — Monday)
+**$757.58** (Fri 5/29 close — carried as Monday Week Start reference; Alpaca latest IEX trade $755.95 post-close 4:55 PM). Will update with Monday cash-open print at next routine if materially different. This is the benchmark for the 6/1–6/5 weekly comparison.
+
+### Position Count This Week
+**0 of 3 used.** Cap reset overnight. Max 3 new positions allowed this week.
+
+### Earnings This Week — Do Not Buy
+- **Mon 6/1:** HPE — Hewlett Packard Enterprise (AC)
+- **Tue 6/2:** PANW — Palo Alto Networks; ULTA — Ulta Beauty; DG — Dollar General
+- **Wed 6/3:** AVGO — Broadcom; CRWD — CrowdStrike; VEEV — Veeva Systems; MDT — Medtronic
+- **Thu 6/4:** LULU — Lululemon; DOCU — DocuSign; M — Macy's
+- **Fri 6/5:** OLLI — Ollie's Bargain Outlet
+- Plus ~tens of additional tickers across the week — verify any candidate against the calendar at the moment of trade.
+
+### Macro Events This Week
+- **Mon 6/1 10:00 AM ET (today):** ISM Manufacturing PMI (May) + S&P Global Manufacturing PMI final. Chicago PMI already printed hot at 62.7 — watch employment sub-index for an ahead-of-NFP read.
+- **Tue 6/2:** Microsoft Build keynote 9:30 AM PT (AI coding model unveil; backdrop for AI tape).
+- **Wed 6/3:** ISM Services PMI (May); ADP Employment (May).
+- **Thu 6/4:** Initial Jobless Claims; Productivity & Costs final.
+- **Fri 6/5 8:30 AM ET:** **Nonfarm Payrolls (May)** + Unemployment + AHE — main event for Fed-cut probability and 10Y direction.
+- No FOMC this week; next meeting June 16–17 (Warsh's first as Chair). PPI (May) 6/11.
+
+### Watchlist for This Week (cap 0/3 used — 3 slots open; no compulsion)
+| Symbol | One-Line Thesis | Rev Growth | Moat Type | Analyst Rating | Action |
+|--------|-----------------|------------|-----------|----------------|--------|
+| NOW | Q1'26 +22% YoY revenue ($3.77B), Now Assist net-new ACV more than doubled, FY26 sub-rev guide $15.53–15.57B (+20.5–21%), 32% op margin; AI revenue trajectory raised to ~$1.5B for 2026 | 22% | Switching costs (enterprise workflow platform); data lock-in; ecosystem | Strong Buy consensus | **Preferred buy candidate** — clean enterprise-SaaS diversifier within the AI tailwind without doubling mega-cap exposure; clear of earnings (next late July). Lean ~3–4% entry. |
+| MSFT | Q3 FY26 +18% YoY revenue, Azure +40%, AI run rate $37B (+123%), M365 Copilot >20M seats (+250%); GitHub usage-based pricing live 6/1; Build keynote 6/2 — potential catalyst | 18% / 40% Azure | Switching costs (enterprise + M365); scale (cloud); platform | Strong Buy; avg PT $560 | Watch — clean qualifier but deepens AI-cohort concentration (already hold AMZN/GOOGL/META). Re-evaluate post-Build (6/3). |
+| PLTR | Q1'26 revenue +85% YoY ($1.633B); US revenue +104%; US commercial +133%; FY26 guide raised to +71%; 88% adj gross margin, 60% adj op margin | 85% | Ontology platform + data lock-in; government contract entrenchment | Mixed (high valuation premium) | Watch only — best-in-class growth but extreme valuation, high beta, sentiment-driven moves; would conflict with multi-week fundamentals discipline. Skip for now. |
+| UBER | Q1'26 revenue +14% to $13.2B; Gross Bookings +25%; delivery segment rev +34%; Q2 guide GB +18–22% cc; 50M Uber One members | 14% — **just below 15% bar** | Two-sided network effects; data scale; logistics density | Buy consensus; PT ~$124 (~57% upside) | **Skip** — fails the revenue-growth criterion at 14% (segment growth strong but headline rev light). Revisit if Q2 print accelerates to >15%. |
+| NVDA | AI-infra leader, FY26 revenue +65% ($215.94B); CUDA lock-in | 65% | Switching costs (CUDA); scale; ecosystem | Strong Buy; PT ~$295–$307 | Watch only — over-concentration + valuation/China-export overhang. |
+
+### Existing Position Notes
+| Symbol | News | Thesis Still Valid? | Action |
+|--------|------|---------------------|--------|
+| GOOGL | EU Commission has finalized the largest DMA fine ever (search self-preferencing), expected announcement before August recess — "high triple-digit million €". Known overhang, bounded one-time hit relative to $109.9B/qtr business. No new fundamental break. | Yes — fundamentals intact, but cohort lag persists. | **Hold but on shortest leash.** Stop $367.749 (cushion only 3.42%). Monitor open closely: if down >7% intraday OR price breaks $370, cut per guardrail. Otherwise hold into AI tape. |
+| LLY | **ADA 86th Scientific Sessions June 5–8 in New Orleans confirmed**; retatrutide Phase 3 symposium **Saturday June 6 (1:30–3:00 PM CDT)** — deeper TRIUMPH-1 data presentation. TRIUMPH-1 topline (5/21) already showed 28.3% weight loss / 71.2 lb avg + OA pain relief. | Yes — accelerating; key catalyst this week. | Hold. Trailing stop $1,034.19 (cushion 6.44%). Let it run into ADA — do not trim ahead of catalyst. |
+| AMZN | Globalstar acquisition disclosed at ~$11.57B (2nd-largest in Amazon history — satellite/connectivity play, complements Kuiper). Prime Day moved earlier into June 2026. AWS +28% / $200B CY26 capex; FCF compressed (-95% TTM) on AI build-out. | Yes — strengthened (satellite-comms strategic addition; Prime Day timing pulls revenue forward into Q2). Capex/FCF the risk to monitor. | Hold. Trailing stop $247.275 (cushion 8.65%). |
+| META | Subscription rollout official ("Meta One" brand): Instagram Plus $3.99, Facebook Plus $3.99, WhatsApp Plus $2.99; AI tiers Meta One Plus $7.99 / Premium $19.99 testing in Singapore/Guatemala/Bolivia. Stock +~4% on launch. | Yes — strengthened. First material non-ad revenue stream at scale; reduces ad-cycle beta. | Hold. Trailing stop $578.70 (cushion 8.38%). |
+| ISRG | da Vinci 5 — 100+ feature upgrades rolling out to US customers starting June; Japan MHLW expected to rule on new robotic-procedure reimbursement in June (potential market unlock). Q1'26 +23% rev, raised FY proc-growth guide to 14–16%. | Yes — strengthened. Two June catalysts (da Vinci 5 upgrades + Japan reimbursement decision). | Hold. Trailing stop $383.337 (cushion 9.73%). Diversifier performing as intended. |
+
+### Plan for Today's Open and Week
+- **Lean: do not place any new buys at Monday's open.** Three reasons: (1) NFP Friday + ISM Mfg today + ADP/ISM Svcs Wednesday = data-heavy week; better setup mid-week post-prints than pre-prints; (2) GOOGL stop cushion 3.42% is the prior priority — observe whether the open extends Friday's weakness or stabilizes before deploying fresh capital; (3) prior 2-week underperformance pattern argues for adding *non-AI-mega-cap diversifiers* rather than rushing in (NOW is the standing primary).
+- **GOOGL hold/cut framework today:** at open, check price vs $367.749 stop and the cohort tape. (a) If GOOGL opens green/flat and cohort firm — hold. (b) If GOOGL breaks $370 or runs >7% intraday — cut per guardrail (10% trailing stop will auto-trigger at $367.749 regardless). (c) If GOOGL down 3–5% intraday and cohort up — review thesis: EU fine headline imminent + persistent cohort lag is becoming a cumulative case for trimming even before stop trips.
+- **LLY pre-ADA discipline:** do not trim ahead of Saturday June 6 retatrutide symposium. Trailing stop will manage downside.
+- **Earnings no-buy carry through the week:** HPE, PANW, ULTA, DG, AVGO, CRWD, VEEV, MDT, LULU, DOCU, M, OLLI. Re-verify any candidate at the moment of a buy.
+- **Mid-day guardrail check still required:** cut anything down >7% intraday; −3% daily-loss cap halts trading.
+- **Cash floor (≥20%) check:** currently 79.39% cash. Plenty of room for 1–2 adds (~3–4% each) without breaching the floor.
+
+### Pre-Tomorrow Decision Queue
+- (1) Reassess NOW Tuesday/Wednesday after Microsoft Build absorbs market attention. Lean: add NOW Wed or Thu if ISM/ADP prints are constructive (i.e., not a hot-inflation, hawkish-Fed surprise).
+- (2) GOOGL: monitor intraday Monday — establish whether thesis-or-price exit is needed this week.
+- (3) Trailing stops live & GTC check at next routine — all five orders (AMZN, GOOGL, ISRG, LLY, META) should still be active per portfolio.md order IDs.
+
+---
