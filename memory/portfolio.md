@@ -1,40 +1,49 @@
 # Portfolio
 
-**Last Updated:** 2026-06-01 (market open routine — Monday)
+**Last Updated:** 2026-06-01 (market close routine — Monday)
 **Account:** Alpaca Paper Trading
 **Endpoint:** https://paper-api.alpaca.markets
 
 ## Account Summary
 - Cash: $79,763.19
-- Total Portfolio Value (intraday snapshot at open routine): $100,397.97
-- Invested (long_market_value): $20,634.78 (20.55%)
-- Cash Reserve: $79,763.19 (79.45%)
-- **Day Open Value (6/1):** $100,474.93 (Fri 5/29 close — carries as Monday open ref) → intraday snapshot $100,397.97 = **−$76.96 / −0.077%** so far today. Daily-loss cap (−3%) NOT triggered — trading permitted.
-- **Week Start SPY (6/1):** $757.58 (Fri 5/29 close — carried as Week Start reference; will refresh with Monday cash-open print if materially different)
-- New positions this week (6/1–6/5): **0 of 3** (cap reset overnight)
+- Total Portfolio Value (close 6/1): **$99,874.11**
+- Invested (long_market_value): $20,110.92 (20.14%)
+- Cash Reserve: $79,763.19 (79.86%)
+- **Day Open Value (6/1):** $100,474.93 → **Close $99,874.11 = −$600.82 / −0.598% on the day**. Daily-loss cap (−3%) NOT triggered.
+- **Week Start SPY (6/1):** $757.58 (Fri 5/29 close — carried as Week Start reference); **Mon 6/1 SPY close: $758.44 (+0.114% day, +0.114% WTD)**
+- **Day 1 of week vs SPY: −0.71%** (UNDERPERFORMED — third straight UP-tape underperformance day)
+- New positions this week (6/1–6/5): **0 of 3** (no buys today)
 - Daytrade count: 0
 
-## Open Positions (6/1 market-open routine snapshot)
+## Open Positions (6/1 market-close snapshot)
 
 | Symbol | Shares | Avg Entry | Current Price | Market Value | Total P&L $ | Total P&L % | Day Change | Trailing Stop |
 |--------|--------|-----------|---------------|--------------|-------------|-------------|------------|---------------|
-| AMZN | 18 | $267.81 | $268.65 | $4,835.70 | +$15.12 | +0.31% | −0.74% | 10% trail (hwm $274.75 → stop $247.275, ~8.04% cushion) |
-| GOOGL | 10 | $397.996 | $377.25 | $3,772.50 | −$207.46 | −5.21% | −0.81% | 10% trail (hwm $408.61 → stop $367.749, **~2.52% cushion — thinnest by far**) |
-| ISRG | 9 | $425.163 | $425.45 | $3,829.05 | +$2.58 | +0.07% | +0.19% | 10% trail (hwm $425.93 → stop $383.337, ~9.90% cushion) |
-| LLY | 4 | $992.355 | $1,096.88 | $4,387.53 | +$418.11 | +10.53% | −0.74% | 10% trail (hwm $1,149.10 → stop $1,034.19, ~5.71% cushion) |
-| META | 6 | $606.73 | $635.00 | $3,810.00 | +$169.62 | +4.66% | +0.39% | 10% trail (hwm $643.00 → stop $578.70, ~8.87% cushion) |
+| AMZN | 18 | $267.81 | $261.40 | $4,705.20 | −$115.38 | −2.39% | −3.41% | 10% trail (hwm $274.75 → stop $247.275, ~5.40% cushion) |
+| GOOGL | 10 | $397.996 | $376.67 | $3,766.70 | −$213.26 | −5.36% | −0.97% | 10% trail (hwm $408.61 → stop $367.749, **~2.37% cushion — thinnest, ~$8.92/sh from trigger**) |
+| ISRG | 9 | $425.163 | $412.26 | $3,710.34 | −$116.13 | −3.03% | −2.92% | 10% trail (hwm $425.93 → stop $383.337, ~7.02% cushion) |
+| LLY | 4 | $992.355 | $1,082.20 | $4,328.80 | +$359.38 | +9.05% | −2.06% | 10% trail (hwm $1,149.10 → stop $1,034.19, ~4.44% cushion) |
+| META | 6 | $606.73 | $599.98 | $3,599.88 | −$40.50 | −1.11% | **−5.14%** | 10% trail (hwm $643.00 → stop $578.70, ~3.55% cushion) |
 
-*(Intraday prices from Alpaca positions endpoint at market-open routine. All 5 trailing stops verified live & GTC.)*
+*(Closing prices from Alpaca positions endpoint at market-close routine. All 5 trailing stops verified live & GTC; none triggered today.)*
 
 ## Week Tracking
 
-**Prior Week (5/18–5/22) — FINAL:**
+**Week 1 (5/18–5/22) — FINAL:**
 - Week Start Value: $100,000.00 → Friday 5/22 Close: $100,161.50 = **+0.16%**
 - Week Start SPY: $739.17 (5/15 close ref) → Friday 5/22 Close: $745.64 = **+0.875%**
 - Relative: portfolio **−0.71% vs SPY** (UNDERPERFORMED). GOOGL drag (−3.78%) outweighed LLY strength (+7.32%) as SPY rallied hard Thu/Fri on post-NVDA AI-tape relief.
 - New Positions: 3 of 3 (cap was reached 5/18 — GOOGL/META/LLY).
 
-**Current Week (5/26–5/29) — FINAL:**
+**Current Week (6/1–6/5) — IN PROGRESS:**
+- Week Start Value: $100,474.93 (Fri 5/29 close, carried as Mon 6/1 open ref).
+- Week Start SPY: $757.58 (Fri 5/29 close).
+- **Mon 6/1 close:** Portfolio $99,874.11 (−0.598% day) vs SPY $758.44 (+0.114% day) → portfolio **−0.71% vs SPY (UNDERPERFORMED)**. AI-mega-cap cohort sold off into the close; META −5.14%, AMZN −3.41%, ISRG −2.92%, LLY −2.06%, GOOGL −0.97%. SPY held a new intraday high (760.26) but pared on a breadth-rotating tape.
+- **WTD:** Portfolio −0.598% vs SPY +0.114% → **−0.71% WTD vs SPY**.
+- New Positions This Week: 0 of 3 (no buys 6/1 per plan).
+- Daily Loss Today: −0.598% — no daily loss; −3% cap not triggered.
+
+**Week 2 (5/26–5/29) — FINAL:**
 - Week Start Value: $100,161.50 (Fri 5/22 close, carried in through Memorial Day).
 - Week Start SPY: $745.64 (Fri 5/22 close carried through Memorial Day — no Monday reference; first session Tue 5/26).
 - **Tue 5/26 close:** Portfolio $100,170.40 (+0.01% day) vs SPY $751.19 (+0.745% day) → portfolio **−0.73% vs SPY**.
@@ -47,13 +56,17 @@
 
 ## Notes
 
-### Market Open Routine — 2026-06-01 (Monday)
-- Account checked at routine: Portfolio $100,397.97 vs Day Open Ref $100,474.93 → **−0.077% intraday**; well above −3% cap. Trading permitted.
-- **Per today's research-log plan, NO new buys at Monday open** — three reasons documented in research-log: (1) NFP Fri + ISM today + ADP/ISM Svcs Wed = data-heavy week, better setup mid-week; (2) GOOGL stop cushion thin (2.52% now) — observe first; (3) 2-week underperformance pattern → prefer non-AI diversifiers, NOW is the standing primary, reassess Wed/Thu.
-- **GOOGL hold/cut check at open:** Price $377.25 vs stop $367.749 (cushion ~2.52%). Down −0.81% intraday — has NOT broken $370 trigger, has NOT run −7%. Holding per framework. Trailing stop will auto-trigger at $367.749 if hit. Will recheck at midday routine.
-- **LLY cushion tightened** to 5.71% (from 6.44% Fri) as price drifted lower while HWM held at $1,149.10. Still book anchor. ADA Scientific Sessions retatrutide symposium Sat 6/6 — no pre-catalyst trim.
-- **META** ratcheted up +0.39% intraday; **ISRG** the only other green; **AMZN** flat/soft.
-- All 5 trailing stops verified GTC and active (order IDs unchanged from 5/29 log).
+### Market Close Routine — 2026-06-01 (Monday)
+- **Close:** Portfolio $99,874.11 vs Day Open Ref $100,474.93 = **−0.598% day**; daily-loss cap (−3%) NOT triggered.
+- **vs SPY today:** Portfolio −0.598% vs SPY +0.114% ($757.58 → $758.44) → **−0.71% vs SPY (UNDERPERFORMED)**. Day 1 of week 3.
+- **Tape:** SPY hit a new intraday 52-wk high $760.26 but pared to $758.44 close (only +0.11% day). ISM Manufacturing PMI 10 AM the swing point; tech/AI cohort came under heavy intraday selling pressure into the close while the headline index held. Our book caught the AI-tape selling without the breadth/cyclicals offset.
+- **No new buys today** — per the morning plan, three reasons honored: (1) NFP Fri data crescendo, (2) thin GOOGL cushion observed before adding, (3) 2-week UP-tape underperformance pattern. Today reinforces the call: a heavy-selling AI day was the wrong moment to add NOW or any AI-adjacent diversifier.
+- **GOOGL: cushion narrowed to 2.37%** (from 2.52% at open) as price dropped to $376.67. Did NOT trip the $367.749 trailing stop, did NOT break the $370 watch level intraday (low for the day on GOOGL was modest given −0.97% close — it actually held up best of the book today). Thesis intact; tomorrow GOOGL is no longer the single biggest position-risk **— META is.**
+- **META: down −5.14% intraday** — the worst single-position day in the book. Did NOT trigger the −7% intraday cut threshold (close to it but not breached). Stop cushion **compressed from 8.87% at open to 3.55% at close**. No identifiable single-name catalyst — broad AI-mega-cap profit-taking into ISM print and ahead of Build keynote + NFP week. Subscription/AI-tier rollout thesis intact. **Hold but on shortest leash tomorrow.**
+- **LLY: −2.06%** giving back more cushion (4.44% now, down from 5.71% at open). HWM unchanged at $1,149.10. Pre-ADA Saturday 6/6 symposium discipline holds — no trim ahead of catalyst.
+- **AMZN: −3.41%** — pared post-AWS-launch gains. Stop cushion now 5.40%. Thesis intact (AWS retail-AI, Globalstar/satellite, Prime Day pulled into June).
+- **ISRG: −2.92%** — gave back Friday's outperformance; the medtech diversifier did not provide its expected non-correlation cushion on a tech-heavy down day. Stop cushion 7.02%. Two June catalysts (da Vinci 5 + Japan reimbursement) ahead.
+- **All 5 trailing stops verified live, GTC, no triggers, no replacements** (order IDs unchanged: AMZN `4742e5a0`, GOOGL `87d839eb`, ISRG `b271eef3`, LLY `28f47c51`, META `566b9e93`).
 
 ### Day Recap (5/29)
 - Broad red day across the book with only ISRG marginally green. Cash position (79.39%) cushioned the decline — the index gain came from breadth/cyclicals rotation; our concentrated mega-cap-AI + pharma + medtech mix underperformed.
@@ -63,12 +76,12 @@
 - **META** −0.57% to $631.66 — minor pullback after Wed/Thu's subscription rally; still +4.11% from entry. HWM $643.00 holds.
 - **ISRG** +0.24% to $424.64 — virtually flat after Friday open entry; trailing stop placed at $383.337 (HWM $425.93). Medtech low-correlation diversifier behaving as intended on a tech-down day.
 
-### Trailing Stops (verified, live on Alpaca)
-- **AMZN** hwm $274.75 → stop $247.275 (~8.65% cushion). Order ID: `4742e5a0-e64f-454b-8b3d-20fce42bc734`.
-- **GOOGL** hwm $408.61 → stop $367.749 (~3.42% cushion — **thinnest in book by far; monitor closely**). Order ID: `87d839eb-8e47-4c07-b1cd-50fd3a1cc03f`.
-- **ISRG** hwm $425.93 → stop $383.337 (~9.73% cushion). Order ID: `b271eef3-1027-435e-8818-2c838e0ace9b`.
-- **LLY** hwm $1,149.10 → stop $1,034.19 (~6.44% cushion). Order ID: `28f47c51-a223-4698-9fee-867b1c411ce4`.
-- **META** hwm $643.00 → stop $578.70 (~8.38% cushion). Order ID: `566b9e93-4e9a-41e1-9954-08b475338ff6`.
+### Trailing Stops (verified, live on Alpaca — close 6/1)
+- **AMZN** hwm $274.75 → stop $247.275 (~5.40% cushion at $261.40 close). Order ID: `4742e5a0-e64f-454b-8b3d-20fce42bc734`.
+- **GOOGL** hwm $408.61 → stop $367.749 (~2.37% cushion at $376.67 close — **second-thinnest now; META overtook GOOGL today**). Order ID: `87d839eb-8e47-4c07-b1cd-50fd3a1cc03f`.
+- **ISRG** hwm $425.93 → stop $383.337 (~7.02% cushion at $412.26 close). Order ID: `b271eef3-1027-435e-8818-2c838e0ace9b`.
+- **LLY** hwm $1,149.10 → stop $1,034.19 (~4.44% cushion at $1,082.20 close). Order ID: `28f47c51-a223-4698-9fee-867b1c411ce4`.
+- **META** hwm $643.00 → stop $578.70 (~3.55% cushion at $599.98 close — **thinnest in book now after −5.14% day**). Order ID: `566b9e93-4e9a-41e1-9954-08b475338ff6`.
 
 ### Week Recap (5/26–5/29)
 - Two-week scorecard: down 0.71% vs SPY week 1, down 1.29% vs SPY week 2 → cumulative **−2.00% vs SPY** since launch. Cumulative absolute: portfolio +0.48% vs SPY +2.49% from 5/15 reference.

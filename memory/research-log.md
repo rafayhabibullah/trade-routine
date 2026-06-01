@@ -409,3 +409,49 @@ US futures modestly higher entering Monday — E-mini S&P +0.2–0.29%, Nasdaq-1
 - (3) Trailing stops live & GTC check at next routine — all five orders (AMZN, GOOGL, ISRG, LLY, META) should still be active per portfolio.md order IDs.
 
 ---
+
+## Tomorrow's Watch — 2026-06-02 (Tuesday)
+
+### Day-1 Recap (Mon 6/1)
+- Portfolio $99,874.11 (−0.598% day) vs SPY $758.44 (+0.114% day) → **−0.71% vs SPY**. Third straight UP-tape underperformance day; cumulative ~−2.71% vs SPY since launch.
+- AI-mega-cap cohort took heavy selling into the close while SPY held a new intraday 52-wk high ($760.26) on breadth/cyclicals rotation. ISM Manufacturing PMI was the swing data point at 10 AM ET; intraday tech weakness extended through the afternoon.
+- **No new buys placed** — plan honored (data-heavy week; thin stop cushions on GOOGL; UP-tape underperformance pattern). With hindsight, today validated the call: an AI-selling day was the wrong moment to add an AI-adjacent diversifier (NOW).
+
+### Positions to Monitor (closing prices, ranked by stop-cushion thinness)
+- **META** — $599.98 close (−1.11% from entry, **−5.14% intraday today**). Stop $578.70, cushion **3.55%** ($21.28/sh) — **now thinnest in the book**, overtaking GOOGL. No identified single-name catalyst — looks like broad AI-mega-cap profit-taking into ISM/Build/NFP week. Subscription/AI-tier thesis intact. **Hold-but-tightest-leash position tomorrow.** Cut framework: if −7% intraday OR price breaks $585, evaluate; trailing stop will auto-trigger at $578.70.
+- **GOOGL** — $376.67 close (−5.36% from entry, only −0.97% intraday today — held up best of the book). Stop $367.749, cushion **2.37%** ($8.92/sh) — still very thin. EU DMA fine headline overhang remains. Today's relative strength (least-bad among 5 positions) is the first sign in 2 weeks of cohort lag breaking — small positive. **Hold; same intraday framework as yesterday — cut on >7% intraday or $370 break.**
+- **LLY** — $1,082.20 close (+9.05% from entry, −2.06% intraday). Stop $1,034.19, cushion **4.44%** (tightened from 6.44% Fri). HWM $1,149.10 unchanged. **Do not trim ahead of Sat 6/6 retatrutide ADA symposium** — discipline.
+- **AMZN** — $261.40 close (−2.39% from entry, −3.41% intraday). Stop $247.275, cushion 5.40%. Erased gains from AWS retail-AI launch surge. Globalstar/satellite + Prime Day pulled into June + AWS $464B backlog — thesis intact.
+- **ISRG** — $412.26 close (−3.03% from entry, −2.92% intraday). Stop $383.337, cushion 7.02%. Disappointing — Friday's outperformance did not repeat as the medtech "diversifier" sold off in sympathy with the broader tape. Two June catalysts ahead (da Vinci 5 + Japan reimbursement).
+
+### Macro Events Tuesday 6/2
+- **Microsoft Build keynote 9:30 AM PT** — AI coding model unveil expected. Sets tone for AI-software cohort (MSFT/GOOGL/AMZN AWS), could either reignite the cohort or extend Monday's selling.
+- JOLTS Job Openings (April) 10:00 AM ET — labor-market read ahead of Wed ADP + Fri NFP.
+- No FOMC events; next meeting June 16–17 (Warsh's first as Chair).
+
+### Earnings to Verify Pre-Market Tuesday (No-Buy List)
+- **Tue 6/2:** PANW — Palo Alto Networks; ULTA — Ulta Beauty; DG — Dollar General (all reporting today/AC).
+- Wed 6/3: AVGO, CRWD, VEEV, MDT. Thu 6/4: LULU, DOCU, M. Fri 6/5: OLLI.
+- Verify any new-buy candidate at moment of trade.
+
+### Thesis Notes Based on Today's Price Action
+- **Concentration risk crystallized.** The book is too AI-mega-cap-correlated: when AI cohort sells off on an UP day for the index, we don't get the breadth/cyclicals offset. Need a genuinely non-correlated diversifier next add — financials (KKR, JPM), industrials, healthcare-services, or staples — NOT another AI-adjacent name (NOW/MSFT both fail this test today).
+- **ISRG's "low correlation to AI tape" hypothesis failed today** (−2.92% on a +0.11% index day). Either the thesis is wrong or ISRG carries more tech-beta than expected. One day doesn't break thesis but watch closely.
+- **META's −5.14% day with no single-name catalyst** is concerning beyond the −5.14% itself — it signals the AI-mega-cap cohort is becoming a risk-off trade for the market, not a risk-on trade. Watch tomorrow whether MSFT Build catalyzes a rebound or extends the selling.
+- **3 of 3 underperformance days continue the pattern.** Two weeks now consistently UP-tape underperforming. Strategic call for mid-week: at the Wednesday open routine, if Tue confirms the pattern (4 of 4 UP underperformance), force a non-AI diversifier add Wed/Thu even if data-light setup hasn't crystallized.
+
+### Buy Candidates / Decision Lean for Tuesday
+- **Default: still no new buys** at Tuesday open. Watch:
+  - MSFT Build reaction tape (catalyst risk in either direction for AI cohort)
+  - META open — if it gaps down further, evaluate cut even before stop trips (thesis vs. cohort-lag rule)
+  - Whether the broader AI cohort recovers Tuesday or extends the bleed
+- **If adding mid-week (Wed/Thu post-ADP):** lean toward a genuinely non-correlated name. Top candidates to research overnight: KKR (alt-asset manager, financial-cycle exposure), V/MA (consumer-payments duopoly, not AI-correlated), COST (defensive consumer, accelerating same-store growth).
+- NOW dropped to back-burner for this week — the cohort-correlation rationale weakened by today's tape.
+- Earnings no-buys carry through week.
+
+### Pre-Tomorrow Decision Queue
+- (1) GOOGL/META intraday open framework — both thin-cushion; either could trigger the cut rule tomorrow.
+- (2) Decide post-Build whether AI cohort is a bid or an offer for the rest of the week.
+- (3) Identify and validate a non-AI-correlated diversifier candidate for potential Wed/Thu add.
+
+---
