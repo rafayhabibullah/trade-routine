@@ -455,3 +455,73 @@ US futures modestly higher entering Monday — E-mini S&P +0.2–0.29%, Nasdaq-1
 - (3) Identify and validate a non-AI-correlated diversifier candidate for potential Wed/Thu add.
 
 ---
+
+## Research — 2026-06-02 (Tuesday)
+
+### Market Conditions
+US futures modestly higher pre-market Tuesday: **E-mini S&P +~0.2%, Nasdaq-100 +~0.3%** on stronger global manufacturing data (China PMI 51.8, UK 53.9). **10Y yield ~4.47%** (steady from Friday). May was a record month (Nasdaq +8%, S&P +5%, Dow +3%); Monday extended the rally with SPY +0.114% (SPX +0.26% to 7,599.96, Nasdaq +0.42% to 27,086.81) — driven by **NVDA +6%** (new PC processor unveil), **DELL +10%** and **HP +8%** — i.e., AI-chips/PC sub-cohort rallied while AI-mega-cap (our book) sold off. The day's swing data was ISM Mfg PMI 10:00 ET. **Microsoft Build keynote 9:30 AM PT today** is the AI-tape catalyst; AVGO and PANW report after close (AC).
+
+### SPY Reference Price
+Not Monday — no new SPY reference recorded. Week Start SPY remains **$757.58** (Fri 5/29 close). Mon 6/1 SPY close $758.44 (+0.114% day; WTD +0.114%); current bid/ask $758.54/$758.60 (post-close 6/1).
+
+### Position Count This Week
+**0 of 3 used.** Last buy was 5/29 (ISRG). 3 slots remain.
+
+### Earnings This Week — Do Not Buy
+- **Mon 6/1:** HPE (reported AC)
+- **Tue 6/2 (today):** **AVGO — Broadcom (AC)**; **PANW — Palo Alto Networks (AC)**; ULTA — Ulta Beauty; DG — Dollar General; CRDO — Credo Technology
+- **Wed 6/3:** CRWD — CrowdStrike; VEEV — Veeva Systems; MDT — Medtronic; HPE — Hewlett Packard Enterprise (some sources have Wed)
+- **Thu 6/4:** LULU — Lululemon; DOCU — DocuSign; M — Macy's
+- **Fri 6/5:** OLLI — Ollie's Bargain Outlet
+- Plus tens of additional smaller-cap tickers — verify any candidate at moment of trade.
+
+### Macro Events This Week
+- **Tue 6/2 (today):** JOLTS Job Openings (April) 10:00 AM ET; **Microsoft Build keynote 9:30 AM PT** (catalyst for AI-software tape).
+- **Wed 6/3:** ADP Employment (May); ISM Services PMI (May).
+- **Thu 6/4:** Initial Jobless Claims; Productivity & Costs final.
+- **Fri 6/5 8:30 AM ET:** **Nonfarm Payrolls (May)** + Unemployment + AHE — week's main event for Fed-cut probability and 10Y direction.
+- No FOMC this week; next meeting June 16–17 (Warsh's first as Chair). PPI (May) 6/11.
+
+### Watchlist for This Week (cap 0/3 used — 3 slots open; no compulsion)
+| Symbol | One-Line Thesis | Rev Growth | Moat Type | Analyst Rating | Action |
+|--------|-----------------|------------|-----------|----------------|--------|
+| V | Q1 CY26 +15–17% YoY rev ($10.9–11.23B); payments volume +8%, cross-border +12%, value-added services +28%; payments-network duopoly | 15–17% | Two-sided network (4B+ cards / 100M+ merchants); brand; scale; switching costs | Strong Buy (37 B / 3 H of 54); avg PT $396–$400 (~22% upside) | **Preferred buy candidate** — genuinely non-AI-correlated diversifier; clears 15% growth bar; clear of earnings (next late July); fixes book's mega-cap-AI concentration risk. Lean ~3–4% entry. |
+| MA | Q1 CY26 +16% reported / +12% currency-neutral; gross dollar volume +7%, cross-border +13%, value-added services +18%; EPS +23%; op margin 58.4% | 12% cc / 16% reported — **borderline** | Two-sided network; brand; scale; switching costs | Strong Buy; avg PT ~$650+ | **Watch** — second payments-duopoly choice; cc growth at threshold edge, prefer V's clean 15%+ qualifier. Skip if forced choice. |
+| NOW | Q1'26 +22% YoY rev ($3.77B); Now Assist ACV more than doubled; FY26 sub-rev guide $15.53–15.57B; 32% op margin | 22% | Switching costs (enterprise workflow platform); data lock-in; ecosystem | Strong Buy | **Back-burner** — Monday's tape demoted: enterprise-SaaS still trades with AI cohort, fails the "genuinely non-correlated" filter we need now. Reassess if Build sparks broad AI-software rebound. |
+| MSFT | Azure +40%, AI run rate $37B (+123%); Build keynote 6/2 announcing Office 365 Copilot Agent Mode, Windows Local AI runtime (6/9 release), GitHub Copilot autonomous-agent updates | 18% / 40% Azure | Switching costs (M365); scale; platform | Strong Buy; avg PT $560 | **Watch** — qualifies on growth but deepens AI-cohort concentration (already hold AMZN/GOOGL/META); re-evaluate post-Build reaction. Same correlation problem as NOW. |
+| COST | Q3 FY26 +11.6% rev ($69.15B); comps +9.8% (+6.6% ex-gas/FX); 89.7% global renewal | 11.6% — **below 15% bar** | Membership scale; pricing power; brand | Buy | **Skip** — fails revenue-growth criterion. |
+| AVGO | AI custom-silicon + VMware franchise | n/a here | Switching costs; ecosystem | Strong Buy | **Skip this week** — reports AC today (earnings no-buy). Revisit next week. |
+| PANW | Cybersecurity platform consolidation | n/a here | Switching costs; data; platform | Strong Buy | **Skip this week** — reports AC today (earnings no-buy). |
+
+### Existing Position Notes
+| Symbol | News | Thesis Still Valid? | Action |
+|--------|------|---------------------|--------|
+| GOOGL | EU Commission **expected to finalize record DMA fine** for search self-preferencing — "high triple-digit million €" — announcement expected before August recess; would be the largest DMA penalty ever. Known overhang, not a thesis break. Mon 6/1 close $376.67; current bid (post-close) $376.37; Alpaca positions endpoint "current_price" $367.17 looks like a stale/odd post-market print (not a live quote) — **stop at $367.749 NOT breached on quote evidence; midday check tomorrow will confirm**. | Yes — fundamentals intact; price action still lagging cohort. | **Hold but on shortest leash.** Same intraday framework: cut on >7% intraday OR price breaks $370. Stop $367.749 (cushion 2.37%) will auto-trigger. Verify live quote at open. |
+| META | Mon 6/1 −5.14% intraday with no single-name catalyst — AI-mega-cap cohort sold off on rising AI-capex/regulatory concerns; stock briefly under $600 intraday. **Subscription rollout proceeding (Meta One tiers $7.99/$19.99; IG/FB Plus $3.99; WhatsApp Plus $2.99 across 22+ countries).** Thesis intact; ad business + new subscription layer + AI-monitor restructuring all still on track. | Yes — non-trivial sentiment overhang but thesis intact; subscription is the bull pillar. | **Hold-but-tightest-leash.** Stop $578.70 (cushion 3.55% — thinnest in book). Cut framework: >7% intraday OR $585 break. Watch Build tape for AI-cohort relief rally. |
+| LLY | **ADA 86th Scientific Sessions June 5–8, New Orleans confirmed.** Retatrutide symposium **Sat 6/6 (1:30–3:00 PM CDT)** will present TRIUMPH-1 (28.3% / 70.3 lb weight loss at 80 wks; already topline 5/21) AND **NEW TRANSCEND-T2D-1 data** (retatrutide lowered A1C up to 2.0% + 16.8% weight loss / 36.6 lb at 40 wks in T2D adults). Also presenting Foundayo (orforglipron) and Mounjaro data. | Yes — **catalyst this week**; pipeline + GLP-1 duopoly thesis fully validated; TRANSCEND-T2D-1 is potential additional upside. | Hold. Trailing stop $1,034.19 (cushion 4.44%). **Do not trim ahead of Sat 6/6 symposium.** |
+| AMZN | **Prime Day 2026 confirmed: June 23–26 (4 days)** — pulled materially into June, 22+ countries; deals across 35+ categories; new deals as often as every 5 minutes. Q2 revenue tailwind. AWS retail-AI distribution thesis intact; capex projected **$200B in 2026** funded by rising debt issuance — FCF compression the known risk. | Yes — strengthened. Prime Day timing pulls revenue forward into Q2; satellite/Globalstar still pending. | Hold. Trailing stop $247.275 (cushion 5.40%). |
+| ISRG | **da Vinci 5: 100+ feature upgrades rolling out to US customers starting June** (insidermonkey confirmation). TIKR coverage: ISRG raised 2026 procedure-growth guidance; 40% EBIT jump qtr; analyst PTs above $700, implied 85% upside on FDA cardiac clearance path. Japan reimbursement decision still pending in June. | Yes — strengthened. Two June catalysts (da Vinci 5 upgrades + Japan reimbursement). | Hold. Trailing stop $383.337 (cushion 7.02%). Diversifier "low correlation to AI tape" hypothesis still on probation after Mon's −2.92% sympathy sell-off. |
+
+### Plan for Today's Open and Week
+- **Lean: still no new buys at Tuesday open.** Three reasons: (1) Microsoft Build keynote 9:30 AM PT is the AI-tape catalyst — wait for the reaction rather than front-running it; (2) thin stop cushions on META (3.55%) and GOOGL (2.37%) — if either trips, that's the priority action, not a new add; (3) NFP Friday tail event for the week — better setup mid-week post-ADP/ISM Services than pre-data on Tuesday.
+- **GOOGL/META open framework (mirrors Monday plan):**
+  - (a) If GOOGL opens green/flat AND META opens green/flat with cohort firm — hold both, no action.
+  - (b) If GOOGL breaks $370 OR runs >7% intraday — cut per guardrail (trailing stop will auto-trigger at $367.749).
+  - (c) If META breaks $585 OR runs >7% intraday — cut per guardrail (trailing stop will auto-trigger at $578.70).
+  - (d) If both AI-cohort positions stabilize but cohort underperforms again (Day 4 of pattern) — reassess concentration thesis Wednesday morning.
+- **Build-day decision tree (post-keynote ~12:30 PM ET):**
+  - Positive AI-software reaction → MSFT/NOW return as candidates Wed/Thu (still concentration caveat).
+  - Negative/muted reaction → confirm V as preferred diversifier add Wed or Thu; gives genuine non-correlation.
+  - Neutral reaction → default to V pacing into Wed ADP / Thu open.
+- **LLY pre-ADA discipline holds:** no trim ahead of Sat 6/6 retatrutide symposium. Trailing stop manages downside.
+- **Earnings no-buy carries through week:** HPE, AVGO, PANW, ULTA, DG, CRWD, VEEV, MDT, LULU, DOCU, M, OLLI, CRDO. Re-verify any candidate at moment of trade.
+- **Mid-day guardrail check required today:** cut anything down >7% intraday; −3% daily-loss cap halts trading. Watch META (thinnest cushion 3.55%) and GOOGL ($370 watch level) closely.
+- **Cash floor (≥20%) check:** current cash 79.86% — plenty of room for 1–2 adds (~3–4% each) without breaching 20% floor.
+
+### Pre-Tomorrow Decision Queue
+- (1) **V as the preferred diversifier candidate** — non-AI-correlated payments-network with clean 15%+ growth, clear of near-term earnings (next late July), and a remedy to the book's mega-cap-AI concentration; lean to add ~3–4% Wed or Thu after ADP/ISM Services confirmation.
+- (2) GOOGL/META intraday cut frameworks live; verify trailing stops still GTC at open (per portfolio.md all 5 ID'd as live).
+- (3) Microsoft Build reaction tape — sets whether AI cohort is bid or offer for the rest of the week.
+- (4) Watch ISRG's correlation-to-AI behavior — if it again sells off in sympathy on an AI-down day, the "low correlation" thesis weakens and V's diversifier case strengthens further.
+
+---
