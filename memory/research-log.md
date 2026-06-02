@@ -455,3 +455,52 @@ US futures modestly higher entering Monday — E-mini S&P +0.2–0.29%, Nasdaq-1
 - (3) Identify and validate a non-AI-correlated diversifier candidate for potential Wed/Thu add.
 
 ---
+
+## Tomorrow's Watch — 2026-06-03 (Wednesday)
+
+### Day-2 Recap (Tue 6/2)
+- Portfolio $99,469.88 (−0.402% day) vs SPY $759.47 (+0.136% day) → **−0.54% vs SPY**. **Fourth straight UP-tape underperformance day**; cumulative ~−3.28% vs SPY since launch.
+- **GOOGL trailing stop fired at 9:36 AM ET at $361.877** (10 sh). Realized **−$361.19 / −9.07%**. Cushion-compression pattern (5.3% → 3.42% → 2.37% → trigger) flagged across three prior routines played out exactly. Cash up to $83.38k / 83.83% post-liquidation.
+- MSFT Build keynote AI coding model unveil was constructively received in the AI-software cohort but did not produce a meaningful bid for our remaining names (META −0.40%, AMZN −1.79% on the day).
+- **No new buys placed** — plan honored.
+
+### Positions to Monitor (closing prices, ranked by stop-cushion thinness)
+- **LLY** — $1,065.12 close (+7.33% from entry, −1.58% intraday today). Stop $1,034.19, cushion **2.90%** ($30.93/sh) — **now thinnest in book; overtakes META**. HWM $1,149.10 unchanged. **Discipline: do NOT trim pre-ADA (Sat 6/6 retatrutide symposium).** If price breaks $1,050 intraday, evaluate sentiment risk — but the trailing stop catches downside at +4.21% from entry which is still acceptable. Watch for any ADA leak/preview headlines pre-market.
+- **META** — $598.05 close (−1.43% from entry, −0.40% intraday today; best of the book). Stop $578.70, cushion **3.24%** ($19.35/sh). Subscription/AI-tier thesis intact; held up best Tuesday. Build-keynote AI tape constructive into Wed.
+- **AMZN** — $256.58 close (−4.19% from entry, −1.79% intraday today). Stop $247.275, cushion **3.63%** ($9.31/sh). Globalstar/satellite + Prime Day pulled into June + AWS $464B backlog — thesis intact; cushion uncomfortably thin.
+- **ISRG** — $402.30 close (−5.38% from entry, −2.42% intraday today). Stop $383.337, cushion **4.72%** ($18.96/sh). Two heavy down days in a row; non-correlated-diversifier hypothesis is being challenged. Two June catalysts ahead (da Vinci 5 + Japan reimbursement).
+
+### Macro Events Wednesday 6/3
+- **8:15 AM ET:** ADP Employment Change (May) — ahead-of-NFP labor read; hot print would tighten Fed-cut probability further (already <3% for 2026).
+- **10:00 AM ET:** ISM Services PMI (May) — services breadth read after Monday's hot ISM Mfg.
+- **AC:** AVGO, CRWD, VEEV, MDT earnings — AI/cyber tape-setters post-print.
+
+### Earnings to Verify Pre-Market Wednesday (No-Buy List)
+- **Wed 6/3 AC:** AVGO — Broadcom; CRWD — CrowdStrike; VEEV — Veeva Systems; MDT — Medtronic.
+- **Thu 6/4:** LULU, DOCU, M.
+- **Fri 6/5:** OLLI.
+- Verify any new-buy candidate against the calendar at moment of trade.
+
+### Thesis Notes Based on This Week's Price Action
+- **4-day UP-tape underperformance streak is now the dominant signal.** Cumulative −3.28% vs SPY since launch. The book has been structurally lower-beta than the index on up days — fine if it's also cushioning down days, but we haven't had a true down day to test that yet. Until then, treat the gap as a structural problem, not a noise pattern.
+- **GOOGL exit lesson is actionable, not historical.** The same cushion-compression pattern is now visible in LLY (2.90%) and AMZN (3.63%). **Apply the lesson:** if either compresses below ~2.5% with the cohort/index flat-to-up, evaluate a discretionary trim rather than waiting for the 10% trailing stop. Exception: LLY pre-ADA catalyst — discipline holds through Sat 6/6.
+- **ISRG diversifier hypothesis on probation.** Two consecutive −2.4%/−2.9% days on flat-to-up index days is the opposite of the "non-correlated to AI tape" thesis. If the pattern continues post-NFP, log a thesis update and consider whether the position fits the diversification objective.
+- **The Wed/Thu add candidate must be genuinely non-AI-correlated.** Best categories: large-cap financials (JPM, BAC), payments duopoly (V, MA), large-cap defensive consumer (COST, WMT — note WMT reported 5/21 already, clear of earnings), or industrials with breadth tailwind. Skip anything in the AI-mega-cap/semis/SaaS bucket.
+
+### Buy Candidates / Decision Lean for Wednesday
+- **Default: still no new buys at the Wed open.** Wait for ADP (8:15 ET) + ISM Services (10:00 ET) to land. A hot ADP + hot ISM Services = hawkish-Fed surprise → defer to Thursday or Friday. A cool/in-line print + steady tape = consider an add post-10 AM.
+- **Top candidates to research overnight for Wed/Thu add (non-AI-correlated):**
+  - **V (Visa)** — payments duopoly, ~10% rev growth — *might fail 15% bar; verify Q2 print*.
+  - **MA (Mastercard)** — payments duopoly, faster grower than V; revisit growth rate.
+  - **COST (Costco)** — defensive consumer, accelerating same-store growth; high P/E concern.
+  - **JPM (JPMorgan)** — large-cap bank, financial-cycle exposure; benefits from hawkish-Fed tape.
+  - **KKR** — alt-asset manager; AUM growth + carry economics.
+- Each must clear: rev growth >15% YoY, mkt cap >$1B, not an earnings week ticker, ≥$1B mkt cap, ≤5% position, ≥20% cash floor preserved (currently 83.83% — plenty of room for 2 adds).
+
+### Pre-Tomorrow Decision Queue
+- (1) Pre-market: confirm overnight ADA/LLY leak risk + verify no Wed earnings-day overlap with diversifier candidates.
+- (2) Post-ADP/ISM at 10:30 AM ET: decide on a non-AI diversifier add (size ~3–4%).
+- (3) Mid-day guardrail check: LLY <2% cushion or AMZN <2% cushion → evaluate discretionary trim (lesson applied from GOOGL).
+- (4) Verify all 4 remaining trailing stops still GTC and not stale at next routine.
+
+---
