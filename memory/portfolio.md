@@ -1,31 +1,37 @@
 # Portfolio
 
-**Last Updated:** 2026-06-01 (market close routine — Monday)
+**Last Updated:** 2026-06-02 (market open routine — Tuesday, pre-market 8:30 AM ET)
 **Account:** Alpaca Paper Trading
 **Endpoint:** https://paper-api.alpaca.markets
 
 ## Account Summary
 - Cash: $79,763.19
-- Total Portfolio Value (close 6/1): **$99,874.11**
-- Invested (long_market_value): $20,110.92 (20.14%)
-- Cash Reserve: $79,763.19 (79.86%)
-- **Day Open Value (6/1):** $100,474.93 → **Close $99,874.11 = −$600.82 / −0.598% on the day**. Daily-loss cap (−3%) NOT triggered.
-- **Week Start SPY (6/1):** $757.58 (Fri 5/29 close — carried as Week Start reference); **Mon 6/1 SPY close: $758.44 (+0.114% day, +0.114% WTD)**
-- **Day 1 of week vs SPY: −0.71%** (UNDERPERFORMED — third straight UP-tape underperformance day)
-- New positions this week (6/1–6/5): **0 of 3** (no buys today)
+- Total Portfolio Value (pre-market 6/2): **$99,677.05**
+- Invested (long_market_value): $19,913.86 (19.98%)
+- Cash Reserve: $79,763.19 (80.02%)
+- **Day Open Value (6/2):** $99,871.53 (Alpaca last_equity = 6/1 regular-session close). Pre-market $99,677.05 = **−$194.48 / −0.195% vs Day Open**. Daily-loss cap (−3%) NOT triggered.
+- **Week Start SPY (6/1):** $757.58; Mon 6/1 SPY close $758.44 (+0.114% WTD).
+- **No new buys at open today** — plan honored (data-heavy week, MSFT Build keynote pending, AI-cohort tape uncertain).
+- New positions this week (6/1–6/5): **0 of 3**
 - Daytrade count: 0
 
-## Open Positions (6/1 market-close snapshot)
+## Open Positions (6/2 pre-market snapshot — 8:30 AM ET)
 
-| Symbol | Shares | Avg Entry | Current Price | Market Value | Total P&L $ | Total P&L % | Day Change | Trailing Stop |
+| Symbol | Shares | Avg Entry | Pre-Mkt Price | Market Value | Total P&L $ | Total P&L % | Day Change | Trailing Stop |
 |--------|--------|-----------|---------------|--------------|-------------|-------------|------------|---------------|
-| AMZN | 18 | $267.81 | $261.40 | $4,705.20 | −$115.38 | −2.39% | −3.41% | 10% trail (hwm $274.75 → stop $247.275, ~5.40% cushion) |
-| GOOGL | 10 | $397.996 | $376.67 | $3,766.70 | −$213.26 | −5.36% | −0.97% | 10% trail (hwm $408.61 → stop $367.749, **~2.37% cushion — thinnest, ~$8.92/sh from trigger**) |
-| ISRG | 9 | $425.163 | $412.26 | $3,710.34 | −$116.13 | −3.03% | −2.92% | 10% trail (hwm $425.93 → stop $383.337, ~7.02% cushion) |
-| LLY | 4 | $992.355 | $1,082.20 | $4,328.80 | +$359.38 | +9.05% | −2.06% | 10% trail (hwm $1,149.10 → stop $1,034.19, ~4.44% cushion) |
-| META | 6 | $606.73 | $599.98 | $3,599.88 | −$40.50 | −1.11% | **−5.14%** | 10% trail (hwm $643.00 → stop $578.70, ~3.55% cushion) |
+| AMZN | 18 | $267.81 | $257.47 | $4,634.40 | −$186.18 | −3.86% | −1.45% | 10% trail (hwm $274.75 → stop $247.275, ~3.96% cushion) |
+| GOOGL | 10 | $397.996 | $365.96 | $3,659.60 | −$320.36 | −8.05% | −2.77% | 10% trail (hwm $408.61 → stop $367.749, **BELOW stop in pre-market — auto-fire risk at 9:30 ET regular open**) |
+| ISRG | 9 | $425.163 | $410.02 | $3,690.18 | −$136.29 | −3.56% | −0.54% | 10% trail (hwm $425.93 → stop $383.337, ~6.51% cushion) |
+| LLY | 4 | $992.355 | $1,076.33 | $4,305.32 | +$335.90 | +8.46% | −0.54% | 10% trail (hwm $1,149.10 → stop $1,034.19, ~3.91% cushion) |
+| META | 6 | $606.73 | $604.06 | $3,624.36 | −$16.02 | −0.44% | **+0.60%** | 10% trail (hwm $643.00 → stop $578.70, ~4.20% cushion) |
 
-*(Closing prices from Alpaca positions endpoint at market-close routine. All 5 trailing stops verified live & GTC; none triggered today.)*
+*(Pre-market quotes from Alpaca positions endpoint at 8:30 AM ET, before regular cash session open. All 5 trailing stops verified live, GTC, status "new" — none filled.)*
+
+## Pre-Market Watch — 6/2 (Critical)
+
+- **GOOGL pre-market $365.96 is BELOW its $367.749 trailing stop trigger.** If GOOGL opens/trades at/below $367.749 in regular session (9:30 ET), the GTC trailing stop will auto-fire as a market sell of 10 shares. This is the planned cut mechanism — no manual intervention required. Order ID `87d839eb-8e47-4c07-b1cd-50fd3a1cc03f` standing by.
+- **META recovered** to +0.60% pre-market after yesterday's −5.14%. Stop cushion now ~4.20% (from 3.55% at 6/1 close). Watch MSFT Build keynote 9:30 AM PT for cohort direction.
+- **AMZN/LLY/ISRG modest pre-market red** — no thinned-stop triggers; LLY cushion now thinnest of the un-triggered three at 3.91% (compressed from 4.44% at 6/1 close, but pre-ADA-symposium discipline holds: NO trim ahead of Saturday 6/6 retatrutide deeper-data readout).
 
 ## Week Tracking
 
