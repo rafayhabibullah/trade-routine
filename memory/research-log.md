@@ -455,3 +455,78 @@ US futures modestly higher entering Monday — E-mini S&P +0.2–0.29%, Nasdaq-1
 - (3) Identify and validate a non-AI-correlated diversifier candidate for potential Wed/Thu add.
 
 ---
+
+## Research — 2026-06-03 (Wednesday)
+
+### Market Conditions
+US futures roughly flat to slightly higher entering Wednesday after Tuesday's records — Dow +0.5% to a fresh record close, S&P 500 +0.1% finishing above 7,600 for the first time, Nasdaq slightly green; S&P futures hugging flat, Nasdaq-100 futures +0.1%. **JOLTS printed hot at 7.6M openings vs 6.89M est** (the big surprise of Tuesday) — labor demand still firm into Friday NFP; markets continuing to price <3% chance of 2026 cut. Crude continued its climb on Mideast tensions (WTI $93.76 +1.74%, Brent $96 +1%) — modest input-cost headwind. AI tape: Microsoft Build keynote landed Tuesday into a record close for chip cohort; META/AMZN still under pressure. Day's data crescendo today: **ADP Employment (May) 8:15 AM ET + ISM Services PMI (May) 10:00 AM ET**.
+
+### SPY Reference Price
+Not Monday — no new SPY reference recorded. Week Start SPY remains **$757.58** (Fri 5/29 close carried as Mon 6/1 reference). Tue 6/2 close $760.00 → SPY week-to-date **+0.32%**.
+
+### Position Count This Week
+**0 of 3 BUY slots used** (GOOGL stop-out yesterday was a SELL, does not consume a buy slot). 3 buy slots still available 6/3–6/5.
+
+### Realized Event — GOOGL Trailing Stop Triggered (Tue 6/2)
+- **Stop fill:** 10 shares @ $361.877 at 13:36 UTC = 9:36 AM ET on Tuesday 6/2 (~6 min after open). Stop was $367.749; price gapped through it. Order ID `87d839eb`.
+- **Realized P&L:** 10 × ($361.877 − $397.996) = **−$361.19 / −9.07%** (effectively the 10% trailing-stop guardrail working as designed — locked the loss at slightly worse than −9% as price gapped through the limit).
+- **Book impact:** Cash +$3,618.77 → $83,381.95 (83.84% of equity). Long MV $16,070.37. Equity $99,452.32 (−$421.79 / −0.42% day; vs SPY +0.21% → **−0.63% vs SPY day 4**).
+- **Cohort thesis read:** GOOGL was the persistent laggard (never participated in AI-tape recoveries 5/22 onward); cutting it removes the worst-performing position from the book and frees ~3.6% of capital to redeploy into a genuinely diversified add (financials/payments/staples).
+- **Live stops still GTC:** AMZN `4742e5a0`, ISRG `b271eef3`, LLY `28f47c51`, META `566b9e93`. GOOGL stop ID `87d839eb` now `filled` (consumed).
+
+### Earnings This Week — Do Not Buy
+- **Mon 6/1:** HPE — Hewlett Packard Enterprise (reported AC)
+- **Tue 6/2:** PANW — Palo Alto Networks; ULTA — Ulta Beauty; DG — Dollar General; GTLB — GitLab; MOMO; SIG — Signet; VSCO — Victoria's Secret (all reported)
+- **Wed 6/3 (TODAY):** AVGO — Broadcom (AC); CRWD — CrowdStrike (AC); VEEV — Veeva Systems (AC); MDT — Medtronic (AC)
+- **Thu 6/4:** LULU — Lululemon; DOCU — DocuSign; M — Macy's
+- **Fri 6/5:** OLLI — Ollie's Bargain Outlet
+- Plus ~24 other tickers Wed / ~33 Thu / ~12 Fri — verify any candidate at moment of trade.
+
+### Macro Events This Week
+- **Today 6/3 8:15 AM ET:** ADP Employment (May) — leading read into Friday NFP.
+- **Today 6/3 10:00 AM ET:** ISM Services PMI (May) — services-side employment & prices sub-indices key after hot Chicago PMI (62.7).
+- **Thu 6/4:** Weekly Initial Jobless Claims; Productivity & Costs final.
+- **Fri 6/5 8:30 AM ET:** **Nonfarm Payrolls (May)** + Unemployment + AHE — the main event for Fed-cut probability and 10Y direction. JOLTS hot print Tuesday raised the bar.
+- No FOMC this week; next meeting June 16–17 (Warsh's first as Chair). PPI (May) 6/11.
+
+### Watchlist for Today/Tomorrow's Open (cap 0/3 used — 3 slots open)
+| Symbol | One-Line Thesis | Rev Growth | Moat Type | Analyst Rating | Action |
+|--------|-----------------|------------|-----------|----------------|--------|
+| **KKR** | Q1'26 mgmt fees +30% YoY, total rev $4.32B, ANI +20%, FRE EPS $1.13; AUM $758B (+14%), fee-paying AUM $615B (+17%); $125B uncalled commitments — alt-asset compounder with capital-lock-up moat | 30% mgmt fees / ~20% headline | Switching costs (10-yr LP capital locks); scale/brand in alts; Global Atlantic insurance float | Buy consensus | **Preferred non-AI diversifier** — clean qualifier, capital-cycle exposure, low AI-cohort correlation; clear of earnings (next early Aug). Lean ~3–4% entry Wed PM or Thu open post-ADP/ISM. |
+| **V** | Q2 FY26: net revenue **+17%** to $11.2B, payments volume +9%, cross-border +12%, processed transactions +9% to $66B, value-added services +27%; EPS +20% — global payments duopoly running structurally | 17% | Duopoly network (Visa/Mastercard); scale; switching costs; brand | Buy consensus | **Strong non-AI diversifier alternative** — clear of earnings (Q3 late July). Travel/cross-border + value-added-services growth proving durable. Lean as secondary if KKR setup is offered first. |
+| NOW | Q1'26 sub rev +22% YoY ($3.67B), total rev +22% ($3.77B); Now Assist 2026 ACV target raised to **$1.5B** (from $1B); cRPO +22.5%; 32% op margin; Now Assist $1M+ customers +130% YoY | 22% | Switching costs (enterprise workflow platform); platform/data lock-in; ecosystem | Strong Buy | **Bench** — clean qualifier but still AI-cohort correlated; recent cohort sell-off pattern is the reason to prefer non-AI adds first. Reassess if AI cohort firms post-Build/CRWD/AVGO. |
+| MSFT | Q3 FY26 +18% YoY, Azure +40%, AI run rate $37B (+123%), Cloud $54.5B (+29%); GitHub usage-based pricing live 6/1; Build keynote landed 6/2 | 18% / 40% Azure | Switching costs (enterprise + M365); scale; platform | Strong Buy; PT ~$560 | **Bench** — same AI-concentration concern as NOW. Re-evaluate if AI cohort firms. |
+| COST | Q3 FY26 (ended 5/10): rev **+12%** to $70.53B; comps +6.6% ex-fuel/FX (US +6.8%); membership rev +10.7%; e-commerce +21.5%; first double-digit total since 2022 | 12% — **below 15% bar** | Membership model lock-in; scale buying power; brand | Mixed (valuation) | **Skip** — fails 15% revenue growth criterion (12% headline, comps only 6.6%). Defensive characteristics noted but rules are rules. |
+
+### Existing Position Notes
+| Symbol | News | Thesis Still Valid? | Action |
+|--------|------|---------------------|--------|
+| **AMZN** | **Prime Day 2026 dates officially confirmed: June 23–26** (4-day event, pulled into June from July around FIFA World Cup / America 250th catalysts). Emarketer forecasts +7.1% US sales during event; Amazon's US e-comm share to hit 60.3% (highest since 2019). Heavy promotion of Alexa-for-Shopping AI. AWS retail-AI distribution thesis intact. Closed Tue $255.90 (−4.45% from entry; −0.24% day). | Yes — strengthened (Prime Day window pulls Q2 revenue forward + Alexa AI shopping push). | Hold. Trailing stop $247.275 (cushion now ~3.36% — has tightened). Watch close. |
+| **ISRG** | da Vinci 5 rollout of 100+ feature upgrades **starting this month (June)** to US customers — global rollout pending regulatory clearance. Japan MHLW expected to rule on robotic-procedure reimbursement expansion in June (covers 7 new procedures + incremental support for high-volume hospitals; modest initial impact but unlocks longer-term TAM). Closed Tue $401.51 (−5.56% from entry; −0.20% day). | Yes — two June catalysts on track. | Hold. Trailing stop $383.337 (cushion now ~4.74% — has tightened with price). Watch close. |
+| **LLY** | **ADA 86th Scientific Sessions June 5–8 New Orleans confirmed.** Retatrutide symposium **Saturday 6/6 1:30–3:00 PM CDT** — deeper TRIUMPH-1 Phase 3 data. Lilly also presenting Foundayo + Mounjaro updates. TRIUMPH-1 topline (5/21) already showed 28.3% weight loss / 70.3 lb avg over 80 weeks; TRANSCEND-T2D-1 met primary + all secondary endpoints (A1C reductions up to 2.0%). Closed Tue $1,064.88 (+7.31% from entry; +0.07% day). | Yes — accelerating into catalyst. | Hold. Trailing stop $1,034.19 (cushion ~2.88% — has tightened materially). **Pre-ADA discipline: do not trim ahead of Sat 6/6 symposium.** |
+| **META** | **EU Commission opened formal antitrust investigation** into Meta's policy on AI providers' access to WhatsApp (Meta AI remains accessible while rivals blocked) — regulatory overhang adds to existing scrutiny. "Meta One" subscription brand officially launched globally (Instagram Plus $3.99, Facebook Plus $3.99, WhatsApp Plus $2.99; AI tiers $7.99/$19.99 testing in select markets). Senate scrutiny of Scale AI $14.3B acqui-hire being weighed by FTC/DOJ. Closed Tue $598.00 (−1.44% from entry; +0.06% day — modest bounce off Mon's −5.14%). | Yes — subscription thesis intact; antitrust + acqui-hire scrutiny is bounded headline noise, not a fundamental break. | Hold. Trailing stop $578.70 (cushion ~3.34%). Watch for further EU antitrust headline volatility. |
+
+### Plan for Today's Open and This Week
+- **Lean: still no buy at Wed open**, but the case for adding a non-AI diversifier has strengthened. Wait for **8:15 AM ET ADP** + **10:00 AM ET ISM Services** to clear before deploying. Decision tree:
+  - (a) ADP cool/in-line + ISM Services not too-hot (esp. prices sub-index) + tape firms → **Add KKR ~3–4% (~$3,500) mid-morning Wed or at Thu open** as the non-AI diversifier. ~$3,500 ≈ 37 shares at $94.43 Tue close.
+  - (b) ADP hot OR ISM Services prints high prices-paid → defer adds; 10Y likely re-tests 4.69%+ and pressures the book further. Reassess Thursday post-jobless claims.
+  - (c) AI cohort gaps up materially on AVGO/CRWD post-close → still prefer KKR (the goal is **diversification**, not chasing the cohort).
+- **No second add this week** unless KKR fills and the tape confirms — preserve dry powder ahead of Fri NFP + next-Mon catalyst digestion (LLY ADA reads through, AVGO earnings reaction).
+- **Earnings no-buy carries**: HPE, PANW, ULTA, DG, GTLB, AVGO, CRWD, VEEV, MDT, LULU, DOCU, M, OLLI. Verify at moment of any buy.
+- **Mid-day guardrail check still required**: cut anything down >7% intraday; −3% daily-loss cap halts trading.
+- **Cash floor (≥20%) check**: currently 83.84% cash. Plenty of room for 1 add (~3–4%) without breaching the floor.
+
+### Stop-Cushion Watch (closing Tue 6/2)
+- **LLY** — cushion **2.88%** (price $1,064.88 vs stop $1,034.19). **Thinnest in the book** now. Holding into ADA per discipline — if it trips, takes a +7% winner off the table at +~4% realized.
+- **META** — cushion **3.34%** (price $598.00 vs stop $578.70).
+- **AMZN** — cushion **3.36%** (price $255.90 vs stop $247.275).
+- **ISRG** — cushion **4.74%** (price $401.51 vs stop $383.337).
+- Three of four positions now have ≤5% cushions. Tape is one bad day from triggering multiple stops. Adding KKR (non-correlated) helps reduce concentration risk but does NOT mitigate any individual stop trigger.
+
+### Pre-Tomorrow Decision Queue
+- (1) **ADP + ISM Services post-print reaction** → KKR add or defer.
+- (2) **AVGO + CRWD AC earnings** → AI cohort bid or offer into Thu open.
+- (3) **LLY stop discipline** confirmed — let it run into ADA Sat 6/6 regardless of cushion tightness.
+- (4) Verify all 4 remaining trailing stops live & GTC at next routine.
+
+---
