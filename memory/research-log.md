@@ -530,3 +530,51 @@ Not Monday — no new SPY reference recorded. Week Start SPY remains **$757.58**
 - (4) Verify all 4 remaining trailing stops live & GTC at next routine.
 
 ---
+
+## Tomorrow's Watch — 2026-06-04 (Thursday)
+
+### Day-3 Recap (Wed 6/3)
+- Portfolio $99,584.60 (−0.142% day) vs SPY $759.21 (−0.047% day) → **−0.095% vs SPY**. **Narrowest relative-loss day of week 3.** First session in 5 where the book didn't bleed ≥0.30% vs SPY.
+- WTD: Portfolio −0.886% vs SPY +0.215% → **−1.10% WTD vs SPY**.
+- ADP + ISM Services prints cleared without major surprise; tape drifted lower on light catalysts. **No new buys placed** — KKR deferred per option (b) of morning decision tree.
+- Intraday color: META +3.98% (cushion expanded 3.55% → 6.87%; erased Mon's −5.14%); LLY +1.38% pre-ADA bid (cushion 4.13%); ISRG +1.24% re-asserted non-correlation thesis (cushion 5.88%); AMZN −2.68% to fresh low (cushion now **0.95%, ~$2.37/sh from trigger**).
+- Pattern read: relative bleed narrowing (−0.71%, −0.30%, −0.095% across days 1–3). With GOOGL cut and META/ISRG rebounding, the book is structurally less cohort-correlated. Worth watching whether the trend holds Thursday.
+
+### Positions to Monitor (closing prices, ranked by stop-cushion thinness)
+- **AMZN** — $249.64 close (−6.79% from entry, −2.68% intraday). Stop $247.275, cushion **0.95%** ($2.37/sh). **The 10% trailing stop is effectively live.** Cut framework: trailing stop will auto-trigger near $247 if AMZN gaps down at open or weakens early. If AMZN bounces, cushion repairs — do nothing. Did NOT hit the >7% intraday cut threshold today. Thesis (AWS retail-AI, Globalstar/satellite, Prime Day 6/23–26) intact. **Highest single-position-risk into Thursday.**
+- **LLY** — $1,078.78 close (+8.71% from entry, +1.38% intraday). Stop $1,034.19, cushion **4.13%** (tightening from 4.44% Mon as price drifts vs unchanged HWM $1,149.10). **Pre-ADA discipline holds: do not trim ahead of Sat 6/6 retatrutide symposium.** If stop trips before ADA, it locks in +~4% — acceptable. Catalyst risk into Saturday is asymmetric to the upside (TRIUMPH-1 topline already de-risked the headline thesis).
+- **ISRG** — $407.29 close (−4.20% from entry, +1.24% intraday). Stop $383.337, cushion 5.88%. Non-correlation thesis re-validated today. June catalysts (da Vinci 5 rollout + Japan reimbursement decision) on track.
+- **META** — $621.40 close (+2.42% from entry, +3.98% intraday — strongest mover). Stop $578.70, cushion expanded to 6.87% (from 3.55% Mon). Subscription/AI-tier thesis intact; EU WhatsApp antitrust investigation noise, not a fundamental break.
+
+### Macro Events Thursday 6/4
+- **AC tonight (Wed 6/3):** AVGO, CRWD, VEEV, MDT report — AI/security cohort tape risk into Thu open. CRWD particularly relevant for NOW/MSFT cohort read. AVGO is the big-tech-AI compute proxy.
+- **Thu 6/4 8:30 AM ET:** Weekly Initial Jobless Claims (key labor read between ADP-Tue and NFP-Fri). Productivity & Costs (Q1 final).
+- **Thu 6/4 earnings:** LULU — Lululemon; DOCU — DocuSign; M — Macy's (all reporting; verify no overlap before any buy).
+- No FOMC events; next meeting June 16–17 (Warsh's first as Chair).
+- Reminder: Fri 6/5 NFP at 8:30 AM ET = week's main event; **Thu is the last add window before NFP**.
+
+### Earnings to Verify Pre-Market Thursday (No-Buy List)
+- **Thu 6/4:** LULU, DOCU, M, plus ~33 other tickers — verify any candidate against the calendar at moment of trade.
+- **Fri 6/5:** OLLI.
+- Standing perm-skip: CRM (12% growth), COST (12% growth), UBER (14% growth) — all below 15% bar.
+
+### Thesis Notes Based on Today's Price Action
+- **The relative-underperformance pattern is narrowing.** Day 3 was the first day vs SPY where the book stayed within 10 bps of the index. If the pattern reverses Thursday (book flat-to-up vs SPY), the "concentration risk" narrative weakens and the case for adding a non-AI diversifier becomes less urgent — could let cash sit through NFP/ADA weekend.
+- **META rebound + ISRG non-correlation re-asserted** suggests Monday's tape was an idiosyncratic AI-cohort gap, not a regime change. Watch whether AVGO/CRWD post-close earnings extend that read or break it.
+- **AMZN 0.95% cushion** is the binary risk for the book: a stop-out tomorrow takes a 6.8%-loser off the book and frees ~$4,500 capital (~83.7% → ~88.2% cash). Not catastrophic, but loses the Prime Day (6/23–26) optionality. Thesis still reads intact — but the price tape has already drawn the line.
+- **LLY pre-ADA discipline:** the catalyst (Sat 6/6 1:30 PM CDT) is in 2 sessions. Even if cushion tightens further Thursday, do not trim.
+
+### Buy Candidates / Decision Lean for Thursday
+- **Default: still no new buys at Thu open.** Wait for: (a) AVGO/CRWD AC reaction overnight (sets AI-cohort tone), (b) initial jobless claims 8:30 AM (one more labor data point before NFP), (c) the AMZN cushion question to resolve (stop or hold).
+- **If adding pre-NFP:** lean **KKR** (~3–4% / ~$3,500) as the genuine non-AI/non-tech diversifier. Capital-cycle exposure, 30% mgmt-fees growth, 10-yr LP capital lock-up moat, clear of earnings (next early Aug). Top candidate from Wed watchlist. V (Visa) as secondary (17% rev growth, payments duopoly).
+- **If NOT adding:** cash sits at 83.73% through NFP. Plenty of dry powder for a Monday post-NFP/post-ADA setup.
+- **Earnings no-buy carries:** AVGO, CRWD, VEEV, MDT, LULU, DOCU, M, OLLI. Verify at moment of any buy.
+
+### Pre-Tomorrow Decision Queue
+- (1) **AMZN open behavior** → stop-out resolution or cushion repair. No discretionary action needed regardless (trailing stop is the line).
+- (2) **AVGO + CRWD AC earnings tone** → AI cohort bid or offer into Thu open. If AI sells off, defer all adds; if AI bids, KKR add becomes more attractive (uncorrelated bid).
+- (3) **Initial Jobless Claims read** → if hot (i.e., low claims confirming labor tightness), 10Y likely climbs and pressures long-duration tech — defer adds. If softening, adds become more attractive.
+- (4) **LLY pre-ADA discipline** → confirmed. Do not trim ahead of Sat 6/6 symposium regardless of cushion.
+- (5) **Stop-cushion check:** all 4 remaining stops verified live & GTC tonight (order IDs `4742e5a0` AMZN, `b271eef3` ISRG, `28f47c51` LLY, `566b9e93` META).
+
+---
