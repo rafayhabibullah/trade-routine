@@ -1,31 +1,30 @@
 # Portfolio
 
-**Last Updated:** 2026-06-01 (market close routine — Monday)
+**Last Updated:** 2026-06-04 (market open routine — Thursday)
 **Account:** Alpaca Paper Trading
 **Endpoint:** https://paper-api.alpaca.markets
 
 ## Account Summary
-- Cash: $79,763.19
-- Total Portfolio Value (close 6/1): **$99,874.11**
-- Invested (long_market_value): $20,110.92 (20.14%)
-- Cash Reserve: $79,763.19 (79.86%)
-- **Day Open Value (6/1):** $100,474.93 → **Close $99,874.11 = −$600.82 / −0.598% on the day**. Daily-loss cap (−3%) NOT triggered.
-- **Week Start SPY (6/1):** $757.58 (Fri 5/29 close — carried as Week Start reference); **Mon 6/1 SPY close: $758.44 (+0.114% day, +0.114% WTD)**
-- **Day 1 of week vs SPY: −0.71%** (UNDERPERFORMED — third straight UP-tape underperformance day)
-- New positions this week (6/1–6/5): **0 of 3** (no buys today)
+- Cash: $83,381.95
+- Total Portfolio Value (open 6/4): **$99,754.48**
+- Invested (long_market_value): $16,372.53 (16.41%)
+- Cash Reserve: $83,381.95 (83.59%)
+- **Day Open Value (6/4):** $99,754.48 (intraday +$153.56 / +0.154% vs Wed close $99,600.92). Daily-loss cap (−3%) NOT triggered.
+- **Week Start SPY (6/1):** $757.58 (Fri 5/29 close — carried as Mon Week Start reference). Wed 6/3 SPY close ~$754.40 → SPY WTD ≈ **−0.42%**.
+- **WTD vs SPY (through Wed 6/3 close):** Portfolio $99,600.92 (−0.87% WTD) vs SPY −0.42% WTD → **−0.45% vs SPY WTD**. Wed was the first OP day vs SPY since launch (+0.89% relative on a −0.74% SPY day; cash drag finally cushioning a down tape).
+- New positions this week (6/1–6/5): **0 of 3** (GOOGL stop-out 6/2 was a SELL, does not consume buy slot)
 - Daytrade count: 0
 
-## Open Positions (6/1 market-close snapshot)
+## Open Positions (6/4 market-open snapshot, intraday quotes)
 
 | Symbol | Shares | Avg Entry | Current Price | Market Value | Total P&L $ | Total P&L % | Day Change | Trailing Stop |
 |--------|--------|-----------|---------------|--------------|-------------|-------------|------------|---------------|
-| AMZN | 18 | $267.81 | $261.40 | $4,705.20 | −$115.38 | −2.39% | −3.41% | 10% trail (hwm $274.75 → stop $247.275, ~5.40% cushion) |
-| GOOGL | 10 | $397.996 | $376.67 | $3,766.70 | −$213.26 | −5.36% | −0.97% | 10% trail (hwm $408.61 → stop $367.749, **~2.37% cushion — thinnest, ~$8.92/sh from trigger**) |
-| ISRG | 9 | $425.163 | $412.26 | $3,710.34 | −$116.13 | −3.03% | −2.92% | 10% trail (hwm $425.93 → stop $383.337, ~7.02% cushion) |
-| LLY | 4 | $992.355 | $1,082.20 | $4,328.80 | +$359.38 | +9.05% | −2.06% | 10% trail (hwm $1,149.10 → stop $1,034.19, ~4.44% cushion) |
-| META | 6 | $606.73 | $599.98 | $3,599.88 | −$40.50 | −1.11% | **−5.14%** | 10% trail (hwm $643.00 → stop $578.70, ~3.55% cushion) |
+| AMZN | 18 | $267.81 | $253.20 | $4,557.60 | −$262.98 | −5.45% | +1.27% | 10% trail (hwm $274.75 → stop $247.275, **~2.34% cushion — thinnest in book**) |
+| ISRG | 9 | $425.163 | $413.01 | $3,717.13 | −$109.34 | −2.86% | +1.41% | 10% trail (hwm $425.93 → stop $383.337, ~7.19% cushion) |
+| LLY | 4 | $992.355 | $1,097.00 | $4,388.00 | +$418.58 | +10.55% | +1.69% | 10% trail (hwm $1,149.10 → stop $1,034.19, ~5.73% cushion) |
+| META | 6 | $606.73 | $618.18 | $3,709.08 | +$68.70 | +1.89% | −0.77% | 10% trail (hwm $643.00 → stop $578.70, ~6.39% cushion) |
 
-*(Closing prices from Alpaca positions endpoint at market-close routine. All 5 trailing stops verified live & GTC; none triggered today.)*
+*(Intraday prices from Alpaca positions endpoint at market-open routine. All 4 trailing stops verified live & GTC; GOOGL stop `87d839eb` filled 6/2 and consumed. AMZN cushion remains the watchpoint — Prime Day catalyst still ahead 6/23.)*
 
 ## Week Tracking
 
@@ -55,6 +54,17 @@
 - Daily Loss Today: −0.263% — no daily loss; −3% cap not triggered.
 
 ## Notes
+
+### Market Open Routine — 2026-06-04 (Thursday)
+- **Day Open Value:** $99,754.48 (intraday +0.154% vs Wed close $99,600.92). Daily-loss cap (−3%) NOT triggered.
+- **No buys executed at open** — plan honored per research-log 6/4. Reasons: (1) tomorrow's NFP is the swing data point and adding today risks overnight NFP gap; (2) Wednesday's −0.74% SPY shows the cohort sell-the-news pattern still in play (AVGO blowout + CRWD beat couldn't lift the tape); (3) AMZN's stop cushion is only ~2.34% — book is one bad day from a second forced exit, risk-budget best preserved. Standing primary is **KKR** for post-NFP Friday add if NFP not too hot.
+- **Position-level open read:**
+  - **AMZN $253.20 (+1.27%):** firming after Wed pressure; cushion improves slightly to 2.34%. Prime Day 6/23 catalyst still ahead.
+  - **ISRG $413.01 (+1.41%):** healthy bid; cushion 7.19%. da Vinci 5 US rollout this month + Japan MHLW reimbursement decision pending.
+  - **LLY $1,097.00 (+1.69%):** firing higher into ADA Sat 6/6 retatrutide symposium. All 3 largest US PBMs now cover full LLY obesity portfolio. Cushion 5.73%; hwm $1,149.10 unchanged.
+  - **META $618.18 (−0.77%):** the only red name at open. Cushion 6.39%; EU 2nd Highest Court ruling Wed split (Marketplace appeal upheld, Messenger dismissed); Arete upgrade to Buy ($735 PT) supportive. Subscription rollout (Meta One) intact.
+- **All 4 trailing stops re-verified live & GTC** at routine start (order IDs unchanged: AMZN `4742e5a0`, ISRG `b271eef3`, LLY `28f47c51`, META `566b9e93`). GOOGL `87d839eb` correctly `filled`.
+- **Decision tree for tomorrow 6/5 NFP (8:30 AM ET):** (a) NFP ≤170k + UR ≤4.3% + 10Y ≤4.5% → **add KKR ~$3,500 (~37 sh)** mid-morning Fri with 10% trailing stop; (b) NFP >200k AND 10Y >4.55% → defer; (c) NFP cool + tape risk-off on Iran/oil → still favor KKR.
 
 ### Market Close Routine — 2026-06-01 (Monday)
 - **Close:** Portfolio $99,874.11 vs Day Open Ref $100,474.93 = **−0.598% day**; daily-loss cap (−3%) NOT triggered.
