@@ -609,3 +609,73 @@ Not Monday — no new SPY reference recorded. Week Start SPY remains **$757.58**
 - (4) **Trailing stops re-verify live & GTC** at next routine (all 4 confirmed today 6/4).
 
 ---
+
+## Tomorrow's Watch — 2026-06-05 (Friday — NFP DAY)
+
+### Day-4 Recap (Thu 6/4)
+- Portfolio $99,984.01 (+0.385% day) vs SPY ~$753.18 (−0.14% day) → **+0.53% vs SPY (2nd straight OP day)**. WTD now +0.09% vs SPY — **first WTD OP since launch**.
+- **AVGO −12.76% post-earnings** (AI guidance disappointing — $100B AI-chip FY target NOT raised) wiped ~$320B mkt cap and rotated the tape: Dow +1.08% (record close), Nasdaq −0.76%, S&P −0.14%. Book had **zero direct AI-chip exposure** → caught no hit and benefitted from cyclical/pharma rotation.
+- All 4 positions green today; LLY +4.31% leading into ADA Sat symposium. AMZN cushion improved off the danger zone (~1.97% → 2.61%).
+- **No new buys placed** (per plan — pre-NFP discipline). 0/3 buy slots still available for Fri.
+
+### Positions to Monitor (closing prices, ranked by stop-cushion thinness)
+- **AMZN** — $253.90 close (−5.19% from entry, +1.55% intraday). Stop $247.275, cushion **2.61%** ($6.625/sh) — **still thinnest in book** despite today's reprieve. NFP gap risk is the main concern: a hot NFP that re-rates AI/tech-cyclical names lower could trigger this on the open. Prime Day catalyst 6/23–26 still ahead. **Cut framework: if NFP gaps AMZN below $247.275, trailing stop auto-fills; no manual action.**
+- **META** — $626.90 close (+3.32% from entry, +0.63% intraday). Stop $578.70, cushion **7.69%** ($48.20/sh). EU 2nd Highest Court ruling Wed marginal positive (Marketplace gatekeeper appeal upheld; Messenger dismissed). Arete Buy $735 PT upgrade. Subscription rollout intact. **Hold.**
+- **LLY** — $1,125.27 close (+13.39% from entry, **+4.31% intraday — strongest in book**). Stop $1,034.19, cushion **8.10%** ($91.08/sh). HWM unchanged at $1,149.10 (close below). Bull-flag into Saturday 6/6 ADA retatrutide symposium. PBM coverage expansion (all 3 largest US PBMs now cover Zepbound+Foundayo) printed this week. **Pre-ADA discipline absolute: do not trim.**
+- **ISRG** — $418.82 close (−1.49% from entry, +2.83% intraday). Stop $383.337, cushion **8.47%** ($35.48/sh). da Vinci 5 US rollout started this month; Japan MHLW reimbursement expansion June (7 new procedures). Diversifier behaved correctly today. **Hold.**
+
+### Macro Events Friday 6/5 — NFP DAY
+- **8:30 AM ET: Nonfarm Payrolls (May)** + Unemployment Rate + Average Hourly Earnings — **the week's main event for Fed-cut probability + 10Y direction**. JOLTS hot at 7.6M, ADP hot at 122k (vs 117k est), ISM Services Employment 47.9 (contraction 3rd month) → split signals. Consensus around ~170k NFP / unemployment 4.3%.
+- Key thresholds for the tape:
+  - **NFP ≤170k + UE ≥4.3% + AHE ≤0.3% m/m** → cool print, 10Y likely eases, supportive of long-duration tech and KKR add window.
+  - **NFP >200k OR AHE >0.4% m/m** → hot print, 10Y likely spikes back toward 4.55–4.70%, AI cohort under more pressure, AMZN cushion risk acute.
+  - **NFP cool + tape risk-off on Iran/oil** → KKR still favored (capital-cycle exposure ≠ AI beta).
+- **Saturday 6/6 1:30–3:00 PM CDT: LLY retatrutide TRIUMPH-1 deeper data at ADA** — Saturday catalyst NOT actionable Fri but news flow could pull LLY toward HWM ($1,149.10) into the close.
+- No FOMC events; next meeting June 16–17 (Warsh's first as Chair). PPI (May) 6/11.
+
+### Earnings to Verify Friday Pre-Market
+- **Fri 6/5:** OLLI — Ollie's Bargain Outlet.
+- Plus ~12 other tickers Fri — verify any new-buy candidate at moment of trade.
+- AC reports last night (6/4): LULU, RBRK, DOCU, M — read for retail/cloud signal but no direct position impact.
+
+### Watchlist for Friday Open (cap 0/3 used — 3 slots available)
+| Symbol | One-Line Thesis | Rev Growth | Moat Type | Analyst Rating | Action |
+|--------|-----------------|------------|-----------|----------------|--------|
+| **KKR** | Q1'26 mgmt fees +30% YoY, total rev $4.32B, AUM **$758B (+14%)**, fee-paying AUM $615B (+17%), $317M buybacks at $91.08, dividend raised; Arctos Partners $16B sports AUM acquisition closed — alt-asset compounder with 10-yr LP capital-lock-up moat | 30% mgmt fees / ~20% headline | Switching costs (LP capital locks); scale/brand in alts; Global Atlantic insurance float | Buy consensus | **Standing primary non-AI diversifier — POST-NFP DEPLOY** (~3–4% / ~$3,500 / ~37 shares at ~$94). Decision-tree dependent on NFP print. Clear of earnings (next early Aug). |
+| **V** | Q2 FY26 net rev **+17%** to $11.2B, payments vol +9%, cross-border +12%, value-added services +27%, EPS +20%; new $20B buyback | 17% | Duopoly network; scale; switching costs; brand | Buy consensus | Secondary if KKR unavailable Friday. Clear of earnings (Q3 late July). |
+| NOW | Stock +~40% in 4 sessions — extreme short-term rally on AI-software bid | 22% | Switching costs; platform/data | Strong Buy | **Skip** — chase risk; revisit on a pullback. |
+| MSFT | Q3 FY26 +18%, Azure +40%, AI run rate $37B (+123%); Build keynote 6/2 absorbed | 18% / 40% Azure | Switching costs; scale; platform | Strong Buy; PT ~$560 | **Bench** — deepens AI concentration; rotation rotation against AI cohort today argues for KKR/V instead. |
+
+### Plan for Friday Open
+- **Pre-NFP (before 8:30 AM ET):** No action. Trailing stops will manage downside automatically.
+- **Post-NFP decision tree (around 9:30 AM ET):**
+  - **(a) Cool NFP (≤170k headline) + UE ≥4.3% + AHE ≤0.3% m/m + 10Y holds ≤4.5%** → **Buy KKR ~$3,500 (~37 shares at ~$94) mid-morning Friday** as the clean non-AI diversifier. Place 10% trailing stop immediately after fill. **PRIMARY PATH.**
+  - **(b) Hot NFP (>200k OR AHE >0.4% m/m)** → defer all adds; AMZN cushion (2.61%) is at risk if 10Y spikes. Reassess Monday.
+  - **(c) NFP in-line / mixed (~170–200k) + tape ambiguous** → small KKR starter (~$2,500 / ~26 shares) acceptable; preserve dry powder.
+  - **(d) NFP cool BUT geopolitical risk-off (Iran/oil) breaks the tape** → still favor KKR (capital-cycle alts thesis is independent of AI beta). Slightly smaller size (~3% / ~$3,000) given tape risk.
+- **No second add this week** — preserve cash ahead of LLY ADA weekend + next-week digestion of AVGO guide ($29.4B Q3 +84% — could re-rate AI cohort either direction Monday).
+- **Mid-day guardrail check still required**: cut anything down >7% intraday; −3% daily-loss cap halts trading.
+- **Cash floor (≥20%) check**: currently 83.40%. KKR ~$3,500 add → ~79.9% cash, well above floor.
+
+### Stop-Cushion Watch (close 6/4)
+- **AMZN** — cushion **2.61%** (price $253.90 vs stop $247.275). Thinnest. NFP gap risk.
+- **META** — cushion **7.69%** (price $626.90 vs stop $578.70).
+- **LLY** — cushion **8.10%** (price $1,125.27 vs stop $1,034.19). Pre-ADA hold.
+- **ISRG** — cushion **8.47%** (price $418.82 vs stop $383.337).
+- Three of four positions now have ≥7% cushions (up materially from Wed's "three of four ≤5%" regime). AMZN remains the single-event-day risk.
+
+### Thesis Notes Based on This Week's Price Action
+- **GOOGL exit (6/2) was the right call** — the persistent cohort lag thesis broke at the stop trigger (−9.07% realized, slightly worse than 10% trail due to gap-through). Cash freed has been preserved (no rushed redeploy), and Wed/Thu OP days validate the "patience over chase" framework.
+- **The book's "AI mega-cap heavy" concentration has been reduced from 4 names to 3 (AMZN/META/LLY direct + ISRG diversifier).** Today's AVGO-driven rotation produced our **best OP day since launch** (+0.53% vs SPY) — proves the book can OP when AI cohort is sold AND we have no direct AI-chip exposure.
+- **Cash 83.40% has been a feature, not a bug**: two OP days in a row are largely cash-drag-cushioning down tapes. The strategic implication for the weekly review: cash floor 20% is doing the work — adding KKR (non-correlated) post-NFP is the right way to deploy *without* re-introducing cohort beta.
+- **LLY is the unambiguous winner** (+13.39% from entry, +4.31% today). ADA Sat 6/6 retatrutide deeper data + Foundayo + Mounjaro readouts + PBM coverage expansion = catalyst-rich. **Hold absolutely into Saturday.**
+- **AMZN remains the single-stock risk event** — cushion only 2.61%, Prime Day still ahead. A NFP-driven 10Y spike that pressures AMZN through $247.275 takes it out at −7.7% realized loss. The thesis is still intact, but the stop is set — no manual action required.
+
+### Pre-Tomorrow Decision Queue
+- (1) **8:30 AM ET NFP print** → KKR add per decision tree (a/b/c/d) or defer.
+- (2) **AMZN gap risk** — if NFP gaps AMZN below $247.275 trailing stop auto-fills.
+- (3) **LLY HWM watch** — if LLY pushes above $1,149.10 intraday, trailing stop ratchets higher.
+- (4) **OLLI earnings** — no direct impact; tape signal only.
+- (5) **Trailing stops re-verify live & GTC** at next routine.
+
+---
