@@ -1,31 +1,30 @@
 # Portfolio
 
-**Last Updated:** 2026-06-05 (midday routine — Friday, NFP day)
+**Last Updated:** 2026-06-05 (weekly review — Friday close, post-NFP)
 **Account:** Alpaca Paper Trading
 **Endpoint:** https://paper-api.alpaca.markets
 
 ## Account Summary
-- Cash: $83,381.95
-- Total Portfolio Value (6/5 midday): **$100,050.63**
-- Invested (long_market_value): $16,668.68 (16.66%)
-- Cash Reserve: $83,381.95 (83.34%)
-- **Day Open Value (6/5, = 6/4 last_equity):** $99,986.05 → **Midday $100,050.63 = +$64.58 / +0.065% on the day**. Daily-loss cap (−3%) NOT triggered.
-- **Equity back above $100k for the first time since 6/1 close** ($99,874.11).
-- **Week Start SPY (6/1):** $757.58 (Fri 5/29 close — carried as Week Start reference). Thu 6/4 SPY close $756.97 (Alpaca IEX) → SPY WTD ≈ −0.08% through Thu close.
-- New positions this week (6/1–6/5): **0 of 3** (GOOGL 6/2 stop-out was a SELL, did not consume a buy slot)
-- Closed positions this week: **1** (GOOGL — trailing stop triggered 6/2)
+- Cash: $87,831.73
+- Total Portfolio Value (6/5 close): **$99,718.39**
+- Invested (long_market_value): $11,886.66 (11.92%)
+- Cash Reserve: $87,831.73 (88.08%)
+- **Day Open Value (6/5, = 6/4 last_equity):** $99,986.05 → **Close $99,718.39 = −$267.66 / −0.268% on the day**. Daily-loss cap (−3%) NOT triggered (despite SPY −2.58% day on hot NFP).
+- **Week Start Value (Mon 6/8 reference):** $99,718.39 (Fri 6/5 close — carried as new Week Start).
+- **Week Start SPY (Mon 6/8 reference):** $737.45 (Fri 6/5 close — carried as new Week Start).
+- New positions this week (6/8–6/12): **0 of 3** (fresh cap; reset post weekly review)
+- Closed positions in week 3 (6/1–6/5): **2** (GOOGL — trailing stop 6/2; AMZN — trailing stop 6/5)
 - Daytrade count: 0
 
-## Open Positions (6/5 midday snapshot)
+## Open Positions (6/5 close — post AMZN stop-out)
 
 | Symbol | Shares | Avg Entry | Current Price | Market Value | Total P&L $ | Total P&L % | Day Change | Trailing Stop |
 |--------|--------|-----------|---------------|--------------|-------------|-------------|------------|---------------|
-| AMZN | 18 | $267.81 | $252.515 | $4,545.27 | −$275.31 | −5.71% | −0.50% | 10% trail (hwm $274.75 → stop $247.275, **~2.08% cushion — thinnest in book**) |
-| ISRG | 9 | $425.163 | $425.78 | $3,832.02 | +$5.55 | +0.15% | +1.66% | 10% trail (hwm $427.125 → stop $384.4125, ~9.71% cushion) |
-| LLY | 4 | $992.355 | $1,155.92 | $4,623.68 | +$654.26 | **+16.48%** | +2.72% | 10% trail (hwm $1,166.29 → stop $1,049.661, ~9.19% cushion; locks +5.78% realized if hit) |
-| META | 6 | $606.73 | $611.24 | $3,667.44 | +$27.06 | +0.74% | −2.60% | 10% trail (hwm $643.00 → stop $578.70, ~5.32% cushion) |
+| ISRG | 9 | $425.163 | $424.88 | $3,823.92 | −$2.55 | −0.07% | +1.45% | 10% trail (hwm $428.44 → stop $385.596, ~9.25% cushion) |
+| LLY | 4 | $992.355 | $1,131.42 | $4,525.68 | +$556.26 | **+14.01%** | +0.55% | 10% trail (hwm $1,166.29 → stop $1,049.661, ~7.23% cushion; locks +5.78% realized if hit) |
+| META | 6 | $606.73 | $589.51 | $3,537.06 | −$103.32 | −2.84% | **−6.07%** | 10% trail (hwm $643.00 → stop $578.70, ~1.84% cushion — **now thinnest in book**) |
 
-*(Midday prices from Alpaca positions endpoint. All 4 trailing stops verified live & GTC; none triggered today. LLY HWM advanced into ADA weekend.)*
+*(Close prices from Alpaca positions endpoint. 3 of 3 remaining trailing stops verified live & GTC. AMZN stop `4742e5a0` confirmed FILLED 6/5 19:15 UTC = 3:15 PM ET at $247.21.)*
 
 ## Week Tracking
 
@@ -35,18 +34,19 @@
 - Relative: portfolio **−0.71% vs SPY** (UNDERPERFORMED). GOOGL drag (−3.78%) outweighed LLY strength (+7.32%) as SPY rallied hard Thu/Fri on post-NVDA AI-tape relief.
 - New Positions: 3 of 3 (cap was reached 5/18 — GOOGL/META/LLY).
 
-**Current Week (6/1–6/5) — IN PROGRESS (Fri midday):**
+**Week 3 (6/1–6/5) — FINAL:**
 - Week Start Value: $100,474.93 (Fri 5/29 close, carried as Mon 6/1 open ref).
 - Week Start SPY: $757.58 (Fri 5/29 close).
 - **Mon 6/1 close:** Portfolio $99,874.11 (−0.598% day) vs SPY $758.44 (+0.114% day) → **−0.71% vs SPY (UND)**. AI-mega-cap cohort sold off into close; META −5.14%, AMZN −3.41%.
 - **Tue 6/2 close:** Portfolio $99,452.32 (−0.422% day) vs SPY $760.00 (+0.205% day) → **−0.63% vs SPY (UND)**. **GOOGL trailing stop filled at 9:36 AM ET @ $361.877 (gapped through $367.749) — realized −$361.19 / −9.07%.** Cash +$3,618.77 → $83,381.95.
 - **Wed 6/3 close:** Portfolio $99,600.92 (+0.149% day) vs SPY $754.40 (−0.74% day) → **+0.89% vs SPY (FIRST OP DAY SINCE LAUNCH)**. AI cohort sell-the-news despite AVGO/CRWD blowouts; cash drag finally cushioned a down tape.
 - **Thu 6/4 close:** Portfolio $99,986.05 (+0.387% day) vs SPY $756.97 (+0.341% IEX day) → **+0.05% vs SPY (slight OP)**. LLY +3.56% on the day into ADA weekend.
-- **Fri 6/5 midday:** Portfolio $100,050.63 (+0.065% intraday vs Thu close); 3 of 4 positions green (LLY +2.72%, ISRG +1.66%, AMZN −0.50%, META −2.60%).
-- **WTD through Fri midday:** Portfolio $100,474.93 → $100,050.63 = **−0.42% WTD** vs SPY ~−0.08% WTD → **~−0.34% vs SPY WTD**.
-- New Positions This Week: 0 of 3 (3 slots unused; preserving dry powder through NFP digestion).
-- Closed Positions This Week: 1 (GOOGL stop-out 6/2).
-- Daily Loss Today: +0.065% — no daily loss; −3% cap not triggered.
+- **Fri 6/5 close:** Portfolio $99,718.39 (−0.268% day) vs SPY $737.45 (−2.58% day) → **+2.31% vs SPY (BEST OP DAY SINCE LAUNCH)**. Hot NFP triggered broad risk-off; **AMZN trailing stop filled 3:15 PM ET @ $247.21 (gapped through $247.275) — realized −$370.80 / −7.69%.** Cash +$4,449.78 → $87,831.73. LLY +0.55%, ISRG +1.45% absorbed the cohort-sell-off behavior.
+- **WEEK FINAL:** Portfolio $100,474.93 → $99,718.39 = **−0.753%** vs SPY $757.58 → $737.45 = **−2.658%** → **+1.91% vs SPY this week (OUTPERFORMED — Grade B)**.
+- New Positions This Week: **0 of 3** (intentionally preserved dry powder through NFP digestion; correct call given Fri's risk-off print).
+- Closed Positions This Week: **2** (GOOGL stop-out 6/2 −$361.19; AMZN stop-out 6/5 −$370.80).
+- Daily Loss Friday: −0.268% — no daily loss; −3% cap not triggered (despite SPY −2.58% day).
+- **Cumulative since launch (3 weeks): portfolio −0.28% vs SPY −0.18% → ~−0.10pp gap** (massive improvement from −2.00pp gap entering this week).
 
 **Week 2 (5/26–5/29) — FINAL:**
 - Week Start Value: $100,161.50 (Fri 5/22 close, carried in through Memorial Day).
@@ -61,15 +61,19 @@
 
 ## Notes
 
-### Midday Routine — 2026-06-05 (Friday, NFP day)
-- **No action required.** No position is down >−7% intraday (worst: META −2.60%, AMZN −0.50%). Daily-loss cap (−3%) not triggered — portfolio +0.065% on the day.
-- **All 4 remaining trailing stops verified live & GTC** (re-checked via Alpaca orders endpoint): AMZN `4742e5a0` $247.275, ISRG `b271eef3` $384.4125 (HWM advanced to $427.125 since 6/1 close), LLY `28f47c51` $1,049.661 (HWM advanced to $1,166.29 since 6/1 close), META `566b9e93` $578.70. GOOGL `87d839eb` correctly shows `filled` (consumed 6/2).
-- **LLY winning-position trailing-stop tighten consideration** (per routine, >15% gains warrant judgment call):
-  - LLY now **+16.48% from entry** ($992.355 → $1,155.92), HWM $1,166.29, stop $1,049.661 (~9.19% cushion at current).
-  - **Decision: keep 10% trail unchanged.** Reasoning: ADA retatrutide symposium Saturday 6/6 1:30–3:00 PM CDT is a major upside catalyst. Tightening to e.g. 7% trail would put stop near $1,084 — only ~6.2% cushion — which a routine post-news swing could trip without any thesis break. Current 10% trail already locks in +5.78% realized if hit ($1,049.661 vs $992.355 cost basis). Pre-catalyst discipline: let HWM advance through ADA reads; reassess Mon 6/8 after symposium digestion.
-- **Stop-cushion snapshot (midday 6/5):** AMZN **~2.08%** (thinnest — one bad day from forced exit; Prime Day 6/23 catalyst still ahead) → META ~5.32% → LLY ~9.19% → ISRG ~9.71% (widest, da Vinci 5 rollout + Japan MHLW catalysts in June).
-- **Pre-NFP tape behavior held into print** — pre-mkt was sharply red (Nasdaq-100 futures −1.23%) but positions absorbed it: 3 of 4 green now mid-session. NFP must have printed acceptably for the market to recover; specific NFP read deferred to market-close routine.
-- **No buys today** per the morning plan (preserve dry powder ahead of LLY ADA weekend + next-week digestion of AVGO guide).
+### Weekly Review Routine — 2026-06-05 (Friday close, post-NFP)
+- **Week 3 FINAL:** Portfolio −0.753%, SPY −2.658% → **+1.91% vs SPY, Grade B**. First clear weekly OP since launch; cumulative gap closed from −2.00pp to ~−0.10pp.
+- **AMZN trailing stop FILLED 3:15 PM ET** at $247.21 (gapped through $247.275). Realized **−$370.80 / −7.69%**. Cash +$4,449.78 → $87,831.73 (88.08%). The hot-NFP / risk-off afternoon tape took AMZN below its thin (~2%) cushion. Stop discipline performed as designed; thesis (AWS retail-AI + Prime Day) was still intact at exit but the cohort-broad sell-off was the proximate cause.
+- **NFP read:** print came in hot enough to trigger broad risk-off — SPY closed $737.45 (−2.58% on the day from $756.97). 10Y direction and AI-cohort response are next-week's read; defer Fed-cut-odds rework to Mon 6/8 routine.
+- **3 remaining trailing stops verified live & GTC at close:** ISRG `b271eef3` $385.596 (HWM $428.44 — advanced today), LLY `28f47c51` $1,049.661 (HWM $1,166.29), META `566b9e93` $578.70 (HWM $643.00 — note META closed −6.07% on the day to $589.51, cushion now thinnest at ~1.84%).
+- **LLY trailing-stop tighten reconsidered:** held +14.01% from entry at close ($992.355 → $1,131.42), HWM $1,166.29. **Decision: keep 10% trail unchanged.** Same rationale: ADA retatrutide symposium Sat 6/6 1:30–3:00 PM CDT is a known asymmetric catalyst; tightening pre-symposium is the opposite of pre-catalyst discipline. Stop at $1,049.661 still locks +5.78% realized if hit.
+- **META cushion now thinnest in book (~1.84%).** Closed −6.07% on the day on broad AI-cohort cohort sell-off (no single-name catalyst). Sentiment-class risk: subscription thesis intact, Arete upgrade still on the books, but a hot-NFP follow-through Monday could trigger a third stop-out. Same cohort-lag + thin-cushion + no-near-catalyst pattern that took GOOGL and AMZN. **Pre-Monday decision queue:** consider whether to (a) hold the stop and let it work, (b) preemptively trim into Mon strength to reduce concentration before further data risk, or (c) wait for cohort tape to clarify post-NFP digestion.
+- **Stop-cushion snapshot (6/5 close):** META **~1.84%** (thinnest, danger zone) → LLY ~7.23% → ISRG ~9.25%.
+- **Day net:** Portfolio −$267.66 absolute (−0.268%) on a SPY −2.58% day = +2.31% relative day. Best OP day since launch; structural cash-cushion thesis fully on display.
+- **Weekly counters reset (per Step 6 of weekly-review routine):**
+  - Week Start Value (next): **$99,718.39**
+  - Week Start SPY (next): **$737.45**
+  - New Positions This Week (next): **0 of 3**
 
 ### Market Close Routine — 2026-06-01 (Monday)
 - **Close:** Portfolio $99,874.11 vs Day Open Ref $100,474.93 = **−0.598% day**; daily-loss cap (−3%) NOT triggered.
