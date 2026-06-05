@@ -609,3 +609,102 @@ Not Monday — no new SPY reference recorded. Week Start SPY remains **$757.58**
 - (4) **Trailing stops re-verify live & GTC** at next routine (all 4 confirmed today 6/4).
 
 ---
+
+## Research — 2026-06-05 (Friday — NFP day)
+
+### Market Conditions
+Risk-off into NFP: pre-market Dow futures −0.04% near 51,650, **S&P 500 futures −0.64% near 7,550, Nasdaq-100 futures −1.23% near 30,110**. Caution dominates ahead of **8:30 AM ET NFP** (consensus 85–105k jobs, unemployment 4.3% hold; FactSet median 105k from 6 estimates; FXStreet 85k) — follow-through of yesterday's first material risk-off day (S&P −0.45% / Nasdaq −0.89%). WTI crude continues to climb on Mideast (US–Iran) tension; 10Y has held ~4.45% well off the mid-May 4.69% high. AI cohort posted sell-the-news Wed despite AVGO/CRWD blowouts — cohort exhaustion theme persists. **LLY rallied +3.56% Thursday into the ADA weekend** — pre-catalyst momentum confirmed.
+
+### SPY Reference Price
+Not Monday — no new SPY reference. Week Start SPY remains **$757.58** (Fri 5/29 close carried as Mon 6/1 ref). Alpaca IEX shows Thu 6/4 SPY close **$756.97** (−0.027% day per IEX; web sources note −0.45% / $753.72 on SIP — using Alpaca IEX for consistency). **SPY WTD through Thu close ≈ −0.08%** (essentially flat on the week ahead of NFP).
+
+### Position Count This Week
+**0 of 3 BUY slots used.** GOOGL stop-out 6/2 was a SELL, did not consume a slot. **3 buy slots remain — but this is the final trading day of the week** (next reset Mon 6/8). Realistically: 0 or 1 buy possible today.
+
+### Account State (Pre-Open Fri 6/5)
+- Equity: **$100,001.05** (+$15.00 / +0.015% vs last_equity $99,986.05 Thu close). **Equity has crossed back above $100k for the first time since 6/1 close.**
+- Cash: **$83,381.95 (83.38%)**; Long MV $16,619.10 (16.62%).
+- Daytrade count: 0. Trading not blocked.
+- **All 4 remaining trailing stops verified live & GTC** (Alpaca orders endpoint):
+  - AMZN `4742e5a0` — stop $247.275, hwm $274.75
+  - ISRG `b271eef3` — stop $383.337, hwm $425.93
+  - LLY `28f47c51` — stop $1,034.19, hwm $1,149.10
+  - META `566b9e93` — stop $578.70, hwm $643.00
+- GOOGL stop `87d839eb` correctly remains `filled` (consumed 6/2).
+- Position quotes pre-open Fri:
+  - AMZN $252.77 (−5.62% from entry; ~+0.21% vs Thu pre-mkt $252.25)
+  - ISRG **$420.00** (−1.21% from entry; +2.29% vs Thu pre-mkt $410.59) — strong overnight tape
+  - LLY **$1,134.00** (+14.27% from entry; +3.47% vs Thu pre-mkt $1,096.00) — extending Thursday's +3.56% rally into ADA
+  - META $625.54 (+3.10% from entry; +1.04% vs Thu pre-mkt $619.10)
+- **3 of 4 positions green on entry; LLY now the best Mag-7-adjacent performer of the book (+14.27%).**
+
+### Earnings This Week — Do Not Buy (remaining today)
+- **Today 6/5:** OLLI — Ollie's Bargain Outlet.
+- Already reported earlier in the week: HPE, PANW, ULTA, DG, GTLB, MOMO, SIG, VSCO, AVGO, CRWD, VEEV, MDT, LULU, RBRK, DOCU, M (etc.).
+
+### Next Week (6/8–6/12) — Do Not Buy (forward no-buy list, to carry into Monday)
+- **Mon 6/8:** TBD (verify Monday morning routine — typically light)
+- **Tue 6/9:** GME — GameStop; CASY — Casey's General Stores (per typical calendar position); ASO; SMTC
+- **Wed 6/10 (AC):** **ORCL — Oracle** (Q4 FY26 — confirmed earnings call 4 PM CT); GME (also flagged 6/10); CHWY — Chewy
+- **Thu 6/11 (AC):** **ADBE — Adobe** (Q2 FY26 — confirmed; cons EPS ~$5.01, rev $6.43–6.48B)
+- **Fri 6/12:** light
+- **No FOMC this week or next; next meeting June 16–17** (Warsh's first as Chair). PPI (May) **Wed 6/11**.
+
+### Macro Events Today + Forward
+- **Today 6/5 8:30 AM ET (CRITICAL):** **Nonfarm Payrolls (May) + Unemployment + AHE.** Consensus eye 85–105k; UR 4.3%. After hot ADP (122k, +5k vs est) and hot Chicago PMI (62.7) but contracting services Employment sub-index (47.9), the print is the swing data for Fed-cut probability + 10Y direction. JOLTS already printed hot Tue (7.6M vs 6.89M est) raising the bar.
+- **Today 6/5:** Light other release schedule beyond NFP.
+- **Weekend 6/6 1:30–3:00 PM CDT:** **LLY retatrutide ADA symposium** — deeper TRIUMPH-1 + TRANSCEND-T2D-1 + Foundayo Phase 3 data.
+- **Next week:** PPI May Wed 6/11 → next inflation read pre-FOMC; FOMC June 16–17 (Warsh debut).
+
+### Watchlist (cap 0/3 used — 3 slots open; last trading day of week)
+| Symbol | One-Line Thesis | Rev Growth | Moat Type | Analyst Rating | Action |
+|--------|-----------------|------------|-----------|----------------|--------|
+| **KKR** | Q1'26 total rev **+39%** YoY to $4.32B (vs $3.11B PY); record AUM $758B (+14%), fee-paying AUM $615B (+17%); mgmt fees +30%; FRE $1.02B; raised $28B new capital in Q1; share buybacks at $91.08 + dividend raised; current ~$95.38 (mcap ~$85B) | 39% | Switching costs (10-yr LP capital locks); scale/brand in alts; Global Atlantic insurance float | **Buy consensus** — TipRanks PT $125.64 (+32%), Chartmill PT $147.33 | **Primary non-AI diversifier — buy candidate today post-NFP if data cool/in-line.** Clear of earnings (next early Aug). Lean ~$3,500 (~37 shares at ~$95) = 3.5% position. |
+| **V** | Q2 FY26 net rev **+17%** to $11.2B, payments vol +9%, cross-border +12%, processed txns +9%, value-added services +27%, EPS $3.31 (+20%); new $20B buyback; trading ~$314 (mcap ~$580B) | 17% | Duopoly network (V/MA); scale; switching costs; brand | **Strong Buy consensus** — 35 buys/0 sells per Robinhood; avg PT $389–$399 (+24–27%) | **Strong non-AI diversifier alternative** — clean qualifier; clear of earnings (Q3 late July). Lean as secondary if KKR setup unavailable or if a 2nd add slot opens next week. |
+| NOW | Q1'26 sub rev +22% YoY; FY26 guide raised to $15.7B (+21%); Now Assist 2026 ACV $1.5B target | 22% | Switching costs; platform; ecosystem | Strong Buy | **Skip this week** — stock +~40% in 4 sessions post-CRWD/AVGO = chase risk. Re-evaluate on a 50-DMA pullback. |
+| MSFT | Q3 FY26 +18%, Azure +40%, AI run rate $37B (+123%); Build 6/2 absorbed | 18% / 40% Azure | Switching costs; scale; platform | Strong Buy; PT ~$560 | **Bench** — deepens AI concentration; KKR/V are cleaner adds. |
+| COST | Q3 FY26 rev +12%; comps +6.6% ex-fuel/FX | 12% — **below 15% bar** | Membership; scale; brand | Mixed | **Skip** — fails 15% growth rule. |
+
+### Existing Position Notes
+| Symbol | News | Thesis Still Valid? | Action |
+|--------|------|---------------------|--------|
+| **AMZN** | Prime Day **June 23–26** confirmed; Target/Best Buy planning competing sales (validates Amazon's market-leadership signaling). Stock fluctuated $250.02–$255.83 yesterday; pre-mkt $252.77 today. AWS retail-AI distribution + Globalstar/satellite + Prime Day Q2 pull-forward intact. | Yes — strengthened (competitors cementing Prime Day as the summer retail tentpole). | Hold. Stop $247.275 (cushion ~2.17% pre-open today). **Tightest cushion in book; NFP-gap risk highest here.** |
+| **ISRG** | da Vinci 5 100+ feature upgrades rolling out this month (June); Taylor Patton promoted to Chief Commercial & Marketing Officer effective 7/1 (continuity signal); Japan MHLW reimbursement expansion (7 new procedures) in June. Q1'26 +23% rev, FY proc-growth guide raised to 14–16%. Deutsche Bank cut PT to $366 with Sell rating — outlier bear note but mainstream consensus mixed-to-Buy. | Yes — both June catalysts on track. DB downgrade noted as outlier risk. | Hold. Stop $383.337 (cushion ~9.06% at $420 pre-mkt). |
+| **LLY** | **ADA 86th Scientific Sessions June 5–8 New Orleans starts TODAY**; retatrutide symposium **Sat 6/6 1:30–3:00 PM CDT** — deeper TRIUMPH-1 + TRANSCEND-T2D-1 Phase 3 data + Foundayo. Stock +3.56% on Thu (per TradingKey) on pre-catalyst positioning + acquisition announcement (Engage Biologics — small DNA-therapy tuck-in). Stock at fresh 52-wk high $1,134 = +52% TTM. All 3 largest US PBMs now cover full LLY obesity portfolio. | Yes — accelerating into catalyst. PBM coverage structural; pipeline thesis fully validated. | Hold. Stop $1,034.19 (cushion ~8.80% at $1,134 pre-mkt — has *widened* materially with rally). **Pre-ADA discipline: do not trim ahead of Sat 6/6 symposium.** HWM will ratchet up after today's open if Alpaca tracking advances; verify in trade routine. |
+| **META** | EU 2nd Highest Court Wed 6/3 ruling: Marketplace gatekeeper classification overturned (positive); Messenger gatekeeper status upheld (status quo). **New EU antitrust probe** into Meta's WhatsApp policy on AI rivals' access launched — interim-measures threat noted. Arete upgrade Tue 6/2 to Buy, PT $735 (vs $614). Meta One subscriptions rolling out globally. Pre-mkt $625.54. | Yes — court ruling marginal positive + Arete upgrade. New WhatsApp probe is bounded EU headline risk (DMA-class fine pattern; not a thesis break). | Hold. Stop $578.70 (cushion ~7.49% at $625.54 pre-mkt). |
+
+### Stop-Cushion Watch (Pre-Open Fri 6/5)
+- **AMZN** — cushion **~2.17%** ($252.77 vs stop $247.275). **Thinnest in book.** NFP-gap risk: a hot NFP + 10Y spike could pressure the AI cohort and trip this stop today. Prime Day catalyst still ahead 6/23 — losing here would forfeit the catalyst.
+- **META** — cushion **~7.49%** ($625.54 vs stop $578.70). Healthy cushion regained vs early-week (had been 3.34% Tue close).
+- **LLY** — cushion **~8.80%** ($1,134 vs stop $1,034.19). Widening with rally into ADA.
+- **ISRG** — cushion **~9.06%** ($420 vs stop $383.337). Wider with overnight move.
+- **Cushion regime improved meaningfully this week** (early-week all 4 ≤6.64%; now 3 of 4 ≥7%). Only AMZN remains in the danger zone.
+
+### Plan for Today's Open (Fri 6/5) — NFP Day
+- **Lean: no buy at the open. Wait for 8:30 AM ET NFP print before any decision.** Decision tree from yesterday's plan stands:
+  - **(a) NFP cool/in-line (≤170k; UR ≤4.3%) + 10Y holds ≤4.5% + tape stabilizes:** **Buy KKR ~$3,500 (~37 shares at ~$95)** mid-morning after the initial NFP reaction settles. Place 10% trailing stop immediately after fill. Records 1st buy of week 3 (1/3 cap).
+  - **(b) NFP hot (>200k) AND 10Y spikes >4.55%:** Defer all adds; AI cohort drawdown risk pressures AMZN/META cushions further. Specifically watch AMZN $247.275 stop — could trigger today if cohort dumps. Reassess Monday.
+  - **(c) NFP cool BUT tape risk-off on Iran/oil:** Still favor KKR (capital-cycle exposure ≠ AI beta — diversification benefit holds regardless of risk-on/off).
+  - **(d) NFP very cool (<70k):** Re-rates Fed-cut odds higher → tape likely risk-on into LLY ADA catalyst. KKR still preferred (V also passes here but KKR cleaner non-AI fit; preserve dry powder).
+- **No second add this week** regardless of NFP — last trading day, preserves dry powder for Mon 6/8 next-week reassessment.
+- **LLY ADA discipline:** do not trim into the catalyst regardless of NFP move. Trailing stop will manage downside.
+- **Pre-NFP AMZN risk:** if AMZN gaps below $247.275 at open, trailing stop will auto-trigger (no manual action). Cash + the stop work as designed.
+- **Earnings no-buy active today:** OLLI. Carry to next week: GME (6/9 or 6/10), CASY, CHWY (6/10), **ORCL (6/10 AC), ADBE (6/11 AC)**.
+- **Mid-day guardrail check still required:** cut anything down >7% intraday; −3% daily-loss cap halts trading (especially relevant on NFP-gap day).
+- **Cash floor (≥20%) check:** currently 83.38% cash. One KKR add (~$3,500) takes cash to ~79.9% — well above floor.
+
+### Thesis Notes / Week 3 Pattern
+- **Yesterday (6/3) finally produced first OP day vs SPY since launch** (+0.89% relative) — driven by cash-drag cushion on a DOWN tape rather than AI-cohort participation on an UP tape. Pattern: book underperforms UP-tape, outperforms DOWN-tape. That's a structural read of **lower beta + cash drag** — consistent with 79% cash + concentration in mega-cap-AI/pharma/medtech.
+- **LLY is the new ballast** (+14.27% from entry, +52% TTM). Pre-ADA rally has effectively neutralized the cumulative WTD drag; book is now ~flat WTD on equity at $100,001 vs $100,474.93 start (only −0.47%).
+- **GOOGL exit (6/2 stop-out) was textbook**: it was the persistent laggard; removing it freed ~3.6% capital + simplified concentration risk. Cumulative weekly underperformance pattern may already be improving as a result — 5/26–5/29 was −1.29% vs SPY; this week so far is −0.40% vs SPY.
+- **Two clean qualifiers (KKR, V) are now stress-tested** non-AI diversifiers ready to deploy. KKR remains preferred for capital-cycle / alt-asset cycle exposure.
+- **Cushion regime improved**: only AMZN in the danger zone. The book is in a much healthier risk posture entering NFP than it was 6/1.
+
+### Pre-Tomorrow / Next-Week Decision Queue
+- (1) **Post-NFP 8:30 AM ET reaction (today)** → KKR add or defer per decision tree above.
+- (2) **AMZN stop watch on NFP gap** — if cohort dumps, the stop may trigger automatically; accept the outcome and re-evaluate next week.
+- (3) **Weekend LLY ADA readout (Sat 6/6)** — read Sunday news for retatrutide deeper-data reception; Monday open will react.
+- (4) **Trailing stops re-verify** at next routine (market-close 6/5 or pre-mkt Mon 6/8).
+- (5) **Next-week earnings no-buy carries** (ORCL 6/10 AC, ADBE 6/11 AC) — important for any candidate consideration Mon 6/8.
+
+---
