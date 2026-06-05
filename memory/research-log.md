@@ -708,3 +708,38 @@ Not Monday — no new SPY reference. Week Start SPY remains **$757.58** (Fri 5/2
 - (5) **Next-week earnings no-buy carries** (ORCL 6/10 AC, ADBE 6/11 AC) — important for any candidate consideration Mon 6/8.
 
 ---
+
+## Tomorrow's Watch — 2026-06-08 (Monday open)
+
+### Positions to monitor (elevated risk / thesis pressure)
+- **META — thinnest cushion in book at ~1.95%** ($590.20 close vs $578.70 stop). A secondary-offering announcement + skeptical-AI report combined into a −5.96% day Friday. Dilution is a real fundamental headwind, not pure sentiment. **Shortest leash next week**: any Monday gap-down likely trips the trailing stop; thesis (AI-targeted ad pricing power, subscription rollout) requires re-examination if dilution dynamics change the EPS trajectory. Re-check the secondary terms (size, pricing, use of proceeds) in pre-mkt Monday.
+- **LLY — ADA readout Sat 6/6 1:30–3:00 PM CDT (retatrutide deeper data)**. Pre-mkt Monday will price the symposium reception. Stop $1,049.661 (~7.22% cushion), HWM $1,166.29. Two-sided risk: a strong readout could re-rate higher (HWM advances, cushion thickens); a soft readout could trigger sharp profit-taking on +14% open gain. **Do not trim into the catalyst; let the trailing stop manage.** If readout is decisively positive, this becomes the lead-name 6-month hold; if mixed/disappointing, reassess thesis durability vs the +14% gain locked in.
+- **ISRG — clean diversifier showed up Friday** (+0.31% on −2.64% SPY day, −4.06% Nasdaq). Cushion 8.22%. Da Vinci 5 launch + Japan MHLW reimbursement catalysts still ahead in June. Hold.
+
+### Macro events Monday/next week
+- **Mon 6/8:** Light data; market digesting Friday's hot NFP + ADA weekend. 10Y at 4.54% the key tell — sustained above 4.55% pressures long-duration tech (META, LLY); a fade below 4.45% relieves it.
+- **Wed 6/10:** PPI (May). Could compound the rate-hike-fear narrative if core PPI hot.
+- **Wed 6/10 AC:** ORCL earnings — sets cloud-CapEx read.
+- **Thu 6/11 AC:** ADBE earnings — generative-AI subscription read.
+- **Fri 6/12:** Consumer sentiment (UMich).
+- **Mon 6/16–Tue 6/17:** **Warsh's first FOMC meeting as Chair** — looms over the next 2 weeks as the dominant macro overhang. Heading into the meeting with markets pricing some hike-by-September odds after Friday's NFP shock.
+- **Earnings no-buy carries:** GME (6/9 or 6/10), CASY, CHWY (6/10), **ORCL (6/10 AC)**, **ADBE (6/11 AC)**.
+
+### Thesis notes (from today's tape action)
+- **First OP week since launch — and it came on a DOWN-tape day, again.** Three of three OP days since 6/3 have been DOWN-tape days. Pattern confirmed: book is structurally low-beta + cash-heavy → underperforms UP tapes, outperforms DOWN tapes. Cumulative scorecard now at ~parity vs SPY (~−0.09%). The strategy works asymmetrically — needs volatile/declining tapes to make relative ground.
+- **Two stop-outs in five sessions** (GOOGL Tue, AMZN Fri) → discipline executed exactly as designed. Both theses were intact; both stops fired on cohort-level shocks, not name-specific thesis breaks. **Validates the 10% trail rule** as a regime-shift detector, not a thesis-break detector. No emotional override is needed; the rule did the right work.
+- **Cash is now 88.11%** — well above 20% floor, well above prior weeks' 79–83% levels. Two slots freed by stops + zero buys this week = significant dry powder available. **Monday's question: deploy or wait?** If LLY ADA disappoints and AMZN/META rate-shock continues, defer adds entirely (cash is doing work). If LLY ADA strong + 10Y fades, KKR (capital-cycle, non-AI) remains the cleanest queued name.
+- **Concentration shifting toward LLY** — pre-stop-out book was 4 names; now 3, and LLY alone is $4,525.68 / $11,849.73 = 38.2% of invested value, ~4.5% of total portfolio. Still within 5% per-position guardrail but the highest concentration in book. ADA outcome will determine if this is a feature or a risk.
+- **META re-examination required pre-Monday open**: the secondary-offering news is a real fundamental input. Read the secondary terms (size as % of market cap, use of proceeds — AI capex vs balance-sheet de-leveraging signals different things). If the offering is AI-capex-funded, thesis is reinforced (committed long-cycle AI build); if it's dilution-for-its-own-sake, thesis weakens. Stop will handle the downside regardless.
+
+### Plan for Monday's open (6/8)
+- **Lean: no new buys at the open.** Wait for ADA-readout digestion + 10Y direction before committing to any name. Decision tree:
+  - **(a) LLY-positive ADA + 10Y fades ≤4.50%:** Consider KKR add ~$3,500 in the mid-morning (1st buy of week 4 / 3 cap). Place 10% trailing stop immediately.
+  - **(b) LLY-mixed/negative ADA + 10Y holds 4.54%+:** Defer all adds. Re-check META cushion post-pre-mkt for stop-trigger risk. Reassess Tue.
+  - **(c) META gaps below $578.70 at open:** Trailing stop will auto-trigger (no action). Cash auto-replenishes to ~$91,300 (~92% cash). Pause any add for at least a session to confirm.
+- **No second add this week regardless of conditions** — the 1-per-week cadence in the current regime is correct.
+- **LLY:** do not trim regardless of ADA outcome. Let the trailing stop manage downside; thesis-based trims belong in research time, not reaction time.
+- **Mid-day guardrail check still required**: cut anything down >7% intraday; −3% daily-loss cap halts trading.
+- **Cash floor (≥20%) check:** 88.11% cash. One KKR add (~$3,500) takes cash to ~84.6% — well above floor.
+
+---
