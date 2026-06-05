@@ -1,31 +1,31 @@
 # Portfolio
 
-**Last Updated:** 2026-06-01 (market close routine — Monday)
+**Last Updated:** 2026-06-05 (midday routine — Friday, NFP day)
 **Account:** Alpaca Paper Trading
 **Endpoint:** https://paper-api.alpaca.markets
 
 ## Account Summary
-- Cash: $79,763.19
-- Total Portfolio Value (close 6/1): **$99,874.11**
-- Invested (long_market_value): $20,110.92 (20.14%)
-- Cash Reserve: $79,763.19 (79.86%)
-- **Day Open Value (6/1):** $100,474.93 → **Close $99,874.11 = −$600.82 / −0.598% on the day**. Daily-loss cap (−3%) NOT triggered.
-- **Week Start SPY (6/1):** $757.58 (Fri 5/29 close — carried as Week Start reference); **Mon 6/1 SPY close: $758.44 (+0.114% day, +0.114% WTD)**
-- **Day 1 of week vs SPY: −0.71%** (UNDERPERFORMED — third straight UP-tape underperformance day)
-- New positions this week (6/1–6/5): **0 of 3** (no buys today)
+- Cash: $83,381.95
+- Total Portfolio Value (6/5 midday): **$100,050.63**
+- Invested (long_market_value): $16,668.68 (16.66%)
+- Cash Reserve: $83,381.95 (83.34%)
+- **Day Open Value (6/5, = 6/4 last_equity):** $99,986.05 → **Midday $100,050.63 = +$64.58 / +0.065% on the day**. Daily-loss cap (−3%) NOT triggered.
+- **Equity back above $100k for the first time since 6/1 close** ($99,874.11).
+- **Week Start SPY (6/1):** $757.58 (Fri 5/29 close — carried as Week Start reference). Thu 6/4 SPY close $756.97 (Alpaca IEX) → SPY WTD ≈ −0.08% through Thu close.
+- New positions this week (6/1–6/5): **0 of 3** (GOOGL 6/2 stop-out was a SELL, did not consume a buy slot)
+- Closed positions this week: **1** (GOOGL — trailing stop triggered 6/2)
 - Daytrade count: 0
 
-## Open Positions (6/1 market-close snapshot)
+## Open Positions (6/5 midday snapshot)
 
 | Symbol | Shares | Avg Entry | Current Price | Market Value | Total P&L $ | Total P&L % | Day Change | Trailing Stop |
 |--------|--------|-----------|---------------|--------------|-------------|-------------|------------|---------------|
-| AMZN | 18 | $267.81 | $261.40 | $4,705.20 | −$115.38 | −2.39% | −3.41% | 10% trail (hwm $274.75 → stop $247.275, ~5.40% cushion) |
-| GOOGL | 10 | $397.996 | $376.67 | $3,766.70 | −$213.26 | −5.36% | −0.97% | 10% trail (hwm $408.61 → stop $367.749, **~2.37% cushion — thinnest, ~$8.92/sh from trigger**) |
-| ISRG | 9 | $425.163 | $412.26 | $3,710.34 | −$116.13 | −3.03% | −2.92% | 10% trail (hwm $425.93 → stop $383.337, ~7.02% cushion) |
-| LLY | 4 | $992.355 | $1,082.20 | $4,328.80 | +$359.38 | +9.05% | −2.06% | 10% trail (hwm $1,149.10 → stop $1,034.19, ~4.44% cushion) |
-| META | 6 | $606.73 | $599.98 | $3,599.88 | −$40.50 | −1.11% | **−5.14%** | 10% trail (hwm $643.00 → stop $578.70, ~3.55% cushion) |
+| AMZN | 18 | $267.81 | $252.515 | $4,545.27 | −$275.31 | −5.71% | −0.50% | 10% trail (hwm $274.75 → stop $247.275, **~2.08% cushion — thinnest in book**) |
+| ISRG | 9 | $425.163 | $425.78 | $3,832.02 | +$5.55 | +0.15% | +1.66% | 10% trail (hwm $427.125 → stop $384.4125, ~9.71% cushion) |
+| LLY | 4 | $992.355 | $1,155.92 | $4,623.68 | +$654.26 | **+16.48%** | +2.72% | 10% trail (hwm $1,166.29 → stop $1,049.661, ~9.19% cushion; locks +5.78% realized if hit) |
+| META | 6 | $606.73 | $611.24 | $3,667.44 | +$27.06 | +0.74% | −2.60% | 10% trail (hwm $643.00 → stop $578.70, ~5.32% cushion) |
 
-*(Closing prices from Alpaca positions endpoint at market-close routine. All 5 trailing stops verified live & GTC; none triggered today.)*
+*(Midday prices from Alpaca positions endpoint. All 4 trailing stops verified live & GTC; none triggered today. LLY HWM advanced into ADA weekend.)*
 
 ## Week Tracking
 
@@ -35,13 +35,18 @@
 - Relative: portfolio **−0.71% vs SPY** (UNDERPERFORMED). GOOGL drag (−3.78%) outweighed LLY strength (+7.32%) as SPY rallied hard Thu/Fri on post-NVDA AI-tape relief.
 - New Positions: 3 of 3 (cap was reached 5/18 — GOOGL/META/LLY).
 
-**Current Week (6/1–6/5) — IN PROGRESS:**
+**Current Week (6/1–6/5) — IN PROGRESS (Fri midday):**
 - Week Start Value: $100,474.93 (Fri 5/29 close, carried as Mon 6/1 open ref).
 - Week Start SPY: $757.58 (Fri 5/29 close).
-- **Mon 6/1 close:** Portfolio $99,874.11 (−0.598% day) vs SPY $758.44 (+0.114% day) → portfolio **−0.71% vs SPY (UNDERPERFORMED)**. AI-mega-cap cohort sold off into the close; META −5.14%, AMZN −3.41%, ISRG −2.92%, LLY −2.06%, GOOGL −0.97%. SPY held a new intraday high (760.26) but pared on a breadth-rotating tape.
-- **WTD:** Portfolio −0.598% vs SPY +0.114% → **−0.71% WTD vs SPY**.
-- New Positions This Week: 0 of 3 (no buys 6/1 per plan).
-- Daily Loss Today: −0.598% — no daily loss; −3% cap not triggered.
+- **Mon 6/1 close:** Portfolio $99,874.11 (−0.598% day) vs SPY $758.44 (+0.114% day) → **−0.71% vs SPY (UND)**. AI-mega-cap cohort sold off into close; META −5.14%, AMZN −3.41%.
+- **Tue 6/2 close:** Portfolio $99,452.32 (−0.422% day) vs SPY $760.00 (+0.205% day) → **−0.63% vs SPY (UND)**. **GOOGL trailing stop filled at 9:36 AM ET @ $361.877 (gapped through $367.749) — realized −$361.19 / −9.07%.** Cash +$3,618.77 → $83,381.95.
+- **Wed 6/3 close:** Portfolio $99,600.92 (+0.149% day) vs SPY $754.40 (−0.74% day) → **+0.89% vs SPY (FIRST OP DAY SINCE LAUNCH)**. AI cohort sell-the-news despite AVGO/CRWD blowouts; cash drag finally cushioned a down tape.
+- **Thu 6/4 close:** Portfolio $99,986.05 (+0.387% day) vs SPY $756.97 (+0.341% IEX day) → **+0.05% vs SPY (slight OP)**. LLY +3.56% on the day into ADA weekend.
+- **Fri 6/5 midday:** Portfolio $100,050.63 (+0.065% intraday vs Thu close); 3 of 4 positions green (LLY +2.72%, ISRG +1.66%, AMZN −0.50%, META −2.60%).
+- **WTD through Fri midday:** Portfolio $100,474.93 → $100,050.63 = **−0.42% WTD** vs SPY ~−0.08% WTD → **~−0.34% vs SPY WTD**.
+- New Positions This Week: 0 of 3 (3 slots unused; preserving dry powder through NFP digestion).
+- Closed Positions This Week: 1 (GOOGL stop-out 6/2).
+- Daily Loss Today: +0.065% — no daily loss; −3% cap not triggered.
 
 **Week 2 (5/26–5/29) — FINAL:**
 - Week Start Value: $100,161.50 (Fri 5/22 close, carried in through Memorial Day).
@@ -55,6 +60,16 @@
 - Daily Loss Today: −0.263% — no daily loss; −3% cap not triggered.
 
 ## Notes
+
+### Midday Routine — 2026-06-05 (Friday, NFP day)
+- **No action required.** No position is down >−7% intraday (worst: META −2.60%, AMZN −0.50%). Daily-loss cap (−3%) not triggered — portfolio +0.065% on the day.
+- **All 4 remaining trailing stops verified live & GTC** (re-checked via Alpaca orders endpoint): AMZN `4742e5a0` $247.275, ISRG `b271eef3` $384.4125 (HWM advanced to $427.125 since 6/1 close), LLY `28f47c51` $1,049.661 (HWM advanced to $1,166.29 since 6/1 close), META `566b9e93` $578.70. GOOGL `87d839eb` correctly shows `filled` (consumed 6/2).
+- **LLY winning-position trailing-stop tighten consideration** (per routine, >15% gains warrant judgment call):
+  - LLY now **+16.48% from entry** ($992.355 → $1,155.92), HWM $1,166.29, stop $1,049.661 (~9.19% cushion at current).
+  - **Decision: keep 10% trail unchanged.** Reasoning: ADA retatrutide symposium Saturday 6/6 1:30–3:00 PM CDT is a major upside catalyst. Tightening to e.g. 7% trail would put stop near $1,084 — only ~6.2% cushion — which a routine post-news swing could trip without any thesis break. Current 10% trail already locks in +5.78% realized if hit ($1,049.661 vs $992.355 cost basis). Pre-catalyst discipline: let HWM advance through ADA reads; reassess Mon 6/8 after symposium digestion.
+- **Stop-cushion snapshot (midday 6/5):** AMZN **~2.08%** (thinnest — one bad day from forced exit; Prime Day 6/23 catalyst still ahead) → META ~5.32% → LLY ~9.19% → ISRG ~9.71% (widest, da Vinci 5 rollout + Japan MHLW catalysts in June).
+- **Pre-NFP tape behavior held into print** — pre-mkt was sharply red (Nasdaq-100 futures −1.23%) but positions absorbed it: 3 of 4 green now mid-session. NFP must have printed acceptably for the market to recover; specific NFP read deferred to market-close routine.
+- **No buys today** per the morning plan (preserve dry powder ahead of LLY ADA weekend + next-week digestion of AVGO guide).
 
 ### Market Close Routine — 2026-06-01 (Monday)
 - **Close:** Portfolio $99,874.11 vs Day Open Ref $100,474.93 = **−0.598% day**; daily-loss cap (−3%) NOT triggered.
