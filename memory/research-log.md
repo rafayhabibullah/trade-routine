@@ -800,3 +800,38 @@ Tape digesting Fri 6/5's hot NFP (172k vs 85k est; April revised up +64k to 179k
 - (5) Watch ORCL (6/10 AC) earnings reaction Thu open — could signal AI-cohort bid (if guide huge) or risk-off (if guide light); affects META cohort beta.
 
 ---
+
+## Tomorrow's Watch — 2026-06-09 (Tuesday)
+
+### Day Recap (Mon 6/8 close)
+- Portfolio $99,827.55 → $99,704.80 = **−0.123% day** vs SPY $737.45 → $742.55 = **+0.692% day** → **−0.81% vs SPY (UND)**. Expected UP-tape underperformance per the cash-cushion lesson (88.09% cash).
+- LLY +1.55% to $1,148.90 (HWM advanced to $1,182.73, stop ratcheted up to $1,064.457 — now locks +7.27% if hit). Post-ADA print 6/6 continues to deliver.
+- META −1.35% to $585.00 — **cushion compressed to ~1.08%, thinnest in book and worst single-position cushion since GOOGL pre-stop 6/1**. No single-name catalyst — broad AI-mega-cap drift.
+- ISRG −0.82% to $418.61 — quiet drift, cushion 7.89%.
+- WTD (1 of 5 days): Portfolio −0.014% vs SPY +0.692% = −0.71% WTD vs SPY.
+
+### Positions to Monitor
+- **META** — $585.00 close, cushion 1.08% from stop $578.70. **Primary risk for tomorrow.** Decision tree armed: if gaps/trades below ~$580 early, evaluate manual trim before auto-stop trips at $578.70 (locks loss at −4.62% realized vs current −3.58% unrealized — but cuts mega-cap-AI concentration ahead of CPI Wed). If META rallies with the cohort, cushion rebuilds and no action. Subscription thesis intact, but the cohort-lag + thin-cushion + far-from-next-catalyst pattern from GOOGL/AMZN applies.
+- **LLY** — $1,148.90, +15.78% from entry, fresh HWM $1,182.73. Stop $1,064.457. Let it run; pre-catalyst-hold discipline continues to validate.
+- **ISRG** — $418.61, −1.54% from entry. Cushion 7.89%. Two June catalysts ahead (da Vinci 5 + Japan reimbursement).
+
+### Macro Events Tuesday 6/9
+- Light data day — NFIB Small Business Optimism (May) 6:00 AM ET, Wholesale Inventories (Apr) 10:00 AM ET. Neither typically tape-moving on their own.
+- **Pre-CPI positioning day** — markets typically de-risk into Wednesday's 8:30 AM CPI print. Any AI-cohort weakness Tue is likely pre-CPI hedging, not a fresh thesis break.
+- Earnings AC: GME, CASY, ASO, SMTC, SJM — no position overlap; no buy candidates from list.
+- 10Y yield direction post-NFP digest is the key macro read — if yields drift down ahead of CPI, supportive for long-duration tech (META). If yields back up, META cushion under more pressure.
+
+### Thesis Notes
+- **Today reinforces the cash-cushion-as-cushion lesson** — −0.81% relative on +0.692% SPY day is the price of carrying ~88% cash; will be repaid on the next DOWN tape (lesson #2). Acceptable as long as DOWN-tape OP days continue to compensate (week 3 +1.91% vs SPY is the recent benchmark).
+- **META is now the dominant near-term risk** — same pattern as GOOGL (5/22→6/2) and AMZN (6/2→6/5): lagging the cohort, thin cushion (<3%), no near-term catalyst. The lessons-learned framework specifically says **consider a discretionary trim BEFORE the stop trips** when (a) lagging cohort multi-weeks, (b) cushion <3%, (c) next catalyst >2 weeks out. META hits all three. Counterweight: subscription monetization is genuinely different from GOOGL's "EU fine overhang" or AMZN's "AWS retail-AI" thesis — META has a fresh non-ad revenue stream that could re-rate the multiple if reported strong in next earnings (late July). The asymmetry of waiting one more day for CPI clarity vs cutting tomorrow morning is the call.
+- **No new trades likely Tue** — KKR add deferred to Wed post-CPI per existing plan. Earnings no-buy list constrains candidates anyway.
+- **Cash floor:** 88.09% — ample room for KKR add Wed and a META cut-and-redeploy if needed.
+
+### Pre-Tuesday Decision Queue
+- (1) **META early-morning price check** — if gaps to $578.70 area at open, decide cut vs let-stop-work in real time. Tweet-style asymmetry frame: "save 50 bps of realized loss vs lose optionality on subscription thesis."
+- (2) **3 trailing stops re-verify live & GTC** at next trade routine.
+- (3) **LLY HWM check** — verify any further intraday advance updates the stop.
+- (4) **Cohort tape read** — if AI mega-caps broadly green into CPI, hold META; if cohort selling pressure continues, escalate META decision.
+- (5) **Earnings calendar verify** for any candidates considered.
+
+---
