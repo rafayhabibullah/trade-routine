@@ -1,30 +1,43 @@
 # Portfolio
 
-**Last Updated:** 2026-06-05 (weekly review — Friday close, post-NFP)
+**Last Updated:** 2026-06-08 (market open routine — Monday session start, Week 4 day 1)
 **Account:** Alpaca Paper Trading
 **Endpoint:** https://paper-api.alpaca.markets
 
 ## Account Summary
-- Cash: $87,831.73
-- Total Portfolio Value (6/5 close): **$99,718.39**
-- Invested (long_market_value): $11,886.66 (11.92%)
-- Cash Reserve: $87,831.73 (88.08%)
-- **Day Open Value (6/5, = 6/4 last_equity):** $99,986.05 → **Close $99,718.39 = −$267.66 / −0.268% on the day**. Daily-loss cap (−3%) NOT triggered (despite SPY −2.58% day on hot NFP).
-- **Week Start Value (Mon 6/8 reference):** $99,718.39 (Fri 6/5 close — carried as new Week Start).
-- **Week Start SPY (Mon 6/8 reference):** $737.45 (Fri 6/5 close — carried as new Week Start).
-- New positions this week (6/8–6/12): **0 of 3** (fresh cap; reset post weekly review)
+- Cash: $87,831.71
+- Total Portfolio Value (6/8 session start): **$99,827.55**
+- Invested (long_market_value): $11,995.84 (12.02%)
+- Cash Reserve: $87,831.71 (87.98%)
+- **Day Open Value (6/8, from portfolio_value at session start):** **$99,827.55** (last_equity $99,689.33 → +$138.22 / +0.139% intraday so far on LLY post-ADA rally). Daily-loss cap (−3%) trigger = $96,832.72; NOT at risk on open.
+- **Week Start Value (Mon 6/8):** $99,718.39 (Fri 6/5 close — carried as Week Start ref per Fri weekly review).
+- **Week Start SPY (Mon 6/8):** $737.45 (Fri 6/5 close — carried as Week Start ref).
+- New positions this week (6/8–6/12): **0 of 3** (cap reset)
 - Closed positions in week 3 (6/1–6/5): **2** (GOOGL — trailing stop 6/2; AMZN — trailing stop 6/5)
-- Daytrade count: 0
+- Daytrade count: 0; trading not blocked
 
-## Open Positions (6/5 close — post AMZN stop-out)
+## Open Positions (6/8 session start)
 
 | Symbol | Shares | Avg Entry | Current Price | Market Value | Total P&L $ | Total P&L % | Day Change | Trailing Stop |
 |--------|--------|-----------|---------------|--------------|-------------|-------------|------------|---------------|
-| ISRG | 9 | $425.163 | $424.88 | $3,823.92 | −$2.55 | −0.07% | +1.45% | 10% trail (hwm $428.44 → stop $385.596, ~9.25% cushion) |
-| LLY | 4 | $992.355 | $1,131.42 | $4,525.68 | +$556.26 | **+14.01%** | +0.55% | 10% trail (hwm $1,166.29 → stop $1,049.661, ~7.23% cushion; locks +5.78% realized if hit) |
-| META | 6 | $606.73 | $589.51 | $3,537.06 | −$103.32 | −2.84% | **−6.07%** | 10% trail (hwm $643.00 → stop $578.70, ~1.84% cushion — **now thinnest in book**) |
+| ISRG | 9 | $425.163 | $422.20 | $3,799.80 | −$26.67 | −0.70% | +0.03% | 10% trail (hwm $428.44 → stop $385.596, ~8.67% cushion) |
+| LLY | 4 | $992.355 | $1,151.305 | $4,605.22 | +$635.80 | **+16.02%** | +1.76% | 10% trail (hwm $1,166.29 → stop $1,049.661, ~8.83% cushion; locks +5.78% realized if hit). HWM **not yet ratcheted** — current price $1,151.31 below hwm $1,166.29; will advance if intraday print exceeds. |
+| META | 6 | $606.73 | $598.47 | $3,590.82 | −$49.56 | −1.36% | +0.92% | 10% trail (hwm $643.00 → stop $578.70, ~3.30% cushion — **thinnest in book**) |
 
-*(Close prices from Alpaca positions endpoint. 3 of 3 remaining trailing stops verified live & GTC. AMZN stop `4742e5a0` confirmed FILLED 6/5 19:15 UTC = 3:15 PM ET at $247.21.)*
+*(Live prices from Alpaca positions endpoint at session start ~14:30 UTC. 3 of 3 remaining trailing stops verified live & GTC. AMZN stop `4742e5a0` and GOOGL stop `87d839eb` remain `filled` from prior closures.)*
+
+## Today's Market Open Routine — 2026-06-08 (Monday)
+
+- **No new trades placed at open** per today's pre-market plan (research-log 6/8): defer KKR add to Wed post-CPI 8:30 AM ET. Three reasons honored: (1) CPI Wed is the swing data print of the week; (2) Fri hot NFP risk-off has not yet fully digested into yields/Fed-cut odds — let the AI cohort tape clarify; (3) META cushion ~3.30% (was 2.62% pre-open, has improved on the +0.92% day-open print) — preserve dry powder for cohort-day defense rather than stretching into a new add.
+- **LLY post-ADA delivering** as expected: +1.76% on the day, +16.02% from entry. ADA retatrutide deep-data print Sat 6/6 (knee OA −73%, OSA −60%, T2D A1C −2.0% / −16.8% wt) broadened the catalyst surface. Pre-catalyst-hold discipline validated. HWM advance to watch intraday if price prints above $1,166.29.
+- **META intraday opened green** (+0.92%) — cushion rebuilt from 2.62% pre-open to ~3.30%. Still the thinnest in book; >7% intraday cut decision-tree armed if cohort sells off.
+- **ISRG flat** (+0.03%) — medtech diversifier behaving as expected; cushion 8.67%.
+- **Trailing stops re-verified live & GTC at session start:**
+  - ISRG `b271eef3` $385.596 (hwm $428.44)
+  - LLY `28f47c51` $1,049.661 (hwm $1,166.29) — HWM may ratchet up intraday
+  - META `566b9e93` $578.70 (hwm $643.00)
+- **Cash floor:** 87.98% — well above the 20% floor. Room for KKR add (~$3,500) Wed without breaching floor.
+- **Next decision window:** Wed 6/10 8:30 AM ET CPI (May) — KKR add decision tree per research-log 6/8 plan. Earnings no-buy this week: GME/CASY/ASO/SMTC/SJM (Tue), ORCL/CHWY (Wed AC), ADBE (Thu AC).
 
 ## Week Tracking
 
