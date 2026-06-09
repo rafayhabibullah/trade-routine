@@ -835,3 +835,101 @@ Tape digesting Fri 6/5's hot NFP (172k vs 85k est; April revised up +64k to 179k
 - (5) **Earnings calendar verify** for any candidates considered.
 
 ---
+
+## Research — 2026-06-09 (Tuesday — Pre-CPI day)
+
+### Market Conditions
+US futures firmly higher pre-open after Friday's −2.58% SPY post-NFP risk-off and Monday's +0.69% rebound — **S&P 500 futures ~+1.0%, Nasdaq-100 futures ~+1.0%, Dow futures +0.4%** on Middle East de-escalation tone and a chip-cohort bounce (NVDA +2%, MRVL/MU +4%). **VIX eased ~13% to back below 19** (off Friday's +20% spike). Tape is in pre-CPI positioning mode — Wednesday 6/10 8:30 AM ET CPI is the swing data print of the week. Consensus eye: **headline +0.5% m/m / ~+4.2% y/y** (energy elevated on Iran-war supply shock), **core +0.2–0.3% m/m**. Forecasters projecting Q2 inflation to hit ~6% on the energy shock; full-year CPI ~3.5% / core ~2.9%. WTI crude continues hovering on Mideast tensions. 10Y direction is the key macro read into CPI.
+
+### SPY Reference Price
+Not Monday — no new SPY reference recorded. Week Start SPY remains **$737.45** (Fri 6/5 close carried as Mon 6/8 reference; Mon 6/8 close $742.55). SPY WTD (1 of 5 days) ≈ **+0.692%**.
+
+### Position Count This Week
+**0 of 3 BUY slots used.** Cap reset Mon 6/8. Per existing plan, KKR add deferred to Wed post-CPI. 3 buy slots remain.
+
+### Account State (Pre-Open Tue 6/9 — Alpaca)
+- Equity: **$99,781.01** (+$72.87 / +0.073% vs last_equity $99,708.14)
+- Cash: **$87,831.71 (88.02%)**; Long MV $11,949.30 (11.98%)
+- Daytrade count: 0; trading not blocked
+- **All 3 trailing stops verified live & GTC** (Alpaca orders endpoint):
+  - ISRG `b271eef3` — stop $385.596, hwm $428.44 (10% trail)
+  - LLY `28f47c51` — stop $1,064.457, hwm $1,182.73 (10% trail)
+  - META `566b9e93` — stop $578.70, hwm $643.00 (10% trail)
+- AMZN stop `4742e5a0` correctly `filled` (consumed 6/5); GOOGL stop `87d839eb` `filled` (consumed 6/2).
+- Position quotes (pre-open):
+  - LLY 4 sh @ $992.355 → **$1,159.95 (+16.89% / +$670.38)** — +0.94% vs Mon close $1,148.90
+  - META 6 sh @ $606.73 → **$589.75 (−2.80% / −$101.88)** — +0.74% vs Mon close $585.00 (**modest pre-mkt bounce off the danger-zone close**)
+  - ISRG 9 sh @ $425.163 → **$419.00 (−1.45% / −$55.47)** — +0.09% vs Mon close $418.61
+- **3 of 3 tradeable; LLY ratcheting; META off the cushion floor but still thin.**
+
+### Earnings This Week — Do Not Buy
+- **Mon 6/8:** light calendar (no notable; 41 reports total but no candidate conflicts).
+- **Tue 6/9 (today):** GME — GameStop; CASY — Casey's General Stores; ASO — Academy Sports; SMTC — Semtech; SJM — J.M. Smucker (22 reports total).
+- **Wed 6/10 (AC):** **ORCL — Oracle** (Q4 FY26 — cons EPS $1.96 +15.3% YoY on rev $19.1B +20.1%); CHWY — Chewy (15 reports total).
+- **Thu 6/11 (AC):** **ADBE — Adobe** (Q2 FY26 — cons EPS ~$5.01–$5.81 on rev $6.2–$6.48B; AI strategy + $25B buyback overhang).
+- **Fri 6/12:** light (~3 reports, none noteworthy per Yahoo/Kiplinger).
+- None of the candidates (KKR, V, NOW, MSFT) conflict — but verify at moment of trade.
+
+### Macro Events This Week
+- **Today (Tue 6/9):** Light — NFIB Small Business Optimism (May) 6:00 AM ET; Wholesale Inventories (Apr) 10:00 AM ET. Pre-CPI positioning day; expect tape to de-risk into Wed.
+- **Wed 6/10 8:30 AM ET (CRITICAL):** **CPI (May)** — first CPI under new Fed Chair Warsh. Headline +0.5% m/m / +4.2% y/y consensus (energy-elevated); core +0.2–0.3% m/m. Bar high for Fed-cut-odds rebuild after hot NFP (172k) + JOLTS (7.6M) + Chicago PMI (62.7).
+- **Thu 6/11 8:30 AM ET:** **PPI (May)** wholesale-prices read.
+- **Thu 6/11:** **ECB rate decision** — consensus +25 bps hike. Modest USD/EUR cross-asset implications; not directly book-impactful.
+- **Fri 6/12:** Light.
+- No FOMC this week; next meeting **June 16–17** (Warsh's first as Chair).
+
+### Watchlist for Tomorrow's Open (cap 0/3 used — 3 slots open; no compulsion)
+| Symbol | One-Line Thesis | Rev Growth | Moat Type | Analyst Rating | Action |
+|--------|-----------------|------------|-----------|----------------|--------|
+| **KKR** | Q1'26 rev **+39% YoY** to $4.32B; **mgmt fees +30%**; FRE $1.0B (+24%) / $1.13 per adj share; record AUM **$758B (+14%)**, fee-paying AUM $615B (+17%); Q1 EPS $1.39 beat by 10%; 19 ABF platforms forming long-term scale moat in asset-based finance | 39% | Switching costs (10-yr LP capital locks); scale/brand in alts; ABF scale moat; Global Atlantic insurance float | **Buy consensus** — avg PT ~$123 (TipRanks $125.64) | **Primary non-AI diversifier — buy candidate post-CPI Wed 6/10 if data in-line/cool.** Clear of earnings (next early Aug). Lean ~$3,500 (~37 sh at ~$94) = ~3.5% position. **Caveat noted: mgmt flagged 2026 ANI likely below prior $7+/sh target on delayed monetizations** — modest negative; FRE thesis (which is the durable signal) remains intact at +24% trajectory. |
+| **V** | Q2 FY26 net rev **+17%** to $11.23B (strongest growth since 2022, beat est by $480M); payments vol +9%, cross-border +12%, value-added services +27%, EPS $3.31 +20%; FY26 guide low-double-digit to low-teens rev growth; $20B buyback; trading ~$305 (mcap ~$580B) | 17% | Duopoly network (V/MA); scale; switching costs; brand | **Strong Buy consensus** — 20 analysts, avg PT **$395.71** (+30%) | **Strong non-AI diversifier alternative** — clear of earnings (Q3 late July). Hold as secondary if KKR fills cleanly and we add a 2nd slot. Lean: 1 add this week, not 2 (preserve dry powder for FOMC week 6/16–6/17). |
+| NOW | Q1'26 sub rev +22%; FY26 guide $15.7B (+21%); Now Assist $1.5B ACV target | 22% | Switching costs; platform; ecosystem | Strong Buy | **Skip this week** — stock +~40% in 4 sessions post-CRWD/AVGO = momentum chase risk. Wait for 50-DMA pullback. |
+| MSFT | Q3 FY26 +18%, Azure +40%, AI run rate $37B (+123%); Build 6/2 absorbed | 18% / 40% Azure | Switching costs; scale; platform | Strong Buy; PT ~$560 | **Bench** — deepens AI-mega-cap concentration after AMZN/GOOGL stop-outs; KKR/V are the cleaner adds per lessons-learned (≥1 non-AI for every 2 AI). |
+| COST | Q3 FY26 rev +12%; comps +6.6% ex-fuel/FX | 12% — **below 15% bar** | Membership; scale; brand | Mixed | **Skip** — fails 15% growth rule. |
+
+### Existing Position Notes
+| Symbol | News | Thesis Still Valid? | Action |
+|--------|------|---------------------|--------|
+| **LLY** | **ADA Sat 6/6 retatrutide deep-data fully digested**: TRIUMPH-1 obesity 28.3% / 70.3 lb wt loss at 80wks, **30.3% / 85 lb at 104wks (extension)**, 65.3% achieving BMI <30; **TRANSCEND-T2D-1 A1C −2.0%**, 90% achieving A1C <7.0%, +36.6 lb (16.8%) wt loss at 40wks; OSA severity −60%; knee OA pain −73%; safety in line with class. Multi-indication franchise locked in (obesity + T2D + OSA + knee OA + MASLD). Lancet simultaneous T2D publication. Pre-mkt $1,159.95 = +16.89% from entry / +0.94% vs Mon close; HWM $1,182.73 advanced Mon. | Yes — **strengthened materially**. Pipeline + GLP-1 duopoly thesis fully validated; multi-indication catalyst surface broader than entry thesis. | **Hold.** Trailing stop $1,064.457 (cushion ~8.23% pre-mkt; locks +7.27% realized if hit). **Pre-catalyst-hold lesson extends post-confirmed-beat** while thesis is broadening — do not trim. Trailing stop will ratchet on further HWM advance. |
+| **META** | Pre-mkt $589.75 (+0.74% from $585.00 close). **Dividend announced $0.525, ex-date 6/15** (minor positive, not catalyst). **Best Buy launching Meta AI Demo Hubs in 50+ stores** — incremental Meta-One/AI distribution validation. NSO Group spyware lawsuit federal contempt-order push — PR noise, not thesis. Concerns linger on $115–$135B 2026 capex + regulatory; EU WhatsApp/AI probe ongoing. Subscription thesis intact (Meta One: Instagram Plus $3.99 / Facebook Plus $3.99 / WhatsApp Plus $2.99). | Yes — subscription + AI ad-pricing intact; news is incremental positive (Best Buy AI hubs + dividend) but doesn't fix the cohort-lag risk. | **Hold — but on shortest leash.** Trailing stop $578.70 (cushion **~1.87% pre-mkt** — still danger zone, biggest single risk in book; +0.74% bounce gives modest relief vs Mon close ~1.08%). Pre-CPI decision tree: (a) if cohort firms with futures and META reclaims $595–600 by midday → hold and let CPI clarify; (b) if cohort sells off and META prints below $585 intraday with no single-name catalyst → start cut-decision tree before stop trips ($578.70 auto-trigger would lock −4.62% realized). **Same cohort-lag + thin-cushion + far-from-catalyst pattern as GOOGL/AMZN — but subscription monetization is a genuinely fresh thesis that earnings (late July) could re-rate**, which is the counter-argument to a pre-CPI cut. |
+| **ISRG** | da Vinci 5 100+ feature upgrades rolling out US June (live this month); **Q1'26 placed 232 da Vinci 5 systems vs 147 Q1'25 (+58%)**, driving US utilization +4% and **after-hours procedures +31%**; tissue-force reduced by up to 43% in pre-clinical with Force Feedback. Japan MHLW reimbursement expansion June (7 new procedures + high-volume hospital support) — live this month. Q1'26 rev +23%, procedures +16%, FY proc-growth guide 14–16%. Deutsche Bank Sell PT $366 (outlier); mainstream PT $700+ from bull desks (TIKR notes). | Yes — both June catalysts live; da Vinci 5 placements accelerating materially. Diversifier behaving as intended on cohort risk-off Fri 6/5. | **Hold.** Trailing stop $385.596 (cushion ~8.69% at $419 pre-mkt). Continue building conviction in medtech diversifier. |
+
+### Stop-Cushion Snapshot (Pre-Open Tue 6/9)
+- **META** — cushion **~1.87%** ($589.75 vs stop $578.70). **Still thinnest in book / danger zone.** Position to watch most closely Tuesday.
+- **LLY** — cushion **~8.23%** ($1,159.95 vs stop $1,064.457). Locks +7.27% realized if hit.
+- **ISRG** — cushion **~8.69%** ($419.00 vs stop $385.596). Healthy.
+- Two of three positions ≥8% cushion; only META in trip-zone.
+
+### Plan for Today's Open (Tue 6/9) and Tomorrow
+- **Lean: no new buys at Tuesday open.** Pre-CPI positioning day; markets typically de-risk into the print. Any AI-cohort weakness Tuesday is most likely pre-CPI hedging, not a fresh thesis break. KKR add stays deferred to Wed post-CPI per existing plan.
+- **META intraday framework (primary risk):**
+  - (a) Cohort firms with futures + META holds $590+ → hold the stop, let CPI clarify Wed.
+  - (b) META prints below $585 intraday with no single-name catalyst → start cut-decision tree (lessons-learned: cohort-lag + thin-cushion + no-near-catalyst). Trim manually to lock smaller realized loss vs letting stop trip at $578.70 (−4.62%).
+  - (c) META drops >7% intraday from open → hard-cut per guardrail.
+  - (d) META rallies with cohort to $600+ → cushion rebuilds; no action.
+- **LLY discipline:** do not trim post-ADA beat while thesis is broadening (lesson: pre-catalyst-hold extends after a confirmed beat when catalyst surface expanded). Trailing stop manages downside; HWM will ratchet further on any new high.
+- **KKR add decision tree for Wed 6/10 (post-CPI 8:30 AM):**
+  - (a) CPI in-line/cool (headline ≤+0.5% m/m, core ≤+0.3% m/m) + 10Y holds ≤4.55% + AI cohort firms → **Buy KKR ~$3,500 (~37 sh ~$94) mid-morning Wed** as the clean non-AI diversifier. Place 10% trailing stop immediately after fill. Records 1st buy of week 4 (1/3 cap).
+  - (b) CPI hot (headline ≥+0.6% m/m OR core ≥+0.4%) → defer to Thu post-PPI; if PPI also hot, defer all adds and reassess Mon 6/15 (pre-FOMC week).
+  - (c) CPI cool but META stops out on cohort risk-off → **still favor KKR add** (capital-cycle exposure ≠ AI beta; diversification benefit holds regardless and the cash freed from a META trip strengthens the post-add cushion).
+- **No second add this week** regardless of CPI/PPI — preserve dry powder for FOMC week 6/16–6/17.
+- **Earnings no-buy this week:** GME, CASY, ASO, SMTC, SJM (Tue); ORCL, CHWY (Wed AC); ADBE (Thu AC). None of the watchlist candidates conflict but re-verify at moment of trade.
+- **Mid-day guardrail check still required:** cut anything down >7% intraday; −3% daily-loss cap halts trading (Tue daily-loss trigger: ~$96,711.58).
+- **Cash floor (≥20%) check:** currently 88.02% cash. One KKR add (~$3,500) takes cash to ~84.5% — well above floor.
+
+### Thesis Notes / Read Heading Into Pre-CPI Day
+- **Pre-market tape is risk-on (S&P futures +1%, VIX <19) on Mideast de-escalation + chip-cohort bounce** — a constructive backdrop for META's cushion to widen from Mon's danger close. But the structural setup (cash-cushion-as-cushion lesson) means UP-tape days remain underperformance days for the book; expected behavior, not a thesis problem.
+- **META is now the dominant near-term risk.** Pre-mkt +0.74% bounce gives some relief but cushion is still <2%, the same pattern that took GOOGL (5/22→6/2) and AMZN (6/2→6/5): cohort-lag + thin-cushion + no-near-catalyst (next: late July earnings). Discretionary-trim framework armed but the asymmetry of waiting one more day for CPI clarity vs cutting Tue morning is the call — pre-mkt bounce supports waiting.
+- **LLY post-ADA momentum is real** and the book's primary engine. Pre-catalyst hold + post-beat hold both validated. Best Mag-7-adjacent position by a wide margin.
+- **KKR remains the clean diversifier choice.** Q1'26 fundamentals are excellent (rev +39%, FRE +24%, AUM $758B +14%); the 2026 ANI target softening to "below $7/sh" on delayed monetizations is a modest negative that the market has already digested (stock was ~$95 Fri close). FRE-trajectory thesis is the durable signal; mgmt's flag is exactly the kind of conservatism that supports a long-term entry.
+- **V is the clean back-up** with a different beta (consumer payments, cross-border travel) and a Strong Buy consensus with +30% PT upside — keep on bench for a 2nd-add scenario in a later week if KKR fills and works.
+- **Cumulative since launch (3 wks done; week 4 day 2):** portfolio −0.30% vs SPY −0.18% → ~−0.12pp gap. Week 3's +1.91% OP closed nearly the entire gap; week 4 day 1 gave back 0.81pp on UP tape. The path to outperformance runs through: (i) defending META's cushion, (ii) letting LLY ratchet, (iii) adding 1 non-AI diversifier (KKR) at the right window, (iv) catching the next DOWN-tape OP day.
+
+### Pre-Tomorrow Decision Queue
+- (1) **META intraday close** — does cushion widen into CPI (hold), narrow (trim decision), or trip the stop (auto-fill)?
+- (2) **3 trailing stops re-verify live & GTC** at next trade routine; verify LLY HWM ratchet if it makes a new high on Tue.
+- (3) **Wed 6/10 8:30 AM CPI** — KKR add gate.
+- (4) **ORCL earnings Wed AC** — read AI-cohort tape for META/MSFT cohort beta into Thu.
+- (5) **Pre-FOMC posture goal**: have KKR in place + cash buffer by Fri 6/12.
+
+---
