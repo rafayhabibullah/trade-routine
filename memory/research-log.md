@@ -933,3 +933,40 @@ Not Monday — no new SPY reference recorded. Week Start SPY remains **$737.45**
 - (5) **Pre-FOMC posture goal**: have KKR in place + cash buffer by Fri 6/12.
 
 ---
+
+## Tomorrow's Watch — 2026-06-10 (Wednesday — CPI day)
+
+### Day Recap (Tue 6/9 close)
+- Portfolio $99,708.14 → $99,761.72 = **+0.054% day** vs SPY $742.55 → $739.27 = **−0.442% day** → **+0.50% vs SPY (OP)**. Second structurally-favorable down-tape day; cash-cushion-as-cushion thesis confirmed (lesson #2). Pre-mkt risk-on (S&P futures +1%) faded into the bell as pre-CPI hedging took over — Nasdaq 100 −2%, S&P −~0.5%, Dow −0.5%.
+- **ISRG +1.91% to $426.61** — flipped green from entry for first time. **HWM advanced $428.44 → $430.85**; trailing stop ratcheted to $387.765 (cushion ~9.10%). Diversifier delivered on a soft-tape day as the thesis predicts.
+- **LLY −0.39% to $1,144.68** (+15.35% from entry). HWM unchanged; modest post-Mon consolidation. Stop $1,064.457 (cushion ~7.01%).
+- **META −0.015% to $585.30** — virtually flat day, cushion still ~1.13%, essentially unchanged from Mon's 1.08% danger close. Did NOT trip stop. Pre-mkt bounce faded but no breakdown either.
+- WTD (2 of 5 days): Portfolio +0.043% vs SPY +0.247% = **−0.20pp WTD vs SPY** (improved from −0.71pp after Mon).
+
+### Positions to Monitor
+- **META — PRIMARY RISK INTO CPI.** $585.30 close, cushion 1.13% from stop $578.70. Survived another day at the danger-zone floor. Tomorrow's CPI print (8:30 AM ET) is the binary event: **hot CPI** (headline ≥+0.6% m/m OR core ≥+0.4%) likely triggers the stop on a gap-down open; **in-line/cool CPI** (headline ≤+0.5% m/m, core ≤+0.3% m/m) gives cushion room to rebuild and supports the KKR add decision. Cohort-lag + thin-cushion + far-from-catalyst pattern remains active but late-July earnings remains the asymmetric re-rate catalyst.
+- **LLY** — $1,144.68, +15.35% from entry. Watch for any post-CPI rate-cut-odds rebuild → supports long-duration pharma. HWM ratchet potential if LLY makes a new high.
+- **ISRG** — $426.61, just-flipped-green. Cushion 9.10%. Two June catalysts on track. Day 1 of new HWM regime; let it run.
+
+### Macro Events Wednesday 6/10
+- **8:30 AM ET — CPI (May)** — the swing data of the week. Consensus headline +0.5% m/m / +4.2% y/y (energy-elevated on Iran shock); core +0.2–0.3% m/m. First CPI under Chair Warsh; tape will read for Fed-cut-odds rebuild after hot NFP/JOLTS/Chicago PMI cluster.
+- **AC: ORCL Q4 FY26 earnings** — cons EPS $1.96 / rev $19.1B (+20.1%). Big AI-cohort read for META beta into Thu open. **AC: CHWY**.
+- **Treasury Refunding ops** mid-morning typically.
+
+### Thesis Notes
+- **Cash-cushion-as-cushion thesis now battle-tested two days running** in week 4: Mon UP-tape UND (−0.81pp), Tue DOWN-tape OP (+0.50pp). Net WTD better than week-3 day 2 was. Structural pattern holding.
+- **META's survival at the cushion floor is significant** — two consecutive days at ~1.1% cushion without tripping suggests $578.70–$585 is an active support level (or simply low realized vol). Either way, CPI is the resolution.
+- **KKR add gate decision tree (from 6/9 plan) is live for Wed:**
+  - (a) CPI in-line/cool + 10Y holds ≤4.55% + AI cohort firms → **Buy KKR ~$3,500 (~37 sh @ ~$94)** mid-morning Wed. Place 10% trailing stop immediately. Records 1st buy of week 4 (1/3).
+  - (b) CPI hot → defer to Thu post-PPI; if PPI also hot, defer all adds, reassess Mon 6/15.
+  - (c) CPI cool but META stops out on cohort risk-off → **still favor KKR add** (capital-cycle exposure ≠ AI beta; diversification benefit holds; freed cash strengthens post-add cushion).
+- **No second add this week** regardless of CPI outcome — preserve dry powder for FOMC week 6/16–6/17.
+
+### Pre-Wednesday Decision Queue
+- (1) **8:30 AM CPI read** — apply KKR decision tree (a/b/c).
+- (2) **META 9:30 AM open price check** — if gaps below $578.70 → auto-stop fills (no manual action); if gaps to $580–$584 → evaluate manual cut vs holding into the cohort tape; if gaps green → cushion rebuilds, hold.
+- (3) **3 trailing stops re-verify live & GTC** at next trade routine; check LLY/ISRG for further HWM advances.
+- (4) **KKR earnings-calendar verify** at moment of trade (next report early August — should be clear).
+- (5) **ORCL AC earnings** — tape read for META cohort beta into Thu.
+
+---
