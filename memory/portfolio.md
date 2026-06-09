@@ -1,31 +1,45 @@
 # Portfolio
 
-**Last Updated:** 2026-06-08 (market close routine — Monday close, Week 4 day 1 of 5)
+**Last Updated:** 2026-06-09 (market open routine — Tuesday open, Week 4 day 2 of 5, pre-CPI)
 **Account:** Alpaca Paper Trading
 **Endpoint:** https://paper-api.alpaca.markets
 
 ## Account Summary
 - Cash: $87,831.71
-- Total Portfolio Value (6/8 close): **$99,704.80**
-- Invested (long_market_value): $11,873.09 (11.91%)
-- Cash Reserve: $87,831.71 (88.09%)
-- **Day Open Value (6/8):** $99,827.55 → **Day Close: $99,704.80** = **−0.123% day**. Daily-loss cap (−3%) trigger was $96,832.72; NOT triggered.
-- **Week Start Value (Mon 6/8):** $99,718.39 (Fri 6/5 close — carried as Week Start ref). WTD: $99,718.39 → $99,704.80 = **−0.014% WTD**.
-- **Week Start SPY (Mon 6/8):** $737.45 → Mon close $742.55 = **+0.692% WTD**.
-- **vs SPY today:** Portfolio −0.123% vs SPY +0.692% → **−0.81% vs SPY (UNDERPERFORMED)** — give-back day after the structurally cash-cushioned outperformance regime of last week's risk-off tape. UP-tape day → expected UND per the cash-cushion-as-cushion lesson.
-- New positions this week (6/8–6/12): **0 of 3** (cap reset; KKR add deferred to Wed post-CPI)
-- Closed positions in week 3 (6/1–6/5): **2** (GOOGL — trailing stop 6/2; AMZN — trailing stop 6/5)
-- Daytrade count: 0; trading not blocked
+- Total Portfolio Value (6/9 open snapshot ~12:30 UTC): **$99,763.02**
+- Invested (long_market_value): $11,931.31 (11.96%)
+- Cash Reserve: $87,831.71 (88.04%)
+- **Day Open Value (6/9):** $99,708.14 (Alpaca last_equity carry from Mon close). **Daily-loss cap (−3%) trigger today: $96,716.90.** NOT at risk (current equity $99,763.02, +$54.88 / +0.055% above open).
+- **Week Start Value (Mon 6/8):** $99,718.39 → current $99,763.02 = **+0.045% WTD** (day 2 of 5).
+- **Week Start SPY (Mon 6/8):** $737.45. SPY current TBD at next close routine.
+- New positions this week (6/8–6/12): **0 of 3** (no buys today per plan — KKR add deferred to Wed post-CPI).
+- Closed positions in week 3 (6/1–6/5): **2** (GOOGL — trailing stop 6/2; AMZN — trailing stop 6/5).
+- Daytrade count: 0; trading not blocked.
 
-## Open Positions (6/8 close)
+## Open Positions (6/9 open snapshot)
 
 | Symbol | Shares | Avg Entry | Current Price | Market Value | Total P&L $ | Total P&L % | Day Change | Trailing Stop |
 |--------|--------|-----------|---------------|--------------|-------------|-------------|------------|---------------|
-| ISRG | 9 | $425.163 | $418.61 | $3,767.49 | −$58.98 | −1.54% | −0.82% | 10% trail (hwm $428.44 → stop $385.596, **~7.89% cushion**) |
-| LLY | 4 | $992.355 | $1,148.90 | $4,595.60 | +$626.18 | **+15.78%** | +1.55% | 10% trail (**HWM ADVANCED today** to $1,182.73 → stop $1,064.457, **~7.35% cushion**; locks **+7.27% realized** if hit). Intraday print exceeded prior $1,166.29 hwm. |
-| META | 6 | $606.73 | $585.00 | $3,510.00 | −$130.38 | −3.58% | −1.35% | 10% trail (hwm $643.00 → stop $578.70, **~1.08% cushion — DANGER ZONE, thinnest in book**) |
+| ISRG | 9 | $425.163 | $417.23 | $3,755.07 | −$71.40 | −1.87% | −0.33% | 10% trail (hwm $428.44 → stop $385.596, **~7.58% cushion**) |
+| LLY | 4 | $992.355 | $1,154.71 | $4,618.84 | +$649.42 | **+16.36%** | +0.48% | 10% trail (hwm $1,182.73 → stop $1,064.457, **~7.82% cushion**; locks **+7.27% realized** if hit) |
+| META | 6 | $606.73 | $592.90 | $3,557.40 | −$82.98 | −2.28% | +1.28% | 10% trail (hwm $643.00 → stop $578.70, **~2.40% cushion — still thinnest, but bounced off Mon's 1.08% danger-zone close**) |
 
-*(Live prices from Alpaca positions endpoint at close ~20:00 UTC. 3 of 3 trailing stops verified live & GTC. LLY hwm/stop updated by Alpaca intraday — `28f47c51` now $1,064.457 (hwm $1,182.73).)*
+*(Live prices from Alpaca positions endpoint at session start ~12:30 UTC. 3 of 3 trailing stops verified live & GTC. No stops triggered overnight.)*
+
+## Today's Market Open Routine — 2026-06-09 (Tuesday, pre-CPI)
+
+- **No trades placed at open** per the pre-CPI plan from research-log 6/9: KKR add deferred to Wed 6/10 post-CPI (8:30 AM ET). Cap remains 0 of 3 for the week.
+- **Day Open Value recorded:** $99,708.14 (Alpaca last_equity carry from Mon 6/8 close). Daily-loss cap trigger: $96,716.90.
+- **META intraday framework — Path (a) confirmed at open:** META printed $592.90 (+1.28% intraday) on cohort firm pre-mkt (S&P futures +1%, VIX <19 on Mideast de-escalation + chip bounce). Cushion widened from Mon close ~1.08% to ~2.40%. Holding $590+ → hold the stop, let CPI clarify Wed. NO manual trim triggered.
+- **LLY momentum continues post-ADA:** $1,154.71 (+16.36% from entry), +0.48% on the day. HWM still $1,182.73 from Mon's intraday print; stop $1,064.457 (locks +7.27% realized). Pre-catalyst-hold extends post-confirmed-beat per lesson.
+- **ISRG quiet drift:** $417.23, −0.33% on the day. Cushion ~7.58%. Two June catalysts on track (da Vinci 5 + Japan reimbursement).
+- **Trailing stops re-verified live & GTC at session start:**
+  - ISRG `b271eef3` $385.596 (hwm $428.44)
+  - LLY `28f47c51` $1,064.457 (hwm $1,182.73)
+  - META `566b9e93` $578.70 (hwm $643.00)
+- **Cash floor:** 88.04% — well above 20% floor.
+- **Earnings no-buy today (Tue 6/9):** GME, CASY, ASO, SMTC, SJM (no candidate overlap).
+- **Next decision window:** Tue mid-day check (META cushion + >7% intraday rule); then **Wed 6/10 8:30 AM ET CPI** is the KKR add gate.
 
 ## Today's Market Close Routine — 2026-06-08 (Monday)
 
