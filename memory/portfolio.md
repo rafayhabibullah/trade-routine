@@ -1,30 +1,45 @@
 # Portfolio
 
-**Last Updated:** 2026-06-09 (market close routine — Tuesday close, Week 4 day 2 of 5, pre-CPI)
+**Last Updated:** 2026-06-10 (midday routine — Wednesday midday, Week 4 day 3 of 5, post-CPI, **META trailing stop FILLED 10:58 AM ET**)
 **Account:** Alpaca Paper Trading
 **Endpoint:** https://paper-api.alpaca.markets
 
 ## Account Summary
-- Cash: $87,831.71
-- Total Portfolio Value (6/9 close): **$99,761.72**
-- Invested (long_market_value): $11,930.01 (11.96%)
-- Cash Reserve: $87,831.71 (88.04%)
-- **Day Open Value (6/9):** $99,708.14 → Close $99,761.72 = **+0.054% day**. Daily-loss cap (−3%) trigger today was $96,716.90 — NOT triggered.
-- **Week Start Value (Mon 6/8):** $99,718.39 → current $99,761.72 = **+0.043% WTD** (day 2 of 5).
-- **Week Start SPY (Mon 6/8):** $737.45 → Tue 6/9 close **$739.27** = **+0.247% WTD**. WTD vs SPY: **−0.20pp UND** (day 2 of 5).
-- New positions this week (6/8–6/12): **0 of 3** (no buys today per plan — KKR add deferred to Wed post-CPI).
+- Cash: $91,303.25
+- Total Portfolio Value (6/10 midday): **$99,651.09**
+- Invested (long_market_value): $8,347.84 (8.38%)
+- Cash Reserve: $91,303.25 (91.62%)
+- **Day Open Value (6/10):** $99,757.46 → midday $99,651.09 = **−0.107% day** (already inclusive of META stop-out realized loss −$168.84). Daily-loss cap (−3%) trigger today was $96,764.74 — NOT triggered.
+- **Week Start Value (Mon 6/8):** $99,718.39 → current $99,651.09 = **−0.068% WTD** (day 3 of 5).
+- New positions this week (6/8–6/12): **0 of 3** (KKR add still on the table for post-CPI decision, but META exit reshapes that decision — see midday notes).
+- Closed positions this week (6/8–6/12): **1** (META — trailing stop 6/10 −$168.84).
 - Closed positions in week 3 (6/1–6/5): **2** (GOOGL — trailing stop 6/2; AMZN — trailing stop 6/5).
 - Daytrade count: 0; trading not blocked.
 
-## Open Positions (6/9 close)
+## Open Positions (6/10 midday)
 
 | Symbol | Shares | Avg Entry | Current Price | Market Value | Total P&L $ | Total P&L % | Day Change | Trailing Stop |
 |--------|--------|-----------|---------------|--------------|-------------|-------------|------------|---------------|
-| ISRG | 9 | $425.163 | $426.61 | $3,839.49 | +$13.02 | +0.34% | **+1.91%** | 10% trail (**hwm advanced $428.44 → $430.85** → stop ratcheted to $387.765, **~9.10% cushion**) |
-| LLY | 4 | $992.355 | $1,144.68 | $4,578.72 | +$609.30 | **+15.35%** | −0.39% | 10% trail (hwm $1,182.73 → stop $1,064.457, **~7.01% cushion**; locks **+7.27% realized** if hit) |
-| META | 6 | $606.73 | $585.30 | $3,511.80 | −$128.58 | −3.53% | −0.015% | 10% trail (hwm $643.00 → stop $578.70, **~1.13% cushion — still thinnest, virtually unchanged from Mon's 1.08% danger-zone close**) |
+| ISRG | 9 | $425.163 | $418.195 | $3,763.76 | −$62.71 | −1.64% | −1.97% | 10% trail (hwm $430.85 → stop $387.765, **~7.28% cushion**) |
+| LLY | 4 | $992.355 | $1,146.02 | $4,584.08 | +$614.66 | **+15.49%** | +0.12% | 10% trail (hwm $1,182.73 → stop $1,064.457, **~7.12% cushion**; locks **+7.27% realized** if hit) |
 
-*(Live prices from Alpaca positions endpoint at close. 3 of 3 trailing stops verified live & GTC. ISRG stop ratcheted up on new HWM today. No stops triggered.)*
+*(Live midday prices from Alpaca positions endpoint. 2 of 2 trailing stops verified live & GTC. META trailing stop `566b9e93` consumed by fill at 10:58 AM ET — no longer in open-orders list.)*
+
+## Today's Midday Routine — 2026-06-10 (Wednesday, post-CPI)
+
+- **META TRAILING STOP FILLED 10:58 AM ET (14:58:35 UTC)** on order `566b9e93`. Three fills: 1 sh @ $578.62 → 4 sh @ $578.56 → 1 sh @ $578.68 (cum 6). Avg fill **$578.59**. Proceeds $3,471.54. Cost basis $3,640.38 (6 × $606.73 entry). **Realized −$168.84 / −4.64% from entry.** Stop trip mechanism: price broke through $578.70 stop on post-CPI digestion; danger-zone cushion (~1.13% at 6/9 close) gave way exactly as the cohort-lag + thin-cushion pattern predicts. Same playbook as GOOGL (6/2) and AMZN (6/5) — Lesson #5 (mega-cap-AI cohort tail risk) now validated three times in three weeks. Stop discipline executed cleanly; thesis (AI-optimized ad targeting + subscription rollout) was intact at exit but tape regime overrode single-name fundamentals.
+- **Cash reconciliation:** Pre-trade cash $87,831.71 + META proceeds $3,471.54 = **$91,303.25** (matches Alpaca account endpoint).
+- **>7% intraday cut rule check (remaining positions):**
+  - ISRG: `change_today = −1.97%` — well above −7% threshold. No action.
+  - LLY: `change_today = +0.12%` — no action.
+- **Daily-loss cap check:** Open $99,757.46 → midday $99,651.09 = −0.107%; trigger −3% at $96,764.74. **NOT triggered** (META stop-out already booked in the day P&L).
+- **LLY >15% winner — trailing-stop tighten judgment call:** LLY unrealized +15.49% (>15% threshold met). Current 10% trail locks +7.27% realized if hit. **DECISION: keep 10% trail unchanged.** Reasoning: (a) ADA Sat 6/6 was the most recent confirmed-thesis catalyst — pre-catalyst-hold discipline argues for letting the post-catalyst tape develop before tightening, (b) GLP-1 thesis intact (TRIUMPH-1 retatrutide Phase 3 already validated, Mounjaro/Zepbound duopoly uncapped), (c) tightening to 8% would put stop ~$1,088 (vs current $1,146.02) — saves ~$24/sh on a stop-trip but cushion would collapse to ~5.1%, raising stop-out risk on noise, (d) LLY is the book's anchor (and now the largest single position by $ at $4,584) — premature tightening here is asymmetric in the wrong direction. Per Lesson #3: "do not trim a winner into a known scheduled catalyst" — the corollary holds post-catalyst when thesis-validating data has just confirmed.
+- **Trailing stops re-verified live & GTC at midday:**
+  - ISRG `b271eef3` $387.765 (hwm $430.85, cushion ~7.28%)
+  - LLY `28f47c51` $1,064.457 (hwm $1,182.73, cushion ~7.12%)
+- **Cash floor:** 91.62% — well above 20% floor. Cash freed by META exit (~$3.5k) increases dry powder.
+- **KKR add re-evaluation (preview for next decision window):** META exit changes the math on the KKR add. Pros for adding: (a) book is now 2 names + 91.6% cash — dry powder is excessive, (b) META exit removes one of the AI-mega-cap cohort exposures, freeing room for a non-AI financial-services diversifier (KKR), (c) the cohort-tail-risk lesson argues FOR diversification across cohorts not against new buys. Cons / pause flags: (d) three stop-outs in three weeks under the same pattern argues for slowing down rather than rotating quickly, (e) CPI digestion is still in progress mid-session, (f) two more days in the week leaves room to assess. **Plan: defer KKR add to close routine or Thu open; do not chase mid-session under stop-out volatility.** No buy action triggered by midday routine.
+- **Next decision window:** Wed 6/10 close routine — reconcile day P&L vs SPY, finalize KKR add decision for Thu open.
 
 ## Today's Market Close Routine — 2026-06-09 (Tuesday, pre-CPI)
 
