@@ -1064,3 +1064,48 @@ Not Monday — no new SPY reference recorded. Week Start SPY remains **$737.45**
 - (6) **Thu pre-mkt readout:** PPI (8:30 AM ET) + ECB decision + ADBE AC + ORCL print reaction. KKR-on-Thu fallback path live if CPI hot today.
 
 ---
+
+## Tomorrow's Watch — 2026-06-11 (Thursday — PPI day; KKR add-gate refresh)
+
+### Day Recap (Wed 6/10 close — CPI day)
+- Portfolio $99,757.46 → $99,557.11 = **−0.201% day** vs SPY $739.27 → ~$731.48 = **−1.054% day** → **+0.85% vs SPY (OP)**. Third structurally-favorable down-tape OP day in a row. WTD: portfolio −0.162% vs SPY −0.810% → **+0.65pp OP WTD** (3 of 5 days; swung from −0.20pp UND after Tue).
+- **CPI print:** Headline +0.5% m/m / **+4.2% y/y** (in-line; crossed 4% for first time since Apr 2023; energy +3.9% m/m drove >60% of all-items). **Core +0.2% m/m / +2.9% y/y** (BELOW +0.3% consensus — cool core). Cool core normally constructive for long-duration / Fed-cut-odds rebuild, but **Iran-strike overnight risk-off dominated the tape** through the day; SPY closed −1.05%.
+- **META STOPPED OUT 10:58 AM ET @ $578.59** (6 sh, realized −$168.84 / −4.64%). Cash +$3,471.54 → $91,303.25 (91.71%). Subscription/AI-ad thesis intact at exit but cohort-lag + thin-cushion + EU "WhatsApp access to AI rivals" directive all triangulated against the position on a risk-off CPI day. **3rd mega-cap-AI stop in 7 trading days** (GOOGL 6/2, AMZN 6/5, META 6/10). Mega-cap-AI cohort exposure now ZERO; lesson #5 fully empirically validated.
+- **KKR add NOT executed today:** CPI core was cool (path (a) condition met) but 10Y/AI-cohort gates failed; path (c) was eligible (cool CPI + risk-off tape on Iran) but with META actively tripping into the print, prudence chose to let the day resolve before adding a fresh non-AI diversifier into a clearly risk-off tape. **Defer to Thu post-PPI per existing fallback.**
+- **LLY −0.72% to $1,136.42** (+14.52% from entry). Cushion 6.33%. Pharma defensive bid limited risk-off drawdown.
+- **ISRG −3.42% to $412.02** (−3.09% from entry, flipped back red). Cushion compressed 9.10% → **5.89%**. Diversifier did NOT hold on broad-asset Iran-strike risk-off — same one-day-correlated-weakness pattern observed 6/2 (lesson #4). Two June catalysts still ahead; thesis non-broken.
+
+### Positions to Monitor
+- **LLY — PRIMARY ENGINE.** $1,136.42, +14.52% from entry. Cushion 6.33%. Watch for PPI direction → post-CPI/PPI Fed-cut-odds rebuild supports long-duration pharma. HWM ratchet potential if LLY makes a new high. ECB +25 bps decision Thu may move EUR/USD; not directly book-impactful but worth tape-reading.
+- **ISRG — DIVERSIFIER UNDER STRESS.** $412.02, cushion 5.89%. Thinnest cushion in remaining book now that META is out. Wait for AI-cohort-specific risk-off (not broad geopolitical risk-off) to evaluate diversifier thesis cleanly. Citi upgrade (Buy/$590) and Japan reimbursement expansion + da Vinci 5 catalysts both live this month — fundamentals firm; price action is tape-driven.
+
+### Macro Events Thursday 6/11
+- **8:30 AM ET — PPI (May)** — wholesale-prices read; follows cool core CPI. Cool PPI compounds the disinflation read; hot PPI reverses Wed's modest sub-3% core CPI cheer.
+- **8:30 AM ET — ECB rate decision** — consensus +25 bps hike. Modest USD/EUR implications; not directly book-impactful.
+- **AC — ADBE Q2 FY26 earnings** — cons EPS $5.01 / rev $6.43–$6.48B; AI strategy + $25B buyback overhang. Earnings no-buy locked for ADBE today.
+- **Tonight ORCL AC reaction** — read for AI-cohort beta into Thu open (relevant to remaining book through ISRG and broader sentiment, not single-name exposure now that META is closed).
+
+### Thesis Notes
+- **Cash-cushion-as-cushion thesis is now battle-tested across three tape regimes in week 4** (UP-tape UND Mon, soft-tape OP Tue, hard-risk-off OP Wed). +0.85pp OP on a SPY −1.05% day with 91.7% cash + LLY ballast + ISRG diversifier (even with diversifier modestly down) is structurally exactly what the cash-cushion lesson predicts.
+- **Mega-cap-AI concentration tail risk is no longer a hypothesis — it is the demonstrated risk pattern.** 3 of the original 5 AI-cohort positions have stopped out within 7 trading days, all on data-event / geopolitical risk-off sessions. Lesson #5 cap discipline (≤3 mega-cap-AI names, ≤15% combined, ≥1 truly non-AI per 2 AI mega-cap) is now the de-facto operating rule going forward.
+- **KKR remains the cleanest non-AI add candidate.** Cool core CPI is supportive of the long-duration alt-asset thesis; risk-off tape is the right entry regime for the *non-correlation* trade. Thu post-PPI is the gate; if PPI also cool + tape stabilizes + cohort firms, execute the add. Earnings clear (next early August).
+- **V is the cleaner secondary backup** — consumer-payments duopoly, different beta. Hold on bench for a later-week add if FOMC week doesn't change the picture.
+- **Cumulative since launch (3 wks done; week 4 day 3):** portfolio −0.48% vs SPY −0.99% → **+0.51pp cumulative OP** (closed the entire ~−0.12pp gap from Tue and crossed into positive territory). The path to durable OP is running through: (i) cash-cushion structural OP on risk-off tape, (ii) LLY ratchet, (iii) eventual KKR diversifier add at the right window, (iv) ISRG holding through to its June catalysts.
+
+### KKR Add Decision Tree for Thu 6/11 (Post-PPI 8:30 AM ET)
+- **(a) PPI in-line/cool** (headline ≤+0.5% m/m AND core ≤+0.3% m/m) AND 10Y holds ≤4.55% AND AI cohort stabilizes by 10:00 AM ET → **Buy KKR ~$3,500 (~37 sh @ ~$94) mid-morning.** Place 10% trailing stop immediately. Records 1st buy of week 4 (1/3).
+- **(b) PPI hot** (headline ≥+0.6% m/m OR core ≥+0.4%) → **Defer all adds; reassess Mon 6/15.** Pre-FOMC week 6/16–6/17 dry-powder preservation.
+- **(c) PPI cool but Iran-driven risk-off persists through 11:00 AM ET** → **Still favor KKR add by lunch** — the non-correlation trade is the entire point; broad risk-off is the right entry regime per lesson #4 (wait for the right risk regime to evaluate the diversifier, and the right regime here is *any* risk-off where the alt-asset/capital-cycle beta differs from what's selling).
+- **(d) PPI cool but ISRG also stops out on cohort risk-off** → **Pause adds, reassess.** Two stops in 48 hours would mark a regime change worth digesting before redeploying capital.
+- **No second add this week** regardless of PPI/ECB/ADBE — preserve dry powder for FOMC week 6/16–6/17.
+
+### Pre-Thursday Decision Queue
+- (1) **PPI print 8:30 AM ET** — apply KKR decision tree (a/b/c/d).
+- (2) **ORCL AC reaction** — read AI-cohort tape; not single-name impactful but sentiment-relevant for ISRG cushion.
+- (3) **2 remaining trailing stops re-verify live & GTC** at next trade routine; check LLY/ISRG for HWM advances or stop trips.
+- (4) **KKR pre-trade earnings re-verify** at moment of trade (next report early August — confirmed clear).
+- (5) **ECB +25 bps decision** — tape read for USD direction.
+- (6) **ADBE AC earnings** — locked no-buy; just tape-read for AI cohort.
+- (7) **Friday 6/12 readout posture:** plan to enter Fri with KKR add complete (if Thu green-lit) or deferred to Mon 6/15.
+
+---

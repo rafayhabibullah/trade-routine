@@ -1,30 +1,45 @@
 # Portfolio
 
-**Last Updated:** 2026-06-09 (market close routine — Tuesday close, Week 4 day 2 of 5, pre-CPI)
+**Last Updated:** 2026-06-10 (market close routine — Wednesday close, Week 4 day 3 of 5, CPI day; META STOPPED OUT)
 **Account:** Alpaca Paper Trading
 **Endpoint:** https://paper-api.alpaca.markets
 
 ## Account Summary
-- Cash: $87,831.71
-- Total Portfolio Value (6/9 close): **$99,761.72**
-- Invested (long_market_value): $11,930.01 (11.96%)
-- Cash Reserve: $87,831.71 (88.04%)
-- **Day Open Value (6/9):** $99,708.14 → Close $99,761.72 = **+0.054% day**. Daily-loss cap (−3%) trigger today was $96,716.90 — NOT triggered.
-- **Week Start Value (Mon 6/8):** $99,718.39 → current $99,761.72 = **+0.043% WTD** (day 2 of 5).
-- **Week Start SPY (Mon 6/8):** $737.45 → Tue 6/9 close **$739.27** = **+0.247% WTD**. WTD vs SPY: **−0.20pp UND** (day 2 of 5).
-- New positions this week (6/8–6/12): **0 of 3** (no buys today per plan — KKR add deferred to Wed post-CPI).
-- Closed positions in week 3 (6/1–6/5): **2** (GOOGL — trailing stop 6/2; AMZN — trailing stop 6/5).
+- Cash: $91,303.25
+- Total Portfolio Value (6/10 close): **$99,557.11**
+- Invested (long_market_value): $8,253.86 (8.29%)
+- Cash Reserve: $91,303.25 (91.71%)
+- **Day Open Value (6/10):** $99,757.46 (Alpaca last_equity) → Close $99,557.11 = **−0.201% day**. Daily-loss cap (−3%) trigger today was $96,764.74 — NOT triggered.
+- **Week Start Value (Mon 6/8):** $99,718.39 → current $99,557.11 = **−0.162% WTD** (day 3 of 5).
+- **Week Start SPY (Mon 6/8):** $737.45 → Wed 6/10 close ~**$731.48** = **−0.810% WTD**. WTD vs SPY: **+0.65pp OP** (day 3 of 5) — swung from −0.20pp UND to +0.65pp OP in one CPI-day session.
+- New positions this week (6/8–6/12): **0 of 3** (KKR add gate did NOT trigger — Iran risk-off + 10Y read kept us on the sidelines; cap intact).
+- Closed positions in week 4 so far: **1** (META — trailing stop filled 10:58 AM ET 6/10 @ $578.59 → −$168.84 / −4.64%).
 - Daytrade count: 0; trading not blocked.
 
-## Open Positions (6/9 close)
+## Open Positions (6/10 close)
 
 | Symbol | Shares | Avg Entry | Current Price | Market Value | Total P&L $ | Total P&L % | Day Change | Trailing Stop |
 |--------|--------|-----------|---------------|--------------|-------------|-------------|------------|---------------|
-| ISRG | 9 | $425.163 | $426.61 | $3,839.49 | +$13.02 | +0.34% | **+1.91%** | 10% trail (**hwm advanced $428.44 → $430.85** → stop ratcheted to $387.765, **~9.10% cushion**) |
-| LLY | 4 | $992.355 | $1,144.68 | $4,578.72 | +$609.30 | **+15.35%** | −0.39% | 10% trail (hwm $1,182.73 → stop $1,064.457, **~7.01% cushion**; locks **+7.27% realized** if hit) |
-| META | 6 | $606.73 | $585.30 | $3,511.80 | −$128.58 | −3.53% | −0.015% | 10% trail (hwm $643.00 → stop $578.70, **~1.13% cushion — still thinnest, virtually unchanged from Mon's 1.08% danger-zone close**) |
+| ISRG | 9 | $425.163 | $412.02 | $3,708.18 | −$118.29 | −3.09% | **−3.42%** | 10% trail (hwm $430.85 → stop $387.765, **~5.89% cushion**; cohort risk-off pared back yesterday's +1.91% then some) |
+| LLY | 4 | $992.355 | $1,136.42 | $4,545.68 | +$576.26 | **+14.52%** | −0.72% | 10% trail (hwm $1,182.73 → stop $1,064.457, **~6.33% cushion**; locks **+7.27% realized** if hit) |
 
-*(Live prices from Alpaca positions endpoint at close. 3 of 3 trailing stops verified live & GTC. ISRG stop ratcheted up on new HWM today. No stops triggered.)*
+*(Live prices from Alpaca positions endpoint at close. 2 of 2 remaining trailing stops verified live & GTC. META stop FILLED at $578.59 — order moved to closed/filled status. No further stop triggers.)*
+
+## Today's Market Close Routine — 2026-06-10 (Wednesday, CPI day; META stopped out)
+
+- **Day net:** Portfolio $99,757.46 → $99,557.11 = **−0.201% day** on a SPY $739.27 → **~$731.48 = −1.054% day** (per 24/7 Wall St. reporting SPY −1.05% / −$7.74 on Iran-strike risk-off + post-CPI digestion). **Relative: +0.85% vs SPY (OP)** — **third structurally-favorable down-tape OP day in a row** (Mon UND on UP-tape, Tue OP on soft tape, Wed OP on hard risk-off). Cash-cushion-as-cushion thesis (lesson #2) now battle-tested across three regimes in week 4. No daily-loss-cap concern (trigger $96,764.74).
+- **CPI (May) print 8:30 AM ET:** **Headline +0.5% m/m / +4.2% y/y** (in-line; crossed 4% for first time since Apr 2023; energy +3.9% m/m drove >60% of monthly all-items). **Core +0.2% m/m / +2.9% y/y** (BELOW +0.3% consensus — **cool core**). Decision-tree path (a) condition "core ≤ +0.3% m/m" was satisfied; HOWEVER paths (b)/(c) gates ("10Y holds ≤4.55%" AND "AI cohort firms by 10:00 AM ET") did NOT hold — Iran-strike overnight risk-off persisted through the day, SPY closed −1.05%, AI cohort sold off into the META stop trip. **KKR add was NOT executed today.** Cap remains 0 of 3 for the week; per existing plan, the KKR Thu-post-PPI fallback path is now live.
+- **META TRAILING STOP FILLED at 10:58 AM ET 6/10 @ $578.59** (6 sh × $578.59 = $3,471.54 cash in). Realized **−$168.84 / −4.64%** vs entry $606.73. Stop tripped on the post-CPI cohort sell-off (CPI cool core didn't rescue META — Iran-strike overnight tape + EU "WhatsApp access to AI rivals" directive + cohort-lag pattern all stacked against the position). Stop discipline executed cleanly; realized loss came in **better than the worst-case projection** (−4.62% modeled vs −4.64% realized — virtually exact). Order ID `566b9e93` now in filled status, no replacement needed. Cash +$3,471.54 → $91,303.25 (91.71%).
+- **LLY −0.72% day to $1,136.42 (+14.52% from entry).** HWM held at $1,182.73 (no new intraday high). Stop $1,064.457 (cushion ~6.33%; locks +7.27% realized if hit). Tightened modestly on the day-wide risk-off but pharma defensive bid limited the drawdown. Multi-indication thesis intact; AlzeCure Pharma collaboration 6/9 adds modest Alzheimer's optionality.
+- **ISRG −3.42% day to $412.02 (−3.09% from entry — flipped back red).** Cushion compressed from ~9.10% Tue to **~5.89%** today. **Diversifier did NOT hold up on a broad-risk-off day** — same one-day-correlated-weakness pattern observed on 6/2 (per lesson #4); ISRG sold with the cohort on broad de-risking despite Citi upgrade today (Buy/$590). Stop ratchet stands at $387.765 from yesterday's HWM advance. Both June catalysts (da Vinci 5 + Japan reimbursement) still ahead — diversifier thesis is non-broken; **wait for the right risk regime (AI-cohort-specific risk-off, not Iran-strike all-asset risk-off) to evaluate**.
+- **Trailing stops re-verified live & GTC at close:**
+  - ISRG `b271eef3` $387.765 (hwm $430.85)
+  - LLY `28f47c51` $1,064.457 (hwm $1,182.73)
+  - META `566b9e93` **FILLED at $578.59** — order closed.
+- **Cash floor:** 91.71% — well above 20% floor. Room for KKR add (~$3,500) Thu post-PPI without breaching floor (would take cash to ~88.2%).
+- **Earnings no-buy remaining this week:** ADBE (Thu AC).
+- **Lesson #5 (mega-cap-AI concentration tail risk) FULLY VALIDATED:** **3 stops in 7 trading days** — GOOGL 6/2, AMZN 6/5, META 6/10 — all AI-mega-cap names during data-event / geopolitical risk-off sessions. The cohort-lag + thin-cushion + far-from-catalyst predictive pattern hit 3/3. Mega-cap-AI cohort exposure now ZERO; the cap discipline (≤3 names, ≤15% combined, ≥1 truly non-AI per 2 AI mega-cap) goes forward with the bar fully proven empirically.
+- **Next decision window:** **Thu 6/11 8:30 AM ET PPI** — KKR add gate refresh. Decision tree: cool PPI + cohort stabilization + 10Y holds → KKR add by lunch (1/3); hot PPI OR continued Iran-driven risk-off → defer to Mon 6/15 (pre-FOMC week). Also monitor ORCL AC tonight for META-cohort beta read into Thu open and ADBE AC Thu.
 
 ## Today's Market Close Routine — 2026-06-09 (Tuesday, pre-CPI)
 
