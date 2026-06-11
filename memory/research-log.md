@@ -1204,3 +1204,38 @@ Not Monday — no new SPY reference recorded. Week Start SPY remains **$737.45**
 - (7) **Friday 6/12 readout posture:** plan to enter Fri with KKR add complete (if Thu green-lit) or deferred to Mon 6/15. FOMC week 6/16–6/17 is the next major decision window.
 
 ---
+
+## Tomorrow's Watch — 2026-06-12 (Friday, week 4 day 5 of 5)
+
+### Recap of Thu 6/11
+- **HOT PPI** print (+1.1% m/m / +6.5% y/y headline, highest since Nov 2022; goods +2.8% / energy +10.7% / gasoline +23.4% — Iran-shock passthrough into wholesale) tripped KKR decision-tree path (b) → defer adds to Mon 6/15. KKR add NOT executed; week 4 closes 0 of 3 adds.
+- Tape was a roller-coaster: pre-mkt SPY −1.0% on stacked risk-off (ORCL AH bleed + Iran strikes + hot-PPI fears) → midday **Trump cancellation of Iran strikes + "deal close" announcement** → reversal rally → SPY finished ~$734.54 (+0.418% day from Wed close $731.48).
+- Portfolio +0.103% day; UND −0.31% vs SPY (softer than typical UP-tape UND magnitude — LLY's +2.16% defensive-bid pop softened cash drag).
+- **Lesson #4 reconfirmed live:** ISRG held flat-to-green (+0.21%) on the AI-cohort-specific bleed (ORCL/NVDA/MU/AMD/INTC red) — diversifier worked exactly in its mandated regime.
+- LLY new P&L high at +16.99% from entry; HWM $1,182.73 unchanged (close $1,160.95 still ~1.9% below ATH).
+
+### Positions to Monitor Fri 6/12
+- **ISRG (~6.09% cushion, thinnest in book):** AI-cohort-bleed test passed Thu, but watch for any FDA early-alert headlines (3/11/2026 customer letter still circulating as sentiment overhang). If broad-asset risk-off returns (Iran de-escalation reversal, new geopolitical headline), apply lesson #4 caveat — diversifier doesn't hold on broad-asset risk-off, only AI-cohort-specific. Both June catalysts (da Vinci 5 + Japan reimbursement) still ahead — thesis intact.
+- **LLY (~8.31% cushion, widest in book):** Multi-vector tailwinds (Jefferies $1,350 PT, Ebglyss, Brenipatide, ADA retatrutide). Watch for any HWM advance above $1,182.73 — would ratchet stop higher. Pre-FOMC defensive bid likely supportive. No trim — pre-catalyst-hold + post-confirmed-beat-hold both still active.
+
+### Macro Events Fri 6/12
+- **Light tape** — no scheduled major macro events of note. Light earnings (~3 reports, none book-relevant).
+- **ADBE AC tape-read** (reported Thu AC) — read AI-cohort response into Fri open. Cohort sentiment relevant for ISRG diversifier cushion.
+- **Iran-strike cancellation digestion** — watch for follow-through risk-on rally or reversal (Trump announcement was midday Thu; full pricing-in may extend into Fri).
+- **Crude oil read** — WTI was +2.7% to $92.45/bbl pre-Iran-cancellation; reversal direction will signal whether geopolitical risk-off is truly priced out or just paused.
+- **Pre-FOMC posturing** — FOMC 6/16–6/17 (Warsh's first meeting) starts next week; markets may begin pricing in dot-plot expectations Fri afternoon. Hot PPI Thu + cool core CPI Wed = mixed signal into the meeting.
+
+### Thesis Notes Heading Into Fri
+- **Hot PPI is the inflation curveball of the week** — reverses Wed's cool-core-CPI disinflation cheer; Fed-cut-odds rebuild into FOMC now faces a more complicated read. Energy/gasoline-driven (Iran passthrough) so arguably "transitory" if Iran-cancellation holds, but headline 6.5% y/y is the highest since Nov 2022 — Warsh's hawkish-dissent record makes this even more meaningful into 6/16–6/17.
+- **Iran-strike cancellation + "deal close" is the bullish surprise of the week** if it holds. Equity reversal rally Thu was the first signal; Fri will validate or fade it. WTI direction is the cleanest tape-tell.
+- **Book posture for Fri:** No trades planned. 91.61% cash + LLY pharma defensive + ISRG non-AI diversifier remains structurally OP on risk-off/AI-cohort-bleed tapes and only marginally UND on UP tapes (per Thu's softer UND magnitude). FOMC week 6/16–6/17 is the next major decision window; KKR add gate re-opens Mon 6/15 if path (b) reassessment greenlights.
+- **Cumulative since launch (3 wks done + week 4 day 4):** portfolio −0.34% vs SPY −0.63% → +0.29pp cumulative OP. The structural OP gap remains positive going into Fri.
+
+### Pre-Friday Decision Queue
+- (1) **9:30 AM open** — gap-risk check on both LLY and ISRG; verify trailing stops still live & GTC at trade routine.
+- (2) **Mid-day guardrail check** — cut anything down >7% intraday; daily-loss cap = $99,663.13 × 0.97 = **$96,673.24**.
+- (3) **ADBE AC reaction read** — AI-cohort sentiment tape-read for ISRG diversifier cushion.
+- (4) **WTI / Iran-headline read** — confirms or fades the cancellation-rally thesis.
+- (5) **End-of-week routine prep** — Friday close is weekly review trigger; counters reset for Mon 6/15 (Week 5 day 1).
+
+---
