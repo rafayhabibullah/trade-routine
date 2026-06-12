@@ -1239,3 +1239,97 @@ Not Monday — no new SPY reference recorded. Week Start SPY remains **$737.45**
 - (5) **End-of-week routine prep** — Friday close is weekly review trigger; counters reset for Mon 6/15 (Week 5 day 1).
 
 ---
+
+## Research — 2026-06-12 (Friday — week 4 day 5 of 5; post-Iran-cancellation rally digestion; light tape; SpaceX IPO day; pre-FOMC posturing into 6/16–6/17)
+
+### Market Conditions
+**Pre-mkt tape is constructive but modest** — US futures green and mostly flat after Thursday's +1.75% Iran-cancellation reversal rally (S&P 500 closed 7,394.30 Thu): **S&P futures 7,410.50 (+0.20%), Nasdaq-100 futures +0.29%, Dow futures +0.09%, Russell 2000 +0.10%**. Equity tone is "looking ahead" to (a) SpaceX market debut today (largest IPO in history, $135/sh) and (b) the digestion of yesterday's reversal-rally optionality, with Iran de-escalation continuing to fade as a tail risk (WTI fell -2.58% Thu to **$87.71/bbl** post-cancellation — confirms the geopolitical risk-off is meaningfully unwinding). The week's inflation curveballs (hot PPI +1.1% m/m / +6.5% y/y headline Thu, cool core CPI +0.2% m/m / +2.9% y/y Wed) are now in the rearview, with markets pivoting to pre-FOMC positioning. VIX likely back below 18 on the calm setup. Notable: tech rotation continued Thu (NVDA/GOOGL/AMZN/AVGO/ASML/INTC/MU all closed green; MU +11.6% the day's leader) — AI cohort relief bounce after ORCL-driven Wed bleed. Tape regime today is **mild risk-on**, which is the structurally-UND regime for this cash-heavy book.
+
+### SPY Reference Price
+**Not Monday — no new SPY reference recorded.** Week Start SPY remains **$737.45** (Fri 6/5 close carried as Mon 6/8 reference). SPY through Thu 6/11 close ~$739.43 (per S&P 500 7,394.30 ratio) → WTD **+0.27%** (4 of 5 days; reversed from −0.81% WTD post-CPI Wed). Pre-mkt indication +0.20% → if futures hold to open, SPY WTD ≈ **+0.47%** by Fri close.
+
+### Position Count This Week
+**0 of 3 BUY slots used** (week 6/8–6/12 ends today; trade-log shows 0 buys, 1 sell META 6/10). **3 buy slots remain — but per existing plan, no second add this week and KKR add was already pushed to Mon 6/15 by hot PPI (decision-tree path (b) on Thu).** **Net: no trades planned for today; week 4 closes 0 of 3 adds.** Counter resets to 0 of 3 for Week 5 starting Mon 6/15.
+
+### Account State (Pre-Open Fri 6/12)
+- Equity: **$99,714.49** (pre-mkt; +$51.36 vs Thu close $99,663.13 on LLY +0.33% + ISRG +0.97% pre-mkt drift).
+- Cash: **$91,303.23 (91.56%)**; Long MV $8,411.26 (8.44%) — book at the highest cash floor of the run, structurally on the wrong side of a mild risk-on tape.
+- Daytrade count: 0; trading not blocked.
+- **2 trailing stops live & GTC at trade routine (verified via Alpaca orders endpoint):**
+  - ISRG `b271eef3` — stop **$387.765**, hwm **$430.85** (10% trail)
+  - LLY `28f47c51` — stop **$1,064.457**, hwm **$1,182.73** (10% trail)
+- **Today's daily-loss cap trigger:** $99,663.13 × 0.97 = **$96,673.24**.
+
+### Earnings This Week — Do Not Buy
+- **Mon 6/8 → Thu 6/11:** completed. Notable closures: ORCL (6/10 AC — record beat but −7% AH on $55.7B capex blowout); ADBE (6/11 AC — AI strategy + buyback overhang); LEN (6/11 AC — housing cycle).
+- **Fri 6/12 (today):** Light (~3 reports, none noteworthy / no candidate overlap).
+- **No candidate conflicts.** KKR confirmed clear (Q2 next early Aug — KKR did NOT report this past week; mid-year macro outlook released 6/10 is a research publication, not earnings). V confirmed clear (Q3 next late July).
+
+### Earnings Next Week (6/15–6/19) — Earlier Look
+- **Mon 6/15:** Lennar (LEN) earlier ref noted Thu — verify; no other major.
+- **Tue–Fri 6/15-6/19:** Light tech earnings week between Q2 print clusters; key reports historically include Adobe (already reported), Accenture, Darden, KB Home, FedEx, Kroger. **None of the current watchlist (KKR, V) conflict.** Re-verify Mon morning before KKR trade.
+
+### Macro Events Next Week (6/15–6/19)
+- **Mon 6/15 4:30 PM ET:** G.17 Industrial Production and Capacity Utilization (May).
+- **Tue 6/16:** FOMC Day 1 (no statement); Retail Sales (May) and Import/Export Prices typically print 8:30 AM ET on the Tue of FOMC weeks.
+- **Wed 6/17 2:00 PM ET:** **FOMC statement + Summary of Economic Projections (SEP) + dot-plot** — first SEP under new Chair Warsh; market currently pricing <3% chance of a 2026 cut, hot PPI Thu likely keeps SEP hawkish; 6:00 PM ET decision time per calendar. **Press conference 2:30 PM ET.**
+- **Thu 6/18:** Weekly Initial Jobless Claims; Philly Fed Manufacturing; Leading Indicators (May).
+- **Fri 6/19:** **Juneteenth — markets closed.**
+- Net: 4-trading-day week dominated by FOMC + first SEP under Warsh. Path-defining event for Fed-cut-odds and the 10Y. KKR add window is **either pre-FOMC (Tue 6/16 open if Mon Industrial Production is benign and tape is stable)** or **post-FOMC (Thu 6/18 if FOMC dot-plot is digested)** — defer the choice to Mon 6/15 routine.
+
+### Watchlist for Monday's Open (Mon 6/15 — Week 5 day 1; cap resets to 0/3)
+
+| Symbol | One-Line Thesis | Rev Growth | Moat Type | Analyst Rating | Action |
+|--------|-----------------|------------|-----------|----------------|--------|
+| **KKR** | Q1'26 rev **+39% YoY** to $4.32B; FRE +24%; AUM **$758B (+14%)**; record $23B North America PE fund closed Apr; $10B Helix Digital Infrastructure financing May (shares +12-14% recent weeks); CFO confident in beating 2026 $350M operating earnings guide; new **UBS Buy initiation (sees firm beating 2026 targets)** confirms broadening Buy bucket | 39% | Switching costs (10-yr LP locks); scale/brand in alts; ABF; Global Atlantic insurance float | **Buy consensus broadening — 18 Buy / 3 Hold / 0 Sell this month**; avg PT range $125.64–$148.63 (+32% to +63%); Morgan Stanley OW $153 (4/21); **UBS new Buy initiation** | **Primary non-AI diversifier add for Mon 6/15 IF Monday's tape is constructive and post-PPI digestion stable.** Clear of earnings (next early Aug). Lean ~$3,500 (~37 sh ~$94) = ~3.5% position. Pre-FOMC entry window is Tue 6/16 open or post-FOMC Thu 6/18. Mid-Year Global Macro Outlook (Henry McVey) released 6/10 reinforces brand/intellectual-leadership moat. |
+| **V** | Q2 FY26 net rev **+17%** to $11.23B (strongest growth since 2022, beat by $480M); EPS $3.33 (+38% YoY); cross-border vol +12%; **new $20B buyback**; **NEW: Visa partners OpenAI for agentic commerce payments** + **new AI/Stablecoin/Token capabilities announced** (per current month news) — extends the payments-rail moat into AI-native commerce, a clean cross-asset thesis | 17% | Duopoly network (V/MA); scale; switching costs; brand; cross-border travel beta; **NEW: agentic-commerce payments rail** | **Buy consensus — 29 Buy / 7 OP / 3 H / 0 S of 39**; avg PT ~$388–$399 (+25%); high $450 | **Secondary diversifier** if KKR fills cleanly and 2nd add is justified later in Week 5. The OpenAI partnership is a genuine new thesis lever (V becomes the payments rail for agentic-AI commerce) — meaningful incremental positive. Clear of earnings (Q3 next late July). **Lean: 1 add max in Week 5** (post-FOMC posture preservation). |
+| MSFT | Q3 FY26 +18%, Azure +40%, AI run rate $37B | 18% / 40% Azure | Switching costs; scale; platform | Strong Buy; PT ~$560 | **Bench** — ORCL post-earnings reaction crystallized AI-infra capex profitability concern as sector overhang; KKR/V are cleaner adds per lesson #5 cap discipline (≤3 mega-cap-AI names, ≤15% combined). |
+| NOW | Q1'26 sub rev +22%; FY26 guide $15.7B | 22% | Switching costs; platform; ecosystem | Strong Buy | **Skip Week 5** — still momentum-chase risk; cap discipline. |
+| COST | Q3 FY26 rev +12% | 12% — **below 15% bar** | Membership; scale; brand | Mixed | **Skip** — fails 15% growth rule. |
+
+### Existing Position Notes
+
+| Symbol | News | Thesis Still Valid? | Action |
+|--------|------|---------------------|--------|
+| **LLY** | **No new material catalysts since Thu close.** Retatrutide ADA delivery (Sat 6/6) reaffirmed in mainstream financial press today — TRIUMPH-1 70.3 lbs (28.3%) at 12mg, 65.3% achieving BMI <30; TRANSCEND-T2D-1 A1C reduction up to 2.0% / 90% reaching <7.0% / 46% reaching normoglycemia. Stock closed ~$1,161.82 6/11 (~1.9% below 52-wk intraday high $1,182.73 set Mon 6/8). **Multi-vector tailwind stack intact:** Jefferies PT $1,350 (raised 6/9 from $1,330), Ebglyss 8-week dosing approval (immunology), Brenipatide depression-relapse trial (neuropsychiatry), AlzeCure ACD680 licensing (Alzheimer's). Pre-mkt Fri: **$1,164.79 (+0.33%)** — quiet, modest drift up. | Yes — **strengthened across multiple vectors over the week**; pipeline broadening into immunology + neuropsychiatry + Alzheimer's + retatrutide multi-indication franchise. Best-positioned name in book by every metric (catalyst surface, defensive bid, analyst tape). | **Hold.** Trailing stop **$1,064.457** (cushion ~8.31% at Thu close $1,160.95; **widest in book**; locks +7.27% realized if hit). Pre-catalyst-hold + post-confirmed-beat-hold lessons both validated; no trim. HWM ratchet potential if Fri makes a new high above $1,182.73. |
+| **ISRG** | **No new material catalysts since Thu close.** FDA early alert on SureForm 30 reloads (3/11/2026 customer letter — 3-month-old news; mitigation = stop use of specific 8mm grays; no recall, no major financial impact) **remains a sentiment overhang but not a fundamental break**. Citi upgrade Buy/$590 (6/10) still on books; Goldman trimmed PT to $558 from $621 (kept Buy); Deutsche Sell PT $440 outlier bear; **mainstream Buy bucket unchanged**. Both June catalysts (da Vinci 5 100+ feature upgrade + dV5 Complete Care plan + Japan MHLW reimbursement expansion) live this month — neither has printed material headlines yet. Q1'26 rev +23%, procedures +17%, recurring revenue 86% of total. Pre-mkt Fri: **$416.90 (+0.97%)** — modest drift up; **lesson #4 reconfirmed live Thursday** (held flat-to-green on AI-cohort-specific bleed, exact regime). | Yes — diversifier thesis validated on Thu's AI-cohort-specific bleed (lesson #4 confirmed). Both June catalysts still ahead. The FDA early alert is sentiment overhang (3-month-old news), not fundamental. | **Hold.** Trailing stop **$387.765** (cushion ~6.09% at Thu close $412.90; **thinnest in book**). HWM unchanged $430.85; >7% intraday cut rule armed but unlikely to trigger on Fri light tape. **Watch for any FDA-headline resurgence or June-catalyst print (da Vinci 5 / Japan reimbursement) — either way, hold the stop and let it work.** |
+
+### Stop-Cushion Snapshot (Pre-Open Fri 6/12)
+- **ISRG** — cushion **~6.09%** at Thu close vs stop $387.765 (~7.0% if pre-mkt $416.90 holds). **Thinnest in book**; most exposed to any broad-asset risk-off contagion (Iran headlines resurface, surprise FOMC hawkishness leak, fresh FDA headline).
+- **LLY** — cushion **~8.31%** at Thu close vs stop $1,064.457 (~8.62% if pre-mkt $1,164.79 holds). **Widest in book.** Pre-FOMC defensive bid likely supportive.
+- Two-position book; both cushions firmer than Thu pre-open levels (LLY rebuilt from ~6.33% Wed close to ~8.31%; ISRG essentially flat). Net positioned defensively into FOMC week.
+
+### Plan for Today's Open (Fri 6/12) — Light-Tape Day
+- **NO TRADES PLANNED.** Week 4 closes 0 of 3 adds. KKR add was deferred to Mon 6/15 by hot PPI Thu (decision-tree path (b)); no second add this week regardless. Cash floor remains 91.56% — structurally OP-on-risk-off, structurally-UND-on-risk-on; today's mild risk-on tape will likely produce a small UND day.
+- **9:30 AM open** — gap-risk check on both LLY and ISRG. Pre-mkt indications are quiet (LLY +0.33%, ISRG +0.97%) — no surprises expected. Re-verify both trailing stops live & GTC at trade routine.
+- **Mid-day check** — apply >7% intraday cut rule (no scenario looks likely on a light tape); apply daily-loss cap $96,673.24 (would require −3% portfolio move in a session with quiet futures — implausible).
+- **LLY discipline:** No trim regardless of new HWM. Pre-catalyst-hold + post-confirmed-beat-hold both still active; multi-indication retatrutide franchise + immunology + neuropsychiatry + Alzheimer's all incremental upside. Watch for HWM ratchet above $1,182.73 → would advance trailing stop to ~$1,064.457 × (new HWM/$1,182.73) = new floor.
+- **ISRG discipline:** No action; hold through to June catalysts (da Vinci 5 + Japan reimbursement). Diversifier thesis validated on Thu's AI-cohort bleed — exactly the regime per lesson #4.
+- **End-of-day:** Friday close is the **weekly review trigger** — run skills/review.md to assess week 4 (final SPY 6/12 vs Week Start SPY $737.45; portfolio close vs Week Start Value $99,718.39) and refresh counters for Week 5 (Mon 6/15 start ref).
+
+### KKR Add Posture for Week 5 (Mon 6/15) — Refreshed
+- **Path (a) — Mon 6/15 tape stable + post-PPI digestion neutral + Iran de-escalation holds:** Buy KKR ~$3,500 (~37 sh @ ~$94) at Mon open OR mid-morning. Place 10% trailing stop immediately. Records 1st buy of Week 5 (1/3).
+- **Path (b) — Mon 6/15 pre-FOMC posturing turns risk-off + AI cohort wobble:** Defer to Tue 6/16 open (FOMC Day 1; benign Retail Sales would clear); if Tue also risk-off, defer to **Thu 6/18 post-FOMC** (let dot-plot digest first).
+- **Path (c) — FOMC Wed 6/17 dot-plot turns materially hawkish (3 hikes in dot-plot, or shifts 2026 to no cuts):** Pause KKR, reassess Thu 6/18; long-duration / capital-cycle names may face fresh repricing.
+- **Path (d) — FOMC Wed 6/17 dot-plot holds 2026 cuts at current expectations:** Execute KKR Thu 6/18 open as the cleanest non-correlation diversifier; tape regime ideal for the trade.
+- **Cash floor (≥20%) check:** Current 91.56% cash; one KKR add (~$3,500) → ~88.0% — well above floor.
+
+### Thesis Notes / Read Heading Into Fri
+- **The week was a clean validation of the cash-cushion-as-cushion thesis** (lesson #2) across four tape regimes: UP-tape UND Mon, soft-tape OP Tue, hard-risk-off OP Wed, modest UP-tape soft-UND Thu. Net WTD: portfolio −0.055% vs SPY ~−0.41% → **+0.34pp WTD OP through 4 days** — second consecutive week of structural OP after Week 3's +1.91pp. The cash-cushion-as-cushion thesis is now battle-tested across 4 different tape regimes in one week.
+- **Lesson #5 (mega-cap-AI concentration tail risk) is fully empirically validated** — 3 stops in 7 trading days (GOOGL 6/2, AMZN 6/5, META 6/10), all on data-event/geopolitical risk-off sessions with cohort-lag + thin-cushion + far-from-catalyst pattern. Mega-cap-AI cohort exposure is now ZERO; cap discipline (≤3 names, ≤15% combined, ≥1 truly non-AI per 2 AI mega-cap) goes forward with the bar fully proven.
+- **Lesson #4 (non-AI diversifier proves out on AI-cohort-specific sell-off days, not broad up days)** was reconfirmed Thu live — ISRG held flat-to-green on the AI-cohort-specific ORCL/NVDA/MU/AMD/INTC bleed pre-mkt. Diversifier thesis is non-broken and the right regime tested it. The 6/2 broad-asset risk-off "fail" was the wrong regime test — not a thesis break.
+- **Lesson #3 (pre-catalyst hold + post-confirmed-beat hold)** is delivering at unprecedented scale on LLY: held through three weeks of opportunity to trim, was the book's largest contributor to weekly OP, +16.99% from entry, $674.38 single-position gain offsets the cumulative −$900.83 stop-out drag from GOOGL/AMZN/META.
+- **KKR add is the right next move — Mon 6/15 gate.** Hot PPI Thu was a single-print headline (energy/gasoline-driven on Iran-shock passthrough); Iran de-escalation cancels much of the passthrough thesis; cool core CPI Wed remains the better underlying signal. The non-correlation trade (capital-cycle/alt-asset beta vs AI-cohort) is the operative diversifier rationale per lesson #4. UBS just initiated Buy on KKR (sees firm beating 2026 targets); Buy bucket broadening; mid-year macro outlook (McVey 6/10) reinforces the intellectual-leadership moat.
+- **V is the cleaner secondary** — payments-rail duopoly, +17% rev growth, $20B buyback, and **the OpenAI agentic-commerce partnership is a genuine new thesis lever** (V becomes the payments rail for AI-native commerce). Hold on bench for a later Week 5 add if KKR fills and tape supports a 2nd add.
+- **Cumulative since launch (3 wks done + week 4 day 4 entering day 5):** portfolio −0.34% vs SPY −0.63% → **+0.29pp cumulative OP** (positive structural OP gap intact). Fri's expected mild UND should narrow the gap slightly but week 4 finishes OP regardless.
+
+### Pre-Weekend / Pre-Monday Decision Queue
+- (1) **9:30 AM open** — gap-risk check on LLY and ISRG; verify both trailing stops live & GTC at trade routine.
+- (2) **Mid-day guardrail check** — >7% intraday cut rule + daily-loss cap $96,673.24.
+- (3) **LLY HWM watch** — any close above $1,182.73 ratchets the stop higher.
+- (4) **End-of-day weekly review trigger** — run skills/review.md: SPY close 6/12 vs Week Start $737.45; portfolio close vs Week Start $99,718.39; counters reset; Week 5 plan refresh.
+- (5) **Mon 6/15 pre-mkt routine** — apply KKR add path (a/b/c/d) decision tree per macro tape + Industrial Production read.
+- (6) **FOMC Wed 6/17 2:00 PM ET** — single biggest macro event of June; SEP + dot-plot under Chair Warsh's first meeting; first SEP since hot-PPI/Iran-shock data.
+- (7) **Juneteenth 6/19 closure** — Week 5 is a 4-trading-day week.
+
+---
