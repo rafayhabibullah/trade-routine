@@ -1,30 +1,47 @@
 # Portfolio
 
-**Last Updated:** 2026-06-11 (market close routine — Thursday close, Week 4 day 4 of 5, PPI day [HOT print] / Iran-strike cancellation reversal rally)
+**Last Updated:** 2026-06-12 (market open routine — Friday, Week 4 day 5 of 5, week 4 close-out day; post-hot-PPI / post-Iran-cancellation tape; no planned trades)
 **Account:** Alpaca Paper Trading
 **Endpoint:** https://paper-api.alpaca.markets
 
 ## Account Summary
 - Cash: $91,303.23
-- Total Portfolio Value (6/11 close): **$99,663.13**
-- Invested (long_market_value): $8,359.90 (8.39%)
-- Cash Reserve: $91,303.23 (91.61%)
-- **Day Open Value (6/11):** $99,560.23 → **Day Close: $99,663.13 = +0.103% day** (+$102.90). Daily-loss cap (−3%) trigger today: $96,573.42 — NOT triggered.
-- **Week Start Value (Mon 6/8):** $99,718.39 → close $99,663.13 = **−0.055% WTD** (essentially flat, day 4 of 5).
-- **Week Start SPY (Mon 6/8):** $737.45 → Thu 6/11 close ~$734.54 = **−0.395% WTD** (4 of 5 days).
-- **WTD relative: +0.34% vs SPY (slight OP after 4 days).**
-- New positions this week (6/8–6/12): **0 of 3** (KKR add NOT executed — hot PPI tripped decision tree path (b) "defer adds; reassess Mon 6/15"; per existing plan, no second add this week regardless).
+- Total Portfolio Value (6/12 open, live): **$99,691.80**
+- Invested (long_market_value): $8,388.57 (8.41%)
+- Cash Reserve: $91,303.23 (91.59%)
+- **Day Open Value (6/12):** **$99,691.80** (Alpaca portfolio_value at session start; +$28.67 carry vs 6/11 last_equity $99,663.13). Daily-loss cap (−3%) trigger today: **$96,701.05** — NOT triggered.
+- **Week Start Value (Mon 6/8):** $99,718.39 → 6/12 open $99,691.80 = **−0.027% WTD** (essentially flat, day 5 of 5).
+- **Week Start SPY (Mon 6/8):** $737.45 → Thu 6/11 close ~$734.54 = **−0.395% WTD** (4 of 5 closed days; Fri tape TBD).
+- **WTD relative: +0.37% vs SPY** (slight OP entering week 4 final day).
+- New positions this week (6/8–6/12): **0 of 3** (KKR add NOT executed — hot PPI Thu tripped decision tree path (b) "defer adds; reassess Mon 6/15"; per existing plan, no second add this week regardless. Week 4 closes 0 of 3 adds today).
 - Closed positions in week 4 so far: **1** (META — trailing stop filled 10:58 AM ET 6/10 @ $578.59 → −$168.84 / −4.64%).
 - Daytrade count: 0; trading not blocked.
 
-## Open Positions (6/11 close)
+## Open Positions (6/12 open, live)
 
 | Symbol | Shares | Avg Entry | Current Price | Market Value | Total P&L $ | Total P&L % | Day Change | Trailing Stop |
 |--------|--------|-----------|---------------|--------------|-------------|-------------|------------|---------------|
-| ISRG | 9 | $425.163 | $412.90 | $3,716.10 | −$110.37 | −2.88% | +0.21% | 10% trail (hwm $430.85 → stop $387.765, **~6.09% cushion**; diversifier held on AI-cohort bleed day per lesson #4 — finished flat-to-green vs ORCL/AI-cohort red) |
-| LLY | 4 | $992.355 | $1,160.95 | $4,643.80 | +$674.38 | **+16.99%** | +2.16% | 10% trail (hwm $1,182.73 → stop $1,064.457, **~8.31% cushion**; locks **+7.27% realized** if hit. NEW HIGH P&L since launch; HWM unchanged — close still 1.9% below all-time HWM $1,182.73 set Mon 6/8) |
+| ISRG | 9 | $425.163 | $415.61 | $3,740.49 | −$85.98 | −2.25% | +0.66% | 10% trail (hwm $430.85 → stop $387.765, **~6.70% cushion**; diversifier opened green pre-mkt drift; FDA early-alert (3/11/2026 customer letter) sentiment overhang still floating but mainstream Buy bucket holds) |
+| LLY | 4 | $992.355 | $1,162.02 | $4,648.08 | +$678.66 | **+17.10%** | +0.09% | 10% trail (hwm $1,182.73 → stop $1,064.457, **~8.40% cushion**; locks **+7.27% realized** if hit. **NEW P&L HIGH since launch**; close still ~1.78% below all-time HWM $1,182.73 set Mon 6/8 — HWM ratchet potential if intraday breaks $1,182.73) |
 
-*(Live prices from Alpaca positions endpoint at close. 2 of 2 trailing stops verified live & GTC.)*
+*(Live prices from Alpaca positions endpoint at session start. 2 of 2 trailing stops verified live & GTC at open.)*
+
+## Today's Market Open Routine — 2026-06-12 (Friday, week 4 day 5 of 5, post-hot-PPI / post-Iran-cancellation reversal)
+
+- **No trades placed at open** per the pre-mkt research-log 6/12 plan. KKR add **deferred to Mon 6/15** (hot PPI Thu tripped decision tree path (b); per existing plan, no second add this week regardless of any tape direction). Cap stays **0 of 3** for the week — week 4 closes today with 0 adds.
+- **Day Open Value recorded:** **$99,691.80** (Alpaca portfolio_value at session start; +$28.67 carry vs Thu close $99,663.13). Daily-loss cap trigger today: **$96,701.05**.
+- **Pre-mkt tape is light** — no scheduled major macro events. ADBE AC reaction (reported Thu AC) is the AI-cohort sentiment tape-read for ISRG diversifier cushion. WTI direction is the cleanest Iran-cancellation-rally-holds-or-fades tape-tell. Pre-FOMC posturing into 6/16–6/17 (Warsh's first meeting) may pick up in the afternoon.
+- **LLY +0.09% pre-open to $1,162.02** (+17.10% from entry — **new P&L high since launch, +$678.66**). HWM $1,182.73 unchanged (close ~1.78% below ATH). Stop $1,064.457 (cushion **~8.40% — widest in book**; locks +7.27% realized if hit). Multi-vector tailwinds intact: Jefferies $1,350 PT, Ebglyss 8-week dosing, Brenipatide depression program, post-ADA retatrutide multi-indication franchise. Pre-catalyst-hold + post-confirmed-beat-hold continue to validate. HWM ratchet potential if today breaks $1,182.73 intraday.
+- **ISRG +0.66% pre-open to $415.61** (−2.25% from entry, recovered from Wed's −3.09%). Cushion compressed from ~6.70% (vs ~6.09% Thu close — modest improvement on pre-mkt drift up). Both June catalysts (da Vinci 5 100+ feature rollout + Japan reimbursement expansion) still ahead. Diversifier thesis validated Thu on AI-cohort-specific bleed (lesson #4 confirmed live). FDA early-alert overhang (3-month-old customer letter) still sentiment-noise but not fundamental break. Still thinnest cushion in book — >7% intraday cut rule armed.
+- **Trailing stops re-verified live & GTC at session start:**
+  - ISRG `b271eef3-1027-435e-8818-2c838e0ace9b` stop $387.765 (hwm $430.85)
+  - LLY `28f47c51-a223-4698-9fee-867b1c411ce4` stop $1,064.457 (hwm $1,182.73)
+- **Cash floor:** 91.59% — far above 20% floor. KKR add (~$3,500) on Mon 6/15 (if path (b) reassessment greenlights) would take cash to ~88.1% — well within floor.
+- **Earnings no-buy today (Fri 6/12):** Light tape (~3 reports, none noteworthy). No candidate overlap.
+- **Mid-day check armed:** >7% intraday cut rule (especially ISRG given thinnest cushion). Daily-loss cap $96,701.05.
+- **Lesson #2 (cash-cushion-as-cushion) carries:** 91.59% cash floor + LLY defensive + ISRG diversifier remains structurally OP on risk-off / AI-cohort-bleed tapes and only marginally UND on UP tapes. WTD relative +0.37% vs SPY confirms.
+- **Cumulative since launch (3 wks done + week 4 day 5 entry):** portfolio −0.31% vs SPY ~−0.63% → **+0.32pp cumulative OP** entering Fri.
+- **Next decision window:** Today midday >7% / daily-loss check; today close = end-of-week 4 close + weekly review trigger. **Mon 6/15 — Week 5 day 1** — KKR add gate re-opens for path (b) reassessment per existing plan; FOMC 6/16–6/17 (Warsh first meeting) is the major event next week.
 
 ## Today's Market Close Routine — 2026-06-11 (Thursday, hot PPI day; Iran-strike cancellation reversal rally)
 
