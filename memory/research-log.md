@@ -1348,3 +1348,41 @@ Per Kiplinger / earnings calendars: light week relative to recent.
 - (6) **Thu 6/26 PCE 8:30 AM ET** — binary event for the week; reserve dry powder.
 
 ---
+
+## Tomorrow's Watch — 2026-06-23 (Tuesday, Week 6 day 2; pre-PCE Thu 6/26; FDX AC)
+
+### Positions to Monitor
+- **ISRG** — Closed $402.95 (−5.22% from entry, −0.94% intraday). **NEW thinnest cushion in book: ~3.77%** (compressed from 4.11% at open). HWM $430.85 (no ratchet since 6/9). Trailing stop $387.765. **Lesson #1 framework actively live** — cohort-lag (medtech selling, FDA Class I + Da Vinci voluntary recalls + Deutsche PT cut to $440 + Medtronic Hugo / China competition narrative) + thin cushion (3.77%) + no near-term concrete catalyst = the same setup that took GOOGL/AMZN/META by stop-trip. Discretionary trim worth modeling overnight: trim 5 sh @ ~$402 = ~$2,010 cash in, realized ~−$115; hold 4 sh into the FDA-overhang clearing window. >7% intraday cut rule armed for tomorrow open.
+- **LLY** — Closed $1,103.69 (+11.22% from entry, +0.47% intraday). Cushion ~3.55% (widened from 3.14% at open as price drifted up). HWM $1,182.73 (no new high; ~6.7% below ATH). Trailing stop $1,064.457 locks +7.27% realized if hit. Pre-catalyst-hold + post-confirmed-beat-hold (lesson #3) continue to dominate; FDA submission "by year-end" is the far catalyst. **No longer thinnest in book** after today.
+
+### Macro Events Tuesday 6/23
+- **FDX (FedEx) AC earnings** — logistics/economy beta read; tape-tell for industrial cyclical demand into PCE. Watch FY27 guide for read on AI/cloud capex demand and global trade flow color (Iran de-escalation cross-current).
+- No scheduled major Fed events; FOMC concluded last week (6/16–6/17, Warsh's first as Chair, no-cut-2026 dot-plot). Next Fed event: **Thu 6/26 8:30 AM ET PCE (May)** — the week's binary swing event.
+- Watch 10Y yield (close 6/18 ~4.46%; pre-mkt range 4.46–4.48%). The 4.55% level remains the KKR-gate trigger; sustained spike >4.55% argues for further defer.
+- Iran 60-day peace roadmap watch — Brent crude direction is the cleanest tape-tell. Fresh Hezbollah escalation = risk-off trigger.
+
+### Earnings to Verify Pre-Market Tuesday
+- FDX AC (today's tape into Wed open) — no candidate overlap.
+- Refresh full 6/23 calendar for any KKR/V conflict (both confirmed clear: KKR Q2 early Aug; V Q3 late Jul).
+
+### Buy Candidates / Decision Tree
+- **KKR add (~$3,500 / ~3.5% position) — gate re-opens tomorrow:** Mon 6/22 mid-morning execution gate was missed (operational gap). With Thu PCE binary now one trading day closer, the pre-PCE entry edge has compressed slightly. Tree:
+  - **(a) Tape stabilizes pre-open + 10Y holds ≤4.55% + no fresh Iran/Hezbollah headline + FDX AC reaction not -3%+** → **Execute KKR at open or mid-morning Tue.** Place 10% trailing stop immediately. Records 1st buy of week 6 (1/3 of cap).
+  - **(b) FDX AC reaction bleeds into Tue pre-mkt (cyclicals risk-off) OR 10Y spikes >4.55%** → **Defer to post-PCE Thu (6/26 afternoon).**
+  - **(c) ISRG opens down >3% Tue and trends weaker into midday** → **Pause new adds; focus on ISRG cushion management** (discretionary trim consideration per lesson #1 framework — flip from "let stop work" to "trim ahead of stop").
+- **V remains on hold** until post-PCE confirms direction. Preserve dry powder; 88.4% cash post-KKR-add still well above 20% floor.
+
+### Thesis Notes Based on Today's Price Action
+- **Lesson #2 confirmed again on a soft-tape day** — SPY −0.33% / portfolio +0.006% (essentially flat) = +0.34pp OP day. The 91.91% cash floor + LLY pharma defensive bid + ISRG's relative non-correlation to the broad index absorbed a modest down-tape with structural OP. Cumulative UND gap narrowed from −1.68pp at open to −1.35pp at close — meaningful intraday improvement.
+- **Cushion ranking flip:** LLY (3.55%) now wider than ISRG (3.77%) — ISRG is the NEW thinnest cushion in book. LLY's defensive-bid tape regime today is supportive; ISRG's lesson #1 framework is the operative risk tomorrow.
+- **KKR opportunity cost of skipped execution:** With three remaining trading days into PCE Thu (Tue/Wed/Thu), the entry-edge ratchet (−24.7% YTD compression) is still alive but the window narrows daily. If conditions hold Tue 9:30 ET, execute at open rather than wait for mid-morning to compress further.
+- **Cumulative since launch (4 wks done + week 5 + week 6 day 1 close):** portfolio −0.66% vs SPY +0.69% → **−1.35pp cumulative UND** (vs −1.68pp at open). The path back to OP still runs through (i) KKR diversifier add at right window, (ii) ISRG cushion management, (iii) LLY hold through PCE, (iv) cash-cushion structural OP on any risk-off week.
+
+### Pre-Tomorrow Decision Queue
+- (1) **9:30 AM open** — gap-risk on LLY and ISRG (ISRG now thinnest 3.77%); verify 2 trailing stops live & GTC.
+- (2) **KKR add gate Tue** — apply decision tree (a/b/c). Lean toward path (a) at open if tape stabilizes; FDX AC reaction is the primary read.
+- (3) **Mid-day guardrail check** — >7% intraday rule on both positions, ISRG especially; daily-loss cap (recompute at open).
+- (4) **ISRG cushion management decision** — let stop work (lesson #3) vs discretionary trim (lesson #1). Default: hold unless ISRG opens down >2% or breaks lesson #1 trigger range intraday.
+- (5) **Thu 6/26 PCE 8:30 AM ET** — binary; reserve >50% of remaining week 6 buy cap for post-print clarity (so max 1 add Tue, 2 slots post-PCE).
+
+---
