@@ -1,30 +1,49 @@
 # Portfolio
 
-**Last Updated:** 2026-06-12 (market open routine — Friday, Week 4 day 5 of 5, week 4 close-out day; post-hot-PPI / post-Iran-cancellation tape; no planned trades)
+**Last Updated:** 2026-06-22 (market open routine — Monday, Week 6 day 1; post-FOMC week 5; post-Juneteenth; pre-PCE Thu 6/26; KKR add mid-morning gated)
 **Account:** Alpaca Paper Trading
 **Endpoint:** https://paper-api.alpaca.markets
 
 ## Account Summary
 - Cash: $91,303.23
-- Total Portfolio Value (6/12 open, live): **$99,691.80**
-- Invested (long_market_value): $8,388.57 (8.41%)
-- Cash Reserve: $91,303.23 (91.59%)
-- **Day Open Value (6/12):** **$99,691.80** (Alpaca portfolio_value at session start; +$28.67 carry vs 6/11 last_equity $99,663.13). Daily-loss cap (−3%) trigger today: **$96,701.05** — NOT triggered.
-- **Week Start Value (Mon 6/8):** $99,718.39 → 6/12 open $99,691.80 = **−0.027% WTD** (essentially flat, day 5 of 5).
-- **Week Start SPY (Mon 6/8):** $737.45 → Thu 6/11 close ~$734.54 = **−0.395% WTD** (4 of 5 closed days; Fri tape TBD).
-- **WTD relative: +0.37% vs SPY** (slight OP entering week 4 final day).
-- New positions this week (6/8–6/12): **0 of 3** (KKR add NOT executed — hot PPI Thu tripped decision tree path (b) "defer adds; reassess Mon 6/15"; per existing plan, no second add this week regardless. Week 4 closes 0 of 3 adds today).
-- Closed positions in week 4 so far: **1** (META — trailing stop filled 10:58 AM ET 6/10 @ $578.59 → −$168.84 / −4.64%).
+- Total Portfolio Value (6/22 open, live): **$99,338.75**
+- Invested (long_market_value): $8,035.52 (8.09%)
+- Cash Reserve: $91,303.23 (91.91%)
+- **Day Open Value (6/22):** **$99,338.75** (Alpaca portfolio_value at session start; balance_asof 6/18; last_equity $99,358.53 = essentially flat). Daily-loss cap (−3%) trigger today: **$96,377.77** — NOT triggered.
+- **Week Start Value (Mon 6/22):** **$99,338.75** (week 6 day 1 — fresh reset).
+- **Week Start SPY (Mon 6/22):** **$746.74** (Thu 6/18 close carried through Juneteenth Fri 6/19 holiday; +1.26% vs week 5 start $737.45).
+- New positions this week (6/22–6/26): **0 of 3** (3 slots open; KKR add planned mid-morning per research-log 6/22 path (a)).
+- Closed positions this week: **0**.
+- **Memory gap:** Portfolio.md not updated 6/13–6/19 (10-day operational gap). Verified via Alpaca: zero orders submitted since 6/12. KKR add planned 6/15 was never executed. Both trailing stops carry unchanged.
 - Daytrade count: 0; trading not blocked.
 
-## Open Positions (6/12 open, live)
+## Open Positions (6/22 open, live)
 
 | Symbol | Shares | Avg Entry | Current Price | Market Value | Total P&L $ | Total P&L % | Day Change | Trailing Stop |
 |--------|--------|-----------|---------------|--------------|-------------|-------------|------------|---------------|
-| ISRG | 9 | $425.163 | $415.61 | $3,740.49 | −$85.98 | −2.25% | +0.66% | 10% trail (hwm $430.85 → stop $387.765, **~6.70% cushion**; diversifier opened green pre-mkt drift; FDA early-alert (3/11/2026 customer letter) sentiment overhang still floating but mainstream Buy bucket holds) |
-| LLY | 4 | $992.355 | $1,162.02 | $4,648.08 | +$678.66 | **+17.10%** | +0.09% | 10% trail (hwm $1,182.73 → stop $1,064.457, **~8.40% cushion**; locks **+7.27% realized** if hit. **NEW P&L HIGH since launch**; close still ~1.78% below all-time HWM $1,182.73 set Mon 6/8 — HWM ratchet potential if intraday breaks $1,182.73) |
+| ISRG | 9 | $425.163 | $404.40 | $3,639.60 | −$186.87 | **−4.88%** | −0.59% | 10% trail (hwm $430.85 → stop $387.765, **~4.11% cushion** — thinnest fundamental risk; FDA Class I recall on SureForm 30 Gray + Da Vinci S/Si voluntary recall + Deutsche PT cut to $440 + Medtronic Hugo / China competition; YTD −24.1%; both June catalysts presumably live but no positive headlines since 6/10 Citi upgrade) |
+| LLY | 4 | $992.355 | $1,098.98 | $4,395.92 | +$426.50 | **+10.75%** | +0.04% | 10% trail (hwm $1,182.73 → stop $1,064.457, **~3.14% cushion** — thinnest cushion in book; pulled back ~5.4% from 6/12 quote $1,162.02 on post-FOMC hawkish drag; retatrutide Phase 3 confirmed-beat thesis intact; FDA submission "by year-end" = far catalyst; locks +7.27% realized if hit) |
 
-*(Live prices from Alpaca positions endpoint at session start. 2 of 2 trailing stops verified live & GTC at open.)*
+*(Live prices from Alpaca positions endpoint at session start. 2 of 2 trailing stops verified live & GTC.)*
+
+## Today's Market Open Routine — 2026-06-22 (Monday, Week 6 day 1, post-FOMC, post-Juneteenth, pre-PCE Thu 6/26)
+
+- **No trades placed at open** per the research-log 6/22 plan. **KKR add is mid-morning gated (target window 10:30 AM–12:00 PM ET, NOT at-open)** — execution belongs to a later run after path (a) conditions confirm intraday.
+- **Day Open Value recorded:** **$99,338.75** (Alpaca portfolio_value at session start). Daily-loss cap trigger today: **$96,377.77**.
+- **Pre-mkt tape:** Mixed-to-modestly red — S&P futures −0.1 to −0.4%, Nasdaq flat, Russell −0.3%. Brent crude −2% to <$79/bbl on US–Iran 60-day peace roadmap (Hormuz reopening). Cross-currents: Iran de-escalation supports risk-on (airlines/cruise +4–5%), but Trump-Hezbollah threat live; China tightened semis export curbs; post-FOMC hawkish overhang persists (no 2026 cut median dot plot).
+- **10Y holds ≤4.55% threshold:** 10Y at ~4.46–4.48% (Thu 6/18 close ~4.46%) — Path (a) condition met.
+- **KKR decision-tree path (a) conditions tracking:** Tape stabilizes pre-open (futures flat-to-modest red, not −0.5%+); 10Y ≤4.55% ✓; no fresh Iran reversal headline; no fresh KKR news (Helix Digital Infra $10B + Altavair $1.4B intact; Buy consensus PT $125.53). **If conditions hold into 10:30 AM ET window → execute KKR ~37 sh / ~$3,500 / ~3.5% position.**
+- **LLY −0.04% pre-open to $1,098.98** (+10.75% from entry; pulled back ~5.4% from 6/12 $1,162.02). HWM $1,182.73 (no ratchet since 6/8). Stop $1,064.457 (cushion **~3.14% — thinnest in book**, post-FOMC hawkish drag on long-duration pharma). Retatrutide multi-indication franchise intact; FDA submission "by year-end" = far catalyst. **Lesson #1 vs Lesson #3 tension live;** post-confirmed-beat-hold (#3) dominates but cushion at margin.
+- **ISRG −0.59% pre-open to $404.40** (−4.88% from entry; pulled back ~2.7% from 6/12 $415.61). HWM $430.85 (no ratchet since 6/9). Stop $387.765 (cushion **~4.11%**). **Material negative cluster weeks 5+6:** (1) FDA Class I recall on SureForm 30 Gray Reloads, (2) Da Vinci S/Si voluntary instrument recall, (3) Deutsche PT cut to $440, (4) fair-value reset to $565.25 (Simply Wall St), (5) Medtronic Hugo + China surgical-robotics competition narrative, (6) ISRG −3.50% on 6/17 FOMC day. **Lesson #1 framework actively live;** discretionary trim consideration on the table if open prints down >3% intraday.
+- **Trailing stops re-verified live & GTC at session start:**
+  - ISRG `b271eef3-1027-435e-8818-2c838e0ace9b` stop $387.765 (hwm $430.85; updated_at 6/9)
+  - LLY `28f47c51-a223-4698-9fee-867b1c411ce4` stop $1,064.457 (hwm $1,182.73; updated_at 6/8)
+- **Cash floor:** 91.91% — highest since launch, far above 20% floor. One KKR add (~$3,500) → ~88.4% cash; well within floor.
+- **Earnings no-buy today (Mon 6/22):** 23 reports, none noteworthy; no candidate overlap. KKR confirmed clear (Q2 early Aug); V clear (Q3 late Jul).
+- **Mid-day check armed:** >7% intraday cut rule (both positions in lesson-#1 trigger range simultaneously — first time in book history). Daily-loss cap $96,377.77.
+- **Lesson #5 (mega-cap-AI concentration) discipline holds:** Book has zero mega-cap-AI; KKR is non-AI diversifier add (alt-asset/financial cyclical beta = post-hawkish-Fed favored cohort).
+- **Cumulative since launch (4 wks done + week 5 + week 6 day 1):** portfolio −0.66% (from $100,000 launch → $99,338.75) vs SPY (using $739.17 launch → $746.74 = **+1.02%**) → **−1.68pp cumulative UND** (gap widened materially during week 5's +0.9% UP-tape week per lesson #2 structural drag).
+- **Next decision window:** **Today 10:30 AM–12:00 PM ET — KKR add gate** (apply decision tree paths a/b/c/d). **Today midday >7% intraday cut rule** (especially ISRG / LLY thin cushions). **Tue 6/23 AC FDX** (logistics/economy beta). **Thu 6/26 8:30 AM ET PCE** — binary swing event for the week.
 
 ## Today's Market Open Routine — 2026-06-12 (Friday, week 4 day 5 of 5, post-hot-PPI / post-Iran-cancellation reversal)
 
