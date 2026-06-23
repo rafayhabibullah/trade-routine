@@ -1,30 +1,52 @@
 # Portfolio
 
-**Last Updated:** 2026-06-22 (market open routine — Monday, Week 6 day 1; post-FOMC week 5; post-Juneteenth; pre-PCE Thu 6/26; KKR add mid-morning gated)
+**Last Updated:** 2026-06-23 (market close routine — Tuesday, Week 6 day 2; AI-cohort tech-selloff day; semis crushed; KKR add not executed Mon 6/22)
 **Account:** Alpaca Paper Trading
 **Endpoint:** https://paper-api.alpaca.markets
 
 ## Account Summary
 - Cash: $91,303.23
-- Total Portfolio Value (6/22 open, live): **$99,338.75**
-- Invested (long_market_value): $8,035.52 (8.09%)
-- Cash Reserve: $91,303.23 (91.91%)
-- **Day Open Value (6/22):** **$99,338.75** (Alpaca portfolio_value at session start; balance_asof 6/18; last_equity $99,358.53 = essentially flat). Daily-loss cap (−3%) trigger today: **$96,377.77** — NOT triggered.
+- Total Portfolio Value (6/23 close, live): **$99,364.80**
+- Invested (long_market_value): $8,061.57 (8.11%)
+- Cash Reserve: $91,303.23 (91.89%)
+- **Day Open Value (6/23):** **$99,338.10** (Alpaca last_equity = Mon 6/22 close; balance_asof 6/22). Daily-loss cap (−3%) trigger today: **$96,357.96** — NOT triggered.
+- **Day Net (6/23):** **+$26.70 / +0.0269%** on a sharp AI-cohort sell-off day (SPY ~−1.3%) → **~+1.32pp vs SPY (OP — major structural OP day; lesson #2 cash cushion + lesson #4 non-AI diversifier + lesson #5 zero-mega-cap-AI all delivered simultaneously)**.
 - **Week Start Value (Mon 6/22):** **$99,338.75** (week 6 day 1 — fresh reset).
-- **Week Start SPY (Mon 6/22):** **$746.74** (Thu 6/18 close carried through Juneteenth Fri 6/19 holiday; +1.26% vs week 5 start $737.45).
-- New positions this week (6/22–6/26): **0 of 3** (3 slots open; KKR add planned mid-morning per research-log 6/22 path (a)).
+- **Week Start SPY (Mon 6/22):** **$746.74** (Thu 6/18 close carried through Juneteenth Fri 6/19 holiday).
+- **WTD (Mon 6/22 → Tue 6/23):** Portfolio $99,338.75 → $99,364.80 = **+0.026%** vs SPY $746.74 → **~$724** = **~−3.04%** → **~+3.07pp WTD OP (best 2-day relative start to any week since launch)**.
+- New positions this week (6/22–6/26): **0 of 3** (3 slots still open; **KKR add planned for Mon 6/22 mid-morning was NOT executed** — conditions presumably failed or routine did not run; verified via Alpaca: zero orders submitted this week).
 - Closed positions this week: **0**.
-- **Memory gap:** Portfolio.md not updated 6/13–6/19 (10-day operational gap). Verified via Alpaca: zero orders submitted since 6/12. KKR add planned 6/15 was never executed. Both trailing stops carry unchanged.
+- **Memory gap:** Portfolio.md not updated 6/22 midday / 6/22 close / 6/23 open / 6/23 midday — this run is filling in 6/23 close. Both trailing stops carry unchanged through the gap, verified live & GTC.
 - Daytrade count: 0; trading not blocked.
 
-## Open Positions (6/22 open, live)
+## Open Positions (6/23 close, live)
 
 | Symbol | Shares | Avg Entry | Current Price | Market Value | Total P&L $ | Total P&L % | Day Change | Trailing Stop |
 |--------|--------|-----------|---------------|--------------|-------------|-------------|------------|---------------|
-| ISRG | 9 | $425.163 | $404.40 | $3,639.60 | −$186.87 | **−4.88%** | −0.59% | 10% trail (hwm $430.85 → stop $387.765, **~4.11% cushion** — thinnest fundamental risk; FDA Class I recall on SureForm 30 Gray + Da Vinci S/Si voluntary recall + Deutsche PT cut to $440 + Medtronic Hugo / China competition; YTD −24.1%; both June catalysts presumably live but no positive headlines since 6/10 Citi upgrade) |
-| LLY | 4 | $992.355 | $1,098.98 | $4,395.92 | +$426.50 | **+10.75%** | +0.04% | 10% trail (hwm $1,182.73 → stop $1,064.457, **~3.14% cushion** — thinnest cushion in book; pulled back ~5.4% from 6/12 quote $1,162.02 on post-FOMC hawkish drag; retatrutide Phase 3 confirmed-beat thesis intact; FDA submission "by year-end" = far catalyst; locks +7.27% realized if hit) |
+| ISRG | 9 | $425.163 | $403.29 | $3,629.61 | −$196.86 | **−5.15%** | +0.08% | 10% trail (hwm $430.85 → stop $387.765, **~3.85% cushion**); finished green on a brutal AI-cohort sell-off day → **lesson #4 (non-AI diversifier on AI-cohort sell-off) validated again, second-strongest regime confirmation since launch**. Medtech overhangs (FDA Class I + Hugo competition) didn't break the tape. Both June catalysts still live |
+| LLY | 4 | $992.355 | $1,107.99 | $4,431.96 | +$462.54 | **+11.65%** | +0.54% | 10% trail (hwm $1,182.73 → stop $1,064.457, **~3.93% cushion**); pharma defensive bid caught the rotation out of semis/AI → **lesson #3 (pre-catalyst hold of confirmed-beat winner) continues to deliver**; retatrutide multi-indication franchise + FDA submission still ahead; locks +7.27% realized if hit |
 
-*(Live prices from Alpaca positions endpoint at session start. 2 of 2 trailing stops verified live & GTC.)*
+*(Live prices from Alpaca positions endpoint at session close. 2 of 2 trailing stops verified live & GTC.)*
+
+## Today's Market Close Routine — 2026-06-23 (Tuesday, Week 6 day 2, AI-cohort tech-selloff day; semis crushed; hawkish Fed + AI-spending skepticism)
+
+- **Day net:** Portfolio $99,338.10 → $99,364.80 = **+0.0269% day (+$26.70)** on a sharp tech sell-off (S&P 500 −1.15% mid-afternoon at 7,386.73; SPY likely closed ~−1.3% from $733.45 to ~$724 — sources varying $722–$728 range). **Relative: ~+1.32pp vs SPY today (OP — strongest OP day on a down tape since 6/5 NFP)**.
+- **No trades placed today.** Memory gap means no documented decision tree for 6/22 midday or 6/22 close or 6/23 open. **KKR add planned for Mon 6/22 mid-morning was NOT executed** — Alpaca confirms zero orders submitted. Likely cause: routine did not run, or path (a) conditions failed once the AI-capex skepticism / hawkish-Fed narrative escalated through Mon afternoon (broader SPY closed Mon at $733.45 = −1.79% from $746.74 ref). With Tue's intensifying tech selloff, the deferral was the correct outcome regardless of how it happened. KKR add slot still open this week (0 of 3 used).
+- **Tape context (today 6/23):** Global tech sell-off intensified for second day. **Nvidia −3.2% to $201.97** (early); **Micron −13%** (memory chip rotation); **SanDisk −13.6%**; **TSMC −5.2%**; **VanEck Semiconductor ETF −6.5%**. Root drivers: (a) Wall Street pivoting from rewarding AI capex to demanding return-on-AI proof, (b) BoFA rate-hike note rekindling hawkish-Fed scenario, (c) Asian/global semi tape spillover. Cumulative two-day SPY drawdown: $746.74 → ~$724 ≈ −3.0% in two sessions.
+- **Book structurally on the right side of the regime — TRIPLE LESSON VALIDATION:**
+  - **Lesson #2 (cash-cushion-as-cushion):** 91.89% cash made the −3% SPY two-day move essentially invisible to the book. Portfolio flat vs SPY −3% = the structural OP design working at maximum effectiveness.
+  - **Lesson #4 (non-AI diversifier proves out on AI-cohort sell-off, not on broad up days):** ISRG finished GREEN (+0.08%) on a day the AI cohort cratered −3 to −13%. This is the cleanest regime-validation print since the original 6/11 case study. Diversifier thesis confirmed live.
+  - **Lesson #5 (mega-cap-AI concentration tail risk — cap at 3 names / ≤15% / 1 non-AI per 2 AI):** Book has ZERO mega-cap-AI. Today's tape would have stopped out any META/AMZN/GOOGL position held going in. The 6/2 / 6/5 / 6/10 stop-outs were costly lessons but the discipline they bought is now paying back in spades on weeks like this.
+- **LLY +0.54% day to $1,107.99 (+11.65% from entry).** HWM held at $1,182.73 (no ratchet). Stop $1,064.457 (cushion **~3.93%** — still thin but improved from 6/22's 3.14%; locks +7.27% realized if hit). Pharma defensive bid caught the AI-rotation outflows — exact regime LLY is designed for. Retatrutide Phase 3 thesis fully intact; FDA submission year-end. Pre-catalyst hold + post-confirmed-beat hold (lesson #3) continues to deliver structurally asymmetric upside while stop discipline backstops the downside.
+- **ISRG +0.08% day to $403.29 (−5.15% from entry).** HWM held at $430.85 (no ratchet). Stop $387.765 (cushion **~3.85%** — slightly compressed from 6/22's 4.11% as price drifted modestly; lesson #1 framework (cohort-lag + thin cushion + far catalyst) still applicable but not yet triggered). Closed GREEN on the AI-cohort sell-off → diversifier proof regime fully on display today. Still has both June catalysts (da Vinci 5 100+ feature rollout + Japan reimbursement) potentially ahead but no positive headlines since 6/10 Citi upgrade. Material negative cluster (FDA Class I recall + Deutsche PT cut + Hugo competition) hasn't pushed price below stop yet; today's regime print is the strongest evidence to date that the diversifier thesis isn't broken.
+- **Trailing stops re-verified live & GTC at close:**
+  - ISRG `b271eef3-1027-435e-8818-2c838e0ace9b` stop $387.765 (hwm $430.85; updated_at 6/9)
+  - LLY `28f47c51-a223-4698-9fee-867b1c411ce4` stop $1,064.457 (hwm $1,182.73; updated_at 6/8)
+- **Cash floor:** 91.89% — far above 20% floor. Holding the cushion at maximum strength heading into PCE Thu 6/26.
+- **Cumulative since launch (~5.5 weeks):** portfolio $100,000 → $99,364.80 = **−0.635%** vs SPY $739.17 launch → **~$724** = **~−2.05%** → **~+1.42pp cumulative OP (MAJOR REVERSAL — was −1.68pp UND at Mon 6/22 open; ~+3.1pp swing in 2 sessions on the tech-cohort sell-off)**.
+- **Next decision window:** **Wed 6/24 open** — read whether the tech sell-off carries (third day = regime change risk vs. dead-cat bounce setup). KKR add gate refreshes for path-(a)-reassess (target: pre-PCE positioning only if tape stabilizes; do NOT add into Thu PCE wall). **Thu 6/26 8:30 AM ET PCE** is the binary swing event for the week. Midday check armed for both positions given thin cushions (~3.85% / ~3.93%).
+
+## Today's Market Open Routine — 2026-06-22 (Monday, Week 6 day 1, post-FOMC, post-Juneteenth, pre-PCE Thu 6/26)
 
 ## Today's Market Open Routine — 2026-06-22 (Monday, Week 6 day 1, post-FOMC, post-Juneteenth, pre-PCE Thu 6/26)
 

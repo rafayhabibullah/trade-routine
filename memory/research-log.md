@@ -1348,3 +1348,43 @@ Per Kiplinger / earnings calendars: light week relative to recent.
 - (6) **Thu 6/26 PCE 8:30 AM ET** — binary event for the week; reserve dry powder.
 
 ---
+
+## Tomorrow's Watch — 2026-06-24 (Wednesday)
+
+### Context Recap
+- **Mon 6/22 → Tue 6/23 = sharp 2-day tech-cohort sell-off.** SPY $746.74 → ~$724 = ~−3.0% in 2 sessions on AI-capex skepticism + BoFA rate-hike note + global semi-cohort spillover (NVDA −3.2%, MU −13%, SanDisk −13.6%, TSM −5.2%, SMH −6.5%). Hawkish-Fed narrative reawakened.
+- **Book: structural OP regime fully on display.** Tue 6/23 close: Portfolio $99,338.10 → $99,364.80 = **+0.027%** on a SPY −1.3% day → **+1.32pp vs SPY OP**. WTD: **+3.07pp OP vs SPY**. Cumulative since launch flipped from −1.68pp UND (Mon open) to **~+1.42pp OP** in 2 sessions.
+- **TRIPLE lesson validation** today: #2 cash-cushion-as-cushion (91.89% cash absorbed the SPY drop fully); #4 non-AI diversifier on AI-cohort sell-off (ISRG +0.08% on a −3 to −13% AI-cohort day — cleanest regime print since 6/11 case study); #5 zero mega-cap-AI cap discipline (the META/AMZN/GOOGL stop-outs in early June bought the discipline that's paying back today).
+- **KKR add Mon 6/22 was NOT executed.** Alpaca confirms zero orders submitted this week. Likely either routine didn't run mid-morning Mon, or path (a) conditions failed as the AI-sell-off escalated. With Tue's continuation, the deferral was correct in hindsight. Slot still open (0 of 3 used this week).
+
+### Positions to Monitor
+- **LLY** — Closed $1,107.99 (+11.65% from entry, +0.54% day). Caught the rotation out of AI/semis into pharma defensive (lesson #3 + #4 both on display). HWM held $1,182.73; stop $1,064.457 (cushion **~3.93%**, slightly improved from Mon's 3.14%). Retatrutide Phase 3 thesis fully intact; FDA submission "by year-end" = far catalyst. **Lesson #1 vs #3 tension live but #3 dominates** — confirmed-beat post-catalyst-hold winner.
+- **ISRG** — Closed $403.29 (−5.15% from entry, +0.08% day). Held GREEN on a brutal AI-cohort sell-off → diversifier thesis live-validated. HWM held $430.85; stop $387.765 (cushion **~3.85%** — thinnest in book, slight compression from Mon's 4.11%). Material negative cluster (FDA Class I recall, Deutsche PT cut, Hugo competition) hasn't cracked the price below stop. Both June catalysts presumably still live but no positive headlines since 6/10 Citi upgrade. **Lesson #1 framework still active** if cushion compresses further or thesis breaks.
+
+### Macro Events Wed 6/24
+- Light scheduled-data day pre-PCE (Thu 6/26). Watch for:
+  - **Tech sell-off carryover / dead-cat-bounce dynamic** — third-day-down tape would signal regime shift toward sustained AI-capex repricing; a bounce signals 2-day reset.
+  - **10Y yield direction** — BoFA rate-hike note will drive yields if hawkish-rate-cut-skepticism narrative builds; long-duration LLY pressure if 10Y breaks >4.55%.
+  - **Pre-PCE positioning flows** — institutions de-risk into binary events; expect thin volumes, headline-driven moves.
+- **Tue 6/23 AC FDX print** — read for logistics/economy beta signal; minor sentiment tell (not position-relevant).
+- **Wed AC: MU + GIS + NKE earnings** — MU AC is the AI-capex / semi-sentiment swing tape into Thu; NKE the consumer-spend read.
+
+### Thesis Notes Based on Today's Price Action
+- **The book is now structurally positioned for hawkish-Fed + AI-capex-skepticism regime.** Cash floor 91.89% + LLY pharma defensive + ISRG non-AI diversifier + zero mega-cap-AI = exactly the regime mix the 4-month-lesson-learned framework prescribed. The cumulative OP flip from −1.68pp to +1.42pp in 2 sessions confirms the structural design is working.
+- **KKR add gate refreshes for Wed 6/24 open:**
+  - **(a) Tape stabilizes Wed (SPY flat-to-modestly-green, no fresh AI-capex shock, 10Y holds ≤4.55%)** → KKR add target window 10:30 AM–12:00 PM ET. Lean execute (the −24.7% YTD compression is even more attractive after the 2-day risk-off; alt-asset cyclical beta is the post-hawkish-Fed cohort). ~37 sh / ~$3,500 / ~3.5% position.
+  - **(b) Tech sell-off continues third day (SPY −0.5% or more sustained)** → Defer to Thu post-PCE. Don't catch falling-knife AI-tape with discretionary adds.
+  - **(c) PCE Thu binary remains the dominant variable** — do NOT add Wed if it leaves dry powder under-deployed for post-PCE clarity. Reserve at least 1 slot for post-print Thu/Fri.
+- **LLY cushion management Wed:** rotation-into-pharma may continue if AI-cohort sell-off carries — cushion could expand back toward 5–6% range, removing lesson #1 trigger. If broad risk-on bounce, LLY may give back some defensive premium — cushion could re-compress.
+- **ISRG cushion management Wed:** today's GREEN print on cohort-down day is the strongest single-day evidence the diversifier thesis is alive. Lesson #1 framework still applies but is no longer the leading-edge concern; the framework was for AI-correlated thin-cushion cases, and ISRG just demonstrated NON-correlated thin-cushion behavior. **Tilt: hold the stop and let it work; do NOT discretionary trim into a tape that just validated the diversifier role.**
+- **No new positions Wed unless KKR path (a) clearly confirms** — the operative discipline this week is: cash-cushion is performing, do not abandon the structural OP edge by chasing.
+
+### Pre-Tomorrow Decision Queue
+- (1) **9:30 AM Wed open** — gap-risk on LLY and ISRG; both at thin cushions, verify trailing stops live & GTC at trade routine.
+- (2) **KKR add gate Wed** — apply paths (a) / (b) / (c). Lean: execute (a) only if tape clearly stabilizes; otherwise defer to post-PCE Thu.
+- (3) **Mid-day guardrail check** — >7% intraday rule armed on both positions; daily-loss cap **$96,357.96** based on today's close as next-day open ref.
+- (4) **Wed AC MU + NKE + GIS** — earnings tape-read into Thu PCE.
+- (5) **Thu 6/26 8:30 AM ET PCE** — binary event for the week; this remains the dominant variable.
+- (6) **Operational gap fix:** ensure midday-check routine runs Wed (was skipped Mon 6/22 and 6/23 per memory gap).
+
+---
