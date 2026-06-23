@@ -1348,3 +1348,110 @@ Per Kiplinger / earnings calendars: light week relative to recent.
 - (6) **Thu 6/26 PCE 8:30 AM ET** — binary event for the week; reserve dry powder.
 
 ---
+
+## Research — 2026-06-23 (Tuesday — Week 6 day 2; post-GOOGL-AI-cohort-shock Mon; pre-PCE Thu 6/25; FDX AC tonight)
+
+### Calendar Correction
+**Prior research log mistakenly placed PCE on Thu 6/26.** Confirmed via BEA + multiple economic-calendar sources: **May PCE & Core PCE release is Thu 6/25 8:30 AM ET** (Fri 6/26 is UMich consumer sentiment final / light data). Corrected for all downstream planning.
+
+### Market Conditions
+**Mon 6/22 closed mixed-to-weak with AI-cohort taking a sharp hit.** Per Alpaca IEX bars: **SPY $744.27 (−0.33%)**, Dow +0.2%, **Nasdaq −1.3%**; **GOOGL crashed −5.01% to $349.50** on a stacked single-name negative cluster — (a) California judge denied retrial in addiction-to-minors lawsuit (escalates damages exposure), (b) **AI talent exodus** (Noam Shazeer → OpenAI; John Jumper → Anthropic) hits institutional confidence, (c) FY26 capex guide $180–$190B + FY27 even higher compressing FCF margins to ~5% from 18%, (d) UK regulatory scrutiny on search ranking. Pre-mkt Tue: futures little change indicated; tape consolidation expected pre-PCE Thu. Brent crude holds <$79/bbl on US–Iran 60-day peace roadmap. 10Y likely steady ~4.46–4.50% (no fresh hawkish catalysts). **VIX moderately elevated** but not spike-level on the GOOGL-led cohort sell-off.
+
+### SPY Reference Price
+**Not Monday — no new SPY reference recorded.** Week Start SPY remains **$746.74** (Mon 6/22 reference, from Thu 6/18 close carry). Mon 6/22 close $744.27 = **WTD SPY −0.33%**.
+
+### Position Count This Week
+**Still 0 of 3 BUY slots used.** **KKR add planned mid-morning Mon 6/22 was NOT executed** — Alpaca confirms zero orders submitted. Path (a) conditions did not all hold during the Mon mid-morning window (Nasdaq −1.3% / GOOGL collapse triggered risk-off tone; path (b) "Pre-mkt red extends post-open" likely tripped). **3 buy slots remain for week 6 (6/22–6/26).**
+
+### Account State (Pre-Open Tue 6/23 — Alpaca live)
+- **Equity:** **$99,343.29** (last_equity $99,338.10 = essentially flat day Mon; net +$5.19 vs Mon open).
+- **Cash:** $91,303.23 (**91.91%**). Long MV $8,040.06 (8.09%). Cash floor unchanged.
+- **Today's daily-loss cap trigger:** $99,338.10 × 0.97 = **$96,357.96**.
+- **Daytrade count:** 0; trading not blocked.
+- **2 open trailing stops verified live & GTC** (no ratchets Mon — both `updated_at` 6/8 LLY / 6/9 ISRG):
+  - ISRG `b271eef3` — stop **$387.765**, hwm $430.85.
+  - LLY `28f47c51` — stop **$1,064.457**, hwm $1,182.73.
+
+### Current Positions Snapshot (Pre-Open Tue 6/23)
+
+| Symbol | Shares | Avg Entry | Mon 6/22 Close | Live Pre-Mkt | P&L $ | P&L % | Stop | Cushion |
+|--------|--------|-----------|----------------|--------------|-------|-------|------|---------|
+| ISRG | 9 | $425.163 | $402.97 | **$403.34** | **−$196.41** | **−5.13%** | $387.765 | **~3.86%** |
+| LLY | 4 | $992.355 | $1,103.15 | **$1,102.50** | **+$440.58** | **+11.10%** | $1,064.457 | **~3.45%** |
+
+**Both cushions compressed further from Mon open** (ISRG 4.41%→3.86%; LLY 3.41%→3.45% essentially unchanged). **Both positions deeper into lesson-#1 trigger range simultaneously.** ISRG: lesson-#1 framework actively live (thin cushion + fresh FDA recall cluster + no near catalyst). LLY: lesson #3 (post-confirmed-beat-hold) dominates lesson #1 — but cushion now matches META's 6/8 close that preceded the 6/10 stop trip. **Mid-day >7% intraday cut rule armed on both.**
+
+### Yesterday's Read (Mon 6/22)
+- **Day net:** Portfolio +$5.19 absolute (+0.005%) on SPY −0.33% day → **+0.34% vs SPY (OP — modest)**. **Third consecutive AI-cohort-sell-off day where the cash-cushion-as-cushion thesis (lesson #2) + non-mega-cap-AI book (lesson #5) delivered OP.** GOOGL −5.01% one-day move alone would have wiped ~$60 from book if still held; KKR (would-be addition) closed −0.13%, V flat — confirms the non-AI diversifier thesis is structurally on the right side of this regime.
+- **Lesson #5 (mega-cap-AI cohort tail risk) further validated** — GOOGL is the 4th mega-cap-AI to print a >5% single-day drawdown event since launch (after GOOGL stop 6/2 [−9.07%], AMZN stop 6/5 [−7.69%], META stop 6/10 [−4.64%]). Pattern: single-name idiosyncratic catalysts (lawsuit / talent / capex) layer on top of cohort-wide capex-sensitivity. **Cap discipline (≤3 names, ≤15% combined, ≥1 truly non-AI per 2 AI mega-cap) is now empirically validated 4/4.**
+- **Both positions held the tape without stop trips** — ISRG +$3.51 intraday, LLY +$1.68 intraday at Mon close. No gap-risk realized.
+
+### Earnings This Week — Do Not Buy (6/23–6/26, refreshed)
+Per Kiplinger / Earnings Whispers / TipRanks calendars:
+- **Tue 6/23 (today):** 14 reports incl. **FDX — FedEx (AC; Q4 FY26, post-Freight-spin-off; cons EPS $5.91–$5.95 / rev $24.03–$24.18B)** — primary tape signal for logistics/economy beta.
+- **Wed 6/24:** 16 reports incl. **MU — Micron (AC; Q3 FY26 cons EPS $19.72 / rev $34.52B; options pricing ~17% one-day move).** MU print is the **biggest AI-cohort tape-read of the week** post-GOOGL shock (HBM allocation / FY26 guide / gross-margin trajectory; would amplify or dampen AI-capex-narrative pressure).
+- **Thu 6/25:** 29 reports (heaviest day; broad mid-cap mix); none noteworthy on candidate overlap.
+- **Fri 6/26:** 4 reports (light).
+- **Candidates re-verified clear:** **KKR** (Q2 early Aug); **V** (Q3 late Jul); **MSFT** (Q4 late Jul); **NOW** (Q2 late Jul). **No conflicts on watchlist.**
+
+### Macro Events This Week (refreshed)
+- **Tue 6/23 (today):** Existing home sales (10:00 AM ET) + consumer confidence (10:00 AM ET) — secondary. FDX AC the day's main signal.
+- **Wed 6/24:** New home sales (10:00 AM ET) + secondary data. MU AC.
+- **Thu 6/25 (CRITICAL):** **May PCE & Core PCE (8:30 AM ET)** — Fed's preferred inflation gauge. **Cons: headline +0.5% m/m / +4.1% y/y; core +0.3% m/m / +3.4% y/y** (vs Apr +0.4%/+3.8% headline; +0.2%/+3.3% core). Energy passthrough from Iran-shock the headline driver; **core +0.3% m/m would compound the hawkish dot-plot story**; **+0.2% m/m would soften it.** Also Q1'26 GDP 3rd estimate same morning; weekly Initial Jobless Claims; personal income/spending in same release.
+- **Fri 6/26:** UMich consumer sentiment final (secondary). PCE will already have set the tape.
+- **No FOMC** this month; next 7/28–7/29.
+
+### Watchlist for Today's Open (cap 0/3 used — 3 slots open)
+
+| Symbol | One-Line Thesis | Rev Growth | Moat Type | Analyst Rating | Action |
+|--------|-----------------|------------|-----------|----------------|--------|
+| **KKR** | Q1'26 rev +39% YoY $4.32B; AUM $758B (+14%), fee-paying $615B (+17%); record $23B NA PE fund closed Apr; **$10B Helix Digital Infra** (AI data-center capital partner — INDIRECT AI exposure via picks/shovels); **$1.4B Altavair aircraft-leasing**; Medicover India $1B; multi-deal cadence. **YTD share return ~−25%** despite fundamentals; Mon 6/22 close $96.885 (−0.13% on a −5% GOOGL day = held tape) | 39% | Switching costs (10-yr LP locks); scale/brand in alts; ABF scale; Global Atlantic insurance float | **Buy consensus** — Chartmill avg PT **$148.63** (+53%); MarketBeat $125.53 (+30%); 21+ analyst avg "Buy" | **PRIMARY non-AI diversifier candidate; gate re-opens today.** Clear of earnings (Q2 early Aug). The GOOGL collapse strengthens the diversifier thesis: post-AI-cohort-sell-off + post-hawkish-Fed → alt-asset/financial cyclical beta is structurally favored. **Lean ~$3,500 (~36 sh ~$97) = ~3.5% position.** Place 10% trailing stop immediately. **PCE Thu 6/25 = the binary** — pre-PCE add at the discount is the entry edge; KKR is non-PCE-sensitive on the way down (alt-asset / book-value-driven, lower duration than tech). |
+| **V** | Q2 FY26 net rev +17% to $11.23B (beat); EPS $3.31 +20%; cross-border vol +12%; **6/10 OpenAI agentic-commerce partnership** = AI-monetization-without-AI-cohort-beta angle; new **$20B buyback**; stablecoin pilot ~$7B annualized rate; FY26 guide low-double-digit → low-teens. Mon 6/22 close $327.49 (+0.07% on −5% GOOGL day = held tape) | 17% | Duopoly network (V/MA); scale; switching costs; brand; cross-border travel beta | **Strong Buy** — avg PT **$398.83** / high $450 / 31 Buy / 3 Hold / 0 Sell | **Strong secondary** — cleaner consumer-spend / cross-border / payments-AI beta than KKR; the OpenAI integration is the rare clean AI-leverage-without-AI-cohort-beta angle (matters more now post-GOOGL). Clear of earnings (Q3 late Jul). **Hold as second-add candidate** if PCE comes in cool Thu and book has clearance; do NOT pair with KKR same week pre-PCE. |
+| MSFT | Q3 FY26 +18%, Azure +40%, AI run rate $37B (+123%) | 18% / 40% Azure | Switching costs; scale; platform | Strong Buy; PT ~$560 | **Bench** — re-introduces AI-mega-cap cohort exposure right when the cohort just had a 4th >5% drawdown event (GOOGL Mon). Lesson #5 cap discipline argues KKR/V remain cleaner. |
+| NOW | Q1'26 sub rev +22%; FY26 guide $15.7B (+21%) | 22% | Switching costs; platform | Strong Buy | **Skip** — AI-cohort beta; lesson #5 disqualifier in this regime. |
+| COST | Q3 FY26 rev +12% | 12% — below 15% | Membership; scale | Mixed | **Skip** — fails growth bar. |
+
+### Existing Position Notes
+
+| Symbol | News (since 6/22) | Thesis Still Valid? | Action |
+|--------|-------------------|---------------------|--------|
+| **LLY** | No fresh material news Mon. Stock +0.40% on the day to $1,103.15 — pharma defensive bid worked into the GOOGL-led cohort sell-off (lesson #2 / lesson #4 confirmed at single-name level). Retatrutide ADA story is the standing narrative; FDA submission "by year-end" remains the next catalyst but it's still multi-quarter. No new analyst actions visible. Pre-mkt drift modest $1,102.50. | Yes — fundamentals strongly intact; pullback from $1,182.73 HWM (6/8) is rate-regime-driven not thesis-driven. **Lesson #1 vs Lesson #3 tension live** — cushion 3.45% is at lesson #1 trigger range, but post-confirmed-beat-hold (lesson #3) dominates for ADA-confirmed-thesis winners. | **Hold.** Stop $1,064.457 locks **+7.27% realized** if hit. Watch for HWM ratchet potential if pharma defensive bid extends on pre-PCE risk-off. **>7% intraday cut rule armed**; daily-loss cap $96,357.96. |
+| **ISRG** | No fresh material news Mon. Stock −0.89% on day to $402.97 (held up better than the Nasdaq −1.3% and the GOOGL −5%; diversifier behavior modest-positive). Pre-mkt $403.34 essentially flat. **The Deutsche PT cut to $440 noted in prior research-log was actually $366 in some sources** — needs reconciliation; either way the bear-case has deepened. FDA Class I recall narrative + da Vinci S/Si voluntary recall + Medtronic Hugo competition + Simply Wall St fair value reset all carry. **No positive headlines since 6/10 Citi upgrade.** | Diversifier thesis under stress but **stock is doing its job** on the AI-cohort-sell-off tape regime (lesson #4 validated again Mon: non-AI diversifier proves out on AI-cohort-sell-off days, not on broad up days — and Mon was the cleanest AI-cohort-specific sell-off since 6/11). Fundamental case (Q1'26 +23% rev, 17% procedure growth, 86% recurring) intact; tape weight is sentiment-driven. | **Hold but on shortest leash.** Stop $387.765; cushion 3.86% — **deepest into lesson-#1 zone in book history outside of META pre-stop**. **Mid-day >7% intraday cut rule armed; if intraday open print is down >3% AND tape weakens into midday, evaluate discretionary trim** per lesson #1 framework. Both June catalysts (da Vinci 5 100+ features + Japan reimbursement) presumably live but no fresh dates. |
+
+### Stop-Cushion Snapshot (Pre-Open Tue 6/23)
+- **LLY** — cushion **~3.45%** at $1,102.50 vs stop $1,064.457. Thinnest in book, but lesson-#3 (post-confirmed-beat-hold) dominates for ADA-confirmed-thesis pharma winners. Trips lock +7.27% realized.
+- **ISRG** — cushion **~3.86%** at $403.34 vs stop $387.765. Lesson-#1 framework actively live and **deepest into trigger zone in book history outside of META pre-stop**. Trips lock −8.79% realized.
+- **Both positions in lesson-#1 trigger range for second consecutive trade-routine session** — risk-cluster heading into PCE Thu.
+
+### Plan for Today (Tue 6/23) — Week 6 day 2, post-GOOGL-cohort-shock, pre-PCE Thu
+- **9:30 AM open:** Gap-risk check on LLY and ISRG. Both pre-mkt essentially flat; gap-risk modest. Re-verify 2 trailing stops live & GTC at trade routine.
+- **KKR add decision — refreshed for Tue (pre-PCE gate):**
+  - **(a) Tape stabilizes / no further AI-cohort shock + 10Y holds ≤4.55% + no fresh Iran/geopolitical headline + KKR opens flat-to-up vs Mon $96.885** → **Buy KKR ~$3,500 mid-morning Tue (target window 10:30 AM–12:00 PM ET).** Place 10% trailing stop immediately. Records 1st buy of week 6 (1/3). **The −25% YTD compression + Mon held-tape-against-GOOGL = the entry edge.**
+  - **(b) Further AI-cohort risk-off Tue (Nasdaq −0.5%+ at 10:30) OR fresh GOOGL-narrative escalation OR 10Y >4.55%** → **Defer add to post-PCE Thu/Fri.** Don't chase into broadening risk-off ahead of binary event.
+  - **(c) Iran headline reversal / geopolitical shock / China-trade-curb escalation** → **Defer all adds.** Daily-loss cap discipline.
+  - **(d) ISRG opens down >3% and trends weaker into midday** → **Pause new adds; focus on ISRG cushion management** per lesson #1 framework (discretionary trim consideration; do not let it become a 4th stop-out preventable case). Lesson #5 caveat doesn't apply (ISRG non-AI) but lesson #1 does.
+- **2nd-add gate (V or KKR-doubling)** **NOT on the table this week** until post-PCE Thu confirms direction; preserve dry powder for path-(a) post-PCE-cool clarity OR path-(b) hedge-add post-PCE-hot.
+- **MU AC Wed 6/24** — biggest AI-cohort tape-read of week post-GOOGL shock. **HBM/capex narrative read for KKR decision Wed mid-morning** (KKR is INDIRECT AI exposure via Helix → MU print matters secondarily).
+- **FDX AC tonight 6/23** — first post-Freight-spin-off report; logistics/economy beta tape read. Cons EPS $5.91–$5.95 / rev $24.03–$24.18B; near 52-wk highs going in.
+- **Pre-PCE Thu 6/25 — the binary** for whether the no-cut dot-plot story crystallizes into hawkish multi-week regime (hot core +0.3%+) or softens (cool core +0.2%). Pre-PCE position-sizing reserves >50% of weekly buy cap for post-print clarity.
+- **No earnings conflicts on KKR/V today** — re-verify at moment of trade.
+- **Mid-day guardrail check armed:** cut anything down >7% intraday; daily-loss cap **$96,357.96**.
+- **Cash floor (≥20%) check:** 91.91% cash. One KKR add (~$3,500) → ~88.4% cash — well above floor.
+
+### Thesis Notes / Read Heading Into the Week
+- **GOOGL −5% Mon is the single clearest validation of lesson #5 since launch.** Three months ago this position was in the book; today the book is structurally protected. The "cap mega-cap AI ≤3 names, ≥1 truly non-AI per 2 AI" rule was written from 3/3 mega-cap-AI stop-outs (GOOGL/AMZN/META) — and the 4th-event (GOOGL Mon -5%, would have stop-tripped if held since 6/2 hwm $408.61) confirms the empirical bar. The book's current zero-AI-mega-cap construction + 91.91% cash is the maximally lesson-#5-compliant posture.
+- **The KKR thesis is structurally strengthened by GOOGL Mon** — post-AI-cohort-shock + post-hawkish-Fed + Iran-peace risk-on rotation triangulates exactly onto alt-asset/financial cyclical beta. KKR held the tape Mon (−0.13% on a −1.3% Nasdaq / −5% GOOGL day) = early confirmation the diversifier thesis is regime-correct. The −25% YTD compression with intact +39% rev growth + multi-deal cadence is the "buy-the-discount" entry edge.
+- **V is the alternative if AI exposure-through-payments is the cleaner angle this regime** — OpenAI partnership = AI-monetization-without-AI-cohort-beta. Held tape Mon (+0.07% flat). Could be the 2nd add post-PCE if cool.
+- **ISRG cushion 3.86% is the deepest lesson-#1 zone in book history outside META pre-stop.** Discretionary trim consideration is no longer hypothetical — it's the live tactical question. **The data point that would tip toward trim today: an open >3% down + tape weakness into midday.** Absent that, the stop continues to manage downside and the diversifier thesis (validated Mon) continues earning its place.
+- **LLY cushion 3.45% — lesson #3 (post-confirmed-beat-hold) dominates** for ADA-confirmed-thesis pharma. The pullback from $1,182.73 HWM is rate-regime-driven (hawkish FOMC); fundamentally the multi-indication retatrutide franchise is intact and FDA submission is still ahead. Trips lock +7.27% realized — that's a clean exit if it happens. Mon's defensive bid (+0.40% on a risk-off day) reinforces the long-pharma-on-risk-off thesis.
+- **Cumulative since launch (4 wks + week 5 + week 6 days 1-2):** Portfolio $99,343.29 vs launch $100,000 = **−0.66%**; SPY $739.17 → $744.27 = **+0.69%** → **−1.35pp cumulative UND**. Mon's modest OP (+0.34% vs SPY) reduced the gap from −1.68pp slightly. Path back to OP runs through: (i) KKR diversifier add at right window (incremental positive-beta to cyclicals), (ii) ISRG stop management without forced loss, (iii) LLY cushion preservation through PCE, (iv) cash-cushion structural OP on remaining risk-off sessions this week.
+
+### Pre-Tomorrow Decision Queue
+- (1) **9:30 AM open Tue** — gap-risk on LLY and ISRG; verify 2 trailing stops live & GTC at trade routine.
+- (2) **KKR add gate Tue mid-morning** — apply decision tree (a/b/c/d). Lean toward path (a) if tape stabilizes after the GOOGL shock; path (b) more likely if AI-cohort risk-off extends.
+- (3) **Mid-day guardrail check** — >7% intraday rule on both positions; daily-loss cap $96,357.96.
+- (4) **FDX AC 6/23** — logistics/economy beta read; tape-tell for Wed open.
+- (5) **MU AC 6/24** — biggest AI-cohort tape-read of week post-GOOGL; HBM/capex narrative read.
+- (6) **PCE Thu 6/25 8:30 AM ET** — binary event for the week; reserve dry powder for post-print clarity.
+
+---
