@@ -1348,3 +1348,117 @@ Per Kiplinger / earnings calendars: light week relative to recent.
 - (6) **Thu 6/26 PCE 8:30 AM ET** — binary event for the week; reserve dry powder.
 
 ---
+
+## Research — 2026-06-24 (Wednesday — Week 6 day 3; post-Tue-tech-rout; pre-PCE Thu 6/25)
+
+### Calendar Correction
+**PCE this week is Thursday 6/25, NOT Friday 6/26 as the 6/22 research log mistakenly stated.** June 22 is Mon → 23 Tue → 24 Wed → 25 Thu → 26 Fri. PCE/Core PCE release: **Thu 6/25 8:30 AM ET** (Wells Fargo cons headline +0.5% m/m / +4.1% y/y; core +0.3% m/m / +3.4% y/y). All references in this and prior entries should read PCE Thu 6/25.
+
+### Memory Gap Note
+**No portfolio.md or research-log.md entries between Mon 6/22 morning open and today 6/24 morning open** — covers Mon 6/22 close, Tue 6/23 open & close. Reconstructed via Alpaca + WebSearch below. **KKR add planned for 6/22 mid-morning per path (a) was NEVER executed** (Alpaca confirms zero orders since 6/12; cash unchanged at $91,303.23). Cohort risk-off Tue 6/23 retroactively makes the non-execution look prudent — see thesis notes.
+
+### Market Conditions
+**Modest pre-mkt mixed-to-red after a brutal global tech selloff Tue.** Dow futures **−0.13%**; semis bouncing pre-mkt (MU **+3.9%**, SNDK +3.5%) after Tue's bleed. Tuesday's tape: **S&P −1.32% / Nasdaq −2.21% / Tech sector −4.13%** on (a) **BofA research note flagging up to THREE 2026 Fed rate hikes** — direct hawkish-Fed compounding of last week's no-cut FOMC dot-plot; (b) **KOSPI −9.99%** (steepest 3+ month drop) — Samsung & SK Hynix each **−12%**, auto trading halt triggered, on regulatory signals that semis rally was overheated; (c) **SMH ETF −6.5%**, NVDA −3.2%; (d) cohort rotation out of AI/semis. **10Y yield eased to 4.50%** (−1 bp from prior session; still below 4.55% threshold) on flight-to-safety from tech-stock sell-off. **Brent <$79 still holds** (Iran-peace 60-day roadmap intact; Vance + Iranian officials met face-to-face Switzerland Sunday). **Trump-Hezbollah tail risk live** — threatened to "hit Iran very hard again" if Iran fails to rein in Hezbollah; Israel-Hezbollah ceasefire shaky but in place. **GOOGL joining DJIA next Monday** (S&P Global announcement) — moot for our book post-6/2 stop-out. Today's macro: **Fed bank stress test results** + May new home sales; AC earnings MU/PAYX/JEF. **PCE Thu 6/25 = binary event of the week.**
+
+### SPY Reference Price
+Not Monday — no new SPY reference recorded. **Week 6 Start SPY remains $746.74** (Thu 6/18 close carried through Juneteenth). Mon 6/22 close $744.27 (−0.33%); Tue 6/23 close **$733.62** (−1.43%). **SPY WTD through Tue close: $746.74 → $733.62 = −1.76%.**
+
+### Position Count This Week
+**0 of 3 BUY slots used** (week 6/22–6/26; Alpaca confirms zero orders since 6/12). **3 buy slots remain.** Per refreshed plan below: pre-PCE posture is to defer all adds.
+
+### Account State (Pre-Open Wed 6/24 — Alpaca live)
+- **Equity:** **$99,365.74** (Alpaca portfolio_value); **last_equity $99,360.17** (Tue 6/23 close = today's day-open ref).
+- **Cash:** $91,303.23 (**91.88%**); Long MV $8,062.51 (**8.12%**).
+- **WTD vs week-start value ($99,338.75):** portfolio **+0.022% WTD** vs SPY **−1.76% WTD** = **+1.78pp WTD OP through Tue close**. **Lesson #2 + #4 + #5 all confirming together** — cash-cushion-as-cushion + non-correlated book on the AI-cohort-specific risk-off + zero mega-cap-AI exposure all working precisely as the framework predicts.
+- **Today's daily-loss cap trigger:** $99,360.17 × 0.97 = **$96,379.36**.
+- **Daytrade count:** 0; trading not blocked.
+- **2 open trailing stops verified live & GTC:**
+  - ISRG `b271eef3-1027-435e-8818-2c838e0ace9b` — stop **$387.765**, hwm $430.85 (updated_at 6/9 — no ratchet weeks 5–6).
+  - LLY `28f47c51-a223-4698-9fee-867b1c411ce4` — stop **$1,064.457**, hwm $1,182.73 (updated_at 6/8 — no ratchet weeks 5–6).
+
+### Current Positions Snapshot (Pre-Open Wed 6/24)
+
+| Symbol | Shares | Avg Entry | Tue Close | Tue Day | P&L $ | P&L % | Stop | Cushion |
+|--------|--------|-----------|-----------|---------|-------|-------|------|---------|
+| ISRG | 9 | $425.163 | **$403.22** | +0.06% | **−$197.49** | **−5.16%** | $387.765 | **~3.83%** |
+| LLY | 4 | $992.355 | **$1,107.83** | +0.42% | **+$462.06** | **+11.64%** | $1,064.457 | **~3.91%** |
+
+**Both cushions still in the lesson-#1 trigger range simultaneously** (sub-4% both) — first time the book has carried two same-day sub-4% cushions across the binary risk window. LLY cushion slightly improved vs 6/22 open (3.41% → 3.91% on pharma defensive bid); ISRG cushion slightly compressed (4.41% → 3.83% on continued FDA-recall + competitive overhang). **LLY OP'd Tue's broad selloff (+0.42% on −1.32% SPY day)** — pharma defensive bid working as expected on risk-off tape. **ISRG essentially flat Tue (+0.06%) on AI-cohort-specific selloff** — diversifier behaved exactly per its mandate (lesson #4 confirmed live AGAIN).
+
+### Recent History Reconstruction — Mon 6/22 + Tue 6/23
+Per Alpaca portfolio_history + bars + WebSearch:
+- **Mon 6/22:** Portfolio $99,338.75 day-open → $99,338.10 close = **−0.001% day** vs SPY $746.74 → $744.27 = **−0.33% day** → **+0.33pp OP** on a modestly red tape. No trades (KKR add gate path (a) NOT executed — reason not in memory but confirmed via zero orders; speculated reason: pre-mkt indication softened post-9:30 open, path (a) "tape stabilizes" condition didn't materialize cleanly).
+- **Tue 6/23:** Portfolio $99,338.10 → $99,360.17 close = **+0.022% day** vs SPY $744.27 → $733.62 = **−1.43% day** → **+1.45pp OP** on the global tech-cohort rout. LLY +0.42% (pharma defensive bid); ISRG +0.06% (diversifier non-correlation working on AI-cohort-specific risk-off — lesson #4 textbook confirmation). **2-day cumulative WTD: +1.78pp OP vs SPY — best 2-day OP run since launch.**
+
+### Earnings This Week — Do Not Buy (6/22–6/26)
+- **Mon 6/22:** 23 reports; none noteworthy. ✓ Cleared.
+- **Tue 6/23 AC:** **FDX** reported — beat ($6.31 EPS vs $5.92 cons; rev $25.0B beat $24.3B cons) but **stock −3.63% regular session + −6.16% AH = ~−10% peak to trough on light CY26 guide ($16.90–$18.10 EPS guide)** — logistics-cycle tape signal mixed (better-than-feared print, sold on guidance). No book exposure.
+- **Wed 6/24 (today) AC:** **MU — Micron** (memory cycle / AI-infra read post-Tue semi rout); **PAYX — Paychex** (employment read); **JEF — Jefferies Financial** (financials read).
+- **Thu 6/25:** 29 reports including **NKE — Nike** (post-bell), **MKC** (pre-bell), **WGO**, **BB**, **COST** (mid-day), **MTN**.
+- **Fri 6/26:** Light (3–4 reports).
+- **Candidates checked:** KKR clear (Q2 early Aug); V clear (Q3 late Jul); MSFT/NOW clear (late Jul). **No conflicts on watchlist candidates today.**
+
+### Macro Events This Week (Remaining)
+- **TODAY 6/24:** Fed bank stress test results; May new home sales (secondary). AC: MU/PAYX/JEF.
+- **TOMORROW Thu 6/25 8:30 AM ET (CRITICAL):** **May PCE + Core PCE + Personal Income/Spending.** Wells Fargo cons headline **+0.5% m/m / +4.1% y/y** (energy passthrough; would cross 4% for 2nd straight month); **core +0.3% m/m / +3.4% y/y** (+10 bps m/m and +10 bps y/y vs April's +0.2%/+3.3%). **The binary event of the week** for re-pricing post-FOMC hawkish read AND BofA "3 rate hikes" note. Cool core softens dot-plot bite; hot core compounds it and accelerates the rate-hike narrative.
+- **Fri 6/26:** UMich consumer sentiment final (secondary).
+- **No FOMC this month;** next 7/28–7/29.
+
+### Watchlist for Today's Open (cap 0/3 used — 3 slots open)
+
+| Symbol | One-Line Thesis | Rev Growth | Moat Type | Analyst Rating | Action |
+|--------|-----------------|------------|-----------|----------------|--------|
+| **V** | Q2 FY26 net rev **+17%** to $11.23B (beat $480M); EPS $3.31 +20% (beat +6.7%); cross-border vol +12%; **OpenAI agentic-commerce integration** announced June 2026 — secure Visa transactions inside OpenAI agents; **V/MA/Stripe + Coinbase reportedly in joint-stablecoin-platform talks**; Brale stablecoin / Canton Network settlement partnership; new **$20B buyback**; FY26 guide low-double-digit→low-teens | 17% | Duopoly network (V/MA); scale; switching costs; brand; cross-border travel beta — **largely rate-agnostic vs alt-asset PE-multiple compression risk** | **Strong Buy** — 36 Buy / 0 Sell; avg PT **$398.83** (high $450 / low $330) — currently $327–331 range = ~21% upside to mean PT | **PROMOTED to primary diversifier candidate** post-Tue's evidence. Clear of earnings (Q3 late Jul). Lean ~$3,500 (~11 sh @ ~$330) = ~3.5% position. **Rationale shift:** V's payments-volume + cross-border + AI-rails optionality is structurally less rate-sensitive than KKR's alt-asset book; Tue's −3.51% KKR drop on a tech-selloff day with rate-hike note evidenced KKR's high-beta to hawkish-Fed regime, weakening the prior "alt-asset/financial cyclical = post-hawkish-Fed favored cohort" thesis. **Defer execution to post-PCE Thu** — pre-binary, do not add. |
+| **KKR** | Q1'26 rev +39% YoY to $4.32B; AUM **$758B** (+14%); **$1.4B Altavair aircraft leasing** (Apr); **$10B Helix Digital Infrastructure** (KKR/NVDA/Vistra/KIA); $23B record NA PE fund (Apr); trading at **~12% DCF discount** ($93.48 vs $110.75 fair value) and ~29% below avg PT; **YTD share return now −27% after Tue's −3.51%** | 39% | Switching costs (10-yr LP locks); scale/brand in alts; ABF scale; Global Atlantic insurance float | **Buy consensus** — Chartmill avg PT **$148.63** (+59% upside from $93.48); MarketBeat avg $125.53; Morgan Stanley OW $153 | **DEMOTED to secondary candidate** — but the **−27% YTD compression keeps the long-term value case alive**. Tue 6/23 drop of −3.51% on a hawkish-rate-driven tech-cohort risk-off day evidences KKR's higher-than-expected rate-regime beta (PE-multiple-compression risk + capital-rotation-to-fixed-income on rate-hike threat). **Wait for post-PCE clarity.** If PCE cool → KKR add re-opens via path (a). If PCE hot → defer to next week post-FOMC re-read. |
+| MSFT | Q3 FY26 +18%, Azure +40%, AI run rate $37B | 18% / 40% Azure | Switching costs; scale | Strong Buy; PT ~$560 | **Bench** — re-introduces AI-mega-cap cohort exposure into the active sell-the-AI regime; lesson #5 cap discipline disqualifies this week. |
+| NOW | Q1'26 sub rev +22%; FY26 guide $15.7B (+21%) | 22% | Switching costs; platform | Strong Buy | **Skip** — AI-cohort beta; momentum-chase risk; lesson #5 disqualifier this regime. |
+| COST | Q3 FY26 rev +12% | 12% — **below 15% bar** | Membership; scale | Mixed | **Skip** — fails growth bar. |
+
+### Existing Position Notes
+
+| Symbol | News (since 6/22) | Thesis Still Valid? | Action |
+|--------|-------------------|---------------------|--------|
+| **LLY** | **Centessa Pharmaceuticals acquisition closes TODAY** (UK court-approved $7.8B; $38/share + up to $9 CVRs) — pipeline-expansion deal closing on schedule, executes inorganic-growth narrative cleanly. **Europe/UK weight-loss-pill launch H2 2026 / early 2027** announced — out-of-pocket telehealth distribution while pursuing public reimbursement (incremental geographic expansion of GLP-1 franchise). **Stock OP'd Tue's selloff** (+0.42% on SPY −1.32%); HWM $1,182.73 unchanged (close still ~6.3% below ATH). Pharma defensive bid working as expected on risk-off + rate-hike-note tape. | Yes — fundamentals continue to strengthen; closing-day Centessa adds genomic-pipeline diversification; Europe weight-loss launch adds geographic growth optionality. Pre-catalyst-hold + post-confirmed-beat-hold lessons both still operative. | **Hold; trailing stop manages downside.** Stop $1,064.457 (cushion **~3.91%** at Tue close $1,107.83; locks +7.27% realized if hit). HWM ratchet potential if today's print or PCE-day rally pushes above $1,182.73. **Today's pharma defensive bid is the right regime** for LLY to OP again. |
+| **ISRG** | **Mid-week update:** **Force-feedback cardiac-surgery trial** (announced 6/18) — sharpens robotic-cardiac-surgery edge vs Medtronic Hugo competitive threat (modest positive). **BofA cut PT $520 → $515** (6/12; carried since but now in context). **Stock OP'd Tue's selloff** (+0.06% on SPY −1.32% / Tech −4.13%) — **diversifier thesis textbook-validated on AI-cohort-specific risk-off** (lesson #4 confirmed live AGAIN). FDA Class I recall + Deutsche bear + Medtronic Hugo overhangs all carry but did not pressure tape on the day-specific cohort regime. **YTD −28.9%**; **Q1 procedure growth 17% YoY** sustained; **2026 procedure growth outlook raised**. | Diversifier thesis intact and **strengthened by Tue's price action** — ISRG behaved exactly as the non-AI-cohort diversifier mandate requires on the right risk regime. Fundamental overhangs (FDA, competitive) unchanged. **Force-feedback trial = small positive catalyst layer.** | **Hold but tight watch.** Stop $387.765; cushion **~3.83%** at Tue close — thinnest in book. **Mid-day >7% intraday cut rule armed for today and especially tomorrow PCE-day.** Both June catalysts (da Vinci 5 + Japan reimbursement) ostensibly live but no positive headlines on either since the Citi 6/10 upgrade. Next earnings July 16. |
+
+### Stop-Cushion Snapshot (Pre-Open Wed 6/24)
+- **ISRG** — cushion **~3.83%** at $403.22 vs stop $387.765. **Thinnest in book.** Lesson #1 framework actively monitored — but Tue's diversifier-validation softens the lesson-#1 trim consideration (the thesis is working on cohort-risk-off, which is exactly what PCE-day would create if it prints hot).
+- **LLY** — cushion **~3.91%** at $1,107.83 vs stop $1,064.457. Improved from 6/22's 3.41% on Tue's pharma defensive bid. Lesson #3 (post-confirmed-beat-hold) dominates; cushion margin still in lesson-#1 attention range.
+- **Both cushions sub-4%** = first time in book history book carries this risk-cluster across a binary macro event (PCE Thu).
+
+### Plan for Today's Open (Wed 6/24) — Pre-PCE Posture
+- **9:30 AM open print:** Gap-risk check on both positions. ISRG more exposed to AI-cohort follow-through; LLY pharma defensive bid likely supportive. Verify 2 trailing stops live & GTC at trade routine.
+- **NO new adds today** regardless of tape direction — pre-PCE binary discipline:
+  - **(a) Tape rallies / risk-on relief from Tue's selloff** → still defer; chasing a relief bounce into PCE binary is the opposite of the dry-powder-discipline rule (per existing FOMC-week framework, similarly applied).
+  - **(b) Tape sells through / extends Tue's risk-off** → still defer; trailing stops manage downside, don't add risk into a worsening tape pre-binary.
+  - **(c) Hot semis reaction to MU AC tonight** → tape-read only; no action.
+- **Mid-day guardrail check armed:** cut anything down >7% intraday; daily-loss cap **$96,379.36**. ISRG most exposed if AI-cohort selling resumes. LLY most exposed to long-duration pharma drag if rate-hike-note narrative deepens.
+- **Cash floor (≥20%) check:** 91.88% cash now. No add today preserves dry powder for post-PCE deployment Thu/Fri.
+- **MU AC earnings (today)** — tape-read for AI-infra cohort sentiment into Thu open; relevant for ISRG cushion-management read but not single-name exposure.
+- **JEF AC earnings (today)** — financials/alt-management read; relevant for refining the KKR-rate-sensitivity thesis post-Tue's evidence.
+
+### Refreshed Diversifier-Add Decision Tree for Thu 6/25 (Post-PCE 8:30 AM ET)
+- **(a) PCE in-line/cool** (headline ≤+0.5% m/m AND core ≤+0.3% m/m, both consensus) AND 10Y holds ≤4.55% → **Buy V ~$3,500 (~11 sh @ ~$330) mid-morning Thu (target window 10:30 AM–12:00 PM ET).** V over KKR per Tue's rate-regime-beta evidence (V less rate-sensitive). Records 1st buy of week 6 (1/3).
+- **(b) PCE BELOW consensus** (headline ≤+0.4% m/m AND core ≤+0.2% m/m) → **Strong execution signal:** buy V + reconsider KKR as a 2nd add later in week (rate-hike narrative softens; alt-asset case re-opens). Cap 2 of 3 max this week.
+- **(c) PCE hot core** (core ≥+0.4% m/m OR headline ≥+0.6% m/m) → **Defer all adds; reassess Mon 6/29** (next week). Hot core compounds BofA "3 rate hikes" note + FOMC dot-plot → broad risk-off and rate-sensitive names (KKR, LLY) hit hardest. **Watch ISRG cushion specifically** — broad-asset risk-off (per lesson #4 caveat) is the regime where diversifier doesn't hold.
+- **(d) PCE in-line but ISRG cushion compresses below 2% intraday before 10:30 AM ET** → **Pause adds, focus on ISRG discretionary-trim consideration per lesson #1.**
+- **No 3rd add this week** under any path — cap 2 of 3 max; preserve dry powder for end-of-quarter (6/30 quarter-end rebalance flows) and into July FOMC 7/28–7/29.
+
+### Thesis Notes / Read Heading Into PCE
+- **The book is finally working as designed.** WTD +1.78pp OP through Tue — best 2-day OP run since launch — on a SPY −1.76% week. All three structural levers (lesson #2 cash-cushion-as-cushion + lesson #4 diversifier-thesis-proves-out-on-AI-cohort-risk-off + lesson #5 zero-mega-cap-AI-exposure) confirmed live together for the first time. The KKR-add-not-executed Mon turns out to have been right-sized in hindsight given Tue's −3.51% KKR drop (would have been 2-day mark-to-market −$130 instantly).
+- **The hawkish regime is real and intensifying.** BofA "3 rate hikes" note + FOMC no-cut dot-plot + hot PPI 6/11 + Tue's global tech rout = the post-Fed regime is consolidating around "Warsh = serious hawk; pricing in tightening, not easing." This makes PCE Thu the binary swing event — cool core would relieve some pressure; hot core would crystalize a multi-week hawkish bear regime.
+- **KKR thesis was overstated.** Prior framing ("alt-asset/financial cyclical = post-hawkish-Fed favored cohort") was wrong — KKR's beta to a "rate hikes coming" narrative is HIGH (PE multiple compression on portfolio companies + capital-rotation-out-of-alts). Tue −3.51% on a SPY −1.32% day = 2.66× beta to the broader index on that single regime read. V is the better diversifier for this specific regime: payments duopoly is largely rate-agnostic; the AI-rails optionality (OpenAI agentic + stablecoin platform) is the rare clean angle on AI monetization without AI-cohort beta. **Pre-trade plan revised: V is the primary diversifier candidate post-PCE.**
+- **ISRG's Tue behavior is the strongest single piece of diversifier-validation evidence since launch.** +0.06% on Tech −4.13% on the AI-cohort-specific selloff day is exactly what lesson #4 was written to capture. The FDA Class I recall + Deutsche bear + competitive narrative are all live but not cushion-pressure events on this specific regime. Lesson #1 trim consideration eased — the thesis is delivering.
+- **LLY's Tue behavior validates the pharma-defensive thesis on rate-hike-note risk-off.** +0.42% on SPY −1.32% = inverse beta on the day. Centessa close + Europe pill launch incremental adds. Pre-catalyst-hold + post-confirmed-beat-hold dominate; cushion at 3.91% remains in lesson-#1 attention range but the regime-specific behavior supports holding through the trailing stop.
+- **Cumulative since launch (4 wks done + week 5 + week 6 days 1-2):** portfolio **−0.64%** (from $100k to $99,360.17) vs SPY $739.17 → $733.62 = **−0.75%** → **+0.11pp cumulative OP** (CROSSED INTO CUMULATIVE OP for first time since 6/11). Closed the entire −1.66pp deficit over a 3-day window through structural cash-cushion behavior on the right regime. **Continuation of OP path runs through:** (i) holding both cushions through PCE binary, (ii) executing V add post-cool-PCE on Thu (or staying flat if hot), (iii) ISRG diversifier continuing to validate on any AI-cohort-specific risk-off, (iv) LLY HWM ratchet on any pharma defensive bid extension.
+
+### Pre-Thursday Decision Queue
+- (1) **Today 9:30 AM open** — gap-risk check both positions; verify trailing stops live & GTC at trade routine.
+- (2) **Today mid-day guardrail check** — >7% intraday rule on both; daily-loss cap $96,379.36.
+- (3) **Today AC: MU print** — AI-infra cohort tape-read for ISRG into Thu open.
+- (4) **Today AC: JEF print** — alt-asset/financial-services tape-read for KKR thesis refinement.
+- (5) **Thu 6/25 8:30 AM ET PCE/Core PCE** — binary swing event; apply refreshed decision tree (a/b/c/d).
+- (6) **Thu mid-day window 10:30 AM–12:00 PM ET** — V add execution gate if PCE cool.
+- (7) **Fri 6/26 quarter-end-rebalance flows** — secondary tape signal; light data day otherwise.
+
+---
