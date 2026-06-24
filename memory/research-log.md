@@ -1462,3 +1462,46 @@ Per Alpaca portfolio_history + bars + WebSearch:
 - (7) **Fri 6/26 quarter-end-rebalance flows** — secondary tape signal; light data day otherwise.
 
 ---
+
+## Tomorrow's Watch — 2026-06-25 (Thursday — PCE Day, the binary event of the week)
+
+### Day Recap (Wed 6/24)
+- Portfolio $99,360.17 → $99,386.90 = **+0.027% day** on SPY $733.62 → $732.42 = **−0.164% day** → **+0.19pp vs SPY (OP)** — 3rd consecutive OP day this week. WTD scoreboard: portfolio +0.05% vs SPY −1.92% = **+1.97pp WTD OP through Wed close** (best 3-day OP run since launch). Cumulative since launch: portfolio −0.613% vs SPY −0.913% = **+0.30pp cumulative OP** (extended from +0.11pp Tue).
+- No trades today; pre-PCE binary discipline held. Cash 91.87%; 0 of 3 buy slots used this week.
+- LLY +0.74% to $1,115.225 — new P&L high since launch +$491.48; cushion 4.55% (up from 4.28%); HWM unchanged $1,182.73.
+- ISRG −0.16% to $402.53 — cushion 3.67% (up from 3.54%); HWM unchanged $430.85.
+
+### Positions to Monitor
+- **ISRG** — $402.53 close (−5.32% from entry, thinnest cushion at ~3.67%). PCE-day exposure: if hot core PCE compounds the hawkish-Fed regime AND triggers a broad-asset risk-off (not AI-cohort-specific), per lesson #4 caveat the diversifier thesis does NOT hold on broad de-risking days (same one-day-correlated-weakness pattern as 6/2 and 6/10). **Mid-day >7% intraday cut rule armed for PCE-day specifically.** If ISRG cushion compresses below 2% intraday before 10:30 AM ET → trigger decision-tree path (d): pause V add, focus on ISRG discretionary-trim per lesson #1.
+- **LLY** — $1,115.225 close (+12.38% from entry, cushion ~4.55%). PCE-day exposure: hot core PCE deepens long-duration pharma rate-regime drag; cool PCE relieves it. Pre-catalyst-hold + post-confirmed-beat-hold lessons dominate; trailing stop manages downside. HWM ratchet potential if Thursday relief rally on cool PCE pushes above $1,182.73 intraday.
+
+### Macro Events Tomorrow (Thu 6/25)
+- **8:30 AM ET — PCE / Core PCE / Personal Income & Spending (May)** — **THE binary event of the week.**
+  - Wells Fargo consensus: **headline +0.5% m/m / +4.1% y/y**; **core +0.3% m/m / +3.4% y/y** (+10 bps m/m and +10 bps y/y vs April's +0.2% / +3.3%).
+  - Cool core (≤+0.3% m/m) softens BofA "3 rate hikes" note + FOMC no-cut dot-plot; hot core (≥+0.4% m/m) crystallizes the hawkish bear regime into July FOMC 7/28–7/29.
+- 10:00 AM ET — secondary releases (varies).
+- Earnings AC: NKE (consumer/footwear cyclical read; no book overlap).
+
+### V Add Execution Gate (Decision Tree — armed per research-log 6/24)
+- **(a) PCE in-line/cool** (headline ≤+0.5% m/m AND core ≤+0.3% m/m) AND 10Y holds ≤4.55% → **Buy V ~$3,500 (~11 sh @ ~$330) mid-morning Thu (target window 10:30 AM–12:00 PM ET).** Records 1st buy of week 6 (1/3).
+- **(b) PCE BELOW consensus** (headline ≤+0.4% m/m AND core ≤+0.2% m/m) → **Strong execution:** buy V + reconsider KKR as 2nd add later in week. Cap 2 of 3 max.
+- **(c) PCE hot core** (core ≥+0.4% m/m OR headline ≥+0.6% m/m) → **Defer all adds; reassess Mon 6/29.** Hot core compounds BofA "3 rate hikes" note + FOMC dot-plot → broad risk-off and rate-sensitive names (KKR, LLY) hit hardest. Watch ISRG cushion specifically (broad-asset risk-off is the regime where diversifier doesn't hold per lesson #4 caveat).
+- **(d) PCE in-line but ISRG cushion compresses below 2% intraday before 10:30 AM ET** → **Pause adds, focus on ISRG discretionary-trim consideration per lesson #1.**
+
+### Thesis Notes Based on Today's Price Action
+- **The book continues to work as designed.** Third consecutive OP day on a soft tape extends the structural cash-cushion + diversifier-on-the-right-regime + zero-mega-cap-AI playbook. The Tue +1.45pp OP / Wed +0.19pp OP / 3-day cumulative +1.97pp OP scoreboard confirms the playbook is mature enough to deliver across multiple sub-regimes within a single hawkish-Fed week.
+- **LLY's pharma defensive bid is now a confirmed regime-specific OP signal.** Two consecutive sessions of +0.42% (Tue) and +0.74% (Wed) on broad-to-soft tape on hawkish-Fed-deepening / rate-hike-note risk-off compounds the lesson #3 (post-confirmed-beat-hold) thesis. New P&L high since launch +$491.48 extends the trailing-stop optionality (now locks +7.27% realized if hit). Centessa close + Europe pill launch incremental tailwinds layered today.
+- **ISRG's diversifier behavior was muted but not pressured today** — neither a strong validator (no AI-cohort risk-off today like Tue's −4.13% Tech) nor a stressor (cushion held above 3.5%). The thesis remains book-and-watch heading into PCE; tomorrow's PCE-day tape regime will be the next clean test.
+- **Pre-PCE posture is clean:** 91.87% cash, 0 of 3 slots used, 2 trailing stops live & GTC, ISRG mid-day cut rule armed, LLY HWM ratchet potential. The book is positioned for any of the 4 decision-tree paths; the execution discipline is well-rehearsed.
+- **MU/JEF AC tape-reads tonight** will refine the PCE-day open posture: MU = ISRG-cohort sentiment carry; JEF = KKR-thesis refinement secondary read.
+
+### Pre-Tomorrow Decision Queue
+- (1) **8:30 AM ET PCE/Core PCE print** — apply decision tree (a/b/c/d).
+- (2) **9:30 AM open** — gap-risk check on both positions; verify 2 trailing stops live & GTC at trade routine.
+- (3) **10:30 AM–12:00 PM ET window** — V add execution gate if path (a) or (b) confirmed.
+- (4) **Mid-day guardrail check** — >7% intraday rule on both positions; daily-loss cap tomorrow ~$96,405.30 (= $99,386.90 × 0.97).
+- (5) **ISRG cushion intraday monitor** — sub-2% cushion before 10:30 AM ET triggers decision-tree path (d).
+- (6) **LLY HWM ratchet monitor** — any intraday print >$1,182.73 advances the trailing stop.
+- (7) **NKE AC earnings** — consumer/footwear cyclical tape-read into Fri (secondary).
+
+---
