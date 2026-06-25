@@ -1462,3 +1462,104 @@ Per Alpaca portfolio_history + bars + WebSearch:
 - (7) **Fri 6/26 quarter-end-rebalance flows** — secondary tape signal; light data day otherwise.
 
 ---
+
+## Research — 2026-06-25 (Thursday — PCE day; post-MU-blowout AI-memory-trade reset; Week 6 day 4)
+
+### Market Conditions
+**Regime flip overnight: pre-mkt rallying hard into the binary.** Per CNBC/Yahoo/Schwab, **S&P 500 futures +0.7%; Nasdaq-100 futures +2.1%; Dow futures flat** — opposite of Tue's risk-off regime — driven almost entirely by **MU's blowout AC print Wed 6/24**: Q3 FY26 revenue ~$41.46B **(+346% YoY)**, beat by ~16%; non-GAAP EPS $25.11 (12x YoY beat by 20%); **record 84.9% gross margin**; **16 strategic customer agreements locking in multi-year supply**. **MU +15% AH; JPMorgan PT $550 → $1,540** (~2.8x raise) maintaining OW. **The AI-memory-shortage-through-2027 thesis is now the dominant narrative;** Tue's KOSPI/Samsung/SK Hynix overheating concern fully reversed in 24h. SMH/NVDA/AMD all bidding pre-mkt. **10Y yield direction TBD into 8:30 AM PCE** (was 4.50% Tue close). **Brent <$79 holds** (Iran-peace roadmap intact post Vance-Iran Switzerland mtg Sun; Trump-Hezbollah tail-risk still live but not pricing). **PCE/Core PCE 8:30 AM ET (in ~2.5h from session start) is the binary** — the rally INTO the binary is the risk regime, not the all-clear.
+
+### SPY Reference Price
+Not Monday — no new SPY reference recorded. **Week 6 Start SPY remains $746.74** (Thu 6/18 close carried through Juneteenth). Wed 6/24 close: SPY to be confirmed via Alpaca at session start (Tue 6/23 close was $733.62; Wed had bounce setup post-MU AH but the close was during regular session pre-MU print, so Wed close was likely modestly green on stress-test relief + semi pre-MU positioning).
+
+### Position Count This Week
+**0 of 3 BUY slots used.** Alpaca confirms zero orders since 6/12. **3 buy slots remain for week 6 (6/22–6/26).** Per refreshed plan below: PCE-binary outcome drives execution.
+
+### Account State (Pre-Open Thu 6/25 — to be verified at session start via Alpaca)
+- **Yesterday's pre-open snapshot (6/24 from portfolio.md):** Equity $99,369.18; cash $91,303.23 (91.88%); long MV $8,065.95 (8.12%); 2 trailing stops live & GTC.
+- **Today's daily-loss cap trigger:** to compute at session start as (Wed 6/24 close last_equity) × 0.97.
+- **Daytrade count:** 0; trading not blocked.
+- **2 open trailing stops to re-verify live & GTC at session start:**
+  - ISRG `b271eef3-1027-435e-8818-2c838e0ace9b` — stop **$387.765**, hwm $430.85 (updated_at 6/9 — no ratchet weeks 5–6).
+  - LLY `28f47c51-a223-4698-9fee-867b1c411ce4` — stop **$1,064.457**, hwm $1,182.73 (updated_at 6/8 — no ratchet weeks 5–6).
+
+### Current Positions Snapshot (Pre-Open Thu 6/25 — using last known Wed 6/24 open ref)
+| Symbol | Shares | Avg Entry | Wed 6/24 open | P&L $ | P&L % | Stop | Approx Cushion |
+|--------|--------|-----------|----------------|-------|-------|------|----------------|
+| ISRG | 9 | $425.163 | $401.99 | −$208.56 | **−5.45%** | $387.765 | **~3.54%** |
+| LLY | 4 | $992.355 | $1,112.01 | +$478.62 | **+12.06%** | $1,064.457 | **~4.28%** |
+
+**Both cushions still in lesson-#1 trigger range simultaneously** — refresh at session start for actual pre-mkt prints (today's rally tape should widen both, especially LLY on continued pharma defensive bid; ISRG should bid on broad risk-on but is a non-AI name so beta to the AI-memory-reset rally is lower than the index).
+
+### Earnings This Week — Do Not Buy (remaining)
+- **Wed 6/24 AC (now reported):** MU **blowout** (regime-changing — see Market Conditions); PAYX (in line, no spillover); JEF (in line, no spillover).
+- **Thu 6/25 (today):** ~33 reports — including **BB, AVXL, RR** and 21 others; pre-mkt notable: MKC, WGO; mid-day: COST; post-bell: NKE, BB. **No candidate overlap** with V or KKR watchlist.
+- **Fri 6/26:** ~4 reports — CNVS, XAIR, APOG, +1. **No candidate overlap.**
+- **Candidates checked:** **V clear** (next Q3 late Jul); **KKR clear** (next Q2 early Aug); MSFT/NOW clear (late Jul). **No conflicts on watchlist candidates.**
+
+### Macro Events This Week (Remaining)
+- **TODAY 6/25 8:30 AM ET (CRITICAL — BINARY):** May PCE + Core PCE + Personal Income & Spending. **Dow Jones consensus: headline +0.5% m/m / +4.1% y/y; core +0.3% m/m / +3.4% y/y.** UBS lean: core +0.36% m/m / +3.45% y/y (slightly hot vs consensus). Both prints would be elevations vs April (+0.2% core m/m / +3.3% y/y; +0.4% headline m/m / +3.8% y/y). **FactSet expects headline 4.1% — highest since April 2023.** Morningstar/economists expect May to be the **inflation peak** as lower oil/easing tariff effects curb prices in coming months. **The print is the dominant event of the week** — re-pricing post-FOMC + BofA "3 rate hikes" note.
+- **Also Thu 8:30:** Initial Jobless Claims; Q1'26 GDP final; Durable Goods.
+- **Fri 6/26:** UMich consumer sentiment final (secondary).
+- **No FOMC this month;** next 7/28–7/29.
+
+### Watchlist for Today's Open (cap 0/3 used — 3 slots open) — POST-PCE EXECUTION TARGET
+
+| Symbol | One-Line Thesis | Rev Growth | Moat Type | Analyst Rating | Action |
+|--------|-----------------|------------|-----------|----------------|--------|
+| **V** | Q2 FY26 net rev **+17%** to $11.23B (beat $480M); EPS $3.31 +20%; cross-border vol +12%; **OpenAI agentic-commerce integration** (announced 6/10 Visa Payments Forum SF) — secure tokenized Visa transactions inside OpenAI agents; **$7B annualized stablecoin run rate via VisaNet** (as of March); **$20B buyback**; FY26 guide low-double-digit→low-teens. **Currently ~$326.60, YTD −5.7%** = ~22% upside to mean PT $398.83 | 17% | Duopoly network (V/MA); scale; switching costs; brand; cross-border travel beta — **largely rate-agnostic** vs PE-multiple-compression risk | **Strong Buy** — 36 Buy / 0 Sell; avg PT **$398.83** (high $450 / low $330) | **PRIMARY post-PCE diversifier candidate.** Clear of earnings (Q3 late Jul). Execution gated to **Thu 10:30 AM–12:00 PM ET window if PCE in-line/cool** (decision tree below). Lean ~$3,500 (~11 sh @ ~$330) = ~3.5% position. **The MU-reset rally is not a V-add signal** — V is a non-AI-cohort name; its add thesis is PCE-binary-resolution + payments-duopoly-rate-agnostic, not AI-rally chase. If PCE hot, defer regardless of pre-PCE tape. |
+| **KKR** | Q1'26 rev +39% YoY to $4.32B; AUM **$758B** (+14%); $10B Helix Digital Infra; $1.4B Altavair; $23B record NA PE fund; **YTD −27%** post Tue −3.51% | 39% | Switching costs (10-yr LP locks); scale/brand in alts; ABF scale; Global Atlantic float | **Buy consensus** — Chartmill avg PT **$148.63** (+59%); MarketBeat $125.53; MS OW $153 | **SECONDARY** — Tue's −3.51% on a hawkish-rate tech-cohort risk-off day evidenced higher-than-expected rate-regime beta. Wait for post-PCE clarity. If PCE BELOW consensus → re-open as a 2nd add candidate later in week. If PCE hot → defer to next week post-FOMC re-read. **NOT today's primary path.** |
+| MSFT | Q3 FY26 +18%, Azure +40%, AI run rate $37B | 18% / 40% Azure | Switching costs; scale | Strong Buy; PT ~$560 | **Bench** — even on the MU-rally regime, lesson #5 (cap mega-cap-AI at ≤3 names, ≤15% combined) argues against re-introducing AI-mega-cap exposure as the very first diversifier add. V over MSFT for diversification. |
+| NOW | Q1'26 sub rev +22%; FY26 guide $15.7B (+21%) | 22% | Switching costs; platform | Strong Buy | **Skip** — AI-cohort beta; momentum-chase risk into MU-reset rally; lesson #5 disqualifier. |
+| COST | Q3 FY26 rev +12% | 12% — **below 15% bar** | Membership; scale | Mixed | **Skip** — fails growth bar. Reports today mid-day, also earnings-restricted. |
+
+### Existing Position Notes
+
+| Symbol | News (since 6/24) | Thesis Still Valid? | Action |
+|--------|-------------------|---------------------|--------|
+| **LLY** | **Centessa Pharmaceuticals $7.8B acquisition CLOSED Wed 6/24** as scheduled — pipeline expansion executed on schedule. **4E Therapeutics acquired Mon 6/16** (non-opioid pain) — additional pipeline diversification not previously in memory. Retatrutide Phase 3 multi-indication continuing to validate; FDA submission still "by year-end." 31 analyst rec (6 SB / 18 B / 5 H); avg PT **$1,218.72**. Continuing pharma defensive bid environment. | Yes — fundamentals continue strengthening; two pipeline-deal closes in 8 days (4E + Centessa) is unusually fast inorganic-growth cadence. Pre-catalyst-hold + post-confirmed-beat-hold both operative. | **Hold; trailing stop manages downside.** Stop $1,064.457 (locks +7.27% realized if hit). HWM ratchet potential if today's pre-mkt rally extends LLY through $1,182.73 intraday (currently ~6.0% below ATH). **The MU-rally rotation INTO AI-cohort could weaken pharma defensive bid temporarily** — watch for LLY drift down on the rotation; lesson-#1 cushion attention range still holds. |
+| **ISRG** | New CCMO Taylor Patton effective **7/1** (carried positive); **2026 da Vinci procedure growth guidance raised to 13.5–15.5%** (Q1'26 +23% rev, 17% procedure growth sustained); FDA Class I recall + Da Vinci S/Si recall + Deutsche PT cut $440 + Medtronic Hugo / China competition overhangs all carry. **YTD −28.9%** going into today. Force-feedback cardiac-surgery trial (6/18) carry. | Diversifier thesis intact. **Caveat for today's MU-rally regime:** ISRG is a non-AI name — beta to the AI-memory-reset rally is structurally low. Expect ISRG to underperform on a broad-risk-on AI-led rally day (lesson #2 reverse: cash-cushion + non-AI diversifier UND on UP-tape AI-rally), but to **OP again on any post-PCE hot-print AI-cohort risk-off reversal**. Fundamental overhangs unchanged. | **Hold but tight watch.** Stop $387.765; cushion **~3.54%** at Wed open — thinnest in book. **Mid-day >7% intraday cut rule armed today; especially relevant if PCE hot triggers reversal of the MU-rally and ISRG-cohort doesn't catch defensive bid** (broad-asset risk-off per lesson #4 caveat is where diversifier doesn't hold). Next earnings July 16. |
+
+### Stop-Cushion Snapshot (Pre-Open Thu 6/25, using Wed 6/24 open ref — refresh at session start)
+- **ISRG** — cushion **~3.54%** at $401.99 vs stop $387.765. **Thinnest in book.** Lesson #1 framework actively monitored.
+- **LLY** — cushion **~4.28%** at $1,112.01 vs stop $1,064.457. Improved from 6/22's 3.41% on continued pharma defensive bid Mon–Wed. Lesson #3 (post-confirmed-beat-hold) dominates.
+- **Both cushions sub-5%** going into PCE binary. **Pre-mkt rally should widen both modestly** (LLY broadly via risk-on but tempered by rotation-out-of-defensives; ISRG modestly via beta to broad index).
+
+### Plan for Today's Open (Thu 6/25) — Pre-PCE Posture; Post-PCE Execution Gate
+
+**Pre-PCE (9:30 AM → 8:30 AM block — note: PCE drops PRE-OPEN at 8:30 AM ET, so today's open already prices the print):**
+- **The pre-PCE rally setup is NOT a green light to add.** The MU-blowout rally is real but PCE is the **regulatory-rate event** — if core comes in hot (≥+0.4% m/m), the rally will reverse hard regardless of MU.
+- **9:30 AM open print:** Gap-risk check on both positions. Verify both trailing stops live & GTC. The rally tape should be supportive of book cushions.
+- **NO new adds at the open** regardless of pre-mkt rally direction — pre-PCE binary discipline holds. Today's open is already a **post-PCE-reaction tape**, not a pre-PCE setup.
+
+**Post-PCE Decision Tree (refreshed for actual print direction):**
+
+- **(a) PCE in-line/cool** (headline ≤+0.5% m/m AND core ≤+0.3% m/m, both consensus) AND 10Y holds ≤4.55% → **Buy V ~$3,500 (~11 sh @ ~$330) mid-morning (target window 10:30 AM–12:00 PM ET).** Records 1st buy of week 6 (1/3). Place 10% trailing stop immediately. **The MU-rally + cool-PCE combo = best execution backdrop possible.**
+- **(b) PCE BELOW consensus** (headline ≤+0.4% m/m AND core ≤+0.2% m/m) → **Strong execution signal:** Buy V AND consider KKR as a 2nd add later in week (rate-hike narrative softens; alt-asset case re-opens). Cap 2 of 3 max this week. Move KKR add to Fri morning if conditions confirm.
+- **(c) PCE in-line core but BofA "3 rate hikes" narrative weakening from a soft GDP/jobless print** → **Buy V, watch tape for late-day reversal risk.** Hold KKR for next week.
+- **(d) PCE hot core** (core ≥+0.4% m/m OR headline ≥+0.6% m/m) → **Defer all adds; reassess Mon 6/29.** Hot core compounds the BofA "3 rate hikes" thesis; the MU-rally will likely reverse, AI-cohort gives back gains; defensives (LLY) catch defensive bid; KKR/V both vulnerable to rate-regime drag. **Watch ISRG cushion specifically** — broad-asset risk-off is the regime where diversifier doesn't hold (lesson #4 caveat).
+- **(e) PCE in-line but ISRG cushion compresses below 2% intraday before 10:30 AM ET** → **Pause adds, focus on ISRG discretionary-trim consideration per lesson #1.**
+
+**No 3rd add this week** under any path — cap at 2 of 3 max; preserve dry powder for end-of-quarter (6/30 rebalance flows) + July FOMC 7/28–7/29.
+
+**Mid-day guardrail check armed:** cut anything down >7% intraday. Daily-loss cap computed at session start as last_equity × 0.97. **Today is the day cushion-math is most exposed if PCE prints hot and the MU-rally reverses simultaneously** — both positions could see drawdown on the regime-flip.
+
+**Cash floor (≥20%) check:** 91.88% cash. One V add (~$3,500) → ~88.4% cash, well above floor in all paths.
+
+### Thesis Notes / Read Heading Into PCE
+- **The MU blowout fundamentally reframes the AI-cohort thesis but does NOT change the PCE-binary thesis.** Yesterday's pre-PCE "defer all adds" call still stands today because the regulatory-rate event is the dominant variable: a hot core PCE will trigger an AI-cohort give-back regardless of MU's standalone print. Don't conflate the two regime drivers.
+- **JPMorgan's $550 → $1,540 PT raise on MU is a 2.8x revision** — that magnitude of analyst revision suggests the AI-memory-shortage-through-2027 narrative is now consensus. Implication: **Tue's KOSPI/Samsung/SK Hynix "overheating" thesis was a 24h headfake**; the AI-infra capex cycle is intact. **This weakens but does not eliminate the lesson #5 "mega-cap-AI concentration tail risk" framework** — the cohort can still reverse on data events (PCE Thu, NFP next week, FOMC late July).
+- **V is structurally the right diversifier add post-cool-PCE** because: (a) duopoly network is largely rate-agnostic (vs KKR's high PE-multiple-compression beta evidenced Tue −3.51%); (b) OpenAI agentic-commerce + $7B stablecoin run rate = clean AI-monetization angle without AI-cohort beta; (c) YTD −5.7% offers entry edge vs lifetime highs; (d) Q3 earnings late Jul = full runway. KKR remains alive on the deep-value YTD −27% case but the rate-regime-beta evidence demotes it to next-week candidate at earliest.
+- **The cushion-math risk today is real.** Both LLY (~4.28%) and ISRG (~3.54%) sub-5% going into a binary macro event = first time book has carried this risk-cluster across PCE. Hot core PCE → broad risk-off → both cushions compressed simultaneously. Trailing stops manage the downside (lesson #3); discretionary trim is on the table only if ISRG opens down >3% intraday (path (e)).
+- **Pre-PCE rally is the highest-conviction "do not add at open" signal of the week.** Chasing a relief bounce INTO a binary event is the textbook violation of dry-powder discipline. The MU-rally has already been priced — adding into it pre-PCE captures the upside risk while exposing to the full downside if PCE hot.
+- **Cumulative since launch (4 wks done + week 5 + week 6 days 1-3):** through Wed 6/24 open: portfolio −0.63% vs SPY −0.75% = **+0.12pp cumulative OP** (carried over from 6/24's CROSSED-INTO-OP mark). The OP path continues to run through: (i) holding both cushions through PCE binary, (ii) executing V add post-cool-PCE on Thu (or staying flat if hot), (iii) ISRG diversifier continuing to validate on any AI-cohort-specific risk-off, (iv) LLY HWM ratchet on any pharma defensive bid extension, (v) cash-cushion structural OP on any risk-off regime.
+
+### Pre-Tomorrow Decision Queue
+- (1) **Today 9:30 AM open** — gap-risk check both positions; verify trailing stops live & GTC at trade routine; capture today's Day Open Value and compute daily-loss cap trigger.
+- (2) **Today PCE PRINT 8:30 AM ET** (pre-open) — apply decision tree paths (a/b/c/d/e). Most likely paths given consensus: (a) in-line → V add at 10:30–12:00 ET; (d) hot → defer all adds.
+- (3) **Today mid-day window 10:30 AM–12:00 PM ET** — V add execution gate if PCE in-line/cool.
+- (4) **Today mid-day guardrail check** — >7% intraday rule on both positions.
+- (5) **Today post-bell NKE earnings** — consumer-discretionary tape-read into Fri.
+- (6) **Fri 6/26 quarter-end-rebalance flows** + UMich sentiment — secondary tape signals; potential KKR add gate if PCE was deeply cool (path (b)).
+- (7) **Mon 6/29** — Week 7 day 1; post-PCE digestion; refresh KKR re-add evaluation if Thu-Fri deferred.
+
+---
