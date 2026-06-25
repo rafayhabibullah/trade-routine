@@ -1563,3 +1563,39 @@ Not Monday — no new SPY reference recorded. **Week 6 Start SPY remains $746.74
 - (7) **Mon 6/29** — Week 7 day 1; post-PCE digestion; refresh KKR re-add evaluation if Thu-Fri deferred.
 
 ---
+
+## Tomorrow's Watch — 2026-06-26 (Friday, Week 6 day 5; post-PCE digestion; quarter-end-rebalance flows; UMich sentiment final)
+
+### Positions to Monitor
+- **ISRG — PRIMARY ATTENTION POSITION** — closed $399.69 (−5.99% from entry, fresh post-launch low). Stop $387.765, **cushion ~2.98% — CROSSED BELOW 3% INTO LESSON-#1 DANGER ZONE.** $11.93/sh from auto-stop. Did NOT catch the post-PCE defensive bid that LLY caught — within-diversifier divergence (pharma bid, medtech didn't). Pre-Fri decision queue: (a) hold the stop into Fri's quarter-end-rebalance + UMich tape, (b) discretionary trim BEFORE the auto-stop trips (manual now at $399.69 = ~−6.0% realized vs auto-stop at $387.765 = ~−8.8% realized; saves ~2.8pp vs the cohort-lag + thin-cushion + far-from-catalyst pattern that took GOOGL/AMZN/META), or (c) wait for any Fri AI-cohort-specific risk-off to test the diversifier thesis one more time. **Fundamental thesis (surgical-robotics monopoly, 23% rev growth, 11,395 installed base, +13.5–15.5% procedure guide) remains intact**, but the cohort price action keeps not delivering. **Mid-day >7% intraday cut rule armed; gap-down >2% at open also re-arms the lesson-#1 discretionary trim discussion.** Material negative cluster persists (FDA Class I recall, Da Vinci S/Si recall, Deutsche PT cut $440, Medtronic Hugo / China competition, YTD −29.3%). Next earnings July 16 — far catalyst.
+- **LLY — CARRIER OF BOOK PERFORMANCE** — closed $1,130.27 (+13.90% from entry; **new P&L high since launch +$551.66**). Stop $1,064.457 (cushion ~5.82%, improved from 4.28% Wed open). HWM $1,182.73 unchanged (~4.4% below ATH). Centessa $7.8B closed 6/24; 4E Therapeutics 6/16 close; two pipeline-deal closes in 8 days. **Pharma-defensive-bid thesis textbook-validated again today on slightly-hot y/y core PCE.** Lesson #3 (post-confirmed-beat-hold) dominates. HWM ratchet potential if Fri tape extends LLY through $1,182.73 (would need +4.65% intraday — unlikely on a quarter-end-rebalance/UMich day, but possible on any pharma re-rating headline). Stop locks +7.27% realized if hit.
+
+### Macro Events Friday 6/26
+- **UMich Consumer Sentiment (Final) for June** — secondary tape signal; watch the inflation-expectations sub-component for any post-PCE re-rating risk (could reinforce BofA "3 rate hikes" thesis if 5–10yr expectations tick higher).
+- **Quarter-end-rebalance flows** — late-day (last 30–60 min) often sees mechanical flows that can swing tape direction without fundamental basis. Watch for late-day reversal risk on either name.
+- **No FOMC; next 7/28–7/29** — Warsh's second meeting; market priced for hold per BofA dot-plot read.
+- **No Fed speak scheduled.**
+
+### Earnings This Week — Do Not Buy (remaining)
+- **Fri 6/26:** ~4 reports — CNVS, XAIR, APOG, +1. **No candidate overlap.** All small-cap; no candidate-watchlist conflicts.
+- **NKE post-bell tonight (Thu 6/25) → tape-read into Fri open** — consumer-discretionary read; not a position-impact but could swing broader sentiment.
+
+### Position Count This Week
+**0 of 3 buy slots used.** Week 6 closes Friday. **Tomorrow's add candidates:** none active. V deferred to next week post-PCE digestion (path (e) trumped path (a) borderline today); KKR remains demoted to next-week-at-earliest. **The week is structurally closing at 0 adds for the second consecutive week — dry powder preserved at 91.83% cash entering a quarter-end + Week 7 setup.**
+
+### Thesis Notes Based on Today's Price Action
+- **The PCE-binary resolved into the "neither cool nor hot" intermediate state** — m/m matched consensus on both headline and core, but y/y core ticked above consensus by 10bp (+3.4% vs +3.3%). This is exactly the kind of borderline print that argues against either aggressive deployment (V add) or aggressive de-risking (full trim). Path (e) discretionary deferral on V add was the right call: ISRG cushion compression into the danger zone made the cushion-math risk untenable for adding a 3rd cushion-vulnerable position into Fri's quarter-end flow chop.
+- **Within-diversifier divergence is the new lesson:** ISRG (medtech) and LLY (pharma) are both "non-AI diversifier" cushions, but on today's slightly-hot-y/y-core PCE post-print regime, only the pharma defensive bid materialized. Medtech did not catch the same bid despite a similar non-AI low-correlation profile. **Sub-lesson:** the "defensive bid on hot inflation" thesis is specifically a pharma/staples thesis, NOT a generic non-AI-diversifier thesis. ISRG's diversifier thesis runs on AI-cohort-specific risk-off (lesson #4), NOT on broad inflation-fear risk-off. Today's tape was the latter, not the former.
+- **WTD strongly OP, but cumulative back to slight UND:** WTD +1.37pp through Thu close = best WTD OP run since launch. But cumulative dipped from Wed's brief +0.11pp OP cross to today's −0.31pp UND because Wed's +0.54% SPY rally caught the cash-cushion low-beta on the wrong side. **The structural narrative still holds:** OP weeks (week 3 +1.91pp, current WTD +1.37pp) materially exceed UND weeks (weeks 1/2 −0.71/−1.29pp); the cumulative trajectory is converging. **Lesson #2 acceptable trade-off remains intact.**
+- **Friday is a low-event tape with high-attention single-position risk (ISRG).** The decision queue for Fri is dominated by ISRG cushion management, NOT macro positioning. UMich is a sentiment tertiary input; quarter-end flows are mechanical noise; no Fed events; light earnings. **Plan for Fri = position-management day, not macro-positioning day.**
+- **No add candidates active for Fri.** V is structurally still the right post-cool-PCE diversifier candidate, but the cool-PCE condition was not met. KKR remains demoted to next-week-at-earliest pending FOMC re-read. Discipline: do not chase the lack of execution into a forced add on a low-conviction setup.
+
+### Pre-Friday Decision Queue
+- (1) **Tomorrow 9:30 AM open** — gap-risk check on ISRG specifically (any gap-down >2% re-arms lesson-#1 discretionary-trim discussion). Verify both trailing stops live & GTC. Capture Day Open Value and compute daily-loss cap trigger.
+- (2) **Tomorrow 10:00 AM ET — UMich Final June** — secondary tape signal; watch inflation expectations sub-component.
+- (3) **Tomorrow mid-day window 11:30 AM–1:30 PM ET** — discretionary ISRG trim decision if cushion compresses further; mid-day >7% intraday cut rule armed.
+- (4) **Tomorrow 3:00–4:00 PM ET — quarter-end-rebalance flows** — late-day swing risk; watch for any LLY HWM ratchet attempt via pharma re-rating; ISRG end-of-day print = the week-close cushion mark.
+- (5) **Tomorrow 4:00 PM ET — Week 6 close + weekly review trigger** — record Week 6 final WTD vs SPY; reset weekly counters; lesson-update candidates: within-diversifier divergence (medtech vs pharma on inflation-fear-risk-off), path-(e) discretionary deferral validation (or invalidation).
+- (6) **Mon 6/29 — Week 7 day 1** — fresh new-positions cap 0/3; refresh V add evaluation; refresh KKR re-add evaluation; quarter-end-rebalance digestion; pre-July-FOMC posture begins.
+
+---
