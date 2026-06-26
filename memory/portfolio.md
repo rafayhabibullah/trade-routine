@@ -1,30 +1,49 @@
 # Portfolio
 
-**Last Updated:** 2026-06-25 (market close routine — Thursday, Week 6 day 4; PCE day; in-line m/m / slightly hot y/y core; no V add executed; ISRG cushion compressed to 2.98% — lesson-#1 cushion <3% trigger crossed)
+**Last Updated:** 2026-06-26 (market open routine — Friday, Week 6 day 5; post-PCE digestion; quarter-end-rebalance day; UMich Final June; position-management day; ISRG gap-up out of <3% danger zone to ~3.35% cushion; no trades)
 **Account:** Alpaca Paper Trading
 **Endpoint:** https://paper-api.alpaca.markets
 
 ## Account Summary
 - Cash: $91,303.23
-- Total Portfolio Value (6/25 close, live): **$99,421.52**
-- Invested (long_market_value): $8,118.29 (8.17%)
-- Cash Reserve: $91,303.23 (91.83%)
-- **Day Open Value (6/25):** **$99,388.74** (Alpaca last_equity = Wed 6/24 close). Daily-loss cap (−3%) trigger today: **$96,406.88** — NOT triggered.
+- Total Portfolio Value (6/26 pre-mkt/open live): **$99,440.58**
+- Invested (long_market_value): $8,137.35 (8.18%)
+- Cash Reserve: $91,303.23 (91.82%)
+- **Day Open Value (6/26):** **$99,411.20** (Alpaca last_equity = Thu 6/25 close). Daily-loss cap (−3%) trigger today: **$96,428.86** — NOT triggered.
 - **Week Start Value (Mon 6/22):** **$99,338.75** (week 6 day 1).
 - **Week Start SPY (Mon 6/22):** **$746.74** (Thu 6/18 close carried through Juneteenth Fri 6/19 holiday).
-- **WTD vs week-start ($99,338.75):** portfolio **+0.083% WTD** vs SPY **−1.283% WTD** ($746.74 → $737.16 close Thu) = **+1.37pp WTD OP through Thu close** — **best WTD OP streak since launch.**
-- New positions this week (6/22–6/26): **0 of 3** (3 slots open — Fri 6/26 is final day; only KKR-path-(b) deep-cool-PCE re-open survives, and PCE was NOT deep-cool, so effectively the week closes at 0 adds tomorrow).
+- **WTD vs week-start ($99,338.75) — pre-open Fri:** portfolio **+0.103% WTD** vs SPY **−1.283% WTD** ($746.74 → $737.16 Thu close) = **+1.39pp WTD OP entering Fri open** — **continues best WTD OP run since launch.**
+- New positions this week (6/22–6/26): **0 of 3** (Fri 6/26 is final day; no active add candidates today; week closes at 0 adds — second consecutive week).
 - Closed positions this week: **0**.
 - Daytrade count: 0; trading not blocked.
 
-## Open Positions (6/25 close, live)
+## Open Positions (6/26 open, live)
 
 | Symbol | Shares | Avg Entry | Current Price | Market Value | Total P&L $ | Total P&L % | Day Change | Trailing Stop |
 |--------|--------|-----------|---------------|--------------|-------------|-------------|------------|---------------|
-| ISRG | 9 | $425.163 | $399.69 | $3,597.21 | −$229.26 | **−5.99%** | −0.53% | 10% trail (hwm $430.85 → stop $387.765, **~2.98% cushion** — **CROSSED INTO LESSON-#1 DANGER ZONE <3%**; compressed from 3.54% Wed open as ISRG did NOT catch the post-PCE defensive bid (LLY did); FDA Class I recall + Da Vinci S/Si recall + Deutsche PT cut $440 + Medtronic Hugo / China competition overhangs persist; YTD now −29.3%) |
-| LLY | 4 | $992.355 | $1,130.27 | $4,521.08 | +$551.66 | **+13.90%** | +1.16% | 10% trail (hwm $1,182.73 → stop $1,064.457, **~5.82% cushion** — improved from 4.28% Wed open on textbook pharma defensive bid into slightly-hot PCE; **new P&L high since launch +$551.66**; Centessa $7.8B close 6/24 executed; Europe weight-loss pill launch H2 2026; retatrutide Phase 3 confirmed-beat thesis intact; FDA submission "by year-end" = far catalyst; locks +7.27% realized if hit) |
+| ISRG | 9 | $425.163 | $401.19 | $3,610.71 | −$215.76 | **−5.64%** | +0.375% | 10% trail (hwm $430.85 → stop $387.765, **~3.35% cushion** — **EXITED <3% danger zone** on modest gap-up from $399.69 lastday close; lesson-#1 trim discussion eased relative to Thu but cushion still thinnest in book; FDA Class I recall + Da Vinci S/Si recall + Deutsche PT cut $440 + Medtronic Hugo / China competition overhangs persist; Goldman 6/25 fundamentals backing noted; next earnings Jul 16 = far catalyst) |
+| LLY | 4 | $992.355 | $1,131.66 | $4,526.64 | +$557.22 | **+14.04%** | +0.352% | 10% trail (hwm $1,182.73 → stop $1,064.457, **~5.94% cushion**; **new P&L high since launch +$557.22**; Centessa $7.8B closed 6/24; 4E Therapeutics 6/16 closed — two pipeline deals in 8 days; retatrutide Phase 3 confirmed-beat thesis intact; FDA submission "by year-end" = far catalyst; locks +7.27% realized if hit) |
 
-*(Live prices from Alpaca positions endpoint at close. 2 of 2 trailing stops verified live & GTC. HWMs unchanged today; no ratchet on either name.)*
+*(Live prices from Alpaca positions endpoint at session start. 2 of 2 trailing stops verified live & GTC; both HWMs unchanged from prior session. No ratchet on either name.)*
+
+## Today's Market Open Routine — 2026-06-26 (Friday, Week 6 day 5; post-PCE digestion; quarter-end-rebalance day; UMich Final June; position-management day)
+
+- **No trades placed at open** per the research-log 6/26 plan. **Position-management day, not macro-positioning day.** V/MA/KKR all deferred to Mon 6/29 (Week 7) setup. Cap stays **0 of 3** for the week; Week 6 structurally closes at 0 adds (second consecutive 0-add week — dry powder preserved entering Week 7's V add gate).
+- **Day Open Value recorded:** **$99,411.20** (Alpaca last_equity = Thu 6/25 close; pre-mkt/session-start portfolio_value $99,440.58 = +$29.38 pre-mkt drift). Daily-loss cap trigger today: **$96,428.86**.
+- **Pre-mkt tape was mixed-to-red with internal divergence per pre-mkt research:** S&P futures ~−0.75% to 7,367.50, Dow futures +0.23% to 52,399, Nasdaq-100 futures −0.46% on Apple/Microsoft price-hike Mag7 drag — but **our book gapped UP modestly into the bell** (portfolio +$19.38 / +0.019% vs last_equity at session-start snapshot), driven by both ISRG and LLY ticking higher pre-open. **The MU-blowout AI-rally premise from Wed 6/24 has faded fast** — Nasdaq 4-day losing streak (first since Feb); post-PCE hawkish hike-odds reset live (25bp hike priced by October).
+- **ISRG gap-risk check (PRIMARY ATTENTION POSITION) — PASSED CLEANLY:** ISRG $401.19 at session start = **+0.375% / +$1.50 vs Thu close $399.69**. **No gap-down >2% triggered — path (b) discretionary-trim window did NOT open.** Cushion **improved from 2.98% Thu close → ~3.35% at session start** ($13.42/sh from $387.765 stop) → **EXITED LESSON-#1 <3% DANGER ZONE.** Hold-the-stop discipline (path a) is the active call entering mid-day. **Lesson-#1 framework still actively monitored but trim discussion eased relative to Thu's danger-zone close.** Goldman Sachs 6/25 fundamentals backing carries as a sentiment-support data-point.
+- **LLY gap-risk check — clean modest higher:** LLY $1,131.66 at session start = **+0.352% / +$1.39 vs Thu close $1,130.27** = **fresh new P&L high since launch +$557.22.** HWM held at $1,182.73 (no new intraday print yet — would need ~+4.51% intraday from $1,131.66 to ratchet). Cushion **improved to ~5.94%** from 5.82% Thu close. Pharma-defensive-bid thesis continuing to deliver on post-hot-PCE regime. Centessa $7.8B 6/24 close + 4E Therapeutics 6/16 close + retatrutide multi-indication franchise intact; FDA submission "by year-end" = far catalyst; lesson #3 (post-confirmed-beat-hold) dominates.
+- **Trailing stops re-verified live & GTC at session start:**
+  - ISRG `b271eef3-1027-435e-8818-2c838e0ace9b` stop $387.765 (hwm $430.85; updated_at 6/9)
+  - LLY `28f47c51-a223-4698-9fee-867b1c411ce4` stop $1,064.457 (hwm $1,182.73; updated_at 6/8)
+- **Cash floor:** 91.82% — well above 20% floor; full $91,303.23 dry powder for any Mon 6/29 V add gate.
+- **Earnings no-buy today (Fri 6/26):** ~4 reports — CNVS, XAIR, APOG, JINKO and small set; all small/micro-cap. **No candidate-watchlist conflicts.** NKE post-bell Thu 6/25 prints as consumer-discretionary tape-read into today.
+- **Macro events today:** **UMich Consumer Sentiment FINAL June at 10:00 AM ET** — secondary tape signal; watch inflation-expectations sub-components (5–10yr at prelim 3.4% — a tick higher reinforces hawkish-Fed thesis on top of yesterday's hot PCE). **3:00–4:00 PM ET — quarter-end-rebalance flows** (last trading day of Q2 2026); often mechanical, late-day swing risk on either name without fundamental basis.
+- **Mid-day check armed:** ISRG discretionary-trim decision window 11:30 AM–1:30 PM ET — apply criteria (gap-down + cushion compression + news flow). Current path: hold-the-stop (path a) absent cushion compression to <2% intraday or fresh negative ISRG-specific catalyst. **>7% intraday cut rule armed on both positions; daily-loss cap $96,428.86.**
+- **Lesson #2 (cash-cushion-as-cushion) continues to carry:** 91.82% cash + zero mega-cap-AI exposure + LLY defensive + ISRG diversifier on right side of post-PCE hawkish-reset regime so far this session.
+- **Lesson #5 (mega-cap-AI concentration tail risk) discipline holds:** Zero mega-cap-AI exposure; Apple/Microsoft Mag7 price-hike drag + Nasdaq 4-day losing streak vindicates the discipline.
+- **Cumulative since launch (4 wks done + week 5 + week 6 days 1–4 + day 5 open):** portfolio **−0.559%** (from $100,000 launch → $99,440.58) vs SPY $739.17 → $737.16 Thu close = **−0.272%** → **−0.29pp cumulative UND** (essentially unchanged from Thu close). **WTD picture extends strongly OP at +1.39pp entering Fri open** — a flat-to-positive Fri close locks Week 6 as the strongest weekly OP since launch.
+- **Next decision window:** **Today 10:00 AM ET UMich Final** (inflation expectations sub-component the read); **today 11:30 AM–1:30 PM ET ISRG mid-day cushion-management decision** (path a hold-the-stop is the current default; reassess on intraday move); **today 3:00–4:00 PM ET quarter-end-rebalance flows** (LLY HWM ratchet tail-monitor; ISRG end-of-day cushion = Week-6-close cushion mark); **today 4:00 PM ET Week 6 close + weekly review trigger**; **Mon 6/29 — Week 7 day 1 — V add gate** at mid-morning 10:30 AM–12:00 PM ET if quarter-end-digestion stable + 10Y ≤4.55% (lean ~$3,500 / ~11 sh @ ~$330 = ~3.5% position).
 
 ## Today's Market Close Routine — 2026-06-25 (Thursday, PCE day; in-line m/m / slightly hot y/y core; SPY closes flat after intraday $730.86–$739.95 swing; book WTD lead extends)
 
