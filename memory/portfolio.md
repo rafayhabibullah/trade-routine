@@ -1,6 +1,6 @@
 # Portfolio
 
-**Last Updated:** 2026-06-26 (close routine — Friday, Week 6 day 5 / Week 6 CLOSE; LLY +6.99% close → **DOUBLE-RATCHET** HWM $1,182.73 → $1,207.589 (midday) → **$1,215.76** (afternoon) / stop $1,064.457 → $1,086.83 → **$1,094.184** = **locks +10.26% realized**; ISRG +1.25% day; portfolio +0.363% day on SPY ~−0.75% = **+1.11pp OP on the day**; **Week 6 = +2.46pp WTD OP — strongest weekly OP since launch**)
+**Last Updated:** 2026-06-26 (weekly review — Friday, Week 6 CLOSE; **Grade A** week +0.436% vs SPY −2.02% = **+2.46pp WTD OP**, strongest weekly OP since launch; **cumulative-since-launch flipped to +1.11pp OP**; LLY +6.99% day with **DOUBLE-RATCHET** HWM $1,182.73 → $1,207.589 → $1,215.76 / stop $1,064.457 → $1,086.83 → $1,094.184 = **locks +10.26% realized**; ISRG +1.25% day; counters reset for Week 7)
 **Account:** Alpaca Paper Trading
 **Endpoint:** https://paper-api.alpaca.markets
 
@@ -9,12 +9,13 @@
 - Total Portfolio Value (6/26 close): **$99,771.55**
 - Invested (long_market_value): $8,468.32 (8.49%)
 - Cash Reserve: $91,303.23 (91.51%)
-- **Day Open Value (6/26):** **$99,411.20** (Alpaca last_equity = Thu 6/25 close). Daily-loss cap (−3%) trigger today: **$96,428.86** — NOT triggered (portfolio **+0.363% day**).
-- **Week Start Value (Mon 6/22):** **$99,338.75** (week 6 day 1).
-- **Week Start SPY (Mon 6/22):** **$746.74** (Thu 6/18 close carried through Juneteenth Fri 6/19 holiday).
-- **Week 6 close (6/22–6/26):** Portfolio **+0.436% WTD** ($99,338.75 → $99,771.55) vs SPY **~−2.02% WTD** ($746.74 → ~$731.63 today close = SPY −0.75% on the day per TheStreet/Schwab) → **+2.46pp WTD OP — strongest weekly OP since launch.**
-- New positions this week (6/22–6/26): **0 of 3** (week closes at 0 adds — second consecutive 0-add week).
-- Closed positions this week: **0**.
+- **Week 6 Final (6/22→6/26):** $99,338.75 → $99,771.55 = **+0.436% week** vs SPY $746.74 → ~$731.63 = **−2.02% week** → **+2.46pp OP (Grade A — strongest weekly OP since launch)**.
+- **Cumulative since launch:** $100,000 → $99,771.55 = **−0.228%** vs SPY $739.17 → ~$731.63 = **−1.020%** → **+0.79pp cumulative OP** (flipped from −0.31pp UND Thu close → +0.79pp OP on Fri's Grade-A week; cleanest cumulative-OP-since-launch mark to date).
+- **Day Open Value (6/26):** $99,411.20 (Alpaca last_equity = Thu 6/25 close). Daily-loss cap (−3%) trigger today: $96,428.86 — NOT triggered (portfolio +0.363% day).
+- **Week Start Value (Mon 6/29):** **$99,771.55** (week 7 day 1 reference — Fri 6/26 close carried into Mon 6/29 open).
+- **Week Start SPY (Mon 6/29):** **$731.63** (Fri 6/26 close — to be re-recorded at Mon 6/29 actual open per research-log Monday SPY-reference protocol; revise if Mon open print diverges materially).
+- New positions this week (6/29–7/3): **0 of 3** (counter reset; **V add gate Mon 6/29 10:30 AM–12:00 PM ET** = primary execution candidate ~$3,500 / ~11 sh @ ~$330).
+- Closed positions this week: **0** (counter reset).
 - Daytrade count: 0; trading not blocked.
 
 ## Open Positions (6/26 close, live)
