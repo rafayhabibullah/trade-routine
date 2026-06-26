@@ -1719,3 +1719,47 @@ Not Monday — no new SPY reference recorded. **Week 6 Start SPY remains $746.74
 - (10) **Fri 7/3 — MARKET CLOSED for Independence Day** observed.
 
 ---
+
+## Tomorrow's Watch — 2026-06-29 (Monday, Week 7 day 1 — first trading day after Week 6 close; quarter-end Monday; V add gate)
+
+### Context
+- **Week 6 closed strong:** Portfolio $99,338.75 → $99,771.55 = **+0.436% WTD** vs SPY $746.74 → ~$731.63 (computed) = **−2.02% WTD** → **+2.46pp WTD OP — STRONGEST WEEKLY OP SINCE LAUNCH.** Cumulative since launch +0.79pp OP ($99,771.55 vs SPY $739.17 → $731.63 = portfolio −0.228% vs SPY −1.02%).
+- **Today (Fri 6/26) was an OP DAY of +1.11pp** (portfolio +0.363% on a SPY −0.75% close) driven by LLY +6.99% (Centessa-close + retatrutide-thesis pipeline + quarter-end pharma defensive bid) — LLY trailing-stop DOUBLE-RATCHETED today: HWM $1,182.73 → $1,207.589 (midday) → $1,215.76 (afternoon); stop $1,064.457 → $1,086.83 → **$1,094.184** (locks +10.26% / +$407.32 realized if hit).
+- **New week begins Mon 6/29:** new-position cap RESETS to 0 of 3. Record fresh Week 7 Start SPY at Mon open (will be Friday's close).
+- **Calendar context for the week:** Mon 6/29 = quarter-end Monday (post-Q2-rebalance Sun→Mon residual flows); **Tue 6/30 = calendar Q2 close** (book-keeping/snapshot day; light data); Wed 7/1 = ISM Mfg + JOLTS; **Thu 7/2 = NFP (June)** — moved up from Fri due to **Fri 7/3 MARKET CLOSED for July 4 observed**.
+
+### Positions to Monitor
+- **LLY** — $1,206.505 close (+21.58% from entry; NEW P&L HIGH SINCE LAUNCH +$856.60). **Cushion ~9.31% from new stop $1,094.184; HWM $1,215.76.** The big question Mon is whether LLY consolidates the rip vs gives some back vs extends. **Quarter-end pharma-defensive bid mean-reversion is a real Mon-open giveback risk** — fast-money positions established late Friday for quarter-end NAV pretty-printing often unwind early Mon. **Trail does its job either way.** Re-evaluation triggers for manual tightening: (a) close above $1,250 within next 2 sessions = lock-up consideration to 7% trail; (b) negative single-name catalyst (Phase 3 failure, label setback, competitor blow-out); (c) cushion compression to <4% on multi-day basis without thesis change. None active.
+- **ISRG** — $404.70 close (−4.81% from entry). Cushion ~4.19% from stop $387.765 (softened slightly from midday ~4.43% on quarter-end ETF rebalance bell-time flows). HWM unchanged $430.85 (since 6/9). **Lesson-#1 <3% danger zone NOT triggered; trim discussion off-table absent fresh negative single-name catalyst.** Watch for any Mon gap-down >2% to re-arm path (b) discretionary trim discussion. Both June catalysts (da Vinci 5 + Japan reimbursement expansion) increasingly far behind without follow-through; next catalyst far (earnings Jul 16). Material negative cluster persists.
+
+### Macro Events Monday 6/29
+- **No tier-1 scheduled US macro events Mon 6/29.** Quiet day on the data calendar — light pre-NFP week.
+- **Pre-mkt focus:** weekend headlines digest. Watch for (a) any fresh Iran/Mideast developments (Brent watch; Vance/Iran Switzerland mtg if it occurred Sun), (b) any fresh AI-data-center-cost or OpenAI-IPO-delay continuation headlines (today's tape catalyst), (c) any fresh tariff/Trump news.
+- **Trading-flow context:** Mon is the FIRST POST-QUARTER-END session — Q3 begins. Net-new institutional positioning begins; can be both up-tape (window-dressed positions held into Mon) or down-tape (post-quarter-end de-risking).
+- **No FOMC this week.** Next FOMC: late July (post-NFP / post-CPI cluster).
+
+### V Add Gate — Mon 6/29 mid-morning 10:30 AM–12:00 PM ET
+- **Path (a) — primary execute:** Mon tape opens green-to-flat AND 10Y ≤4.55% AND no fresh weekend AI-cohort negative gap → execute V ~$3,500 / ~11 sh @ ~$330 = ~3.5% position; cash post-add ~88.0% (well within floor).
+- **Path (b) — defer one session:** Mon tape opens with fresh negative gap >−1% on AI-cohort or geopolitical shock → defer V add to Tue 6/30; reassess at mid-morning Tue.
+- **Path (c) — defer to post-NFP:** Mon AND Tue both gap-down >−1% with no clear catalyst → defer V add to Mon 7/6 (post-NFP, post-Independence-Day-weekend digestion); preserves cap 0 of 3 for Week 7 if no clean setup materializes.
+- **Path (d) — abort V add for the week:** any V single-name negative catalyst over the weekend (rare given clean fundamentals heading in) → abort and reassess for Week 8.
+- **MA secondary 2nd-add for Week 7 considered ONLY IF:** (i) V add executes cleanly path (a) Mon, (ii) V tape post-add is constructive (no immediate −2% drawdown), (iii) MA setup is clean (no headline shock), (iv) tape allows; lean: execute MA Wed or Thu pre-NFP, ~$3,500 / ~7 sh @ ~$500 = ~3.5% position. Pre-NFP execution preferred (capture entry pre-binary rather than chase post-NFP rally).
+
+### Thesis Notes Based on Today's Price Action
+- **Three regime lessons (#2/#4/#5) all simultaneously validated today.** Today was the highest-conviction single-day validation of the structural-cash-cushion-as-cushion thesis since launch. The book OP'd +1.11pp on a day SPY closed −0.75% / Nasdaq −1.25% / AI-cohort-data-center-cost-worried / OpenAI-IPO-delay-headline — exactly the regime the book is engineered for.
+- **LLY DOUBLE-RATCHET = peak post-confirmed-beat-hold lesson #3 payoff.** The +$299.38 unrealized P&L booked intraday today would not have existed if LLY had been trimmed during any of the 8 prior sessions' cushion-anxiety windows (6/22 day-1 3.14% cushion week-low etc). **Empirically:** patience-on-thesis-confirmed-winners is paying multi-bps of locked-in gain via mechanical stop ratchet. **Going forward:** the bar for manually tightening a winning trail past the 10% trail is even higher post-today's evidence.
+- **The 3-mega-cap-AI-stop-out sequence (GOOGL 6/2 / AMZN 6/5 / META 6/10) was retroactively perfectly-timed.** Had those positions remained in the book, the AI-cohort-cost-worry tape today would have generated a much larger drawdown across three mega-cap-AI names simultaneously. **Lesson #5 (mega-cap-AI concentration tail risk) has now generated empirical evidence not just on the EXIT side (stop disciplines worked) but also on the NON-RE-ENTRY side (not adding back saved the book on today's tape).**
+- **V remains the right post-PCE diversifier candidate for Mon 6/29 add.** Payments-duopoly is rate-agnostic in a hawkish-Fed-stagflation-lite regime; OpenAI agentic-commerce + V/MA/Stripe stablecoin platform = AI-rails optionality WITHOUT AI-cohort beta. The book has zero direct AI-cohort exposure (deliberately, post lessons); V is the cleanest way to capture AI-rails-monetization upside without re-creating the mega-cap-AI tail risk that lesson #5 just empirically vindicated.
+- **KKR remains demoted to "not on Week 7 candidate list" per the prior research-log update.** Tue 6/23's −3.51% on hawkish-rate cohort risk-off + Q1 monetization timing slip = thesis-impaired candidate; defer to post-FOMC (late July) at earliest, and only on meaningful bounce + monetization-timing clarity.
+- **Going into Week 7 with maximum dry powder ($91,303.23 cash, 91.5% floor) and a clean book OP setup.** Two consecutive 0-add weeks have preserved every cent of the cash cushion that just generated the strongest single-week OP since launch.
+
+### Pre-Monday Decision Queue
+- (1) **Mon 6/29 9:30 AM open** — gap-risk check both positions; verify trailing stops live & GTC; capture Day Open Value; record fresh Week 7 Start SPY.
+- (2) **Mon 6/29 10:30 AM–12:00 PM ET — V add gate** — apply paths (a)/(b)/(c)/(d).
+- (3) **Mon 6/29 mid-day check** — >7% intraday cut rule armed on both positions; daily-loss cap −3%.
+- (4) **Tue 6/30 — Q2 calendar close** — book-keeping/snapshot; light data.
+- (5) **Wed 7/1 — ISM Mfg + JOLTS** — secondary read; MA 2nd-add gate window if V cleanly executed Mon.
+- (6) **Thu 7/2 — NFP (June)** — major binary; **moved up from Fri due to July 4 Fri market closure**; MA 2nd-add window-2 only on cool-NFP scenario.
+- (7) **Fri 7/3 — MARKET CLOSED for Independence Day** observed.
+
+---
