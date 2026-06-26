@@ -1599,3 +1599,123 @@ Not Monday — no new SPY reference recorded. **Week 6 Start SPY remains $746.74
 - (6) **Mon 6/29 — Week 7 day 1** — fresh new-positions cap 0/3; refresh V add evaluation; refresh KKR re-add evaluation; quarter-end-rebalance digestion; pre-July-FOMC posture begins.
 
 ---
+
+## Research — 2026-06-26 (Friday — Week 6 day 5 of 5; post-PCE digestion; quarter-end-rebalance day; UMich Final June; position-management day for ISRG)
+
+### Market Conditions
+**Mixed-to-red pre-mkt with internal divergence.** Per Barchart/CNBC: **S&P 500 E-mini futures ~−0.75% to 7,367.50; Dow futures +0.23% to 52,399; Nasdaq-100 futures −0.46% (Apple-led drag — Apple/Microsoft price-increase headlines weighed on Mag7 Thursday)**. **The MU-blowout AI-rally premise from Wed 6/24 has faded fast** — Nasdaq closed down 4 days in a row Thu 6/25 (first 4-day losing streak since February). Yesterday's PCE digestion is the dominant driver: **headline +0.4% m/m / +4.1% y/y** (highest since April 2023), **core +0.3% m/m / +3.4% y/y** (m/m in line, y/y 10bp hot vs +3.3% consensus), **personal income +0.7% (vs +0.4% forecast — hot)**, **personal spending +0.7% (vs +0.6% — also hot)**. **Fed-cut odds reset hawkish: money markets now price near-certain 25bp HIKE by October 2026 + second hike by March 2027** — exactly the BofA "3 rate hikes" narrative that prompted Tue 6/23's tech rout. **2Y yield fell 5bp to 4.10%** (paradox: hot data but yields slipped on growth-fear undertone). 10Y direction TBD pre-open. **Brent <$79 holds** (Iran-peace roadmap intact post Vance-Iran Switzerland mtg; Trump-Hezbollah tail-risk live but not pricing). **Today is the last trading day of Q2 2026 → quarter-end-rebalance flows** late-day. **UMich Consumer Sentiment Final June at 10:00 AM ET** (prelim was 48.9, up from May's record-low 44.8; 1Y inflation expectations 4.6%; long-run 3.4%) — secondary tape signal.
+
+### SPY Reference Price
+Not Monday — no new SPY reference recorded. **Week 6 Start SPY remains $746.74** (Thu 6/18 close carried through Juneteenth Fri 6/19 holiday). Thu 6/25 close: **SPY $737.16** (S&P 500 index $7,357.49 −0.01% essentially flat). **WTD SPY: $746.74 → $737.16 = −1.283%** through Thu close.
+
+### Position Count This Week
+**0 of 3 BUY slots used.** Alpaca confirms zero orders since 6/12. **Week 6 closes today; remaining unused slots expire at the bell.** Per yesterday's plan: no active add candidates for Fri — V deferred to next week post-PCE digestion (path (e) trumped path (a) on borderline-print + ISRG cushion compression); KKR demoted to next-week-at-earliest pending FOMC re-read. **Effective add count for Fri close-out: 0; structural close at 0/3 for the second consecutive week.**
+
+### Account State (Pre-Open Fri 6/26 — verify at session start via Alpaca)
+- **Yesterday's close snapshot (6/25 from portfolio.md):** Equity $99,421.52; cash $91,303.23 (91.83%); long MV $8,118.29 (8.17%); 2 trailing stops live & GTC.
+- **Today's daily-loss cap trigger:** to compute at session start as (Thu 6/25 close last_equity) × 0.97 ≈ **$96,438.87**.
+- **Daytrade count:** 0; trading not blocked.
+- **2 open trailing stops to re-verify live & GTC at session start:**
+  - ISRG `b271eef3-1027-435e-8818-2c838e0ace9b` — stop **$387.765**, hwm $430.85 (updated_at 6/9 — no ratchet weeks 5–6).
+  - LLY `28f47c51-a223-4698-9fee-867b1c411ce4` — stop **$1,064.457**, hwm $1,182.73 (updated_at 6/8 — no ratchet weeks 5–6).
+
+### Current Positions Snapshot (Pre-Open Fri 6/26 — using Thu 6/25 close ref)
+| Symbol | Shares | Avg Entry | Thu 6/25 close | P&L $ | P&L % | Stop | Approx Cushion |
+|--------|--------|-----------|----------------|-------|-------|------|----------------|
+| ISRG | 9 | $425.163 | $399.69 | −$229.26 | **−5.99%** | $387.765 | **~2.98% — DANGER ZONE (<3%)** |
+| LLY | 4 | $992.355 | $1,130.27 | +$551.66 | **+13.90%** | $1,064.457 | **~5.82%** (improved from 4.28% Wed open on pharma defensive bid) |
+
+**ISRG cushion remains in lesson-#1 danger zone (<3%).** Pre-mkt rally direction TBD — Apple/Microsoft Mag7 drag is bearish for medtech beta to a soft-tape open, but ISRG is largely a non-AI-cohort name and the post-PCE rotation-out-of-cyclicals could either help or hurt depending on quarter-end flow direction. **Gap-risk check at 9:30 AM is the first ISRG decision point of the day.**
+
+### Earnings This Week — Do Not Buy (remaining today; light list)
+- **Fri 6/26 (TODAY):** ~4 reports — **CNVS, XAIR, APOG, JINKO** and small set; all small/micro-cap; **no candidate-watchlist conflicts.** NKE post-bell **Thu 6/25** prints as consumer-discretionary tape-read into today.
+- **Candidates checked (next-week relevant):** **V clear** (Q3 late Jul); **KKR clear** (Q2 ~7/30); **MA clear** (Q2 late Jul); **MSFT/NOW clear** (late Jul). **No conflicts on watchlist for Mon 6/29 open.**
+
+### Macro Events This Week (Today only)
+- **TODAY 10:00 AM ET:** University of Michigan Consumer Sentiment FINAL for June. Prelim was 48.9 (vs May record-low 44.8; vs cons 46). 1Y inflation expectations 4.6% (down from 4.8% May); long-run 3.4% (down from 3.9% May). **Watch:** final revision direction + any inflation-expectations sub-component re-rating (a tick higher reinforces hawkish-Fed thesis on top of yesterday's hot PCE).
+- **TODAY late-day (3:00–4:00 PM ET):** Quarter-end-rebalance flows. Often mechanical; can swing tape direction without fundamental basis.
+- **No FOMC this week;** next **7/28–7/29** (Warsh's second meeting). Per yesterday's PCE reset, hike odds now pricing 25bp by October.
+
+### Macro Events Next Week (Week 7 setup — Mon 6/29 → Fri 7/3 truncated for July 4 holiday)
+- **Wed 7/1 10:00 AM ET:** ISM Manufacturing PMI (June) + JOLTS Job Openings (May).
+- **Thu 7/2 8:30 AM ET:** **Nonfarm Payrolls (June) + Unemployment + AHE** — **MAJOR — moved up from Fri due to July 4 Fri holiday.** Likely the binary event of the week.
+- **Thu 7/2:** Initial Jobless Claims.
+- **Fri 7/3:** **Market closed for Independence Day observed** (July 4 falls on Saturday).
+- **Mon 7/6 10:00 AM ET:** ISM Services PMI (June).
+- **Week is 4 trading days, jobs-data dominated, into a truncated week.** Dry-powder preservation argues for V add post-Mon-open + post-NFP, NOT pre-NFP.
+
+### Watchlist for NEXT WEEK's Open (Mon 6/29 — Week 7 day 1; cap RESETS to 0/3)
+
+| Symbol | One-Line Thesis | Rev Growth | Moat Type | Analyst Rating | Action |
+|--------|-----------------|------------|-----------|----------------|--------|
+| **V** | Q2 FY26 rev **+17%** to $11.23B (beat $480M); EPS $3.33 (+38% YoY); **OpenAI agentic-commerce integration** (6/10 Visa Payments Forum SF) — secure tokenized Visa transactions inside OpenAI agents; **$7B annualized stablecoin run rate via VisaNet**; **$20B buyback**; FY26 guide low-double-digit→low-teens. **~$326–330, YTD −5.7%**; 34 Buy / 3 Hold / 0 Sell; **avg PT $390.86** (high $450 / low $315); ~20% upside | 17% | Duopoly network (V/MA); scale; switching costs; brand; cross-border travel beta — **largely rate-agnostic vs PE-multiple-compression risk** | **Strong Buy** — 39 analyst rec; PT $390.86–$398.83 | **PRIMARY Week-7 diversifier candidate.** Earnings clear (Q3 late Jul). **Execution gate: Mon 6/29 mid-morning (10:30 AM–12:00 PM ET) IF quarter-end-rebalance digestion stable + 10Y holds ≤4.55%; OR defer to Tue 6/30 post-rebalance settle.** Lean ~$3,500 (~11 sh @ ~$330) = ~3.5% position. **Add does NOT depend on NFP Thu 7/2** — V is rate-agnostic enough that NFP swing risk is secondary. Pre-NFP execution preferred to capture entry before potential cool-NFP rally. |
+| **MA** | Q1 FY26 rev **+16%** to $8.40B (in line); FY25 rev $32.79B (+16.4%); **Agent Pay for Machines (AP4M)** launched June 2026 — B2B/B2M agentic payments equivalent to V's OpenAI integration; **BVNK Holdings $1.8B acquisition closed Mar 2026** (stablecoin infra); avg PT **$642.50–$644.89** (~32% upside). 39 analyst rec — 48% SB / 48% B / 4% H / 0% S | 16% (Q1 +16%; FY25 +16.4%) | Duopoly network (with V); switching costs; scale; brand; agentic-commerce optionality via AP4M + BVNK | **Strong Buy** — 38 analyst rec; PT $642.50–$644.89 | **SECONDARY Week-7 candidate.** Earnings clear (Q2 late Jul). **The pair-trade question:** V and MA are highly correlated — adding both creates duopoly-double-up rather than diversification. **Prefer V over MA for the first slot** (cheaper entry on YTD −5.7% vs MA at lifetime highs; V's OpenAI integration carries marginally more agentic-commerce optionality than MA's AP4M). MA stays on bench for a potential 2nd Week-7 add if V fills cleanly and books are still on right side of tape. |
+| **KKR** | Q1'26 rev +39% YoY to $4.32B; AUM **$758B** (+14%); $10B Helix Digital Infra; $1.4B Altavair; $23B record NA PE fund; **YTD ~−27%**. **NEW NEGATIVE:** **Management adjusted 2026 ANI guidance DOWNWARD — now "more likely to land BELOW $7/sh"** due to less-normalized monetization environment in first 4 months of year; >$1.2B gross fwd-monetization-pipeline timing may shift 2026→2027 | 39% | Switching costs (10-yr LP locks); scale/brand in alts; ABF scale; Global Atlantic float | **Buy consensus** — Chartmill avg PT $148.63 (+59%); MarketBeat $125.53; MS OW $153 | **DEMOTED further.** Tue 6/23's −3.51% on hawkish-rate tech-cohort risk-off already evidenced higher-than-expected rate-regime beta (lesson learned). **NOW compounded by management ANI-guide cut** = thesis-quality degradation, not just price-action lag. **Defer to post-FOMC re-read at earliest (7/28–7/29) and only if KKR has bounced + monetization pipeline has cleared.** Not a Week-7 candidate. |
+| MSFT | Q3 FY26 +18%, Azure +40%, AI run rate $37B | 18% / 40% Azure | Switching costs; scale | Strong Buy; PT ~$560 | **Bench.** Lesson #5 still argues against re-introducing AI-mega-cap as the first diversifier add post-3-mega-cap-AI-stop-out (GOOGL/AMZN/META). V over MSFT. |
+| NOW | Q1'26 sub rev +22%; FY26 guide $15.7B (+21%) | 22% | Switching costs; platform | Strong Buy | **Skip.** AI-cohort beta; momentum-chase risk post MU-rally-fade; lesson #5 disqualifier. |
+| COST | Q3 FY26 rev +12% | 12% — below 15% bar | Membership; scale | Mixed | **Skip.** Fails growth bar. |
+
+### Existing Position Notes
+
+| Symbol | News (since 6/25) | Thesis Still Valid? | Action |
+|--------|-------------------|---------------------|--------|
+| **ISRG** | **Goldman Sachs publicly BACKED ISRG fundamentals 6/25** amid new rules-on-instrument-reuse concerns — analyst view: regulatory reuse-policy changes "unlikely to cause major disruption to ISRG's revenue model." Stock $401.83 6/25 (Goldman note didn't catch the post-PCE defensive bid). YTD −28.5%, −24.8% past year. **Force-feedback cardiac trial 6/18 carry; 2026 procedure guide 13.5–15.5%; 11,395 installed base.** Material negative cluster persists (FDA Class I recall, Da Vinci S/Si recall, Deutsche PT cut $440, Medtronic Hugo / China competition). Next earnings July 16 (still 3 weeks out — far catalyst). | **Yes — fundamentals intact (Goldman backing reinforces),** but cohort price-action keeps not delivering. **The within-diversifier divergence sub-lesson from yesterday holds:** ISRG's diversifier thesis runs on AI-cohort-specific risk-off (lesson #4), NOT on broad-inflation-fear risk-off (today's regime). | **PRIMARY ATTENTION POSITION.** Stop $387.765, cushion **~2.98% — DANGER ZONE (<3%).** **Pre-Fri decision queue:** (a) hold the stop into Fri's quarter-end + UMich tape, (b) discretionary trim before auto-stop trips (manual @ $399.69 ≈ −6.0% realized vs auto-stop @ $387.765 ≈ −8.8% realized = saves ~2.8pp vs the lesson-#1 cohort-lag/thin-cushion/far-from-catalyst pattern that took GOOGL/AMZN/META), or (c) wait for AI-cohort-specific risk-off (lesson #4 regime) to test diversifier thesis once more before any action. **Trigger criteria for path (b) discretionary trim today:** (i) gap-down >2% at open, OR (ii) cushion compresses below 2.0% intraday, OR (iii) any further deterioration in installed-base / da-Vinci-5 news flow. **Mid-day >7% intraday cut rule armed.** |
+| **LLY** | **Q3 2026 dividend declared $1.73/sh (announced 6/22).** **Centessa $7.8B acquired 6/24; 4E Therapeutics 6/16** — two pipeline closes in 8 days. Retatrutide Phase 3 multi-indication continuing to validate; FDA submission "by year-end." **6/26 stock $1,127.69** (intraday high $1,145.43, low $1,114 per current sources — within ATH ~4.65% off). 31-analyst rec (6 SB / 18 B / 5 H); avg PT **$1,218.72**. | Yes — fundamentals strengthening; pharma defensive bid catching on inflation-shock regime (lesson #3 + new pharma-defensive-on-hot-inflation sub-lesson both operative). | **Hold; trailing stop manages downside.** Stop $1,064.457 (locks +7.27% realized if hit). HWM $1,182.73 unchanged. **HWM ratchet potential today** if any intraday print breaks $1,182.73 (would need ~4.65% intraday move from $1,130.27 close — unlikely on a quarter-end/UMich day unless a pharma-specific re-rating catalyst hits). |
+
+### Stop-Cushion Snapshot (Pre-Open Fri 6/26, using Thu 6/25 close ref — refresh at session start)
+- **ISRG** — cushion **~2.98%** at $399.69 vs stop $387.765. **DANGER ZONE.** Lesson #1 framework actively monitored.
+- **LLY** — cushion **~5.82%** at $1,130.27 vs stop $1,064.457. Improved from 4.28% Wed open. Lesson #3 dominates.
+- **Combined book delta-1 exposure to a quarter-end-driven AI-cohort risk-off + UMich-inflation-expectations hot revision = limited (8.17% invested);** the cash-cushion-as-cushion (lesson #2) is structurally on the right side of any post-PCE hawkish-revision tape today.
+
+### Plan for Today's Open (Fri 6/26) — Position-Management Day; No Adds
+
+**Pre-Open (now → 9:30 AM ET):**
+- **Re-verify both trailing stops live & GTC at session start.**
+- **Capture Day Open Value** = Alpaca last_equity (Thu 6/25 close $99,421.52 if no pre-mkt drift).
+- **Compute daily-loss cap trigger:** ≈ $96,438.87.
+
+**9:30 AM Open (Friday):**
+- **Gap-risk check on ISRG specifically.** If gap-down >2% at open → re-arm lesson-#1 discretionary-trim discussion at the open print (path (b) trim window opens at the bell). If flat or modestly green → hold the stop and wait for the UMich print at 10:00 AM ET.
+- **LLY gap-risk check:** very unlikely to gap meaningfully; HWM ratchet only relevant on intraday breakout.
+- **NO new adds at open** regardless of tape — week closes at 0/3; V/KKR/MA all deferred to Mon 6/29 setup.
+
+**10:00 AM ET — UMich Sentiment Final June:**
+- Watch 1Y and long-run inflation expectations sub-components. If 5–10yr ticks **higher than prelim 3.4%** → reinforces hawkish-Fed narrative on top of yesterday's hot PCE; AI-cohort risk-off resumes; ISRG could finally catch its lesson-#4 diversifier-thesis-confirming regime (or could also bleed with broad tape — within-diversifier divergence is the live question).
+- If 5–10yr **drops below 3.4%** → modest dovish counter-print; small risk-on impulse possible.
+
+**Mid-day (11:30 AM–1:30 PM ET):**
+- **ISRG discretionary-trim decision window.** Apply criteria above (gap-down + cushion compression + news flow). If cushion stable in 2.9–3.2% range without fresh negative catalyst → maintain hold-the-stop discipline through to close (path (c)). If cushion compresses to <2% or fresh negative ISRG-specific catalyst → execute path (b) trim @ market.
+- **Mid-day >7% intraday cut rule armed on both positions.**
+
+**3:00–4:00 PM ET — Quarter-end-rebalance flows:**
+- Late-day mechanical swings possible without fundamental basis. **Watch for LLY HWM ratchet attempt** via pharma re-rating headline (low probability but tail-monitor); **ISRG end-of-day cushion is the Week-6-close cushion mark for the weekly review trigger.**
+
+**4:00 PM ET — Week 6 close + weekly review trigger:**
+- Record Week 6 final WTD vs SPY (entering today: portfolio +0.083% WTD vs SPY −1.283% WTD = **+1.37pp WTD OP** — would be best weekly OP since launch if held into close).
+- Reset weekly counters: Week 7 Start Value, Week 7 Start SPY, New Positions cap RESET to 0/3.
+- Lesson-update candidates: (i) within-diversifier divergence (medtech vs pharma on inflation-fear-risk-off regime — sub-lesson to lesson #4), (ii) path-(e) discretionary deferral validation (V add deferred yesterday; was the right call given ISRG cushion compression today?), (iii) cumulative OP/UND trajectory.
+
+**Cash floor (≥20%) check:** 91.83% cash — far above floor. No adds today preserves full dry powder for Mon 6/29 V add gate.
+
+### Thesis Notes / Read Heading Into Friday Close + Week 7
+
+- **The MU-blowout AI-rally narrative from Wed 6/24 faded inside 48 hours.** Nasdaq 4-day losing streak (first since February) + Apple/Microsoft price-hike Mag7 drag + post-PCE hawkish hike-odds reset (25bp hike priced by October) = the cohort thesis is now ambivalent. **Implication for Week 7:** don't chase any Mon 6/29 rally bounce; let conditions confirm before V add execution.
+- **Yesterday's PCE was a hawkish event in disguise.** Core m/m matched consensus but y/y 10bp above consensus + personal income/spending both +0.7% (above forecast by 30bp each) + money markets now pricing hike by October = the **inflation-+-strong-spending stagflation-lite tape is the dominant regime.** Defensive (pharma) catches bid; cyclical (KKR) sells off; payments duopoly (V/MA) is largely rate-agnostic = the right diversifier candidates.
+- **KKR thesis-quality degradation** — management ANI-guide cut to <$7/sh is the new datapoint that demotes KKR from "rate-regime-beta candidate" to "thesis-impaired candidate." **Pair this with Tue 6/23's −3.51% on hawkish-rate tech-cohort risk-off + Q1 monetization timing slip → KKR off the Week-7 candidate list.** Defer to post-FOMC at earliest, and only on a meaningful bounce + clarity on monetization pipeline timing.
+- **V vs MA is a genuine first-add question for Week 7.** V edges MA on: (a) cheaper entry (YTD −5.7% vs MA near ATH), (b) more direct agentic-commerce monetization angle (OpenAI integration + $7B stablecoin run rate vs MA's AP4M which is newer); (c) similar Q1/Q2 growth (V +17% rev, MA +16% rev). **Lean V first, MA as bench for Week-7 2nd-add if V fills cleanly and tape allows.**
+- **ISRG cushion-management is today's dominant question.** Three paths laid out above (hold/trim/wait-for-regime). **The discretionary trim (path b) is the right call IF ISRG gaps down >2% at open OR cushion compresses below 2% intraday; OTHERWISE hold-the-stop discipline (path a) for one more session** to capture any AI-cohort-specific risk-off regime (lesson #4) that finally proves the diversifier thesis. **Goldman Sachs 6/25 backing is a fundamental support data-point but tape didn't reward it Thu — the fundamental signal is intact, the price-action signal is not yet.**
+- **Cumulative-OP trajectory:** Through Thu close, portfolio cumulative −0.578% vs SPY −0.272% = −0.31pp cumulative UND. WTD +1.37pp OP. **A flat-to-positive Fri close locks Week 6 as the strongest weekly OP since launch and meaningfully tightens cumulative-UND gap.** A 7%+ ISRG stop trip today would realize ~−$340 loss = ~−0.34% portfolio impact = would push cumulative-UND back to ~−0.65pp. **Cushion-management is therefore directly tied to cumulative-OP trajectory.**
+
+### Pre-Monday Decision Queue
+- (1) **Today 9:30 AM open** — gap-risk check both positions; verify trailing stops live & GTC; capture Day Open Value; compute daily-loss cap.
+- (2) **Today 10:00 AM ET — UMich Final** — secondary tape signal; inflation expectations sub-component the read.
+- (3) **Today mid-day window 11:30 AM–1:30 PM ET** — ISRG discretionary-trim decision per criteria above; >7% intraday cut rule armed on both positions.
+- (4) **Today 3:00–4:00 PM ET — quarter-end-rebalance flows** — late-day swing risk; LLY HWM ratchet tail-monitor; ISRG end-of-day cushion = Week-6-close cushion mark.
+- (5) **Today 4:00 PM ET — Week 6 close + weekly review trigger** — record Week 6 WTD/cumulative; reset weekly counters; update lessons file.
+- (6) **Mon 6/29 — Week 7 day 1** — fresh cap 0/3; **V add gate: mid-morning 10:30 AM–12:00 PM ET IF quarter-end-rebalance digestion stable + 10Y ≤4.55%** (lean ~$3,500 / ~11 sh @ ~$330 = ~3.5% position). **Record Week 7 Start SPY at Mon open.** MA on bench for potential 2nd-add later in Week 7.
+- (7) **Tue 6/30 — Q2 close** — month-end + quarter-end flows finalize; book-keeping/portfolio-snapshot day.
+- (8) **Wed 7/1 — ISM Mfg + JOLTS** — secondary read.
+- (9) **Thu 7/2 — NFP (June)** — major binary; **moved up from Fri due to July 4 Fri market closure.** V already-executed-by-Tue is the preferred posture (capture entry pre-NFP rather than chase post-NFP rally).
+- (10) **Fri 7/3 — MARKET CLOSED for Independence Day** observed.
+
+---
