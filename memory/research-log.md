@@ -2067,3 +2067,38 @@ Not Monday — no fresh SPY reference recorded. **Week 7 Start SPY remains $728.
   - **MA 2nd-add timing is genuinely contested between Wed (pre-NFP) and Mon 7/6 (post-NFP):** pre-NFP captures entry before potential cool-NFP rally but bears NFP-day risk; post-NFP loses the entry timing but gets clarity on regime. **Lean Wed IF all gate conditions cleanly met; lean Mon 7/6 IF any gate condition equivocal.**
   - **LLY day-after-HWM-fade pattern:** Tue's pre-mkt $1,225 fade is normal post-spike consolidation; Wed direction more telling. A flat-to-slightly-positive Wed would confirm the HWM print is the new shelf; a >−1% Wed move would suggest the HWM was a parabolic top.
 
+---
+
+## Tomorrow's Watch — 2026-07-01 (UPDATED post-close Tue 6/30 — reality reset)
+
+**Tue 6/30 actual outcome vs the open-routine plan:**
+- V add was **NOT executed** at the mid-morning 10:30 AM–12:00 PM ET gate. Inferring from end-state: the strong-continuation tape (SPY printed fresh ATH intraday $748.01 / +1.29% close on top of Mon's record rally) inverted the path-(a) "right tape" premise — Tue was a chase-rally not a consolidation continuation. Mid-morning judgment deferred V to Wed 7/1 reassessment.
+- Book closed **−0.197% day vs SPY +1.287% = −1.48pp DAY UND** — the worst single-day UND of the cycle. Both LLY (−2.49%) and ISRG (−2.04%) sold off in ABSOLUTE terms on the broad-tape risk-on rally — defensive cohort de-rated as cyclical/AI rotation pursued. Cumulative-OP lead flipped from +0.146pp at Mon close → **−1.332pp UND** today.
+- **ISRG cushion CROSSED BACK INTO LESSON-#1 <3% DANGER ZONE** (~2.49% at close, down from 4.49% Mon close). Lesson-#1 discretionary-trim framework RE-ARMED ahead of Wed.
+
+**Positions to monitor (Wed 7/1):**
+- **ISRG — PRIMARY ATTENTION.** Cushion ~2.49% at close ($397.68 vs stop $387.765); lesson-#1 framework live again. **Pre-Wed decision queue:** (a) hold-the-stop into Wed ADP/ISM-Mfg/Warsh-speak tape; (b) discretionary trim before the auto-stop trips at a steeper realized loss (manual at $397.68 saves ~2.5% vs the auto-stop at $387.765); (c) wait for Thu 7/2 NFP binary outcome to test the diversifier thesis one more time. Threshold framework — open path (b) discretionary-trim window if (i) Wed AM gap-down >1.5% intraday compresses cushion to <1.5%, OR (ii) fresh negative single-name ISRG catalyst (FDA action, China-competition headline, Medtronic Hugo regulatory update). Path (a) hold-the-stop is the default in absence of these triggers — but the bar is now MUCH lower than Mon's 4.49% cushion mark.
+- **LLY** — Cushion 7.10% from current $1,199.30; still healthy / NOT in danger zone. Re-evaluation triggers all remain inactive (close >$1,250 within 2 sessions needs ~+4.23% intraday move; no negative single-name catalyst; cushion <4% multi-day needs further compression). Hold-the-stop discipline; no manual-tightening discussion. The day-after-HWM-fade pattern (lesson #3): Tue −2.49% is the meaningful pullback that confirms Mon's HWM $1,238 was a parabolic spike top — but lesson #3 still says do NOT manually tighten on the same-week spike; the 10% trail did its job (cushion ratcheted up from 9.50% to 7.10% with no manual action needed even on a −2.49% day).
+- **V (still NOT in book)** — Add gate reassess Wed 7/1 mid-morning under same path-(a) framework, with HIGHER bar after Tue's chase-rally character.
+
+**Macro events tomorrow (Wed 7/1):**
+- **ADP Employment Change (June) 8:15 AM ET** — private-sector NFP preview; can move pre-NFP positioning. Consensus ~135k–155k range; hot ADP would reinforce hawkish-Fed thesis ahead of NFP.
+- **ISM Manufacturing PMI (June) 10:00 AM ET** — prices-paid sub-component is the hawkish-Fed read; new-orders + employment sub-components watched.
+- **Fed Chair Warsh speaks 9:30 AM ET** (Portugal/Europe theme) — hawkish-dot-plot reinforcement risk.
+- JOLTS (May) — possibly Wed if not released Tue.
+
+**V add gate (Wed 7/1) — REVISED framework after Tue chase-rally:**
+- Conditions: (i) 10Y ≤4.55% ✓ pending (was 4.37% Tue); (ii) tape stable — NO 3rd-day chase-rally extension (gate-closing condition); (iii) no fresh negative geopolitical / AI-cohort shock; (iv) ADP/ISM-Mfg/Warsh-speak don't introduce hawkish-rate shock; (v) no fresh negative V single-name catalyst.
+- **Path (a) Execute Wed mid-morning** if Wed opens modestly red-to-flat (mean-reversion of Tue's chase-rally) AND ADP/ISM-Mfg in-line AND Warsh speech neutral-to-dovish → 10:30 AM–12:00 PM ET window; spec: 10 sh V @ ~$345–$350 = ~$3,500 / ~3.5% position.
+- **Path (b) Defer Wed → Mon 7/6** if Wed open extends the rally (3rd-day-continuation = chase-the-rally violation), OR ADP/ISM-Mfg hot → hawkish-rate shock, OR ISRG cushion compression triggers a discretionary-trim path (b) attention drain. Mon 7/6 post-NFP digestion provides cleaner setup.
+- **Path (c) Cancel V week 7** if Wed delivers another ≥−1pp UND day → book is in regime-stress mode; preserve dry powder for next-week reset.
+
+**MA 2nd-add gate (Wed):**
+- DEMOTED given Tue's structural UND + V not executed + ISRG cushion compression. Active gate condition now requires V to be executed Wed AND ISRG cushion to recover above 3.5% intraday — both unlikely on a single Wed session. **Lean defer MA to Mon 7/6 post-NFP at earliest.**
+
+**Thesis notes for tomorrow:**
+- **The cumulative-OP lead is gone.** −1.332pp UND vs SPY at Tue close = below break-even; the structural cash-cushion bargain (lesson #2: OP-on-DOWN ≥ UND-on-UP) is being tested. Need Thu NFP to flip the regime — hot-NFP → hike-odds reset → AI-cohort risk-off Thu PM into Fri-holiday gap = the most likely scenario for the DOWN-tape OP the book is structurally positioned for. **Do NOT abandon the cash floor to chase a 3rd-day continuation rally** — that would compound the directional bet at exactly the wrong moment.
+- **Lesson #1 vs Lesson #4 tension live again on ISRG.** Lesson #1 says: cushion <3% + cohort-lag + far-catalyst = consider discretionary trim. Lesson #4 says: wait for AI-cohort-specific risk-off day to test the diversifier — Thu NFP is that test. **Recommended posture:** hold-the-stop into Wed AM with explicit cushion-compression triggers armed; if Wed AM tape provides relief bid for ISRG → hold through Thu NFP for the diversifier test; if Wed AM tape extends the cohort-lag-with-red pattern → execute path (b) discretionary trim Wed mid-morning ahead of Thu NFP risk.
+- **LLY day-after-HWM-fade pattern played out (−2.49% Tue).** The HWM $1,238.00 was the parabolic spike top; current $1,199.30 is the new shelf. Per lesson #3 (do NOT manually tighten on same-day spike), the trail did its job — cushion 7.10% remains healthy. No manual-tightening discussion live for Wed.
+- **Thu 7/2 NFP is the dominant binary event of the week.** Pre-NFP positioning often de-risks Wed afternoon; tape can drift directionally based on ADP read AM. Hot-ADP-cold-NFP-divergence risk is real (ADP and NFP frequently diverge by 50–100k). Thu's outcome is the single most consequential market input for both Wed positioning and Week 7 close.
+
