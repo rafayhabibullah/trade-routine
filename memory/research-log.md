@@ -1909,3 +1909,161 @@ Not Monday — no new SPY reference recorded. **Week 6 Start SPY remains $746.74
   - **Lesson #3 (post-confirmed-beat-hold, do NOT manually tighten on same-day spike) hit its empirical peak today** — three HWM ratchets in two trading days (Thu-Fri double-ratchet + Mon third-ratchet) advancing locked-in realized from +7.27% Thu close → +12.28% Mon close (+501 bps captured across three ratchets without any manual action). The lesson is now the strongest-validated lesson in the book. Re-evaluation triggers still inactive: (a) close >$1,250 within 2 sessions, (b) negative single-name catalyst, (c) cushion <4% multi-day without thesis change.
   - **Lesson #2 (cash-cushion-as-cushion) cycle continues — Week 5 UP-tape UND −1.16pp / Week 6 DOWN-tape OP +2.46pp / Week 7 day-1 UP-tape UND −1.03pp.** The structural OP-on-DOWN / UND-on-UP pattern is now a recurring 3-regime stack. Acceptable so long as DOWN-tape OP magnitude meaningfully exceeds UP-tape UND magnitude over a rolling sample, which it does (~1.4pp net positive over the last 2 regimes). Do NOT abandon the cash floor to chase the Mon risk-on rally.
   - **Lesson #5 (mega-cap-AI concentration tail risk) discipline holds.** Tesla +8.06% / Alphabet +4.62% (Dow inclusion) led the tape Mon — zero mega-cap-AI exposure means the book did not catch that bid. Empirical bar for the discipline = the GOOGL/AMZN/META stop-out sequence + Week 6 Fri quarter-end-tech-rout where zero mega-cap-AI avoided larger losses. Single-day UND on UP-tape rotations is the structural trade-off; do not chase mega-cap-AI back into the book on a one-day rotation tape.
+
+---
+
+## Research — 2026-06-30 (Tuesday — Week 7 day 2 of 4; post-Mon-record-rally digestion; Chicago PMI + Consumer Confidence day; pre-NFP-Thu setup; V add gate reassess)
+
+### Market Conditions
+**Modestly risk-ON pre-mkt — but a tape-deceleration from Mon's record rally.** Per Fortune/CNBC: **Dow futures +0.25% (+128 pts), S&P 500 futures +0.38%, Nasdaq-100 futures +0.35%** — a much milder continuation than Mon's risk-on burst (Dow futures +0.39% → cash +0.59%; S&P futures +0.74% → cash +1.18%; Nasdaq +1.08% → cash +2.07%). **Driver:** US/Iran ceasefire framework holds — both sides agreed to **meet in Qatar Tuesday** to resolve Strait-of-Hormuz differences, with commercial vessels allowed to transit freely. One conflicting source flags talks may be "on hold" (Pakistani source) vs administration saying they are NOT off — geopolitical headline risk live. **Oil edged higher** (WTI +1.3% to $70.17) on persistent supply concerns. **Mon close marks:** Dow 52,182.74 (all-time closing high), S&P 500 7,440.43 (+1.18%), Nasdaq 25,820.14 (+2.07%). **10Y at ~4.37% Tuesday morning** — lowest since early May; rate-cut sentiment building on cooling-energy / hawkish-Fed digestion. **V add gate path-(a) condition #1 (10Y ≤4.55%) DECISIVELY MET.** No tier-1 macro Tue; week binary remains **Thu 7/2 NFP (June) 8:30 AM ET** (moved up from Fri due to 7/3 market closure).
+
+### SPY Reference Price
+Not Monday — no fresh SPY reference recorded. **Week 7 Start SPY remains $728.99** (Fri 6/26 close per portfolio.md). **Mon 6/29 close: S&P 500 7,440.43 +1.18%** → implied SPY close **~$737.16–$737.61**; portfolio.md carries Mon SPY close mark at ~$737.16. **WTD SPY through Mon close: +1.121%.**
+
+### Position Count This Week
+**0 of 3 BUY slots used.** Alpaca confirms no new orders since 6/12 (last buy: ISRG 5/29). V add NOT executed at Mon mid-morning gate per portfolio plan (path-(a) reassess deferred to Tue) — full $91,303.23 dry powder intact. **V is the PRIMARY add candidate at the Tue mid-morning gate (10:30 AM–12:00 PM ET).** MA remains bench for potential Wed/Thu 2nd-add. KKR demoted (thesis-impaired). 3 slots remain.
+
+### Account State (Pre-Open Tue 6/30 — verified via Alpaca)
+- **Equity (pre-mkt):** **$99,857.32** (last_equity Mon close $99,876.68 from Alpaca; slight pre-mkt drift **−$19.36 / −0.019%** driven by LLY −0.40% pre-mkt fading the Mon parabolic, ISRG +0.01% essentially flat).
+- **Cash:** **$91,303.23** (91.43% — full dry powder intact); long market value **$8,554.09** (8.57%).
+- **Today's daily-loss cap trigger:** **$96,880.38** ($99,876.68 × 0.97). Clear by wide margin pre-open.
+- **Daytrade count:** 0; trading not blocked.
+- **Buying power:** $389,164.37 (4× margin); non-marginable BP $95,580.27.
+- **2 open trailing stops re-verified live & GTC at session start:**
+  - ISRG `b271eef3-1027-435e-8818-2c838e0ace9b` — stop **$387.765**, hwm $430.85 (updated_at 6/9 — UNCHANGED).
+  - LLY `28f47c51-a223-4698-9fee-867b1c411ce4` — stop **$1,114.20**, hwm **$1,238.00** (updated_at Mon 6/29 13:35:40 UTC — THIRD RATCHET landed Mon).
+
+### Current Positions Snapshot (Pre-Open Tue 6/30)
+| Symbol | Shares | Avg Entry | Pre-Mkt Price | Pre-Mkt P&L $ | Pre-Mkt P&L % | Stop | Approx Cushion |
+|--------|--------|-----------|---------------|----------------|----------------|------|----------------|
+| ISRG | 9 | $425.163 | $406.01 | −$172.38 | **−4.50%** | $387.765 | **~4.70%** (slightly improved from Mon close 4.49%) |
+| LLY | 4 | $992.355 | $1,225.00 | +$930.58 | **+23.44%** | $1,114.20 | **~9.94%** (slightly improved from Mon close 9.35% on lower price; HWM-stop unchanged) |
+
+**LLY signal:** Pre-mkt $1,225.00 = −0.40% from Mon close $1,229.93; well below Mon HWM $1,238.00 — **no fresh ratchet pending pre-mkt.** This is the "mild consolidation off Mon parabolic" outcome flagged in Mon-close watch; lesson #3 holds (the trail did its job at the open Mon — afternoon fade and modest Tue pre-mkt fade are normal post-spike consolidation). Cushion ~9.94% widens slightly vs Mon close; re-evaluation triggers (close >$1,250 within 2 sessions, negative single-name catalyst, cushion <4% multi-day) all remain INACTIVE.
+
+**ISRG signal:** Pre-mkt $406.01 = +0.01% from Mon close $405.97 — essentially flat. Cushion improves marginally to ~4.70% (vs Mon close 4.49%) on the slight lift. **Lesson-#1 <3% danger zone fully cleared.** Within-diversifier-divergence sub-lesson still applies — modest-risk-on Tue is the same regime-wrong-for-diversifier as Mon was; expect ISRG to lag (not lead) the broad-tape if futures hold. Hold-the-stop discipline remains active call.
+
+### Earnings This Week — Do Not Buy
+- **Tue 6/30 PM (TODAY):** **NKE (Nike) Q4 FY26** — consensus EPS $0.13 (−7.1% YoY) on rev $10.85B (−2.2% YoY); management guides Q4 rev down 2–4%; "Win Now" turnaround completes by year-end. Consumer-discretionary tape-read into Wed. **STZ (Constellation Brands)** also reports. **AREC** small-cap. **10 total reports** — light list.
+- **Wed 7/1:** Light reports (no major name); Q2 earnings season begins in earnest week of July 13.
+- **Thu 7/2:** Light reports; NFP 8:30 AM ET dominates.
+- **Fri 7/3:** **Market closed.**
+- **Candidate-watchlist clearance:** **V clear** (Q3 late Jul); **MA clear** (Q2 late Jul); **MSFT/NOW clear** (late Jul). **No conflicts on watchlist for Tue 6/30 V add execution.**
+
+### Macro Events This Week
+- **TODAY (Tue 6/30):** **Chicago PMI (June) 9:45 AM ET** (May print 62.70 vs Apr 49.20 — big rebound; consensus for June TBD); **Conference Board Consumer Confidence (June) 10:00 AM ET**; potential **JOLTS Job Openings (May) 10:00 AM ET** (some sources flag this for Tue not Wed). Also possible **Fed-speak** (Bowman, Goolsbee may speak Tue — hawkish dot-plot reinforcement vs SCOTUS-Lisa-Cook-independence read tail-risk). Tier-2 reads — can move tape but typically not regime-changing.
+- **Wed 7/1:** **ADP Employment Change (June) 8:15 AM ET** (private NFP preview); **ISM Manufacturing PMI (June) 10:00 AM ET** (prices-paid sub-component the hawkish-Fed read); **Fed Chair Warsh speaks 9:30 AM ET** (Portugal/Europe theme).
+- **Thu 7/2:** **NFP / Unemployment Rate / AHE (June) 8:30 AM ET** — **MOVED UP FROM FRI** due to 7/3 closure — **BINARY EVENT OF WEEK.** Consensus +172k. Hot NFP + hot wages → July 28–29 FOMC hike odds push >40–50%; cool NFP → first material rate-cut-back-on-table conversation in months. Also: Initial Jobless Claims; Factory Orders (May).
+- **Fri 7/3:** **MARKET CLOSED for Independence Day** (July 4 falls Sat → Fri observed).
+- **Next FOMC: 7/28–7/29.** Post-PCE money markets pricing 25bp HIKE near-certain by October; some sources flag majority pricing first increase by September on Warsh hawkish commentary.
+
+### Watchlist for Today's Open (Tue 6/30 — Week 7 day 2; cap 0/3, 3 slots remain)
+
+| Symbol | One-Line Thesis | Rev Growth | Moat Type | Analyst Rating | Action |
+|--------|-----------------|------------|-----------|----------------|--------|
+| **V** | Q2 FY26 rev **+17%** to $11.23B (strongest since 2013 ex-post-pandemic); EPS $3.31 (+20% adj YoY, beat $3.10 cons); payments volume +9% to $3.7T; cross-border ex-intra-Europe +11%; processed transactions +9% to 66.1B; service revenue +13% to $5.0B; data processing revenue +18% to $5.5B; **$9.2B returned to shareholders + new $20B buyback authorized**; **OpenAI agentic-commerce integration LIVE** (June Visa Payments Forum SF); **Visa Destinations launched 6/25** (10 locations); **6/26 Class B share conversion / capital structure refinement**; **NEW today-relevant: Piper Sandler initiated Overweight on V on 6/26**; **V/Evo multiyear partnership 6/23**; Mon 6/29 trading range $335.39–$345.80, **last $341.74 (+1.6% Mon)**; YTD ~−1.8% (improved on Mon rally); 36 Buy / 0 Sell; **avg PT $398.83** (high $450 / low $330) = ~+17% upside | **17%** (Q2 FY26 actual) | Duopoly network (V/MA); scale; switching costs; brand; cross-border travel beta; **rate-agnostic** vs PE-multiple-compression risk | **Strong Buy** — 36+ analyst rec; PT $398.83 | **EXECUTE today** at mid-morning V add gate (10:30 AM–12:00 PM ET) per path (a). All conditions MET: (1) pre-mkt modestly green +0.38% S&P fut (NOT chase-rally — moderate continuation, not 2nd day burst); (2) 10Y at 4.37% (well below 4.55% gate); (3) no V single-name negative catalyst overnight (Piper SB upgrade reinforces); (4) earnings-clear through Jul. **EXECUTION SPEC (revised on Mon close $341.74):** Buy **10 sh V @ market-or-marketable-limit-$345** = **~$3,417 / ~3.4% position**. Post-fill set 10% trailing stop IMMEDIATELY. Cash post-add ~88.0% (well within 20% floor). |
+| **MA** | Q1 FY26 rev **+16%** to $8.40B; FY25 +16.4%; net rev +12% Q2; **Agent Pay for Machines (AP4M) live** (B2B/B2M agentic payments equivalent to V's OpenAI integration); BVNK $1.8B closed Mar 2026 (stablecoin infra); **NEW: Piper Sandler initiated Overweight; Wells Fargo Buy maintained; early court approval for V-merchant-fees settlement** (potential tailwind); **Value-Added Services & Solutions ~40% of revenue**; branded-cards decel 6→5% Q/Q (one watch-point); YTD ~−14.4% (cheaper YTD than V's −1.8%); 39 analyst rec (48% SB / 48% B / 4% H / 0% S); **avg PT $644.89** (~+29% upside) | 16% (Q1) / 12% (Q2 net rev) | Duopoly network (with V); switching costs; scale; brand; agentic-commerce optionality via AP4M + BVNK | **Strong Buy** — 38–39 analyst rec; PT $644.89 | **SECONDARY / Wed-Thu 2nd-add window** ONLY IF: (i) V add executes cleanly Tue mid-morning, (ii) V tape post-add is constructive (no immediate −2% drawdown), (iii) MA setup is clean (no fresh negative headline), (iv) prefer pre-NFP execution. **MA's −14.4% YTD vs V's −1.8% YTD creates a marginally cheaper entry but adding both creates duopoly-double-up correlation risk.** Watch for path (b) MA-only-defer-to-post-NFP scenario. Lean: 7 sh MA @ ~$500 = ~$3,500 / ~3.5% position if Wed-Thu gate executes. |
+| KKR | Q1'26 rev +39% / AUM $758B (+14%); **management ANI-guide cut to <$7/sh**; YTD ~−27% | 39% | Switching costs; scale/brand in alts | Buy consensus | **Demoted. NOT a Week-7 candidate.** Defer to post-FOMC 7/29 at earliest + only on meaningful bounce + monetization-timing clarity. |
+| MSFT | Q3 FY26 +18%, Azure +40%, AI run rate $37B | 18% / 40% Azure | Switching costs; scale; platform | Strong Buy; PT ~$560 | **Bench / Skip Week 7.** Lesson #5 (mega-cap-AI concentration tail risk) argues against re-introducing as first diversifier add post-3-stop-out. V over MSFT. |
+| NOW | Q1'26 sub rev +22%; FY26 guide $15.7B (+21%) | 22% | Switching costs; platform | Strong Buy | **Skip.** AI-cohort beta + lesson #5 disqualifier. |
+
+### Existing Position Notes
+
+| Symbol | News (since 6/29 close) | Thesis Still Valid? | Action |
+|--------|--------------------------|---------------------|--------|
+| **LLY** | **Mon 6/29 third HWM ratchet landed at 9:35 AM ET** on US-Iran-truce risk-on bid: HWM $1,215.76 → $1,238.00; stop $1,094.184 → $1,114.20; locked-in realized +12.28%. Intraday range $1,203.14–$1,238.00 = mild afternoon fade (~0.71% off the HWM print). **No fresh news between Mon close and Tue pre-mkt.** Persistent thesis-strengthening cluster: Jaypirca EU CHMP positive opinion 6/26 (EC decision in 1–2 months); BRUIN CLL-322 Phase 3 +45% PFS 6/14; retatrutide Phase 3 multi-indication (T2D-1 up to 36.6 lbs / 16.8% wt loss, knee OA, OSA) 6/6; Centessa $7.8B closed 6/24; 4E Therapeutics 6/16; FDA submission "by year-end." **Watchpoint: Medicare GLP-1 Bridge subsidy program flagged 6/25** ($50/mo Foundayo + Zepbound — potential margin pressure but offset by volume scale). Mkt cap $1.08T; P/E 43.49 (stretched); analyst avg PT $1,236.25 — within 0.6% of current = near full-targeted. | **Yes — strengthening.** Pharma defensive bid + oncology franchise (Jaypirca EU) + GLP-1 retatrutide-multi-indication + pipeline acquisitions all firing. **Valuation concern (P/E 43.49) is the lone analyst watchpoint;** Medicare-Bridge margin-pressure read is a small offset to scale-volume tailwind. | **Hold; trailing stop manages all downside.** Stop $1,114.20 (locks +12.28% realized if hit). HWM $1,238.00 unchanged. **Lesson #3 (post-confirmed-beat-hold) dominates — DO NOT manually tighten on Mon's HWM-print + Tue mild-fade.** Re-evaluation triggers all INACTIVE: (a) close >$1,250 within 2 sessions (would need ~+2.04% intraday move from $1,225 — possible but not pre-mkt-implied); (b) negative single-name catalyst — none; (c) cushion <4% multi-day — currently 9.94%. **>7% intraday cut rule armed** (irrelevant on trajectory). |
+| **ISRG** | Mon 6/29 close $405.97 (+0.31% on Nasdaq +1.8% = expected cohort-lag per lesson #4 — diversifier runs on AI-cohort risk-off days, NOT broad risk-on rallies). **Pre-mkt Tue $406.01 essentially flat.** No fresh negative single-name catalyst overnight. Persistent overhangs: FDA Class I + Class II recalls (Da Vinci instruments + SureForm 30 Gray stapler); Deutsche Bank PT $440 (warning 2026 procedure growth unsustainable at premium); Medtronic Hugo / China competition; **Taylor Patton promotion to Chief Commercial & Marketing Officer effective 7/1** (announced 5/28 — known; not new pre-mkt). Simply Wall St fair-value reset $611.82 → $565.25 (still meaningful upside vs $406 print). Goldman 6/25 fundamentals-backing sentiment-support data-point persists. Next earnings **Jul 16** (~2 weeks out — still far catalyst). | **Yes — fundamentals intact;** price-action thesis = diversifier-on-AI-cohort-risk-off (lesson #4 regime). **Today's modest-risk-on Tue is the same wrong-regime as Mon** — expect ISRG to lag broad-tape; NOT a thesis break, just expected behavior. | **Hold; trailing stop manages downside.** Stop $387.765 (cushion ~4.70% pre-mkt). **No trim discussion** absent fresh negative single-name catalyst. **Mid-day >7% intraday cut rule armed.** Lesson #4 next true test = the next AI-cohort risk-off day (NFP-Thu binary outcome could create it). |
+
+### Stop-Cushion Snapshot (Pre-Open Tue 6/30)
+- **ISRG** — cushion **~4.70%** at $406.01 vs stop $387.765. Out of lesson-#1 <3% danger zone; hold-the-stop default.
+- **LLY** — cushion **~9.94%** at $1,225.00 vs stop $1,114.20. Mon HWM-spike consolidating mildly; no fresh ratchet pending pre-mkt. Re-evaluation triggers (close >$1,250 within 2 sessions, neg catalyst, cushion <4% multi-day) all INACTIVE.
+- **Combined book delta-1 exposure structurally low (8.57% invested);** lesson #2 cash-cushion-as-cushion will UNDERPERFORM on a modest risk-on day like Tue's expected open — accept the UND; the structural OP got delivered Fri 6/26 (+1.11pp single-day) and the cycle remains net-positive over last 2 regimes.
+
+### Plan for Today's Open (Tue 6/30) — V Add Execution Day (Path (a) Conditions MET)
+
+**Pre-Open (now → 9:30 AM ET):**
+- Trailing stops re-verified live & GTC (ISRG $387.765; LLY $1,114.20). ✓
+- Day Open Value = Alpaca last_equity **$99,876.68** (Mon close).
+- Daily-loss cap trigger **$96,880.38** ($99,876.68 × 0.97).
+- Equity pre-mkt $99,857.32 (drift −$19.36 / −0.019% on LLY mild fade).
+
+**9:30 AM Open (Tuesday):**
+- **Gap-risk check both positions.** LLY pre-mkt $1,225 (−0.40%) = mild fade; ISRG $406.01 essentially flat — no gap risk on either.
+- **NO new buy at the open** — V execution gated to mid-morning 10:30 AM ET window per existing playbook (avoid opening volatility; capture entry in calmer mid-morning tape).
+
+**9:45 AM ET — Chicago PMI (June):** Watch for hot vs cool print; hot reinforces hawkish-Fed; cool eases. May print 62.70 (strong rebound) — June print would be the consensus question. **Will adjust V add gate timing slightly based on PMI read:** strong-tape-driving print → wait an extra 10–15 min for digestion before V execution; cool print → early-window 10:30 execution acceptable.
+
+**10:00 AM ET — Conference Board Consumer Confidence (June) + possibly JOLTS (May):** Secondary tape signals. Watch for any V cohort-trade reactions.
+
+**10:30 AM–12:00 PM ET — V ADD GATE EXECUTION (PATH (a) PRIMARY):**
+- **Pre-flight check:** (1) V quote in $335–$348 range (no headline whipsaw); (2) SPY/Nasdaq tape stable (no fresh negative geopolitical / AI-cohort shock); (3) 10Y still ≤4.55%; (4) Alpaca buying power + cash floor verified.
+- **EXECUTION SPEC:** Buy **10 shares V @ market-or-marketable-limit-$345** = **~$3,417 / ~3.4% position** at $341–$345.
+- **Post-fill — IMMEDIATELY set 10% trailing stop** on the new V position. Verify GTC + live before considering complete.
+- **Document the execution in trade-log.md** with one-line thesis matching the watchlist row.
+
+**Path (b) — defer one session (Wed 7/1):** If Tue tape gaps with fresh negative geopolitical shock (US-Iran-Qatar-talks-breakdown) or AI-cohort shock → defer V to Wed mid-morning post-ADP/ISM-Mfg read; reassess. (Risk: stacking V execution into Wed ADP/ISM-Mfg + Thu NFP binary = more event risk.)
+
+**Path (c) — defer to post-NFP (Mon 7/6):** Tue AND Wed both gap-down >−1% with no clean entry → defer V to Mon 7/6 (post-NFP, post-July-4); preserves cap 1 of 3 used (or 0 of 3 if all three defer).
+
+**Path (d) — abort V add for Week 7:** Any V single-name negative catalyst Tue/Wed → abort and reassess Week 8.
+
+**Mid-day (11:30 AM–1:30 PM ET):**
+- **>7% intraday cut rule armed on all positions** (now 3 positions if V fills); daily-loss cap $96,880.38.
+- LLY cushion-watch (no anxiety zone — ~9.94% pre-mkt); ISRG cushion-watch (lesson-#1 de-armed).
+
+**3:00–4:00 PM ET — late-day flows:**
+- NKE earnings PM (after close) — consumer-discretionary tape-read into Wed; not a V/MA-cohort signal.
+- LLY HWM ratchet tail-monitor (close >$1,238 intraday triggers another mechanical ratchet; close >$1,250 within 2 sessions trips lesson-#3 re-evaluation trigger).
+
+**4:00 PM ET — Tue close + Week 7 day-2 mark:**
+- Record portfolio day net + Week 7 day-2 mark vs SPY day move.
+- Update portfolio.md with V add (if executed), new V trailing stop, updated cash %, updated position table, any LLY HWM ratchet (if printed).
+
+**Cash floor (≥20%) check:** 91.43% cash pre-mkt; V add (~$3,417) → **~88.0% cash post-add** — well within floor.
+
+### Thesis Notes / Read Heading Into Tuesday
+
+- **Tue pre-mkt is a MODERATE continuation, NOT a chase-rally.** Mon's record-high close (Dow >52K first time; Nasdaq +2.07%; S&P +1.18%) was sentiment-driven on US-Iran-truce + SCOTUS-Lisa-Cook + Q3 positioning. Tue futures +0.25/+0.38/+0.35% = a much smaller bid = the "consolidation continuation" tape, not the "chase 2nd-day-burst" tape that argues against execution. **This is the right tape for V execution** — risk-on enough to avoid risk-off-trim concerns, mild enough to avoid sentiment-driven entry inflation. **Path (a) conditions ALL MET.**
+- **The Tue 10Y at 4.37% (lowest since early May) is a meaningful V-add tailwind** — payments-duopoly business is rate-agnostic, but a lower 10Y reduces PE-multiple-compression risk on the broader market and creates a more favorable financial-sector backdrop. The Fed-Warsh hawkish commentary persists at the policy-rate end, but the long-end is fading the inflation read on lower oil. **Conditions for V add genuinely better Tue than Mon.**
+- **LLY consolidation off Mon parabolic = healthy.** Mon's 9:35 AM ET HWM ratchet $1,215.76 → $1,238.00 with afternoon fade to $1,229.16 close, then Tue pre-mkt fade to $1,225 = the textbook "mechanical ratchet captures the spike, then price consolidates" pattern. Lesson #3 vindicated for the third time in 2 sessions; no manual-tightening discussion live. Re-evaluation trigger close >$1,250 within 2 sessions would need a $25+ intraday rip on Tue or Wed — possible but not pre-mkt-implied.
+- **ISRG continues in the wrong-regime-for-diversifier window.** Mon's +0.31% on Nasdaq +1.8% was expected cohort-lag (lesson #4 = diversifier runs on AI-cohort risk-off days). Tue's modest-risk-on extends the wrong-regime. **The Thu 7/2 NFP binary outcome is the next true test** — a hot-NFP (consensus 172k beaten on the high side) → hike-odds-reset → AI-cohort risk-off Thu PM into Fri-holiday gap = the kind of regime where lesson #4 ISRG-diversifier proves itself. Hold-the-stop discipline through to that test.
+- **Visa add carries with high conviction Tue** for these reasons: (1) **Conditions MET cleanly** — moderate risk-on (not chase-rally) + 10Y 4.37% (well below 4.55%) + no V single-name negative catalyst; (2) **Earnings-clear** through July; (3) **Fundamentals strong** — Q2 +17% rev (best ex-pandemic since 2013), +20% adj EPS, $9.2B returned + new $20B buyback, OpenAI agentic-commerce LIVE, Visa Destinations LIVE, low-teens FY guide; (4) **Piper Sandler OW initiation 6/26** = fresh analyst-tailwind in window; (5) **YTD −1.8% (post-Mon rally improvement from earlier −5.7%)** = still cheaper than MA at −14.4% only by sector but reasonable entry vs PT $398.83 (~+17% upside).
+- **MA stays bench for Wed-Thu pre-NFP 2nd-add IF tape allows.** MA's cheaper YTD (−14.4% vs V's −1.8%) + Piper SB OW initiation + Wells Fargo Buy + early-court-approval V-merchant-fees-settlement is genuinely compelling — but adding both V+MA same week creates duopoly-double-up correlation. **Prefer let V execute Tue, see post-add tape Wed AM, decide on MA Wed mid-morning** if all paths constructive.
+- **Week 7 day-2 UND-tape extension risk:** lesson #2 cash-cushion-as-cushion structurally UNDs on UP-tape days; Mon delivered ~−1.03pp WTD UND, Tue futures imply another ~−0.3 to −0.5pp UND if futures hold. This is acceptable in the context of the structural OP-on-DOWN-tape cycle that delivered +1.11pp on Fri 6/26 and +2.46pp WTD Week 6. **Do NOT abandon the cash floor to chase a moderate Tue bid;** the V add (3.4% incremental position) is the correct calibrated response, not a larger allocation.
+- **Path-(b) defer-to-Wed is a real fallback IF Chicago PMI / Consumer Confidence hits create unexpected hawkish/dovish surprises.** A meaningfully strong Chicago PMI + hot Consumer Confidence + Fed-Bowman/Goolsbee-hawkish-speak combination at 9:45–10:30 AM ET could shift mid-morning tape enough to defer V; conversely, a meaningfully weak combination could pull V execution earlier in the 10:30 window.
+
+### Pre-Wednesday Decision Queue
+- (1) **Tue 6/30 9:30 AM open** — gap-risk check both positions; trailing stops live & GTC re-verified; Day Open Value $99,876.68 recorded.
+- (2) **Tue 6/30 9:45 AM ET — Chicago PMI (June)** — calibrate V-execution-timing within 10:30–12:00 ET window.
+- (3) **Tue 6/30 10:00 AM ET — Consumer Confidence + JOLTS (May)** — secondary tape signal.
+- (4) **Tue 6/30 10:30 AM–12:00 PM ET — V ADD EXECUTION (path (a) primary; spec: 10 sh V @ ~$345 / ~$3,417 / ~3.4% position); set 10% trailing stop immediately after fill.**
+- (5) **Tue 6/30 mid-day check** — >7% intraday cut rule armed; daily-loss cap $96,880.38.
+- (6) **Tue 6/30 3:00–4:00 PM ET — late-day flows + LLY HWM tail-monitor + NKE earnings PM (no watchlist conflict).**
+- (7) **Tue 6/30 4:00 PM ET close + Week 7 day-2 mark** — update portfolio.md with V add (if executed), new V trailing stop, updated cash %, any LLY HWM ratchet.
+- (8) **Wed 7/1 — ADP / ISM Mfg / Warsh-speaks** — MA 2nd-add gate window if V cleanly executed Tue AND tape constructive.
+- (9) **Thu 7/2 — NFP (June) 8:30 AM ET** — BINARY EVENT OF WEEK; MA 2nd-add window-2 only on cool-NFP + V-tape-constructive criteria.
+- (10) **Fri 7/3 — MARKET CLOSED for Independence Day** observed.
+- (11) **Mon 7/6 — Week 8 day 1** — post-NFP / post-July-4 digestion; ISM Services PMI 10:00 AM ET; fresh decision context.
+
+---
+
+## Tomorrow's Watch — 2026-07-01
+
+- **Positions to monitor:**
+  - **LLY** — Cushion management around HWM $1,238.00 stop $1,114.20; close >$1,250 within next 2 sessions would trip lesson-#3 re-evaluation trigger (consider 7% trail tightening); cushion compression below 4% multi-day would also re-arm.
+  - **ISRG** — Hold-the-stop default while Tue/Wed modest-risk-on tape persists; cushion management around lesson-#1 <3% danger zone; next AI-cohort risk-off day (potentially post-NFP-Thu) is the next diversifier-thesis test.
+  - **V (if filled Tue)** — Newly opened position with 10% trailing stop; expect routine same-day price action; first-week cushion-management discipline applies.
+
+- **Macro events tomorrow (Wed 7/1):**
+  - **ADP Employment Change (June) 8:15 AM ET** — private-sector NFP preview; can move pre-NFP positioning.
+  - **ISM Manufacturing PMI (June) 10:00 AM ET** — prices-paid sub-component is the hawkish-Fed read; new-orders + employment sub-components watched.
+  - **Fed Chair Warsh speaks 9:30 AM ET** (Portugal/Europe theme) — hawkish-dot-plot reinforcement risk.
+  - JOLTS (May) — possibly Wed if not Tue.
+
+- **MA 2nd-add gate (Wed):** Open only if (i) V add executed cleanly Tue + (ii) Tue close tape constructive (no >−2% V drawdown / no broad-tape risk-off) + (iii) Wed ADP/ISM-Mfg/Warsh-speak doesn't introduce hawkish-rate shock + (iv) MA setup clean (no fresh negative single-name headline). Spec: 7 sh MA @ ~$500 = ~$3,500 / ~3.5% position.
+
+- **Thesis notes for tomorrow:**
+  - **NFP Thu is the dominant binary event of the week.** Pre-NFP positioning often de-risks Wed afternoon; tape can drift directionally based on ADP read AM. **Hot-ADP-cold-NFP-divergence risk** is real (ADP and NFP frequently diverge by 50–100k).
+  - **MA 2nd-add timing is genuinely contested between Wed (pre-NFP) and Mon 7/6 (post-NFP):** pre-NFP captures entry before potential cool-NFP rally but bears NFP-day risk; post-NFP loses the entry timing but gets clarity on regime. **Lean Wed IF all gate conditions cleanly met; lean Mon 7/6 IF any gate condition equivocal.**
+  - **LLY day-after-HWM-fade pattern:** Tue's pre-mkt $1,225 fade is normal post-spike consolidation; Wed direction more telling. A flat-to-slightly-positive Wed would confirm the HWM print is the new shelf; a >−1% Wed move would suggest the HWM was a parabolic top.
+
