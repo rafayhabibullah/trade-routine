@@ -1,31 +1,56 @@
 # Portfolio
 
-**Last Updated:** 2026-06-30 (market-close routine — Tuesday, Week 7 day 2; SPY +1.29% strong risk-ON continuation of Mon rally; **V add NOT executed** at mid-morning gate; book sold off ON the bid — both positions red (LLY −2.49%, ISRG −2.04%); cumulative OP lead lost on the single risk-on session; ISRG cushion compressed BACK INTO lesson-#1 <3% danger zone)
+**Last Updated:** 2026-07-01 (market-open routine — Wednesday, Week 7 day 3 of 4; pre-mkt modest RISK-OFF fading Tue's chase-rally; both positions mild green at open — LLY +0.62%, ISRG +0.52%; ISRG cushion ~3.00% right at lesson-#1 danger-zone edge; NO trades at open per plan; V add + ISRG lesson-#1 decision both gated to 10:30 AM–12:00 PM ET mid-morning window)
 **Account:** Alpaca Paper Trading
 **Endpoint:** https://paper-api.alpaca.markets
 
 ## Account Summary
 - Cash: **$91,303.23**
-- Total Portfolio Value (close Tue 6/30): **$99,679.55**
-- Invested (long_market_value): $8,376.32 (8.40%)
-- Cash Reserve: $91,303.23 (91.60%)
-- **Day Open Value (Tue 6/30):** **$99,876.68** (Alpaca last_equity = Mon 6/29 close).
-- **Day Net (Tue 6/30):** **−$197.13 / −0.197%** ($99,876.68 → $99,679.55). Daily-loss cap trigger **$96,880.38** — clear by wide margin.
-- **Week Start Value (Mon 6/29):** **$99,778.01**. WTD through Tue close: **−0.099%** ($99,778.01 → $99,679.55).
-- **Week Start SPY (Mon 6/29):** **$728.99** (Fri 6/26 close). SPY Tue close **$746.65** (intraday high $748.01; +1.287% day vs Mon close $737.16). WTD SPY through Tue close: **+2.423%** ($728.99 → $746.65). **WTD UND: −2.522pp** entering Wed 7/1.
-- **Cumulative since launch (close Tue 6/30):** $100,000 → $99,679.55 = **−0.320%** vs SPY $739.17 → $746.65 = **+1.012%** → **−1.332pp cumulative UND** (slipped from +0.146pp OP at Mon close → −1.332pp UND today; **−1.484pp DAY UND on the single risk-on session** — Mag7-led continuation bid, defensive cohort de-rated, both book positions sold off on the broad-tape rally).
-- New positions this week (6/29–7/2): **0 of 3** (V add NOT executed — see today's close-routine notes for the decision-context).
+- Total Portfolio Value (pre-open Wed 7/1): **$99,732.98**
+- Invested (long_market_value): $8,429.75 (8.45%)
+- Cash Reserve: $91,303.23 (91.55%)
+- **Day Open Value (Wed 7/1):** **$99,680.07** (Alpaca last_equity = Tue 6/30 close; +$0.52 reconciliation vs portfolio.md Tue close mark $99,679.55).
+- **Day Net (Wed 7/1 pre-open):** **+$52.91 / +0.053%** ($99,680.07 → $99,732.98). Daily-loss cap trigger today: **$96,689.67** — clear by wide margin.
+- **Week Start Value (Mon 6/29):** **$99,778.01**. WTD through Wed pre-open: **−0.045%** ($99,778.01 → $99,732.98).
+- **Week Start SPY (Mon 6/29):** **$728.99** (Fri 6/26 close). Tue 6/30 SPY carried as $746.65; research-log 7/1 flags this may be stale (S&P 500 +0.79% Tue → implied SPY closer to ~$743; WTD SPY closer to +1.92% not +2.42%; reconcile at Mon 7/6 open with fresh mark).
+- **Cumulative since launch (pre-open Wed 7/1):** $100,000 → $99,732.98 = **−0.267%** vs SPY $739.17 → $746.65 carried = +1.012% → **~−1.28pp cumulative UND** (using carried SPY; ~−0.7pp using revised research-log ~$743 mark). Recovered ~5 bps overnight vs the Tue-close −1.33pp UND mark.
+- New positions this week (6/29–7/2): **0 of 3** — 3 slots remain. V add still primary candidate at Wed mid-morning gate under REVISED-HIGHER-BAR framework.
 - Closed positions this week: **0**.
 - Daytrade count: 0; trading not blocked.
 
-## Open Positions (Tue 6/30 close, live)
+## Open Positions (pre-open Wed 7/1, live)
 
 | Symbol | Shares | Avg Entry | Current Price | Market Value | Total P&L $ | Total P&L % | Day Change | Trailing Stop |
 |--------|--------|-----------|---------------|--------------|-------------|-------------|------------|---------------|
-| ISRG | 9 | $425.163 | $397.68 | $3,579.12 | −$247.35 | **−6.46%** | −2.042% | 10% trail (hwm $430.85 → stop $387.765 — UNCHANGED; **~2.49% cushion** from current $397.68, ~$9.92/sh from stop; **CROSSED BACK INTO LESSON-#1 <3% DANGER ZONE** from Mon close 4.49%; lesson-#1 framework RE-ARMED; material negative cluster persists; next earnings Jul 16 = ~2.3 weeks = far-catalyst per lesson #1 framework) |
-| LLY | 4 | $992.355 | $1,199.30 | $4,797.20 | +$827.78 | **+20.85%** | −2.490% | 10% trail (hwm $1,238.00 → stop $1,114.20 — UNCHANGED; cushion **~7.10%** from current $1,199.30, ~$85.10/sh from stop; compressed from Mon close ~9.50% on the −2.49% day; HWM still $1,238 from Mon 6/29 9:35 AM ET ratchet; lesson #3 (post-confirmed-beat-hold) still dominates; thesis unchanged — Jaypirca EU CHMP positive 6/26 + Centessa $7.8B 6/24 + retatrutide multi-indication; FDA submission "by year-end" = far catalyst) |
+| ISRG | 9 | $425.163 | $399.75 | $3,597.75 | −$228.72 | **−5.98%** | +0.521% | 10% trail (hwm $430.85 → stop $387.765 — UNCHANGED since 6/9; **~3.00% cushion** from $399.75, ~$11.99/sh from stop; **RIGHT AT LESSON-#1 <3% DANGER-ZONE EDGE** — improved slightly from Tue close 2.49% on mild relief bid, but not a clean recovery above the threshold; lesson-#1 framework STAYS ARMED for Wed mid-morning decision window; material negative cluster persists; next earnings Jul 16 = ~2 weeks) |
+| LLY | 4 | $992.355 | $1,206.83 | $4,827.32 | +$857.90 | **+21.62%** | +0.617% | 10% trail (hwm $1,238.00 → stop $1,114.20 — UNCHANGED since Mon 6/29 13:35:40 UTC; cushion **~7.68%** from $1,206.83, ~$92.63/sh from stop; recovered from Tue close ~7.10% on the mild green open; HWM still $1,238 from Mon 6/29 ratchet; lesson #3 (post-confirmed-beat-hold) still dominates; thesis unchanged — Medicare GLP-1 Bridge launches TODAY 7/1; Jaypirca EU CHMP positive 6/26 → EC decision within 1–2 months; Centessa $7.8B 6/24 + retatrutide multi-indication) |
 
-*(Live prices from Alpaca positions endpoint at Tue 6/30 close. 2 of 2 trailing stops verified live & GTC. Neither HWM advanced today.)*
+*(Live prices from Alpaca positions endpoint at Wed 7/1 pre-open. 2 of 2 trailing stops verified live & GTC. Neither HWM advanced overnight.)*
+
+## Today's Market Open Routine — 2026-07-01 (Wednesday, Week 7 day 3 of 4; pre-mkt modest RISK-OFF fading Tue's chase-rally; both positions mild green pre-open; NO trades at open per plan; V add + ISRG lesson-#1 decision both gated to mid-morning window)
+
+- **No trades placed at open** per the research-log 7/1 plan. **V add execution gated to mid-morning 10:30 AM–12:00 PM ET window under REVISED-HIGHER-BAR framework** (Tue's chase-rally forced a higher bar); **ISRG lesson-#1 decision window opens 10:00 AM–12:00 PM ET** with paths (a) hold-the-stop, (b) discretionary trim 9 sh @ market ~$395–$400, or (c) hold-through-NFP based on Wed AM tape response to ADP/ISM-Mfg/Warsh-Sintra. Cap stays **0 of 3** at open for the week; ISRG/LLY managed via existing trailing stops only.
+- **Day Open Value recorded:** **$99,680.07** (Alpaca last_equity = Tue 6/30 close; live portfolio_value at session start $99,732.98 = **+$52.91 / +0.053% at-open drift**). Daily-loss cap trigger today: **$96,689.67**.
+- **Pre-mkt tape modestly RISK-OFF fading Tue's chase-rally:** S&P 500 futures ~−0.38%, Nasdaq futures ~−0.4%, Dow futures ~flat (per research-log 7/1). **This is the STRUCTURALLY-RIGHT tape** for V add execution mean-reversion path-(a) premise — but confluence of ADP (8:15 AM ET) + ISM-Mfg (10:00 AM ET) + Warsh Sintra Portugal panel + JOLTS creates 3–4 macro headline-risk vectors in the mid-morning window; REVISED-HIGHER-BAR requires all to clear cleanly. **Base case per research-log: path (b) defer V to Mon 7/6 more likely than path (a) execute Wed.** 10Y at ~4.44% Tue close = well below 4.55% V-gate condition #1.
+- **LLY gap-risk check — PASSED CLEAN MODEST GREEN:** LLY $1,206.83 at session start = **+$7.40 / +0.617% vs Tue close $1,199.43** (Alpaca lastday_price). P&L +$857.90 = +21.62% from entry — approaching new P&L high (Mon close was +$947.22 at $1,229.16; today's mark still below that peak). HWM unchanged $1,238.00 (current $1,206.83 = ~2.60% below Mon HWM print = no fresh ratchet pending at open). Cushion at open **~7.68%** from stop $1,114.20 — improved from Tue close ~7.10%. Re-evaluation triggers all INACTIVE: (a) close >$1,250 within 2 sessions — would need +3.58% intraday from $1,206.83; (b) negative single-name catalyst — Medicare GLP-1 Bridge launches TODAY is small margin-pressure headline offset by scale-volume expansion, not a thesis break; (c) cushion <4% multi-day — currently 7.68%. **Lesson #3 (post-confirmed-beat-hold, do NOT tighten on same-day spike) continues to dominate** — the trail cleanly held Tue's −2.49% drop and Wed's mild green open is the healthy post-parabolic-spike consolidation pattern.
+- **ISRG gap-risk check — PASSED CLEAN MILD GREEN (borderline):** ISRG $399.75 at session start = **+$2.07 / +0.521% vs Tue close $397.68**. Cushion at open **~3.00%** ($11.99/sh from stop $387.765) — improved from Tue close 2.49% but **STILL RIGHT AT LESSON-#1 <3% DANGER-ZONE EDGE** (not a clean recovery). Lesson-#1 framework **STAYS ARMED** for Wed mid-morning decision window: (a) cohort-lag multi-week ✓; (b) cushion at 3.00% edge (marginally cleared but path-(b) trim math still viable); (c) next earnings Jul 16 = ~2 weeks = borderline far-catalyst. **Wed mid-morning decision window (10:00 AM–12:00 PM ET)** is the decision point; open-routine posture is armed-monitor. Save-vs-auto-stop asymmetry: trim at ~$400 saves ~2.8% vs auto-stop $387.765 (~$12.24/sh × 9 sh = ~$110). Path (c) hold-through-NFP is the lesson-#4 diversifier-thesis-test discipline; path (b) trim only on cushion compression <1.5% OR fresh negative single-name OR hot-ADP-hawkish-shock.
+- **Trailing stops re-verified live & GTC at session start:**
+  - ISRG `b271eef3-1027-435e-8818-2c838e0ace9b` stop $387.765 (hwm $430.85; updated_at 2026-06-09 — UNCHANGED)
+  - LLY `28f47c51-a223-4698-9fee-867b1c411ce4` stop $1,114.20 (hwm $1,238.00; updated_at Mon 6/29 13:35:40 UTC — UNCHANGED)
+- **Cash floor:** 91.55% — well above 20% floor; full $91,303.23 dry powder for Wed 10:30 AM V add gate reassessment. Post-V-add (~$3,417 / 10 sh @ ~$345) → ~88.1% cash, well within floor. Concurrent ISRG trim + V add scenario → ~91.7% cash, still within floor.
+- **Earnings no-buy today (Wed 7/1):** ~12 reports per Earnings Whispers — GIS (General Mills), VCIG, FIZZ, MSC Industrial + smaller names. **No candidate-watchlist conflicts** (V/MA/MSFT/AVGO/COST/WM/PGR all clear).
+- **Macro events today:**
+  - **ADP Employment Change (June) 8:15 AM ET** (JUST released as this routine ran ~8:30 AM ET — check headlines for print) — private-sector NFP preview; May print +122k; consensus 100–150k range. Hot (>180k) → hawkish-rate shock; in-line → neutral; cool (<80k) → risk-on rally.
+  - **ISM Manufacturing PMI (June) 10:00 AM ET** — May 54.0; prices-paid sub-component = hawkish-Fed read.
+  - **Fed Chair Warsh ECB Forum Sintra Portugal panel** — timing floats; hawkish-continuation base case; first major public appearance since 6/17 FOMC = highest single headline-risk of the day.
+  - **JOLTS (May) 10:00 AM ET** — possibly released if not Tue.
+- **Mid-day check armed:** >7% intraday cut rule on both positions; daily-loss cap $96,689.67. LLY cushion-watch (only if hawkish-shock continuation drag); ISRG cushion-watch (lesson-#1 primary attention — trim path (b) trigger conditions: gap-down >1.0% intraday cushion <1.5% OR fresh negative single-name catalyst OR hot-ADP hawkish shock triggering broad-tape risk-off with medtech NOT catching defensive bid). **Mid-day 10:00 AM–12:00 PM ET = ISRG lesson-#1 + V add execution windows** (separate mid-day routine call).
+- **Lesson #1 (cushion + cohort-lag + far-catalyst trim framework) status:** **STAYS ARMED at the 3.00% edge.** Not a clean recovery — mid-morning decision window still fully live under paths (a)/(b)/(c).
+- **Lesson #2 (cash-cushion-as-cushion) status:** **Structurally-right tape today.** Modest-red futures = the DOWN-tape OP regime the book is positioned for after 2 consecutive UP-tape absolute-red days. Expected mild OP if futures hold; Wed DAY OP of +0.5 to +1.0pp would restore cumulative UND to ~−1.0pp from Tue's −1.33pp — some structural bargain restored ahead of Thu NFP binary.
+- **Lesson #3 (post-confirmed-beat-hold / do-NOT-tighten-on-spike) status:** **Continued vindication.** Tue's −2.49% cleanly held by the 10% trail with 7.10% cushion left; Wed's mild green open confirms Mon HWM $1,238 was the parabolic spike top and $1,206 is the new working shelf. Re-evaluation triggers all remain inactive.
+- **Lesson #4 (non-AI diversifier on AI-cohort risk-off) status:** Regime pending — Wed modest-red-fade + Thu NFP = the two candidate regimes where diversifier proves out. Path (c) hold-through-NFP is the discipline this lesson was written for.
+- **Lesson #5 (mega-cap-AI concentration tail risk) status:** Discipline holds. Zero mega-cap-AI exposure; AVGO −20% from June highs + PLTR −40% YTD continue as under-the-surface cohort bleed validation. Do NOT chase mega-cap-AI back into the book on Tue's cohort-driven index-rally.
+- **Next decision window:** **Today 8:15 AM ET ADP (June)** — calibrate V + ISRG paths. **Today 10:00 AM ET ISM-Mfg (June) + possibly JOLTS (May)** — secondary V-gate calibration. **Today 10:00 AM–12:00 PM ET — ISRG LESSON-#1 DECISION WINDOW** (paths a/b/c based on Wed AM tape). **Today 10:30 AM–12:00 PM ET — V ADD GATE REASSESS** (REVISED-HIGHER-BAR paths a/b/c). **Today Warsh Sintra Portugal panel** (timing floats). **Today 3:00–4:00 PM ET** — pre-NFP de-risking; ISRG cushion-close mark (Wed close cushion = Thu NFP gap-risk anchor). **Today 4:00 PM ET** — Wed close + Week 7 day-3 mark vs SPY. **Thu 7/2 8:30 AM ET NFP (June) — BINARY EVENT OF WEEK.** **Fri 7/3 MARKET CLOSED for July 4 observed.**
 
 ## Today's Market Close Routine — 2026-06-30 (Tuesday, Week 7 day 2; strong risk-ON continuation rally; SPY +1.29% close $746.65; V add NOT executed; both book positions sold off into the bid; ISRG cushion back into <3% danger zone)
 
