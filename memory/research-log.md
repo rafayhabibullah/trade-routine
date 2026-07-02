@@ -2467,3 +2467,42 @@ Not Monday — no fresh SPY reference recorded. **Week 7 Start SPY remains $728.
 - (8) **Mon 7/6 — Week 8 day 1** — post-NFP + post-July-4 digestion; **V add gate PRIMARY execution window** with full path-(a) mechanics reset; ISM Services PMI 10:00 AM ET secondary read; fresh Week 8 Start Value + Start SPY reference (reconcile provider discrepancy at open); WM as deeper-bench diversifier backup.
 
 ---
+
+## Tomorrow's Watch — 2026-07-06 (Fri 7/3 MARKET CLOSED for Independence Day observed; next trading session = Mon 7/6 = Week 8 day 1)
+
+**NFP outcome recap (drove Thu 7/2 regime):** June NFP printed **+57k vs cons ~113k (huge cool miss)**; **74k downward revisions to prior 2 months**; **UNR 4.2%**; leisure/hospitality −61k (weaker seasonal + World Cup effect). Market read this as GROWTH-SCARE (not rate-cut-back-on-table risk-ON) — SPY closed −0.249%; rotation-into-defensives dominated; ISRG +5.87% + LLY +1.57% both caught the defensive bid. **This is a NEW regime path — cool-NFP-can-be-risk-OFF-not-risk-ON when the print is cool enough to trigger growth-scare read.**
+
+**Positions to monitor Mon 7/6:**
+- **LLY** — Thu close $1,210.49 (+21.98% from entry; +$872.54 P&L). HWM $1,238 unchanged (~2.22% below); cushion **~7.96%** ($96.29/sh from stop $1,114.20). Watch: (a) potential 4th HWM ratchet if intraday breaks $1,238 (needs +2.27% intraday) — could happen on continuation of Thu's defensive-pharma-bid regime AND/OR on Medicare GLP-1 Bridge scale-narrative catch-up bid; (b) profit-taking pullback on general risk-ON open — target $1,180-1,190 range likely for cushion to compress to ~6% range. Lesson #3 dominates — do NOT tighten reactively.
+- **ISRG** — Thu close $426.01 (+0.20% from entry; **position NOW GREEN for first time in weeks**). Cushion **~8.98%** ($38.245/sh from stop $387.765) — decisively out of lesson-#1 <3% danger zone. HWM $430.85 unchanged (~1.13% below); could ratchet on Mon if intraday breaks $430.85 (needs +1.14% intraday). Next earnings **Jul 16 = 8 trading days out** (near-catalyst window). Watch: (a) any give-back on general risk-ON Mon open if the market pivots back to risk-ON re-interpretation of cool NFP; (b) any fresh negative single-name catalyst; (c) earnings-run-up bid if the 8-trading-day countdown starts drawing positioning flows.
+
+**Macro events Mon 7/6 (Week 8 day 1):**
+- **International Trade in Goods and Services (May) 8:30 AM ET** — usually secondary; watch for supply-chain / tariff-narrative signals.
+- **Factory Orders (May) 10:00 AM ET** — carried over from Thu 7/2 if not released.
+- **ISM Services PMI (June) 10:00 AM ET** — the key Mon read. Prior June ISM Services 51.0-ish base case; sub-50 print would extend Thu's growth-scare narrative → defensive-bid continuation; >52 healthy print would flip to risk-ON re-interpretation of cool NFP → mag7/cyclical/AI-cohort rally likely.
+- **Fed Chair Warsh** — no scheduled public appearance Mon per current calendar; watch for any impromptu.
+- **NOTE:** Post-July-4 digestion typically sees a Tue-Wed-Thu re-set of the tape narrative — Mon can be a "gap-and-drift" day on light-volume as some Wall Street personnel remain on 4-day-weekend PTO. Consider Mon 7/6 execution timing carefully — the V add primary window is 10:30 AM-12:00 PM ET as before.
+
+**Thesis notes based on Thu 7/2 tape action:**
+- **Lesson #4 (non-AI diversifier payoff regime) has been STRUCTURALLY UPGRADED** — 3 winning-cushion sessions in one week across 3 different sub-regimes (Fri 6/26 hard AI-cohort risk-off + Wed 7/1 semi-profit-taking rotation-into-defensives + Thu 7/2 cool-NFP-growth-scare-defensive-bid). The diversifier's payoff regime is broader than initially defined — extends to any "risk-off narrative that spares defensives." Feeds candidate lesson (ii).
+- **Weeks 6+7 binary-regime pair NET RESULT = +0.61pp NET OP.** This is a POSITIVE outcome (not the breakeven read mid-week) — the structural cash-cushion delivers NET-positive alpha when BOTH tails of the regime pair carry defensive-bid character. Feeds candidate lesson (i).
+- **V add plan-refinement-sequence-vs-execution-gap outcome = zero-realized-cost.** Cash preservation into Week 8 (91.32% dry powder) is a strategic-positive. Mon 7/6 V add PRIMARY execution window still active with fresh mechanics reset — but the cool-NFP-driven ambiguity on V's Mon 7/6 opening price needs a fresh look:
+  - **Cool-NFP-risk-ON re-interpretation path:** V likely $340-345+ = ABOVE the sweet spot; path (a) execute becomes chase-rally violation; path (β) defer to Week 8 later window or wait for pullback.
+  - **Growth-scare-defensive-bid continuation path (Thu regime persists):** V could pull back to $330-335 = IN or BELOW the sweet spot; path (a) execute cleanly.
+  - **Base case for Mon 7/6:** Freshly check V quote at 9:00 AM ET; if in sweet spot $335-342 and tape stable and 10Y ≤4.55% and no fresh V negative, execute path (a) at 10:30 AM-12:00 PM ET. If V above sweet spot, defer to Mon PM or Tue depending on intraday character.
+- **LLY 4th HWM ratchet setup:** Needs +2.27% intraday from $1,210.49 to break $1,238. Plausible on: (a) defensive-pharma-bid continuation of Thu regime; (b) Medicare GLP-1 Bridge scale-catchup bid; (c) Jaypirca EU regulatory continuation narrative. Do NOT tighten reactively per lesson #3.
+- **ISRG earnings-run-up (Jul 16 = 8 trading days from Mon 7/6):** Historical pattern for ISRG shows a modest earnings-run-up bid the week before print. Combined with Thu's +5.87% recovery + cushion at 8.98% + thesis intact + Q1 procedure/system beat expectations, ISRG is set up for a strong or neutral earnings response. Hold-the-stop discipline; no manual action; let the trail auto-ratchet if the run-up continues.
+
+**Cash floor status:** 91.32% (well above 20% floor); full $91,303.23 dry powder into Mon 7/6 V add primary window. Post-V-add (~$3,417 / 10 sh @ ~$342) → ~87.9% cash floor, well within.
+
+**Weekly review trigger — fires this Fri-Sun weekend:**
+- Codify 5 candidate lessons into memory/trading-strategy.md:
+  - (i) Binary-regime-pair NET OP > breakeven finding (Weeks 6+7 = +0.61pp NET OP; structural cash cushion delivers positive alpha across pairs where both tails carry defensive-bid character).
+  - (ii) Lesson #4 diversifier payoff regime expansion (3 sub-regimes in one week: AI-cohort risk-off, semi-profit-taking rotation, cool-NFP-growth-scare defensive-bid).
+  - (iii) Cool-NFP-can-be-risk-OFF-not-risk-ON regime finding (>50k below consensus + material downward revisions + UNR uptick = growth-scare-driven risk-off, NOT rate-cut-back-on-table risk-ON).
+  - (iv) Lesson #3 tighten-vs-not-comparison refinement (LLY case: 7% tighten would have survived here at 4.9% cushion vs actual 7.96% — lesson #3 is probability/asymmetry claim, not absolute; still keep 10% trail default).
+  - (v) V add plan-refinement-sequence-vs-execution-gap outcome (zero-realized-cost lapse; cash preservation is strategic-positive; plan refinement is a feature not a bug).
+- Reconcile portfolio.md vs Alpaca discrepancies (SPY and position marks) at Mon 7/6 open with fresh Alpaca-derived values.
+- Reset weekly counters for Week 8 (new-positions cap 0/3; new Week Start Value = Mon 7/6 open; new Week Start SPY = Fri 6/26 close $728.99... wait actually Thu 7/2 close $743.90 is the Week 8 Start SPY reference given Fri closed).
+
+---
