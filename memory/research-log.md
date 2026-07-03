@@ -2506,3 +2506,38 @@ Not Monday — no fresh SPY reference recorded. **Week 7 Start SPY remains $728.
 - Reset weekly counters for Week 8 (new-positions cap 0/3; new Week Start Value = Mon 7/6 open; new Week Start SPY = Fri 6/26 close $728.99... wait actually Thu 7/2 close $743.90 is the Week 8 Start SPY reference given Fri closed).
 
 ---
+
+## Market Close Routine — 2026-07-03 (Friday — MARKET CLOSED for Independence Day observed; no session; Alpaca-reconciliation + memory-integrity check only)
+
+**Market status:** Alpaca clock `is_open=false`; `next_open=Mon 7/6 09:30 ET`. NYSE + NASDAQ + bond market all CLOSED for Independence Day observed (July 4 falls on Sat 7/4 → Fri 7/3 is the observed holiday).
+
+**No new session data; SPY unchanged at Thu 7/2 close $743.90.** No WebSearch performed — no new market data available on a closed day.
+
+**Alpaca-authoritative Thu 7/2 close reconciliation applied to portfolio.md:**
+- portfolio.md carried Thu 7/2 close portfolio_value $99,979.28; Alpaca-authoritative Thu 7/2 close = **$99,992.96** = +$13.68 reconcile-up
+- Driver: LLY Thu 7/2 close Alpaca $1,213.91 vs portfolio.md carried $1,210.49 = +$3.42/sh × 4 sh = +$13.68 (fully reconciles)
+- ISRG Thu close $426.01 matches
+- Restated: Day Net Thu 7/2 = +$301.35 / +0.302% (was +$287.67 / +0.288%); Day OP = +0.551pp (was +0.537pp); Week 7 WTD = +0.216% ($99,778.01 → $99,992.96); WTD UND −1.830pp (was −1.843pp); cumulative since launch −0.007% ($100,000 → $99,992.96); cumulative UND −0.647pp (was −0.661pp).
+- Values applied to portfolio.md header, Account Summary, and Positions table.
+
+**Trailing stops re-verified live & GTC (unchanged since portfolio.md carried state):**
+- ISRG stop $387.765 (hwm $430.85; updated_at 2026-06-09)
+- LLY stop $1,114.20 (hwm $1,238.00; updated_at 2026-06-29 13:35:40 UTC)
+
+**Position cushions restated on LLY Alpaca-authoritative mark:**
+- LLY cushion at Thu close: $1,213.91 vs stop $1,114.20 = **~8.21%** ($99.71/sh) — restated up from carried 7.96%. Distance to HWM $1,238.00 = 1.98% (was 2.22% at carried mark) — closer to 4th ratchet trigger than portfolio.md-carried number suggested; but no ratchet yet (would need close >$1,238).
+- ISRG cushion at Thu close: $426.01 vs stop $387.765 = **~8.98%** — unchanged.
+
+**Weekly review — trigger fires this weekend Sat 7/4–Sun 7/5:**
+Codify 5 candidate lessons per Tomorrow's Watch — 2026-07-06 entry above:
+- (i) Binary-regime-pair NET OP > breakeven (Weeks 6+7 = +0.61pp NET OP);
+- (ii) Lesson #4 diversifier payoff regime expansion (3 sub-regimes in one week);
+- (iii) Cool-NFP-can-be-risk-OFF-not-risk-ON regime finding;
+- (iv) Lesson #3 tighten-vs-not comparison refinement (LLY case);
+- (v) V add plan-refinement-sequence-vs-execution-gap outcome (zero-realized-cost lapse is strategic-positive).
+
+**Tomorrow's Watch — Mon 7/6 (Week 8 day 1):** See existing Tomorrow's Watch — 2026-07-06 entry above (no changes; V add primary window 10:30 AM–12:00 PM ET; LLY 4th HWM ratchet monitor now at 1.98% needed intraday from Alpaca-authoritative $1,213.91; ISRG earnings-run-up window 8 trading days out; ISM Services PMI 10:00 AM ET is the key macro read of the day).
+
+**Cash floor status:** 91.31% (Alpaca-reconciled); full $91,303.23 dry powder into Mon 7/6 V add primary window.
+
+---
