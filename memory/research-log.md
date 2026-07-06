@@ -2640,3 +2640,33 @@ Not Monday — no fresh SPY reference recorded. **Week 7 Start SPY remains $728.
 - (9) **Fri 7/10 — Week 8 CLOSE + weekly review trigger** — record Week 8 WTD portfolio vs SPY; cumulative-since-launch reconciliation.
 
 ---
+
+## Tomorrow's Watch — 2026-07-07 (Tuesday, Week 8 day 2 of 5; post-Mon-tech-led-risk-ON digestion; SpaceX joins Nasdaq-100 at open = index-flow tape; pre-FOMC-Minutes positioning day)
+
+### Positions to Monitor
+- **ISRG (elevated volatility on pre-earnings run-up):** Fresh HWM $440.17 print Mon 14:28 ET; stop RATCHETED $387.765 → $396.153 mechanically. Pre-earnings run-up bid ~1 week from Jul 16 Q2 print is the new lesson-#4 regime-type (d). **Monitor for continuation break >$440.17 → further ratchet mechanism engaged**; equally monitor for reversal on any single-name negative (Deutsche PT cut extension, FDA recall update, Medtronic-Hugo/China competition headline). Cushion 8.47% at Mon close; no re-arm expected on lesson #1 framework. Position is materially GREEN at +1.80% / +$69.00 for first time since Thu 7/2 flip.
+- **LLY (defensive-cohort UND-participation on tech-led-risk-ON continuation):** Mon −1.14% on-plan; cushion softened to 7.15%. HWM $1,238 unchanged (Mon close $1,200.06 = ~3.06% below); further tech-led-risk-ON continuation could compress cushion toward 6% range. Lesson #3 (post-confirmed-beat-hold) status: DO NOT tighten reactively; the 10% trail continues to work as designed. Re-evaluation triggers all INACTIVE. **Watch for defensive-bid re-emergence** on any Tue macro pivot; LLY 4th HWM ratchet requires +3.16% intraday from $1,200.06.
+
+### Macro Events Tomorrow (Tue 7/7)
+- **SpaceX joins Nasdaq-100 at open** — index-flow tape action; expect mag7-cyclical shuffling around the inclusion; watch for cascading rotation effects on ISRG/LLY (defensive-cohort likely NOT direct beneficiaries; may see modest UND on further mag7/cyclical bid).
+- **NFIB Small Business Optimism (June) 6:00 AM ET** — secondary; low tape-moving power on typical prints.
+- **Consumer Credit (May) 3:00 PM ET** — secondary; low tape-moving power.
+- **Fed-speak calendar TBD** — check overnight for any scheduled Warsh-era officials; first material Warsh-era publicity ahead of Wed FOMC Minutes.
+- **NO scheduled earnings from watchlist** (V/MA/MSFT/AVGO/COST/WM/PGR all clear Tue 7/7).
+- **No CPI/PPI/PCE/NFP** — earliest next inflation binary is CPI Tue 7/14; NFP not until early Aug.
+
+### Thesis Notes
+- **Mon 7/6 delivered on pre-mkt regime read AND surprised on ISRG single-name.** Tech-led risk-ON confirmed; SPY +0.991% close $751.27; both defensive-names expected to UND-participate → LLY delivered exactly (−1.14%) BUT ISRG delivered the OPPOSITE (+1.60%) on pre-earnings run-up bid dominating cohort-tape direction. **This is a MEANINGFUL PATTERN for the lessons file:** near-catalyst window (~1-2 weeks pre-earnings) can dominate cohort-tape direction on cohort-adverse days. Add to Week 8 review lesson candidates: **lesson-#4-regime-type-(d) = pre-earnings run-up bid regime**, discovered Mon 7/6 on ISRG +1.60% surprise on tech-led-risk-ON tape 8 sessions before Jul 16 Q2 print.
+- **DEFAULT-EXECUTE lesson (v) first stress-test result: LAPSED via hard-deferral clause** (likely V chase-price threshold >$370 breached on tech-led-risk-ON continuation). Rule integrity preserved — the rule is NOT unconditional execution; hard-deferral triggers still apply. Roll forward to Tue 7/7 mid-day for next-window re-arbitration. **Tue considerations:** if Mon tech-led-risk-ON extends into Tue, V likely stays above chase-price threshold; if Tue delivers modest fade or defensive-bid pivot, V could pull back into $360-368 acceptable range. Monitor V pre-mkt Tue 8:30-9:15 AM ET for the mid-day gate calibration.
+- **FOMC Minutes Wed 7/8 2:00 PM ET is the week's binary event.** Hawkish minutes (fear-of-inflation dominant) → defensive-bid tape restored → book OP regime; dovish minutes (growth-concern-dominant) → rate-cut extension continues → book UND on mag7-AI leadership continues. Pre-positioning Tue: **do NOT execute V add on Tue if Wed hawkish-minutes risk is elevated** — the risk-off pivot potential is a specific hard-deferral consideration to add to the DEFAULT-EXECUTE framework (candidate refinement for Week 8 review lessons).
+- **Cumulative UND deepened to −1.638pp on Mon session** (from −0.65pp Mon open, −0.99pp Δ on the tech-led-risk-ON day). The Thu 7/2 defensive-bid partial re-set is being surrendered on the reverse-regime day; recovery of the cumulative-OP requires either (a) Wed FOMC-Minutes-hawkish-regime pivot or (b) sustained defensive-cohort bid through the week. Neither is a base-case yet; both are plausible.
+- **ISRG stop-loss integrity check:** the Mon RATCHET is the first ISRG-side ratchet since 6/9 (30+ session gap); the trailing-stop system delivered its first ISRG-side value since the position moved decisively into green. **This is a significant milestone** — the ISRG lesson-#1 discretionary-trim framework has now been DECISIVELY vindicated in "hold-the-stop" mode across Weeks 6-7 into Week 8; the trail is now materially advancing on the pre-earnings run-up regime.
+
+### Pre-Tuesday Decision Queue
+- (1) **Tue 7/7 8:30 AM ET pre-mkt** — gap-risk check both positions; verify trailing stops live & GTC (ISRG stop $396.153 / hwm $440.17 now the reference); capture Day Open Value.
+- (2) **Tue 7/7 9:30 AM open** — capture at-open drift; SpaceX Nasdaq-100 index-flow tape monitor.
+- (3) **Tue 7/7 mid-day 10:30 AM–12:00 PM ET** — V add DEFAULT-EXECUTE gate re-arbitration; primary consideration = whether V has pulled back into acceptable entry range OR remains at chase-price above $370; secondary consideration = Wed FOMC Minutes hawkish-risk factoring.
+- (4) **Tue 7/7 mid-day check** — >7% intraday cut rule armed; daily-loss cap $96,999.03 ($99,998.94 × 0.97); LLY HWM $1,238 break monitor; ISRG HWM $440.17 break monitor (fresh ratchet potential on any advance).
+- (5) **Wed 7/8 2:00 PM ET — FOMC Minutes (June) BINARY EVENT** — regime pivot potential.
+
+---
