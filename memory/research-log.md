@@ -4046,3 +4046,18 @@ Not Monday — no fresh SPY reference recorded. **Week 7 Start SPY remains $728.
 - (9) **Fri 7/24 pre-open** — post-mega-cap-earnings-week regime-clarity read + potential new-add window IF book cushions stable + LLY Q2 gap manageable + Iran-de-escalation + mega-cap-print tape not risk-off.
 
 ---
+
+## Tomorrow's Watch — 2026-09-29
+
+**Context flag:** memory was silent from 7/20 → 9/28 = ~10-week gap. LLY closed Fri 7/31 at $1,123.415 avg (+13.21% / +$524.24 on 4 sh, trailing-stop clean fill). V has held throughout and grinding higher (10 sh @ $354.098 → $367.74 Mon close = +3.85%). Cash-heavy book: 96.30% cash. Cumulative UND vs SPY ~−4.09pp since launch (widened from −0.83pp at 7/17 close during the gap).
+
+- **Positions to monitor:**
+  - **V** — sole open position at Mon 9/28 close $367.74. Cushion ~5.64% from stop $347.01291 (~$20.727/sh from stop); ~4.63% below HWM $385.5699. Watch Tue 9/29 for: (a) 6th HWM ratchet trigger break >$385.5699 = needs +4.84% intraday from $367.74 (LOW probability on ordinary tape); (b) mechanical stop trigger break <$347.01291 = needs another −5.64% intraday from $367.74; (c) rate-agnostic-payments cohort behavior vs SPY tape direction; (d) any fresh V single-name catalyst (analyst PT changes, stablecoin/cross-border cadence, Fed rate-decision proximity read).
+- **Macro events tomorrow:** unknown pending Tue 9/29 pre-open research routine. Standard end-Sep to early-Oct macro cluster is possible (Case-Shiller HPI Tue; Consumer Confidence Tue; PCE Fri end-Sep; NFP first-Fri Oct; FOMC late-Oct/early-Nov). Fresh RESUMED-SESSION research routine required to reconstruct macro-regime context and single-name catalyst cadence for the gap window.
+- **Thesis notes:**
+  - Mon 9/28 SPY closed −0.760% on modestly-red tape; portfolio essentially flat at +0.00362% DTD = DAY OP +0.763pp on cash-cushion + V mild-green intraday. Classic lesson #2 down-tape OP payoff.
+  - LLY stop-out 7/31 vindicated lesson #3 across the full 74-day arc: 4 ratchets locked in +13.21% profit without any manual tighten; actual realized came within 3 bps of the 7/20-tracked projection ($524.24 vs $528.60 projected) = mechanical framework executed exactly as designed.
+  - V has moved from break-even at entry to a −2.00% locked-in floor at current stop $347.01291 = position is effectively cost-basis-protected. Q3 earnings 7/28 cleared without a stop trigger — the ISRG-counterfactual pattern (pre-earnings crowded-trade cushion-compression triggering stop before catalyst) did NOT reproduce on V, and the position was rewarded with continued grind higher through Aug-Sep.
+  - **Memory-gap RESUMED-SESSION priorities for Tue 9/29 research:** (a) rebuild macro-regime context via search of major macro data prints Aug-Sep 2026; (b) rebuild watchlist candidate development (CRWD post-pullback re-entry status, AVGO chip-cohort read post-Q3 print early-Sep, MA/MSFT/LLY post-print reads); (c) recover lesson-learned evolution across gap window; (d) rebuild weekly-review counters (Weeks 10-19 cadence unknown); (e) trade-log.md updated 9/28 to record the LLY 7/31 stop-out row.
+
+---
