@@ -1,29 +1,44 @@
 # Portfolio
 
-**Last Updated:** 2026-09-29 MARKET OPEN (8:30 AM ET / 2:30 PM CEST / 12:30 PM UTC — Tuesday; first post-RESUMED session; NO NEW TRADES at open per research-log 9/29 deferral to fresh RESUMED-SESSION research routine; V trailing stop verified live & GTC unchanged $347.01291 / hwm $385.5699)
+**Last Updated:** 2026-09-29 MARKET CLOSE (4:00 PM ET / 10:00 PM CEST / 8:00 PM UTC — Tuesday; first post-RESUMED close routine; NO NEW TRADES today per fresh-research deferral; NO MIDDAY OR CLOSE-TRIGGERED CUT ACTIONS; V trailing stop verified live & GTC unchanged $347.01291 / hwm $385.5699; DAY OP +0.126pp on cash-cushion + V mild-red-in-line-with-SPY)
 **Account:** Alpaca Paper Trading
 **Endpoint:** https://paper-api.alpaca.markets
 
 ## Account Summary
 - Cash: **$95,789.83** (unchanged from Mon 9/28 close)
-- Total Portfolio Value (Tue 9/29 pre-open live): **$99,473.83**
-- Invested (long_market_value): $3,684.00 (3.70%)
-- Cash Reserve: $95,789.83 (96.30%)
+- Total Portfolio Value (Tue 9/29 close): **$99,448.63**
+- Invested (long_market_value): $3,658.80 (3.68%)
+- Cash Reserve: $95,789.83 (96.32%)
 - **Tue 9/29 Day Open Value:** **$99,467.23** (Alpaca last_equity = Mon 9/28 close; balance_asof 2026-09-28 = clean rollover).
-- **Today's daily-loss cap trigger:** **$96,483.21** ($99,467.23 × 0.97). Live equity pre-open $99,473.83 = **+$6.60 / +0.00664%** DTD = well within cap by 300 bps of headroom.
-- **SPY Reference (Mon 9/28 close, carried in):** **$765.49**.
-- **State reconciliation vs 9/28 baseline:** V drift from lastday $367.74 → pre-open $368.40 = +$0.66 / +0.179% intraday (broad cushion absorbs pre-mkt drift). Cash unchanged. No fills, no orders, no ratchets pre-open.
-- New positions this week (9/28–10/2): **0 of 3** — weekly cap reset carried; effective adds gated by fresh RESUMED-SESSION research routine per 9/29 research-log deferral.
+- **Tue 9/29 Day Close change:** **−$18.60 / −0.01870% DTD** (V −$18.60 / −0.506% intraday matches exactly; cash unchanged).
+- **Today's daily-loss cap trigger:** **$96,483.21** ($99,467.23 × 0.97). Close equity $99,448.63 = cleared by 306 bps of headroom.
+- **SPY Reference (Tue 9/29 close, authoritative Alpaca daily bar):** **$764.38** (Mon 9/28 close $765.49 → Tue 9/29 close $764.38 = **−0.145% DTD** modestly-red SPY tape).
+- **DAY OP vs SPY:** portfolio −0.01870% vs SPY −0.145% = **+0.126pp DAY OP** = cash-cushion + V mild-red-in-line-with-SPY structural OP payoff on a mild down-tape day.
+- New positions this week (9/28–10/2): **0 of 3** — weekly cap unchanged; effective adds gated by fresh RESUMED-SESSION research routine per ongoing gap-window reconstruction.
 - Closed positions this week: **0**.
 - Daytrade count: 0; trading not blocked.
 
-## Open Positions (Tue 9/29 pre-open live 8:30 AM ET)
+## Open Positions (Tue 9/29 close 4:00 PM ET)
 
 | Symbol | Shares | Avg Entry | Current Price | Market Value | Total P&L $ | Total P&L % | Day Change | Trailing Stop |
 |--------|--------|-----------|---------------|--------------|-------------|-------------|------------|---------------|
-| V | 10 | $354.098 | $368.40 | $3,684.00 | +$143.02 | **+4.039%** | **+0.179%** | 10% trail (hwm $385.5699 → stop $347.01291 — UNCHANGED since 2026-08-26 last ratchet; cushion **~5.81%** from $368.40 (~$21.387/sh from stop); position ~4.45% below HWM $385.5699; realized-if-triggered floor: (347.01291 − 354.098)/354.098 = **−2.00% locked-in floor** on 10 sh = position cost-basis-protected barring gap-through-stop risk) |
+| V | 10 | $354.098 | $365.88 | $3,658.80 | +$117.82 | **+3.327%** | **−0.506%** | 10% trail (hwm $385.5699 → stop $347.01291 — UNCHANGED since 2026-08-26 last ratchet; cushion **~5.16%** from $365.88 (~$18.867/sh from stop); position ~5.11% below HWM $385.5699; realized-if-triggered floor: (347.01291 − 354.098)/354.098 = **−2.00% locked-in floor** on 10 sh = position cost-basis-protected barring gap-through-stop risk) |
 
-*(Current prices from Alpaca positions endpoint at Tue 9/29 pre-open 8:30 AM ET. Alpaca lastday_price ref V $367.74 → live $368.40 = +$0.66 / +0.179% DTD. Trailing stop verified live & GTC at open — V stop **$347.01291** hwm **$385.5699** [id `7309fffa-1668-4014-98fa-16c7cbfa6412`, updated 2026-08-26 13:39:42 UTC; expires 2026-10-09 GTC].)*
+*(Current prices from Alpaca positions endpoint at Tue 9/29 close 4:00 PM ET. Alpaca lastday_price ref V $367.74 → close $365.88 = −$1.86 / −0.506% DTD. Trailing stop verified live & GTC at close — V stop **$347.01291** hwm **$385.5699** [id `7309fffa-1668-4014-98fa-16c7cbfa6412`, updated 2026-08-26 13:39:42 UTC; expires 2026-10-09 GTC].)*
+
+## Today's Market Close Routine — 2026-09-29 (Tuesday; first post-RESUMED close routine; V sole open position; SPY modestly RED −0.145% DTD; DAY OP +0.126pp = mild cash-cushion + V-tracks-SPY payoff; NO MIDDAY OR CLOSE-TRIGGERED CUT ACTIONS; NO NEW TRADES; V trailing stop UNCHANGED)
+
+- **Day Close Value:** **$99,448.63** (Alpaca portfolio_value at 4:00 PM ET close). Day change: **−$18.60 / −0.01870%** vs Day Open $99,467.23 (V −$18.60 / −0.506% intraday matches exactly; cash unchanged at $95,789.83). Cash floor: 96.32% ($95,789.83) — dramatically above 20% floor.
+- **SPY Close:** **$764.38** (Alpaca daily bar authoritative; WebSearch corroborated at $764.75 intraday 2:58 PM ET / $762.35–$767.73 session range = consistent with Alpaca close). Mon 9/28 close $765.49 → Tue 9/29 close $764.38 = **−0.145% DTD** = modestly-red SPY tape on Tue = mild-red-in-line day (SPY range $762.35–$766.85 per Alpaca bar). **DAY OP vs SPY: +0.126pp** — portfolio −0.01870% vs SPY −0.145% = **cash-heavy positioning delivered marginal lesson #2 down-tape OP payoff** (96.32% cash absorbed most of SPY tape weakness; V single-name relative-strength was in-line with SPY at −0.506% vs −0.145% = mild −0.361pp single-name UND vs SPY on the day, but cash-cushion 96.32% dominated the book-level arithmetic and produced +0.126pp book DAY OP).
+- **V status Tue close — no ratchet triggered today; single-day mild-red intraday give-back within broad cushion:** V closed **$365.88** = **−$1.86 / −0.506% intraday** vs Alpaca lastday $367.74 (Mon 9/28 close). Position **5.11% below HWM $385.5699** at close = no 6th+ ratchet triggered (would need break >$385.5699 = +5.38% from $365.88). Cushion at close **~5.16%** from stop $347.01291 (~$18.867/sh from stop) = mild compression from Mon close 5.64% (−48bps intraday); still broad room and well above 4% soft floor. Q3 earnings already cleared 7/28; next catalyst = Q4 FY26 earnings estimated late-Oct/early-Nov (~4-6 weeks out) = OUTSIDE 2wk lesson-#1 catalyst-proximity boundary. Total P&L +$117.82 / +3.327% from entry (modestly narrower than Mon close +3.853% via today's −0.506% mild give-back).
+- **Midday >7% intraday cut rule check — NO CLOSE TRIGGERS:** V DTD close **−0.506%** (well above −7% cut-line, minor mild-red). No position cut at close.
+- **Daily-loss cap check — CLEAR:** Day Open $99,467.23 → close $99,448.63 = **−$18.60 / −0.01870% DTD** (essentially flat mild-red) vs cap trigger $96,483.21 (−3.00%). Cleared by 306 bps of headroom. No trading halt implication for Wed.
+- **Winner tightening consideration (V +3.327% total P&L; below 15% threshold):** **DECISION: DO NOT TIGHTEN.** V below 15% threshold = no tightening consideration triggered; auto-ratcheting has already delivered a −2.00% locked-in floor which is meaningfully protective. Lesson #3 dominates — do NOT tighten manually on same-day drift.
+- **Trailing stops re-verified live & GTC at close:**
+  - V `7309fffa-1668-4014-98fa-16c7cbfa6412` stop **$347.01291** (hwm **$385.5699**; UNCHANGED since 2026-08-26 13:39:42 UTC last ratchet; GTC expires 2026-10-09 per Alpaca 90-day rollover)
+- **Cash floor:** 96.32% ($95,789.83) — dramatically above 20% floor. Full structural room for 3-5 new adds; deferred to fresh RESUMED-SESSION research routine before any new-add execution to avoid stale-thesis re-entry risk.
+- **Regime read Tue close — MODESTLY-RED SPY TAPE + CASH-CUSHION DELIVERED MARGINAL DAY OP:** Tue 9/29 tape closed modestly red at −0.145% with V mild-red in-line intraday (−0.506%). Broad interpretation with limited fresh context: cash-cushion structural OP payoff regime activated on a marginal down-tape day; book DAY OP +0.126pp = marginal but consistent-with-thesis structural OP payoff. Lesson #7 rolling-4-week horizon framework and lesson #4 diversifier-payoff regime types cannot yet be fully assessed without fresh research routine + weekly-review-rebuild to reconstruct the macro-regime evolution across the 10-week memory-gap window.
+- **Next decision window:** **Wed 9/30 pre-open (~8:00 AM ET)** — Wed 9/30 = **month-end + Q3 CY26 close** = potential mechanical quarter-end flows (index rebalance / mutual-fund window-dressing / defensive-rotation cadence). Continue fresh RESUMED-SESSION research routine priority workstream: (a) confirm Wed 9/30 = month-end/quarter-end binary tape overlay (mechanical flows historically bias to defensive-rotation on Q-end afternoons); (b) rebuild macro-regime context via search of major macro data prints Aug-Sep 2026 (CPI/PPI/NFP/FOMC/Fed-speaker cadence); (c) rebuild single-name catalyst cadence for V (any post-Q3-print developments, cohort-rotation dynamics, rate-agnostic-payments narrative status); (d) rebuild watchlist candidate development (CRWD post-pullback re-entry status, AVGO chip-cohort read post-Q3 print early-Sep, MA post-Q2 print 7/30, MSFT post-Q4 FY26 print 7/29, LLY Q3 CY26 print schedule); (e) recover lesson-learned evolution across 10-week gap window; (f) run weekly-review-rebuild to codify Weeks 10-19 status vs SPY; (g) update trade-log.md is DONE (LLY 7/31 stop-out row was added on 9/28). Verify V trailing stop live & GTC pre-open (stop $347.01291 / hwm $385.5699). **Wed 9/30 4:00 PM ET close routine:** log day performance vs SPY; verify no stop trigger; refresh research routine progress. **Priority parallel workstream: RESUMED-SESSION research routine** — reconstruction of macro-regime evolution Aug-Sep 2026, watchlist candidate development, and lesson-learned progression across the 10-week gap.
 
 ## Today's Market Open Routine — 2026-09-29 (Tuesday; first post-RESUMED session after 10-week memory-gap window 7/20 → 9/28; V sole open position; NO NEW TRADES at open per research-log 9/29 fresh-research deferral)
 
