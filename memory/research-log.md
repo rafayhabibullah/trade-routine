@@ -4061,3 +4061,64 @@ Not Monday — no fresh SPY reference recorded. **Week 7 Start SPY remains $728.
   - **Memory-gap RESUMED-SESSION priorities for Tue 9/29 research:** (a) rebuild macro-regime context via search of major macro data prints Aug-Sep 2026; (b) rebuild watchlist candidate development (CRWD post-pullback re-entry status, AVGO chip-cohort read post-Q3 print early-Sep, MA/MSFT/LLY post-print reads); (c) recover lesson-learned evolution across gap window; (d) rebuild weekly-review counters (Weeks 10-19 cadence unknown); (e) trade-log.md updated 9/28 to record the LLY 7/31 stop-out row.
 
 ---
+
+## Research — 2026-09-29 (Tuesday — pre-market; **JOLTS (AUG) + CB CONSUMER CONFIDENCE (SEP) 10:00 AM ET = TUE MORNING MACRO CLUSTER**; **COMPOUND-BINARY WEEK ARMED: PCE (AUG) WED 9/30 8:30 AM ET + NFP (SEP) FRI 10/2 8:30 AM ET = 2 BINARY MACRO PRINTS IN 3 SESSIONS**; no FOMC this week (next 10/28); no candidate-overlap earnings this week; book = V sole position + 96.30% cash; weekly cap 0/3 used; RESUMED-SESSION post-10-week-memory-gap watchlist rebuild)
+
+### Market Conditions
+S&P 500 futures near flat pre-open Tue (Dow +7 pts, S&P and Nasdaq-100 futures just below flatline) after Mon SPY −0.760% risk-off tape on rising Treasury yields + Trump-Hormuz-deal-rejection headlines. Overnight bias mildly mixed. **Compound-binary macro week** on deck: PCE (Aug) Wed 9/30 8:30 AM ET (Core PCE cons **3.0% YoY** vs prior 2.9%, headline **2.7% YoY** vs prior 2.6% = tick-up expected on both = HAWKISH-leaning consensus) + NFP (Sep) Fri 10/2 8:30 AM ET = 2 binary macro prints in 3 sessions. Tue morning cluster JOLTS (Aug) + CB Consumer Confidence (Sep) 10:00 AM ET secondary tier but tape-relevant (JOLTS cons ~7.23M vs prior 7.271M; CB Confidence cons 89.20 vs prior 89.40 = both marginally soft). No Fed events this week; next FOMC 10/28.
+
+### SPY Reference Price
+Not a Monday — no weekly SPY reference log required. Mon 9/28 close SPY = **$765.49** (per portfolio memo, prior week's benchmark). Tue pre-open SPY quote (Alpaca latest 20:00 UTC snapshot) mid $765.60 = essentially flat vs Mon close.
+
+### Earnings This Week — Do Not Buy
+- **CCL** — Carnival Corp — Tue 9/29 BMO
+- **KMX** — CarMax — Tue 9/29 BMO
+- **AYTU / AIR** and ~5 others — small caps, Tue 9/29
+- **FDS** — FactSet Research Systems — Wed 9/30 BMO
+- **JBL** — Jabil — Wed 9/30 BMO
+- **MU** — Micron Technology — Wed 9/30 AMC
+- **MKC** — McCormick — Thu 10/1 BMO
+- **ACN** — Accenture — Thu 10/1 BMO
+- **NKE** — Nike — Thu 10/1 AMC
+
+**No candidate overlap this week** — V (own position), MA, MSFT, LLY, CRWD, AVGO, GOOGL, META all clear for the week (though longer-lookout earnings-adjacent boundaries constrain when new adds can be executed — see Watchlist section).
+
+### Watchlist for Tomorrow's Open
+
+**RESUMED-SESSION reset — 5 candidates researched fresh post-memory-gap. Compound-binary macro-week gate (PCE Wed + NFP Fri) argues AGAINST any Tue 9/29 or Wed 9/30 add; earliest realistic new-add window is Fri 10/2 PM (post-NFP) or Mon 10/5 (post-macro-cluster).**
+
+| Symbol | One-Line Thesis | Rev Growth | Moat Type | Analyst Rating | Action |
+|--------|-----------------|------------|-----------|----------------|--------|
+| **CRWD** | Cybersecurity-AI-platform reaccelerating — Q2 FY27 rev +26% (5th consecutive acceleration), record ARR +25% to $5.84B, net-new-ARR +51% YoY, FY27 guide raised (+25% to $5.99-6.01B); next earnings late-Nov = **no earnings-adjacency gate** this window | +26% YoY (accel) | Switching costs (Falcon platform + Charlotte AI + Flex licensing lock-in) + network effects (threat-graph data) | **Buy** (40/12/1 buy/hold/sell); avg PT $235.67 (~-9% vs recent $259 close — mixed signal, PT catching up to run) | **PRIMARY CANDIDATE — Watch through PCE/NFP; consider Mon 10/5 entry if regime constructive** |
+| **MA** | Rate-agnostic-payments duopoly counterpart to V — Q3 CY26 est rev +12%, FY26 est rev +14%; consensus Strong Buy; **BUT correlation gate active with V holding**; earnings Oct 22 = OFF LIMITS from Oct 8 onward | +12% YoY (Q3E) / +14% (FY26E) | Network effects (issuer/acquirer/merchant scale) + brand + switching costs | **Strong Buy** (40 analysts); avg PT $668.92 (+11.81%); high $740 / low $597 | **DEFER — V-MA correlation gate + earnings 10/22 = narrow ~5-session buy window 10/5-10/7; downweight vs CRWD** |
+| **MSFT** | Cloud-AI leader — Q4 FY26 rev $90B **+18% YoY**, Cloud +27%, Azure +43%, Azure crossed $100B FY26 (+41%), M365 Copilot 30M+ paid seats; Q1 FY27 guide Azure +45% cc **above cons 41.4%**; earnings Oct 27 = OFF LIMITS from Oct 13 onward | +18% YoY (FY26) | Switching costs (M365/Azure enterprise lock-in) + network effects + scale | **Strong Buy** (broad consensus); Azure+Copilot narrative is the AI-monetization poster child | **CANDIDATE — Mon 10/5 to Fri 10/9 window ONLY (post-macro-cluster + before earnings-adjacency); lesson #5 mega-cap-AI cap check required** |
+| **AVGO** | AI-semi hyperscaler-XPU-monopoly — Q3 FY26 rev **+86% YoY** to $29.6B, AI semis **+221%** to $16.7B, Q4 guide AI $21.7B (+236%); FY27 CEO guides double AI to $115B, FY28 double again $230B; stock softened post-print on Q4 guide vs lofty expectations; earnings early Dec = no near-term gate | +86% YoY (Q3) / +221% AI-semi | Cost-adv (XPU custom-silicon) + switching costs (hyperscaler design-in cycles) + IP (VMware software cross-sell) | **Strong Buy**; hyperscale AI infrastructure narrative dominant | **CANDIDATE — but lesson #5 mega-cap-AI-cap check tight given post-print pullback digestion; watch for entry Mon 10/5+** |
+| **LLY** | GLP-1 duopoly market leader (60% share) — Mounjaro +91% YoY to $9.94B, Zepbound $4.93B; Berenberg upgrade Buy PT $1,400 (9/15); JPM PT $1,500 (9/28); consensus PT $1,392.50 (+22% upside); Citi $1,600 (+37%); pricing pressure noted (US realized −3% YoY on tariffs/rebates); Q3 CY26 earnings Oct 29 = OFF LIMITS from Oct 15 onward | +40%+ GLP-1 franchise sustained | Patent portfolio + manufacturing scale + first-mover on tirzepatide + AtaiBeckley psychedelic optionality | **Strong Buy**; catalyst-rich window; **stopped-out cleanly 7/31 at +13.21% — no immediate re-entry required, cohort has continued running** | **DEFER re-entry until post-Q3-print 10/29+; earnings window too near now** |
+
+**Framework read Tue 9/29 pre-open:** compound-binary week (PCE Wed + NFP Fri) = **NO NEW TRADES Tue 9/29 or Wed 9/30** per pre-binary-macro-gate discipline (base rate: buying INTO a binary macro event is asymmetric-negative EV — the print can gap the cohort 2-3% either direction and the trailing stop framework absorbs less well on Day-1 entry). Post-PCE Thu 10/1 = digestion day (assess regime tilt), post-NFP Fri 10/2 PM = **first realistic new-add window** IF regime is constructive (cool prints + risk-on continuation); safer Mon 10/5 post-macro-cluster full-clarity window.
+
+### Existing Position Notes
+
+| Symbol | News | Thesis Still Valid? | Action |
+|--------|------|---------------------|--------|
+| **V** | Trading recently around $360-368 (Mon 9/28 close $367.74; Tue pre-open mid ~$365 midrange). Stablecoin-settlement narrative expanding — Visa settled $20B stablecoins to date, launched blockchain-infrastructure platform July, named founding validator on Circle's Arc blockchain; new Turkish UPT partnership for cross-border corporate payments. RBC reiterated Buy $395 PT; Autonomous Research raised to $443 (Outperform). Consensus Strong Buy PT $419.36 (+12.79% upside); Q3 fiscal rev +14% / EPS +11%. Fresh merchant-fee-litigation pushback headline background noise. Q4 FY26 earnings ~late-Oct (per prior memo, next catalyst ~4-6 weeks out). | **YES** — rate-agnostic-payments duopoly + stablecoin-optionality narrative intact; analyst PT bracket $395-$443 = 7-20% upside from current levels; auto-ratchet delivered −2.00% locked-in floor on 10 sh = position is cost-basis-protected against tail risk. | **HOLD.** Cushion ~5.64% from stop $347.01291 = mechanically absorbs typical binary-macro-event single-day moves. Trailing stop live & GTC (order `7309fffa`, last-updated 2026-08-26). Watch for: (a) 6th HWM ratchet trigger break >$385.5699 = needs +4.84% intraday (LOW probability on binary-macro-tape days); (b) stop trigger break <$347.01291 = needs another −5.64% intraday from $367.74 (LOW probability barring hot-PCE or hot-NFP compound gap); (c) rate-agnostic-payments cohort behavior — hot PCE = potentially defensive-bid for V (rate-agnostic payments framework); (d) V-vs-MA relative-strength divergence (MA reports 10/22, cohort catalyst-proximity may create relative-strength read for V into Q4 print). |
+
+### Weekly-Review-Rebuild — Deferred to Fri 10/2 Close Routine
+Memory-gap window 7/20 → 9/28 spans Weeks 10-19 (~10 weekly-review cycles unrebuilt). Full lesson-learned + weekly-cadence rebuild not feasible within the pre-market routine window; deferred to Fri 10/2 (Week 20 close = weekly-review trigger, post-NFP). Priorities for that rebuild: (a) reconstruct Weeks 10-19 SPY reference prices from Alpaca daily bars; (b) recover major macro-regime pivots (Aug PCE print reaction, Sep FOMC 9/16-17 decision + dot-plot reaction, Sep CPI print reaction, Sep NFP print reaction); (c) V single-name catalyst cadence through Aug-Sep (any post-Q3-print developments, cohort-rotation dynamics); (d) codify any new lessons observable from V's 74-day held-through-gap performance arc (Q3-earnings-cleared-cleanly counterexample to ISRG pattern is one candidate); (e) reconcile any cumulative UND vs SPY drift interpretation for the gap window.
+
+### Framework Reminders (Tue 9/29 Pre-Open)
+- **Daily-loss cap trigger today:** $99,467.23 (Mon close) × 0.97 = **$96,483.21** (approximate — actual today via Alpaca `last_equity` at open verification). Current cash floor 96.30% ($95,789.83) = structural buffer against cap trigger.
+- **Compound-binary week:** PCE Wed 9/30 + NFP Fri 10/2 = **NO NEW ADDS Tue/Wed** per pre-binary-macro-gate; earliest realistic add = Fri 10/2 PM (if constructive) or Mon 10/5 (full clarity).
+- **Weekly cap:** 0 of 3 used for week 9/28-10/2 (fresh reset given memory-gap).
+- **Cash floor:** 96.30% >> 20% minimum. Full structural room for 3-5 new positions when compound-binary gates release.
+- **Lesson #5 mega-cap-AI concentration cap:** currently 0/3 AI-mega-cap positions (V is not AI-mega-cap). MSFT + AVGO + CRWD all AI-adjacent — evaluate concentration limit before executing multiple.
+- **Lesson #1 catalyst-proximity 2-week boundary:** MA (10/22) → OFF LIMITS from 10/8; MSFT (10/27) → OFF LIMITS from 10/13; LLY (10/29) → OFF LIMITS from 10/15. Add-execution windows narrow across mid-Oct.
+
+## Tomorrow's Watch — 2026-09-30 (Wednesday, Week 20 day 3 of 5 = **PCE (AUG) 8:30 AM ET = BINARY MACRO EVENT + MU AMC Q4 FY26 EARNINGS = CHIP-COHORT READ**; JBL + FDS BMO)
+
+- **Binary macro event Wed 9/30 8:30 AM ET:** Core PCE cons **3.0% YoY** vs prior 2.9%; headline PCE cons **2.7% YoY** vs prior 2.6% = tick-up expected. **HOT print (>3.1% core)** = rate-cut-repricing risk-off tape → defensive-bid regime potential; V rate-agnostic-payments cohort possibly resilient. **COOL print (<2.9% core)** = risk-on rally on rate-cut-back-on-table narrative → SPY green tape, cash-cushion UND. **IN-LINE** = digestion + Fri NFP-pivot-positioning.
+- **MU AMC Wed:** chip-cohort read + AVGO relative-strength watch. Not a buy candidate but MU beat/miss will color AVGO tape into Thu-Fri.
+- **No new trades planned Wed** per compound-binary macro-week gate.
+- **V watch:** 6th HWM ratchet possible if PCE cools sharply → risk-on regime → rate-agnostic-payments bid; break >$385.5699 = 6th ratchet trigger. Stop trigger break <$347.01291 requires another −5.64% intraday from $367.74 = LOW probability barring hot-PCE compound gap.
+
+---
