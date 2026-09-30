@@ -1,29 +1,41 @@
 # Portfolio
 
-**Last Updated:** 2026-09-29 MARKET OPEN (8:30 AM ET / 2:30 PM CEST / 12:30 PM UTC — Tuesday; first post-RESUMED session; NO NEW TRADES at open per research-log 9/29 deferral to fresh RESUMED-SESSION research routine; V trailing stop verified live & GTC unchanged $347.01291 / hwm $385.5699)
+**Last Updated:** 2026-09-30 MARKET OPEN (8:30 AM ET / 2:30 PM CEST / 12:30 PM UTC — Wednesday; Week 19 day 3 of 5; AUGUST PCE 8:30 AM ET BINARY + MU AMC BINARY CHIP-COHORT PRINT + 10Y YIELDS AT MULTIDECADE HIGHS; NO NEW TRADES at open per research-log 9/30 compound-binary gates (PCE + MU + candidate-set-reconstruction); V trailing stop verified live & GTC UNCHANGED $347.01291 / hwm $385.5699)
 **Account:** Alpaca Paper Trading
 **Endpoint:** https://paper-api.alpaca.markets
 
 ## Account Summary
-- Cash: **$95,789.83** (unchanged from Mon 9/28 close)
-- Total Portfolio Value (Tue 9/29 pre-open live): **$99,473.83**
-- Invested (long_market_value): $3,684.00 (3.70%)
-- Cash Reserve: $95,789.83 (96.30%)
-- **Tue 9/29 Day Open Value:** **$99,467.23** (Alpaca last_equity = Mon 9/28 close; balance_asof 2026-09-28 = clean rollover).
-- **Today's daily-loss cap trigger:** **$96,483.21** ($99,467.23 × 0.97). Live equity pre-open $99,473.83 = **+$6.60 / +0.00664%** DTD = well within cap by 300 bps of headroom.
-- **SPY Reference (Mon 9/28 close, carried in):** **$765.49**.
-- **State reconciliation vs 9/28 baseline:** V drift from lastday $367.74 → pre-open $368.40 = +$0.66 / +0.179% intraday (broad cushion absorbs pre-mkt drift). Cash unchanged. No fills, no orders, no ratchets pre-open.
-- New positions this week (9/28–10/2): **0 of 3** — weekly cap reset carried; effective adds gated by fresh RESUMED-SESSION research routine per 9/29 research-log deferral.
+- Cash: **$95,789.83** (unchanged from Tue 9/29 close; balance_asof 2026-09-29 clean rollover)
+- Total Portfolio Value (Wed 9/30 pre-open live): **$99,449.13**
+- Invested (long_market_value): $3,659.30 (3.68%)
+- Cash Reserve: $95,789.83 (96.32%)
+- **Wed 9/30 Day Open Value:** **$99,448.63** (Alpaca last_equity = Tue 9/29 close; balance_asof 2026-09-29 = clean rollover).
+- **Today's daily-loss cap trigger:** **$96,465.17** ($99,448.63 × 0.97). Live equity pre-open $99,449.13 = **+$0.50 / +0.0005%** DTD = well within cap by 300 bps of headroom.
+- **SPY Reference (Tue 9/29 close, approximate — WebSearch):** ~**$764.08** (Alpaca 9/29 daily bar unverified at pre-open pull; last authoritative Mon 9/28 close **$765.49** = Tue DTD ~−0.184%). Cumulative-since-launch UND vs SPY ~−4.09pp entering Week 19 day 3.
+- **State reconciliation vs 9/29 baseline:** V drift from lastday $365.88 → pre-open $365.93 = +$0.05 / +0.014% intraday (essentially flat pre-mkt drift). Cash unchanged. No fills, no orders, no ratchets pre-open. Portfolio value +$0.50 = matches V $0.50 mv delta exactly.
+- New positions this week (9/28–10/2): **0 of 3** — weekly cap reset carried; effective adds gated by compound-binary (PCE 8:30 AM ET + MU AMC + Fri NFP 8:30 AM ET) per research-log 9/30 candidate-set-reconstruction plan; earliest execution window Thu 10/1 pre-open post-PCE + post-MU digestion.
 - Closed positions this week: **0**.
 - Daytrade count: 0; trading not blocked.
 
-## Open Positions (Tue 9/29 pre-open live 8:30 AM ET)
+## Open Positions (Wed 9/30 pre-open live 8:30 AM ET)
 
 | Symbol | Shares | Avg Entry | Current Price | Market Value | Total P&L $ | Total P&L % | Day Change | Trailing Stop |
 |--------|--------|-----------|---------------|--------------|-------------|-------------|------------|---------------|
-| V | 10 | $354.098 | $368.40 | $3,684.00 | +$143.02 | **+4.039%** | **+0.179%** | 10% trail (hwm $385.5699 → stop $347.01291 — UNCHANGED since 2026-08-26 last ratchet; cushion **~5.81%** from $368.40 (~$21.387/sh from stop); position ~4.45% below HWM $385.5699; realized-if-triggered floor: (347.01291 − 354.098)/354.098 = **−2.00% locked-in floor** on 10 sh = position cost-basis-protected barring gap-through-stop risk) |
+| V | 10 | $354.098 | $365.93 | $3,659.30 | +$118.32 | **+3.341%** | **+0.014%** | 10% trail (hwm $385.5699 → stop $347.01291 — UNCHANGED since 2026-08-26 last ratchet; cushion **~5.17%** from $365.93 (~$18.917/sh from stop); position ~5.09% below HWM $385.5699; realized-if-triggered floor: (347.01291 − 354.098)/354.098 = **−2.00% locked-in floor** on 10 sh = position cost-basis-protected barring gap-through-stop risk) |
 
-*(Current prices from Alpaca positions endpoint at Tue 9/29 pre-open 8:30 AM ET. Alpaca lastday_price ref V $367.74 → live $368.40 = +$0.66 / +0.179% DTD. Trailing stop verified live & GTC at open — V stop **$347.01291** hwm **$385.5699** [id `7309fffa-1668-4014-98fa-16c7cbfa6412`, updated 2026-08-26 13:39:42 UTC; expires 2026-10-09 GTC].)*
+*(Current prices from Alpaca positions endpoint at Wed 9/30 pre-open 8:30 AM ET. Alpaca lastday_price ref V $365.88 → live $365.93 = +$0.05 / +0.014% DTD. Trailing stop verified live & GTC at open — V stop **$347.01291** hwm **$385.5699** [id `7309fffa-1668-4014-98fa-16c7cbfa6412`, updated 2026-08-26 13:39:42 UTC; expires 2026-10-09 GTC].)*
+
+## Today's Market Open Routine — 2026-09-30 (Wednesday; Week 19 day 3 of 5; AUGUST PCE 8:30 AM ET BINARY MACRO EVENT + MU AMC BINARY CHIP-COHORT PRINT + 10Y YIELDS AT MULTIDECADE HIGHS; NO NEW TRADES per research-log 9/30 compound-binary gates)
+
+- **No trades placed at open** per research-log 9/30 plan. No ticker was marked "Buy at open" in today's research-log entry — all 4 executable watchlist candidates (AVGO, CRWD, NVDA, LLY re-entry) marked "Watch — Hard-defer today" per compound-binary gate: (a) macro-binary PCE 8:30 AM ET = same-session risk-on/risk-off asymmetry violation for pre-print new-add; (b) single-name-binary MU AMC = chip-cohort tape-read for AVGO/NVDA pre-earnings-crowded-trade adjacent-name risk; (c) rates overlay 10Y at multidecade highs = growth-cohort pressure risk on hot-PCE scenario; (d) candidate-set-reconstruction — first substantive candidate research since 7/20 = new watchlist quality-gate requires ≥1 additional session of thesis-refinement observation before execution; (e) 0-of-3 slot count = full room but compound-binary gate takes precedence over slot-availability. Cap holds at **0 of 3** for Week 19. Earliest execution window per research-log 9/30 = Thu 10/1 pre-open post-PCE + post-MU-AMC digestion; even stronger gate release possible Mon 10/5 post-Fri-NFP.
+- **Day Open Value recorded:** **$99,448.63** (Alpaca last_equity = Tue 9/29 close; balance_asof 2026-09-29 = clean rollover). Live portfolio_value at pre-open **$99,449.13** = **+$0.50 / +0.0005%** DTD (V intraday +$0.50 / +0.014% matches; cash unchanged $95,789.83). Daily-loss cap trigger today: **$96,465.17** ($99,448.63 × 0.97). Cleared at pre-open by 300 bps of headroom.
+- **V pre-mkt drift check — PASSED, essentially flat pre-mkt:** V $365.93 at pre-open = +$0.05 / +0.014% intraday vs Alpaca lastday $365.88 (Tue 9/29 close). Total P&L +$118.32 / +3.341% from entry. HWM unchanged $385.5699 (current $365.93 = 5.09% below HWM = 6th mechanical ratchet remains LOW-probability on PCE-binary tape; needs +$19.6399 / +5.37% intraday from $365.93). Cushion at pre-open **~5.17%** from RATCHETED stop $347.01291 (~$18.917/sh from stop) = broad room, marginal compression from Mon 9/28 close 5.64% and Tue 9/29 pre-open 5.81% (V has drifted down ~$2.47 since 9/29 open; cushion compression driven by that drift not by stop movement — stop unchanged since 2026-08-26). Next catalyst = Q4 FY26 earnings estimated late-Oct/early-Nov (~4-6 weeks out) = OUTSIDE 2wk lesson-#1 catalyst-proximity boundary. **Lesson #3 dominates** — do NOT tighten manually. Realized-if-triggered floor: **−2.00% / −$70.85 locked-in floor** on 10 sh = position cost-basis-protected.
+- **Trailing stops re-verified live & GTC at pre-open:**
+  - V `7309fffa-1668-4014-98fa-16c7cbfa6412` stop **$347.01291** (hwm **$385.5699**; UNCHANGED since 2026-08-26 13:39:42 UTC last ratchet; GTC expires 2026-10-09 per Alpaca 90-day rollover)
+- **Cash floor:** 96.32% ($95,789.83) — dramatically above 20% floor. Full structural room for 3-5 new adds; deferred to Thu 10/1 post-PCE + post-MU-AMC digestion per research-log 9/30 compound-binary gate.
+- **Earnings no-buy today (Wed 9/30):** MU (Micron) AMC — chip-cohort binary + tape-read for AVGO/NVDA (both currently WATCH); JBL, FDS, JEF, CAG, CALM AMC (no candidate overlap); Thu 10/1 = ACN BMO + NKE AMC (no candidate overlap); Fri 10/2 = light day.
+- **Regime read Wed pre-open — MODEST RISK-ON PRE-MKT DRIFT + PCE-BINARY OVERLAY ACTIVE:** Pre-mkt Dow +0.4% / S&P 500 +0.2% / Nasdaq-100 +0.2% ahead of PCE. 10Y advanced to fresh multidecade highs overnight = active hawkish overlay on any hot-PCE outcome. PCE consensus: headline +0.3% m/m → +3.7% y/y; core +0.3% m/m → +3.3% y/y. HOT PCE scenario (core >+0.35% m/m) → risk-off pivot + defensives bid + growth-cohort pressure (lesson #4 sub-regime — potential LLY-style defensive-bid diversifier payoff if V's rate-agnostic-payments cohort holds mild). COOL PCE scenario (core ≤+0.2% m/m) → risk-ON continuation + cyclicals/growth bid + rate-cut re-price (defensives UND but V rate-agnostic-cohort neutral-to-mild-positive). IN-LINE PCE → range-bound continuation + focus shifts to Fri NFP + MU AMC print.
+- **Next decision window:** **Wed 9/30 12:00–4:00 PM ET midday check** — V >7% intraday cut rule armed (would need break <$340.31 = −7.00% from $365.93, well below stop $347.01291 = stop would trigger first); daily-loss cap $96,465.17 watch (would need portfolio drawdown of ~$2,984 = essentially all V position collapse plus some cash-margin adjustment which is not possible in current book state = effectively unreachable); PCE 8:30 AM ET digest read + intraday tape regime confirmation. **Wed 9/30 4:00 PM ET close routine:** log day performance vs SPY (Alpaca 9/29 + 9/30 daily bars); verify no stop trigger; digest PCE + MU AMC print outcome; refresh Thu 10/1 pre-open plan (CRWD → LLY re-entry → AVGO or NVDA execution ordering pending regime clarity). **Priority parallel workstream: continue RESUMED-SESSION reconstruction** — Weeks 10-19 SPY-vs-portfolio weekly-review codification + macro-regime evolution across gap window + lesson-learned progression.
 
 ## Today's Market Open Routine — 2026-09-29 (Tuesday; first post-RESUMED session after 10-week memory-gap window 7/20 → 9/28; V sole open position; NO NEW TRADES at open per research-log 9/29 fresh-research deferral)
 
