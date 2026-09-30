@@ -4133,3 +4133,52 @@ Post-10wk-gap first substantive candidate-set reconstruction. Selection criteria
 - **Continuing Memory-Gap RESUMED-SESSION reconstruction priorities:** (a) codify Weeks 10–19 SPY-vs-portfolio cadence via weekly-review skill during a dedicated review session; (b) reconstruct macro-regime evolution across gap window (CPI Aug 12 print + PPI Aug 14 + NFP Aug + FOMC July 28-29 outcome + subsequent Fed-speaker cadence + Aug/Sep single-name catalysts on watchlist); (c) trade-log.md already updated 9/28 to record LLY 7/31 stop-out row — no further trade-log backfills required until next executed trade.
 
 ---
+
+## Tomorrow's Watch — 2026-10-01 (Thursday — POST-CLOSE UPDATE Wed 9/30 4:00 PM ET; supersedes pre-open watchlist above based on COOL-PCE print outcome + MU AMC pending + V single-name UND behavior)
+
+**Post-close reality reset — Wed 9/30 recap:**
+- **COOL AUGUST PCE PRINT DELIVERED:** headline +3.4% y/y (vs cons +3.7% = **−30 bps cool surprise**); core +0.2% m/m (vs cons +0.3% = **−10 bps cool surprise**); core 3.0% y/y. Consumer spending HOT at +0.9% m/m (highest in a year). **CAVEAT:** BEA rewrote methodology for software/investment-management/legal-services spending measurement, applied retroactively — cool print magnitude may be partially statistical.
+- **SPY response:** MODEST risk-ON +0.328% DTD (~$764.20 → ~$766.71) — dampened relative to full-cool-print re-price magnitude, likely by (a) 10Y-yields-at-multidecade-highs overlay + (b) BEA-methodology-caveat signal-quality discount + (c) MU AMC binary overlay pending.
+- **V single-name UND:** V closed **−1.79% intraday** ($365.88 → $359.33) vs SPY +0.328% = **−2.12pp V single-name UND on the day**. Rate-agnostic-payments cohort DID NOT capture cool-PCE risk-ON bid — mechanically consistent with rate-cut-re-price flows favoring rate-sensitive cyclicals/growth over rate-agnostic payments.
+- **Cushion compressed:** V cushion from stop $347.01291 compressed from Tue close 5.17% to Wed close **3.43%** = **174 bps single-day compression** (largest since Aug 26 ratchet).
+- **Book state at close:** portfolio $99,383.13 (−0.0659% DTD); cash $95,789.83 unchanged (96.38%); V sole position; NO trades executed; NO ratchets triggered; NO stop hits; NO daily-loss-cap breach; NO midday/close-triggered cut actions.
+
+**Positions to monitor:**
+- **V — CUSHION COMPRESSION WATCH REACTIVATED:**
+  - Close cushion **3.43%** from stop $347.01291 (position at $359.33); sub-3% cushion soft-floor would require Thu break to $355.68 = **−1.02%** further from close = MODERATE probability on continuation of rate-cut-re-price-cool-PCE cohort-UND regime.
+  - Watch (a) pre-mkt drift — if V drifts up ≥+0.5% pre-open = mean-reversion signal + cushion recovers to ~4%; if V drifts down further = sub-4% cushion floor near-approach + Thu-into-Fri-NFP catalyst risk stress;
+  - Watch (b) V-vs-MA/PYPL/AXP cohort intraday behavior — single-name vs cohort UND distinction;
+  - Watch (c) any 6th HWM ratchet requires break >$385.5699 = +7.30% from $359.33 = VERY LOW probability;
+  - Watch (d) midday >7% intraday cut rule armed = would need break <$334.18 = well below stop → stop triggers first regardless;
+  - Watch (e) daily-loss cap Thu estimated at ~$96,401.64 ($99,383.13 × 0.97) = requires portfolio drawdown of ~$2,981 = effectively unreachable given V-only position + broad cash cushion.
+  - **Lesson #1 catalyst-proximity check:** Q4 FY26 earnings est late-Oct/early-Nov (~4-6 weeks out) = OUTSIDE 2wk boundary → lesson #1 does NOT arm partial-trim discretionary bias even at compressed 3.43% cushion.
+  - **Lesson #3 dominates** — DO NOT tighten manually even at compressed cushion.
+
+**Macro events tomorrow (Thu 10/1):**
+- **8:30 AM ET Weekly Initial Jobless Claims** — tertiary macro; relevant heading into Fri NFP as pre-print jobs-market health check
+- **10:00 AM ET ISM Manufacturing PMI (September)** — secondary macro; growth-cohort read for cyclicals vs defensives sub-cohort behavior
+- **Post-MU AMC digest** — chip-cohort tape-read for AVGO/NVDA watchlist candidates; hot MU/strong guide → AVGO/NVDA momentum bid (execution window quality UPGRADED); cool MU/weak guide → AVGO/NVDA pressure (execution window quality DOWNGRADED, defer to Fri NFP + Mon 10/5)
+- **Post-PCE regime continuation vs reversal** — did the cool-PCE risk-ON bid extend into Thu, or did overnight bond-market re-price (10Y yields at multidecade highs backdrop) reverse the equity risk-ON on a fresh hawkish overlay?
+
+**Earnings tomorrow (Thu 10/1):**
+- **ACN (Accenture)** BMO — services-cohort read, no watchlist overlap
+- **NKE (Nike)** AMC — consumer-discretionary read, no watchlist overlap
+- **MKC (McCormick), AYI (Acuity)** — no watchlist overlap
+- **Watchlist earnings clearance:** AVGO/CRWD/NVDA/LLY/MA all cleared for Thu buy
+
+**Thesis notes:**
+- **Execution window revision post-Wed close:**
+  - Thu 10/1 pre-open is still first potential execution window pending MU AMC print outcome + V-cushion pre-mkt drift check.
+  - **Priority reordering post-Wed V UND:** if V cushion compresses further Thu pre-open (drifts <$358), consider DEFERRING one of Thu's 3 add-slots (LLY re-entry preferred deferrable) to preserve mental bandwidth for V-cushion-watch + Fri NFP execution overhead. Cash-cushion is not the constraint (96.38% floor); execution-attention discipline is.
+  - **Best-case Thu execution order:** CRWD (highest-conviction diversifier; cybersecurity uncorrelated to V-payments cohort; MU-cohort-adjacent but not identical) → AVGO OR NVDA (one AI-cohort slot; MU-print-outcome-dependent).
+  - **LLY re-entry deferral candidate:** LLY Q3 print Thu 10/29 = 20 trading days out = safe to defer 1-2 weeks; Fri NFP + Mon 10/5 post-NFP-digest = candidate window for LLY re-entry with additional regime clarity.
+  - **NFP Fri 10/2 pre-mkt gate:** even if Thu execution proceeds on 2 of 3 slots, defer 3rd slot to post-Fri-NFP digest (Mon 10/5 pre-open) to preserve regime-clarity optionality across the NFP binary.
+- **Cool-PCE + hot-spending regime read:** growth-goldilocks-lite signal (rate-cut-re-price-friendly + growth continuation). Base case for Thu-Fri: (a) modest risk-ON continuation on cyclicals/growth cohort if bond market ratifies cool-PCE via yields easing back; (b) risk-ON reversal to defensive-bid if 10Y yields refuse to ease and BEA-methodology-caveat weighs on cool-print signal quality; (c) MU AMC + NFP will provide the two additional binary tape-reads that determine 2-3-session regime resolution.
+- **V single-name thesis:** cool-PCE + hot-spending combo has NOT re-priced rate-agnostic-payments favorably (cohort mechanically UND on rate-cut-re-price flows). Analyst consensus PT $419 + Strong Buy + GF-undervalued still intact = thesis NOT broken; single-day cohort UND behavior fits lesson #4 sub-regime (diversifier payoff regimes are TAPE-DEPENDENT). Do NOT re-underwrite V thesis on 1-day cohort UND.
+
+**Continuing memory-gap RESUMED-SESSION reconstruction priorities:**
+- (a) codify Weeks 10-19 SPY-vs-portfolio cadence via weekly-review skill during a dedicated review session (deferred priority — weekend of 10/3-4 or Sun-pre-Mon-10/5 candidate window);
+- (b) reconstruct macro-regime evolution across gap window (CPI Aug 12 print + PPI Aug 14 + NFP Aug + FOMC July 28-29 outcome + subsequent Fed-speaker cadence + Aug/Sep single-name catalysts on watchlist);
+- (c) trade-log.md already updated 9/28 to record LLY 7/31 stop-out row — no further trade-log backfills required until next executed trade.
+
+---
