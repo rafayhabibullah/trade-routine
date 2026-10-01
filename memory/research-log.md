@@ -4264,3 +4264,61 @@ Candidate-set refined Day 2 post-reconstruction. Primary focus: 1 execution cand
   - (c) trade-log.md already current through 9/28 LLY backfill — no further backfills until next executed trade (CRWD today would be the next entry).
 
 ---
+
+## Tomorrow's Watch — 2026-10-02 (Friday — POST-CLOSE UPDATE Thu 10/1 4:00 PM ET; NFP day + Week 19 close + weekly-review trigger)
+
+**Post-close reality reset — Thu 10/1 recap:**
+- **CRWD BUY EXECUTED at open:** 18 sh × $263.29 fill (9:30:53 ET) = $4,739.22 cash out. Day-1 close $266.09 = **+1.063% / +$50.40 unrealized**. Intraday high $269.30 at ~9:59 ET (+2.28% from fill in first 30 min) = chip-cohort bid read-through to adjacent cybersecurity cohort on MU-blowout tape. **Day-1 trailing-stop ratchet LOCKED IN at 9:59 ET:** stop $235.9935 → $242.37; hwm $262.215 → $269.30. Realized-if-triggered floor improved **−10.37% → −7.94% / −$376.56** on 18 sh. CRWD "cybersecurity non-rate-sensitive diversifier" thesis validated Day 1 — 10Y-at-5.30% hawkish overlay did NOT pressure CRWD.
+- **V held through mild-green session, cushion marginally recovered:** V $359.33 → $359.79 = +0.128% intraday / +$4.60 on 10 sh. Total P&L +1.607% / +$56.92 from entry. Cushion recovered from Wed close 3.43% to Thu close **3.55%** (+12 bps) — still within sub-4% cushion-compression watch zone. V-vs-SPY on day: +0.128% vs +0.231% = −0.103pp mild single-name UND (vastly improved from Wed's −2.12pp). Rate-agnostic-payments cohort cohort behavior normalizing after Wed cool-PCE re-price shock.
+- **SPY-reference methodology CORRECTED to Alpaca IEX authoritative daily bar:** Thu 10/1 close **$764.10** (Alpaca); prior Wed 9/30 close **$762.34** (Alpaca, not $766.71 as WebSearch said). Wed 9/30 Day UND recorded as −0.394pp RESTATED to **+0.201pp Day OP** (portfolio −0.0659% vs corrected SPY DTD −0.267%). Weeks 10-19 cumulative-UND tracking restatement deferred to weekend review.
+- **Thu 10/1 DAY performance vs SPY:** portfolio +0.0554% vs SPY +0.231% = **−0.175pp mild DAY UND** = classic lesson #2 UP-tape UND behavior at expected magnitude for 91.6% cash floor; no abnormality or thesis break.
+- **Book state at close:** portfolio $99,438.13 (+0.0554% DTD); cash $91,050.61 (91.56%); 2 open positions (V + CRWD); NO additional trades Thu; CRWD Day-1 trailing-stop ratchet triggered (automatic); NO V ratchet; NO stop hits; NO daily-loss-cap breach; NO midday/close-triggered cut actions.
+
+**Positions to monitor:**
+- **V — CUSHION COMPRESSION WATCH CONTINUES (3.55% at Thu close, still sub-4% soft-floor):**
+  - Watch (a) Fri pre-mkt drift — if V drifts ≥+0.3% pre-open = cushion recovers ≥3.8%; if drifts further down <$358 = sub-3% cushion soft-floor near-approach + NFP binary catalyst risk;
+  - Watch (b) NFP 8:30 AM ET macro-binary response — HOT NFP + 10Y-at-5.30% overlay = payments-cohort continuation UND risk (defensive-cohort bid regime; V rate-agnostic UND); COOL NFP growth-scare = defensive-bid regime where V could catch mild bid; IN-LINE NFP = continuation of mild-green stabilization;
+  - Watch (c) V-vs-MA/PYPL/AXP cohort behavior — single-name vs cohort divergence signal;
+  - Watch (d) 6th HWM ratchet requires break >$385.5699 = +7.17% from $359.79 = VERY LOW probability on NFP-binary tape;
+  - Watch (e) midday >7% intraday cut rule armed = would need break <$334.60 = well below stop → stop triggers first regardless;
+  - Watch (f) daily-loss cap Fri estimated at ~$96,454.99 ($99,438.13 × 0.97) = requires portfolio drawdown ~$2,983 = effectively unreachable given 91.6% cash floor;
+  - **Lesson #1 catalyst-proximity check:** Q4 FY26 earnings est late-Oct/early-Nov (~4-6 weeks out) = OUTSIDE 2wk boundary; no partial-trim discretionary bias armed;
+  - **Lesson #3 dominates** — DO NOT tighten manually even if cushion compresses further.
+- **CRWD — DAY-2 POST-RATCHET WATCH:**
+  - Day-2 trailing-stop verification live & GTC (stop $242.37 / hwm $269.30);
+  - Pre-mkt drift check — watch for continuation of Day-1 strength vs mean-reversion toward fill $263.29;
+  - Cushion at Thu close ~8.91% from stop = healthy; sub-5% cushion threshold would require break <$254.60 (−4.32% from close) = LOW probability pre-NFP;
+  - Midday >7% intraday cut rule armed = would need break <$247.46 = well below stop → stop triggers first;
+  - NFP-binary read-through: CRWD cohort = cybersecurity SaaS = largely NFP-insensitive (subscription revenue model); any Fri NFP shock most likely transmits via broader beta rather than fundamental re-rating.
+
+**Macro events tomorrow (Fri 10/2):**
+- **8:30 AM ET — Employment Report (NFP September):** BINARY MACRO EVENT OF WEEK; cons ~+140K / UNR 4.3% / AHE +0.3% m/m (verify Fri pre-open with WebSearch).
+  - **HOT NFP (>+180K or UNR drops):** + 10Y-at-5.30% overlay = defensive-cohort bid + growth-cohort hammer (lesson #4 sub-regime); V/CRWD payments+SaaS behave variably — CRWD may hold up on SaaS subscription-stability, V may see rate-agnostic UND on cyclicals-bid.
+  - **COOL NFP (<+100K or UNR ticks up):** growth-scare defensive-bid regime (lesson (viii) sub-regime per 7/2 playbook); defensives (pharma/medtech) bid, cyclicals/semis fade, SPY possibly modestly red; V rate-agnostic may catch mild defensive bid.
+  - **IN-LINE NFP (+120-160K cons range):** continuation of current cool-PCE + MU-chip-bid regime; focus shifts to next week's catalysts (CPI Oct 10, FOMC Oct 28).
+  - **AHE + UNR revisions also material** to Fed-cut-re-price path.
+- **8:30 AM ET — Average Hourly Earnings:** component of NFP release; wage-pressure read.
+- **No other first-tier macro Fri 10/2.** Secondary: U-Mich Consumer Sentiment prelim possible.
+
+**Earnings tomorrow (Fri 10/2):**
+- Light day; STZ (Constellation Brands) possible BMO; verify Fri pre-open. No watchlist overlap confirmed.
+- Watchlist earnings clearance remains: AVGO clear (Q4 late-Dec); CRWD clear (Q3 late-Nov); NVDA clear (Q3 mid-Nov); LLY Q3 Thu 10/29 BMO = 20+ trading days out; MA late-Oct outside 2wk boundary (correlation gate still binds).
+
+**Thesis notes:**
+- **Execution plan Fri 10/2:**
+  - **NO NEW TRADES pre-NFP** per deferral discipline; 2 of 3 Week-19 slots held in reserve for Mon 10/5 post-NFP execution.
+  - **Fri 10/2 ends Week 19;** weekly-review trigger fires at close. Code Week 19 cadence: Mon OP (+0.763pp) + Tue UND (−0.?pp) + Wed OP-restated (+0.201pp) + Thu UND (−0.175pp) + Fri pending.
+  - **Mon 10/5 pre-open = DESIGNATED AVGO-vs-NVDA head-to-head decision window + LLY re-entry execution window** (contingent on NFP-digest + 10Y direction + post-weekend overnight regime stability).
+- **Preferred Mon 10/5 execution order (preliminary, subject to NFP outcome):**
+  - **If NFP COOL/IN-LINE and 10Y eases <5.20%:** AVGO (chip-cohort momentum continuation; MU-blowout read-through) + LLY re-entry (pharma defensive-bid + Q3 10/29 catalyst setup).
+  - **If NFP HOT and 10Y pushes to 5.35%+:** defer mega-cap-AI (growth-duration-vulnerable) → prefer LLY re-entry (defensive-bid regime payoff) + 1 slot held for continuation observation.
+  - **If NFP delivers growth-scare COOL + UNR ticks up:** LLY re-entry (lesson (viii) defensive-bid regime payoff) is highest conviction; AVGO/NVDA defer further.
+- **CRWD Day-2 posture:** HOLD; verify trailing-stop live & GTC pre-open; monitor Day-2 drift for continuation vs mean-reversion; lesson #3 dominates — no manual tightening.
+- **V single-name thesis:** +1.607% total P&L / cost-basis-protected at −2.00% floor / cushion compressed but recovering. Thesis intact per analyst consensus Strong Buy + PT $419. Do NOT re-underwrite on 1-week cohort behavior; wait for 2-3 session confirmation of regime behavior.
+
+**Continuing memory-gap RESUMED-SESSION reconstruction priorities (weekend 10/3-4 target window):**
+- (a) Weeks 10-19 SPY-vs-portfolio weekly-review codification via weekly-review skill — INCLUDES SPY-reference methodology correction (Alpaca IEX authoritative; recalculate all Weeks 10-19 Day UND/OP figures that previously relied on WebSearch SPY data);
+- (b) macro-regime evolution reconstruction across gap window (CPI Aug 12 + PPI Aug 14 + NFP Aug + FOMC Jul 28-29 outcome + Fed-speaker cadence);
+- (c) trade-log.md: ADD CRWD 10/1 buy entry during next Mon pre-open or weekend session (deferred — not blocking close routine; the CRWD trade row is already captured in the trade-log via the 2026-10-01 entry executed earlier today).
+
+---
