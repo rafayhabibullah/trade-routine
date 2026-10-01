@@ -4182,3 +4182,85 @@ Post-10wk-gap first substantive candidate-set reconstruction. Selection criteria
 - (c) trade-log.md already updated 9/28 to record LLY 7/31 stop-out row — no further trade-log backfills required until next executed trade.
 
 ---
+
+## Research — 2026-10-01 (Thursday — Week 19 day 4 of 5 = **POST-MU MASSIVE BEAT + POST-COOL-PCE DAY 2 + 10Y AT MULTIDECADE HIGHS 5.30% + PRE-NFP FRI 10/2**; MU printed $54.2B rev +379% YoY / EPS $33.42 / Q1 FY27 guide $61.5B = chip-cohort risk-ON tape upgrade; V cushion compressed to 3.43% from Wed close; book V sole open position + 96.38% cash entering Week 19 day 4; 0 of 3 slots used; CRWD = 1-slot execution candidate today; AVGO/NVDA/LLY-re-entry hard-gated by (a) 10Y-at-5.30% hawkish-overlay growth-cohort pressure + (b) pre-NFP binary deferral discipline)
+
+### Market Conditions
+
+Pre-mkt Thu 10/1 futures **modestly positive on cool-PCE Day 2 continuation + MU-blowout chip-cohort bid**: S&P 500 futures +0.22-0.48%, Dow futures +0.26%, Nasdaq-100 futures +0.86% (Nasdaq futures leading on MU-triggered semi-cohort bid read-through to AVGO/NVDA). **MAJOR NEW HAWKISH OVERLAY: 10Y Treasury yield at ~5.30% = fresh multidecade high** (last seen 2002) — bond-market de-anchoring from Fed-cut-re-price flows despite cool-PCE outcome; growth-cohort pressure risk ESCALATED vs Wed morning. **VIX 16.68 (+2.08%)** = still compressed = no imminent regime-break pricing. **MU Q4 FY26 print (AMC Wed 9/30) = BLOWOUT:** rev $54.2B (+379% YoY, +31% QoQ); GM 87% (+210 bps QoQ); EPS $33.42; DRAM $39.8B (+343% YoY = 73% total); data-center SSD >$10B (10x YoY); FY26 record rev $133.2B; FY27 Q1 guide $61.5B rev / EPS $38.15 / FY27 "stronger than FY26, sequential growth each quarter, GM expansion after Q1" = **chip-cohort tape-read UPGRADED** → AVGO/NVDA execution-window quality favorable (though 10Y-at-5.30% hawkish-overlay partially offsets). **PCE Day 2 regime read:** cool-PCE from Wed (-30 bps y/y surprise; core +0.2% m/m) has NOT translated into bond-yield relief — 10Y refusing to re-price lower = BEA-methodology-caveat (software/investment-mgmt/legal-services methodology overhaul) likely weighing on cool-print signal quality for bond-market participants. Base case Thu-Fri: (a) chip-cohort momentum bid on MU-beat continuation; (b) growth-cohort pressure on 10Y-at-5.30% overlay; (c) rates-sensitive cyclicals (banks, insurers) bid; (d) rate-agnostic payments (V) UND continuation risk per Wed cohort behavior.
+
+### SPY Reference Price
+
+Not a Monday — SPY reference not logged today. Last recorded SPY reference is Mon 9/28 close **$765.49** (portfolio memo). Wed 9/30 close ~**$766.71** (WebSearch midpoint, portfolio memo). Thu 10/1 pre-open ref implied by futures +0.22-0.48% from Wed close = ~$768.4-770.4 opening range if futures hold through open.
+
+### Earnings This Week — Do Not Buy
+
+Week 19 (9/28–10/2) reporters — DO NOT BUY these tickers this week per non-negotiable guardrail:
+
+- **Mon 9/28:** CCL (Carnival) — BMO (done)
+- **Tue 9/29:** KMX (CarMax) BMO; AIR/CNXC/FDXF AMC (done)
+- **Wed 9/30 AMC:** MU (Micron) — **BLOWOUT**; JBL (Jabil); FDS (FactSet); JEF (Jefferies); CAG (Conagra); CALM (Cal-Maine) (done)
+- **Thu 10/1 BMO:** **ACN (Accenture)** — services-cohort read
+- **Thu 10/1 AMC:** **NKE (Nike)** — consumer-discretionary read; **MKC (McCormick)**; **AYI (Acuity)**
+- **Fri 10/2:** light day (STZ possible; verify)
+
+**Watchlist earnings clearance (for candidates below):** AVGO clear (Q4 late-Dec); CRWD clear (Q3 late-Nov); NVDA clear (Q3 mid-Nov); **LLY = Q3 CY26 print CONFIRMED Thu 10/29 BMO = 20+ trading days out = OUTSIDE 2wk lesson-#1 catalyst-proximity boundary**; UNH = Q3 Mon 10/13 = INSIDE 2wk boundary = OFF LIMITS; MA clear this week but MA-V correlation gate holds.
+
+### Macro Events This Week (remaining)
+
+- **Thu 10/1 8:30 AM ET — Weekly Initial Jobless Claims:** cons 201K / prev 197K = pre-NFP labor-market pulse check
+- **Thu 10/1 10:00 AM ET — ISM Manufacturing PMI (September):** cons 54.8 / prev 54.6 = growth-cohort read (expansionary >50 = cyclicals bid signal)
+- **Fri 10/2 8:30 AM ET — Employment Report (NFP September):** **BINARY MACRO EVENT OF WEEK** — first NFP of Q4; consensus NFP ~+140K / UNR 4.3% / AHE +0.3% m/m (not fully verified today — verify Fri pre-open); HOT NFP + 10Y-at-5.30% overlay = defensive-cohort bid + growth-cohort hammer regime; COOL NFP = growth-scare defensive-bid regime per lesson (viii) sub-regime; IN-LINE NFP = continuation of current cool-PCE + MU-chip-bid regime
+- **Not this week:** next CPI Oct 10; next FOMC Oct 28
+
+### Watchlist for Tomorrow's Open
+
+Candidate-set refined Day 2 post-reconstruction. Primary focus: 1 execution candidate for Thu pre-open window per compound-binary partial-release (MU AMC digested, cool-PCE regime Day 2); 2 remaining slots deferred to post-NFP Mon 10/5 pre-open per NFP-binary deferral discipline.
+
+| Symbol | One-Line Thesis | Rev Growth | Moat Type | Analyst Rating | Action |
+|--------|-----------------|------------|-----------|----------------|--------|
+| CRWD | Cybersecurity platform ARR compounding: Q2 FY27 rev +26% YoY to $1.47B, ARR +25% YoY to $5.84B, record net-new ARR $333M (+51% YoY, 5th consecutive accelerating Q); Morgan Stanley PT $254 (Overweight), Stephens $280 (Overweight); OpenAI Marketplace distribution + Falcon Guardian/GPT-5.6-Cyber partnership expansion Sep 2026 | +26% YoY | Switching costs (agent-based endpoint + SIEM stack lock-in) + Falcon-platform network effects + AI-security consolidation moat | Buy consensus (Morgan Stanley OW $254; Stephens OW $280) | **BUY AT OPEN — HIGHEST-CONVICTION DIVERSIFIER** — Pure non-AI-cohort diversifier vs V-payments; cybersecurity cohort NOT rate-sensitive (SaaS subscription revenue uncorrelated to 10Y moves); non-AI-cohort = lesson #5 cap unaffected. Q3 FY27 earnings late-Nov = OUTSIDE 2wk lesson-#1 boundary. **Size 5% max per portfolio-cap discipline** (~$4,969 = ~10 shares if CRWD ~$497; verify opening quote and size appropriately with chase-out ceiling at +3% above pre-mkt indication). Pairs cleanly with V (uncorrelated sectors) + non-rate-sensitive = clean addition to 96.38%-cash book. |
+| AVGO | AI-custom-silicon ramp: Q3 FY26 rev +86% YoY to $29.6B, AI semi +221% YoY to $16.7B, Q4 guide +93% YoY to $34.8B, FY26 AI rev guide raised to $58B (+186% YoY); MU-blowout read-through to hyperscaler ASIC demand confirms AI capex continuation | +86% YoY | Custom silicon design + VMware infrastructure-software switching costs | Buy consensus | **Watch — HARD-DEFER TO POST-NFP** — MU-blowout chip-cohort bid is positive execution-window signal BUT 10Y-at-5.30% hawkish-overlay = growth-cohort pressure risk partially offsets; pre-NFP binary gate adds asymmetry risk. Lesson #5 mega-cap-AI cap (≤3 names / ≤15% equity) binding = AVGO slot is scarce resource; preserve for post-NFP regime clarity. Preferred Mon 10/5 execution window post-NFP-digest + 10Y-direction confirmation. |
+| NVDA | AI-compute leader with structural CUDA moat: Q2 FY27 rev +105.9% YoY to $96.22B, Q3 guide $108B (above cons $104.2B); fresh $150B buyback expansion + hyperscaler capex into FY28 confirmed | +105.9% YoY | CUDA developer-ecosystem network effects + AI-training installed-base switching costs | Strong Buy | **Watch — RISK-GATED + HARD-DEFER TO POST-NFP** — Same lesson #5 cap competition with AVGO; if executing 1 mega-cap-AI slot, prefer the one with cleaner post-NFP-digest technical setup. 10Y-at-5.30% hawkish-overlay disproportionately pressures mega-cap-AI (highest-duration growth cohort). Defer to Mon 10/5 post-NFP for AVGO-vs-NVDA head-to-head execution decision. |
+| LLY | GLP-1 duopoly + expanded Alzheimer's/psychedelic pipeline; JPM raised PT to $1,500 (from $1,400, Overweight) ahead of Q3 10/29; Barclays $1,400 OW; Cantor $1,230 OW; average 12-month PT $1,328.83 = +14.84% upside; Q1 2026 rev +55.5% YoY; Foundayo 20K patients 80% new-to-class | +55.5% YoY (Q1 2026) | Zepbound/Mounjaro-Retevmo-Foundayo portfolio + manufacturing-capacity scale + regulatory-approval flywheel | Overweight consensus | **Watch — RE-ENTRY DEFERRED TO POST-NFP** — Pharma defensive-bid diversifier remains high-quality re-entry candidate; stop-out Fri 7/31 at $1,123.415 (+13.21% profit) cleared 2-month cool-off; current price ~$1,186 vs JPM PT $1,500 = ~26.5% upside. Q3 print Thu 10/29 = 20 trading days out = OUTSIDE 2wk boundary. HOWEVER — pre-NFP binary deferral discipline + preserving execution-attention bandwidth for CRWD-today + V-cushion-watch takes priority. **Mon 10/5 post-NFP-digest = preferred LLY re-entry window.** |
+| MA | Payments duopoly cousin to V — Q3 print late-Oct = outside 2wk boundary | ~15% YoY (est) | Rate-agnostic-payments duopoly + network effects + switching costs | Strong Buy | **Skip — MA-V correlation gate** — same-cohort concentration doubles payments exposure; portfolio construction rule overrides individual thesis quality. Watch-only for tape reference vs V. |
+
+**Bottom-line watchlist read:** 1 execution candidate at Thu open (CRWD) — highest-conviction, non-rate-sensitive, non-AI-cohort diversifier; 2 slots deferred to Mon 10/5 post-NFP (preferred: AVGO OR NVDA + LLY re-entry). CRWD-only execution preserves (a) regime-clarity optionality across NFP binary; (b) mental bandwidth for V-cushion-watch (3.43% compressed); (c) lesson #5 mega-cap-AI slot preservation for post-NFP head-to-head; (d) cash floor stays dramatically above 20% at ~91% post-CRWD-add. **Trade-routine will execute CRWD per hard-automated pre-mkt market-order discipline inherited from lesson (vi) codification** — research-routine does NOT execute trades; execution belongs to trade-routine.
+
+### Existing Position Notes
+
+| Symbol | News | Thesis Still Valid? | Action |
+|--------|------|---------------------|--------|
+| V | Wed 9/30 close $359.33 (−1.79% intraday vs Alpaca lastday $365.88 Tue 9/29 close) — rate-agnostic-payments cohort UND −2.12pp vs SPY on cool-PCE Day 1 as rate-cut re-price flows disfavored payments cohort relative to rate-sensitive cyclicals/growth. Cushion from stop $347.01291 **compressed to 3.43% at Wed close** (from Tue close 5.17% = 174 bps single-day compression = largest since Aug 26 ratchet). Analyst consensus **Strong Buy** with average PT $419.36 (+16.7% upside); Piper Sandler $430 maintained 9/28; Wells Fargo $432 maintained 9/28 = recent reaffirmations despite cohort-UND tape. Thu 10/1 pre-mkt reference not available via WebSearch (pre-mkt data archive gap); verify at Thu pre-open via Alpaca. Q4 FY26 earnings est late-Oct/early-Nov (~4-6 weeks out) = OUTSIDE 2wk lesson-#1 catalyst-proximity boundary. **6th HWM ratchet** requires break >$385.5699 = +7.30% from $359.33 = VERY LOW probability on PCE Day 2 + MU-beat + 10Y-5.30% mixed tape. **Realized-if-triggered floor: −2.00% / −$70.85 locked-in on 10 sh = position cost-basis-protected.** | ✅ Thesis intact — Strong Buy consensus reaffirmed by Piper + Wells Fargo 9/28 at $430-432 PTs; cohort-UND behavior is TAPE-DEPENDENT lesson-#4 sub-regime (do NOT re-underwrite thesis on 1-day cohort UND). Lesson #3 dominates — DO NOT tighten manually even at compressed 3.43% cushion. | **HOLD** — trailing stop live & GTC ($347.01291 / hwm $385.5699 / order id `7309fffa-1668-4014-98fa-16c7cbfa6412`); monitor Thu pre-open drift (if ≥+0.5% = mean-reversion signal + cushion recovers ~4%; if drifts lower further = sub-3% cushion floor near-approach + Thu-into-Fri-NFP catalyst risk stress); midday >7% intraday cut rule armed = would need break <$334.18 = well below stop → stop triggers first. **Cushion-compression watch REMAINS REACTIVATED.** |
+
+### Compound-Binary Gate Read — Partial Release vs Thu 9/30
+
+**Gate release status Thu 10/1 (vs Wed 9/30):**
+
+- **Gate 1 (macro binary PCE 8:30 AM ET): RELEASED** — PCE printed cool Wed; Day 2 regime digestion now in progress; no same-session macro-binary risk at Thu open.
+- **Gate 2 (single-name binary MU AMC): RELEASED** — MU blowout print digested overnight; chip-cohort tape-read UPGRADED positive; execution-window quality IMPROVED for AVGO/NVDA (though hawkish-overlay partial offset).
+- **Gate 3 (rates overlay 10Y at multidecade highs): ESCALATED** — 10Y at 5.30% = multidecade-high extension overnight vs Wed; growth-cohort pressure risk INCREASED; this gate NEWLY-ESCALATED and partially offsets Gate 2 release.
+- **Gate 4 (candidate-set reconstruction): PARTIALLY-RELEASED** — Day 2 of refinement; CRWD thesis now has 2 sessions of observation + fresh Morgan Stanley/Stephens PT raises + OpenAI Marketplace news = quality-gate CLEARED for CRWD; AVGO/NVDA remain in refinement window pending post-NFP regime clarity.
+- **Gate 5 (this-week-count): HOLDS** — 0 of 3 slots used = full room; 1 slot deployment today preserves 2 for post-NFP execution.
+- **NEW Gate 6 (pre-NFP binary deferral): ACTIVE** — Fri NFP 8:30 AM ET is same-week binary; defer 2 of 3 slots to post-NFP digest Mon 10/5 pre-open per execution-attention + regime-clarity discipline.
+
+**Thu 10/1 execution thesis:** Partial gate release = partial execution. **CRWD is executable today** (gates 1/2/4 released; gate 3 mitigated by CRWD's non-rate-sensitive SaaS cohort; gate 5 permits 1-slot; gate 6 permits 1-slot with 2 held in reserve). **AVGO/NVDA/LLY-re-entry remain hard-deferred to Mon 10/5 pre-open** per gate 3 hawkish-overlay + gate 6 pre-NFP deferral discipline.
+
+### Tomorrow's Watch — 2026-10-02 (Friday — NFP day + Week-close + weekly-review trigger)
+
+- **Positions to monitor:**
+  - **V** — same cushion-compression watch continues; preferred Fri pre-open cushion ≥4% to preserve hold-the-stop discipline into NFP binary; if cushion <3% at Fri pre-open after Thu close, consider provisional lesson #1 catalyst-proximity re-check (Q4 FY26 est late-Oct/early-Nov = 3-4 wks out = at edge of 2wk boundary) — mild bias toward lesson #3 still dominates.
+  - **CRWD** (if executed Thu) — Day-1-post-add trailing-stop verification (10% trail per non-negotiable guardrail); monitor pre-mkt drift + opening-print cushion establishment; midday >7% intraday cut rule armed; verify trailing-stop live & GTC via Alpaca.
+- **Macro events tomorrow (Fri 10/2):**
+  - **8:30 AM ET — Employment Report (NFP September):** BINARY MACRO EVENT OF WEEK; cons ~+140K (verify Fri pre-open); HOT NFP + 10Y-at-5.30% overlay = defensive-cohort bid + growth-cohort hammer (per lesson #4 sub-regime); COOL NFP = growth-scare defensive-bid regime (per lesson (viii) sub-regime); IN-LINE NFP = continuation of current cool-PCE + MU-chip-bid regime; UNR + AHE revisions also material to Fed-cut-re-price path.
+- **Earnings tomorrow (Fri 10/2):** light day; STZ possible; no watchlist overlap confirmed; verify Fri pre-open.
+- **Thesis notes:**
+  - **Week-close + weekly-review trigger Fri 10/2** — codify Week 19 performance vs SPY: entering Thu 10/1 cumulative-since-launch UND ~−4.48pp per portfolio memo; Thu + Fri NFP outcomes will finalize Week 19 cadence; weekly-review may inform additional lesson-learned entries given the Week 19 Day 1 OP + Day 2 UND + Day 3 UND (cool-PCE regime) + Day 4-5 pending.
+  - **NO NEW TRADES Fri 10/2 pre-NFP-digest** — defer 3rd execution slot to Mon 10/5 pre-open per NFP-binary + weekend-regime-digest discipline.
+  - **Mon 10/5 pre-open = designated AVGO-vs-NVDA head-to-head decision + LLY re-entry execution window** (contingent on NFP-digest + 10Y direction + post-weekend overnight regime stability).
+- **Continuing memory-gap RESUMED-SESSION reconstruction priorities (deferred):**
+  - (a) Weeks 10-19 SPY-vs-portfolio weekly-review codification during weekend 10/3-4 or Sun-pre-Mon-10/5 window;
+  - (b) macro-regime evolution reconstruction across gap window (CPI Aug 12 + PPI Aug 14 + NFP Aug + FOMC Jul 28-29 outcome + Fed-speaker cadence);
+  - (c) trade-log.md already current through 9/28 LLY backfill — no further backfills until next executed trade (CRWD today would be the next entry).
+
+---
