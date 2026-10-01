@@ -1,31 +1,55 @@
 # Portfolio
 
-**Last Updated:** 2026-09-30 MARKET CLOSE (4:00 PM ET / 10:00 PM CEST / 8:00 PM UTC — Wednesday; Week 19 day 3 of 5; COOL AUGUST PCE PRINT (headline +3.4% y/y vs cons 3.7%; core +0.2% m/m vs cons 0.3%; core 3.0% y/y) — cool surprise partially attributed to BEA methodology overhaul on software/investment-management/legal services; MU Q4 FY26 AMC PENDING (chip-cohort binary tape-read for AVGO/NVDA); **DAY UND −0.394pp** — portfolio −0.0659% vs SPY ~+0.328% = cool-PCE risk-ON MODEST tape not fully captured by V's rate-agnostic-payments cohort (V single-name −2.12pp UND vs SPY on the day); trailing stops UNCHANGED; NO TRADES; NO MIDDAY OR CLOSE-TRIGGERED CUT ACTIONS)
+**Last Updated:** 2026-10-01 MARKET OPEN (9:31 AM ET / 3:31 PM CEST / 1:31 PM UTC — Thursday; Week 19 day 4 of 5; POST-COOL-PCE DAY 2 + POST-MU BLOWOUT DIGEST + 10Y AT MULTIDECADE HIGHS ~5.30% + PRE-NFP FRI 10/2; **CRWD BUY-AT-OPEN EXECUTED 18 sh @ $263.29 avg ($4,739.22)** per research-log 10/1 compound-binary partial-release — 1 of 3 Week-19 slots used; 10% trailing stop live & GTC @ $235.9935 (hwm $262.215; order id `e2ab0fc3-a33e-4b39-b402-e85cbcce0da1`); V held per existing plan)
 **Account:** Alpaca Paper Trading
 **Endpoint:** https://paper-api.alpaca.markets
 
 ## Account Summary
-- Cash: **$95,789.83** (unchanged intraday; balance_asof 2026-09-29 clean rollover)
-- Total Portfolio Value (Wed 9/30 CLOSE): **$99,383.13**
-- Invested (long_market_value): $3,593.30 (3.62%)
-- Cash Reserve: $95,789.83 (96.38%)
-- **Wed 9/30 Day Open Value:** **$99,448.63** (Alpaca last_equity = Tue 9/29 close; balance_asof 2026-09-29 = clean rollover).
-- **Wed 9/30 Day Close Value:** **$99,383.13** = **−$65.50 / −0.0659% DTD** (V intraday −$65.50 / −1.79% matches exactly; cash unchanged).
-- **Today's daily-loss cap trigger:** **$96,465.17** ($99,448.63 × 0.97). Close $99,383.13 = cleared by 302 bps of headroom. No trading halt implication for Thu.
+- Cash: **$91,050.61** (post-CRWD-fill: $95,789.83 − $4,739.22 = $91,050.61)
+- Total Portfolio Value (Thu 10/1 live post-open): **$99,372.25**
+- Invested (long_market_value): $8,321.64 (8.37%)
+- Cash Reserve: $91,050.61 (91.63%)
+- **Thu 10/1 Day Open Value:** **$99,383.13** (Alpaca last_equity = Wed 9/30 close; balance_asof 2026-09-30 = clean rollover).
+- **Live post-open delta:** $99,383.13 → $99,372.25 = **−$10.88 / −0.011% DTD** (V intraday +$6.40 / +0.178%; CRWD intraday −$17.46 / −0.368% on post-fill drift from $263.29 fill to $262.32 last).
+- **Today's daily-loss cap trigger:** **$96,401.64** ($99,383.13 × 0.97). Live $99,372.25 = cleared by 300 bps of headroom. No trading halt implication intraday.
 - **SPY Reference (Wed 9/30 close — WebSearch approximate):** **~$766.71** (multiple sources $766.71-$767.08; used $766.71 midpoint). Tue 9/29 close ref **$764.20** (WebSearch "previous close" per stockanalysis) → Wed 9/30 close **~$766.71** = **DTD +0.328%** = MODEST risk-ON SPY tape on cool-PCE surprise (fewer bps of rally than a full cool-print re-price would ordinarily produce, likely dampened by 10Y-yields-at-multidecade-highs overlay + BEA-methodology-caveat drag on cool-print signal quality + MU AMC binary overlay pending). Cumulative-since-launch UND vs SPY ~**−4.48pp** entering Week 19 day 4 (9/29 close ~−4.09pp + Wed day UND −0.394pp = −4.48pp).
-- **State reconciliation vs 9/29 close baseline:** V $365.88 → $359.33 = −$6.55 / −1.79% intraday. Cash unchanged. No fills executed intraday; only the outstanding trailing-stop order remains open (id `7309fffa-1668-4014-98fa-16c7cbfa6412` stop $347.01291 hwm $385.5699 = UNCHANGED). Portfolio value drop $99,448.63 → $99,383.13 = −$65.50 matches V market_value delta $3,658.80 → $3,593.30 = −$65.50 exactly.
-- New positions this week (9/28–10/2): **0 of 3** — no adds executed Wed 9/30; effective further-adds gated by (a) MU AMC print digestion Thu pre-open (chip-cohort tape-read); (b) Fri NFP 8:30 AM ET macro-binary; (c) candidate-set-reconstruction refinement; earliest execution window Thu 10/1 pre-open post-MU digest.
+- **State reconciliation vs 9/30 close baseline:** V $359.33 → $359.97 = +$0.64 / +0.178% intraday (cash unchanged on V side). CRWD BUY market-order fill 9:30:53 ET @ $263.29 avg × 18 sh = $4,739.22 cash out → $95,789.83 → $91,050.61 cash remaining; CRWD current $262.32 = −$0.97/sh vs fill = −$17.46 intraday on new position; 10% trailing stop live & GTC placed 9:31:07 ET @ $235.9935 (hwm $262.215; order id `e2ab0fc3-a33e-4b39-b402-e85cbcce0da1`; expires 2026-12-30 per Alpaca 90-day rollover). Portfolio value $99,383.13 → $99,372.25 = −$10.88 matches V intraday +$6.40 + CRWD intraday −$17.46 = −$11.06 (≈ matches, residual within quote-timing noise).
+- New positions this week (9/28–10/2): **1 of 3** — CRWD executed Thu 10/1 open; 2 slots held in reserve for Mon 10/5 post-NFP execution window per NFP-binary + 10Y-direction deferral discipline (AVGO or NVDA + LLY re-entry preferred).
 - Closed positions this week: **0**.
-- Daily Loss Today: **−$65.50 / −0.0659%** = well inside daily-loss cap (−3.00% = −$2,983.46).
+- Daily Loss Today (live post-open): **−$10.88 / −0.011%** = well inside daily-loss cap (−3.00% = −$2,981.49).
 - Daytrade count: 0; trading not blocked.
 
-## Open Positions (Wed 9/30 CLOSE 4:00 PM ET)
+## Open Positions (Thu 10/1 live post-open ~9:31 AM ET)
 
 | Symbol | Shares | Avg Entry | Current Price | Market Value | Total P&L $ | Total P&L % | Day Change | Trailing Stop |
 |--------|--------|-----------|---------------|--------------|-------------|-------------|------------|---------------|
-| V | 10 | $354.098 | $359.33 | $3,593.30 | +$52.32 | **+1.478%** | **−1.79%** | 10% trail (hwm $385.5699 → stop $347.01291 — UNCHANGED since 2026-08-26 last ratchet; cushion **~3.43%** from $359.33 (~$12.319/sh from stop); position ~6.80% below HWM $385.5699 = 6th ratchet remains LOW-probability; realized-if-triggered floor: (347.01291 − 354.098)/354.098 = **−2.00% locked-in floor** on 10 sh = position cost-basis-protected barring gap-through-stop risk) |
+| V | 10 | $354.098 | $359.97 | $3,599.70 | +$58.72 | **+1.658%** | **+0.178%** | 10% trail (hwm $385.5699 → stop $347.01291 — UNCHANGED since 2026-08-26 last ratchet; cushion **~3.60%** from $359.97 (~$12.957/sh from stop); position ~6.65% below HWM $385.5699 = 6th ratchet remains LOW-probability; realized-if-triggered floor: **−2.00% locked-in floor** on 10 sh = position cost-basis-protected barring gap-through-stop risk) |
+| CRWD | 18 | $263.29 | $262.32 | $4,721.76 | −$17.46 | **−0.368%** | **−0.368%** | 10% trail (hwm $262.215 → stop $235.9935 — NEW position placed 9:31:07 ET Thu 10/1; cushion **~11.17%** from $262.32 (~$26.33/sh from stop; cushion high as expected on fresh position pre-first-ratchet); realized-if-triggered floor: ($235.9935 − $263.29)/$263.29 = **−10.37% locked-in floor** on 18 sh = ~$491 max realized loss floor if stop trips before first ratchet; expires 2026-12-30 GTC per Alpaca 90-day rollover) |
 
-*(Current prices from Alpaca positions endpoint at Wed 9/30 CLOSE 4:00 PM ET. Alpaca lastday_price ref V $365.88 → current $359.33 = −$6.55 / −1.79% DTD. Trailing stop verified live & GTC at close — V stop **$347.01291** hwm **$385.5699** [id `7309fffa-1668-4014-98fa-16c7cbfa6412`, updated 2026-08-26 13:39:42 UTC; expires 2026-10-09 GTC].)*
+*(Current prices from Alpaca positions endpoint at Thu 10/1 ~9:31 AM ET post-open. CRWD trailing stop verified live & GTC via order confirm response — id `e2ab0fc3-a33e-4b39-b402-e85cbcce0da1`. V trailing stop verified live & GTC — id `7309fffa-1668-4014-98fa-16c7cbfa6412`.)*
+
+## Today's Market Open Routine — 2026-10-01 (Thursday; Week 19 day 4 of 5; POST-COOL-PCE DAY 2 + POST-MU BLOWOUT DIGEST + 10Y AT MULTIDECADE HIGHS ~5.30% + PRE-NFP FRI 10/2; **CRWD BUY-AT-OPEN EXECUTED** per research-log 10/1 compound-binary partial-release)
+
+- **Day Open Value recorded:** **$99,383.13** (Alpaca last_equity = Wed 9/30 close; balance_asof 2026-09-30 = clean rollover). Daily-loss cap trigger today: **$96,401.64** ($99,383.13 × 0.97).
+- **Pre-open setup read:** Pre-mkt futures modestly green on cool-PCE Day 2 continuation + MU blowout chip-cohort bid (S&P +0.22-0.48%, Nasdaq +0.86%). MU Q4 FY26 AMC Wed 9/30 blowout: rev $54.2B (+379% YoY), EPS $33.42, Q1 FY27 guide $61.5B — chip-cohort tape-read UPGRADED. 10Y at ~5.30% multidecade high = hawkish overlay escalated vs Wed → growth-cohort pressure risk partially offsets chip-cohort bid. VIX 16.68 compressed. V pre-mkt reference not fetched; verify intraday.
+- **CRWD BUY ORDER PLACED pre-open 8:40 AM ET (12:40 UTC); FILLED 9:30:53 AM ET market-open @ $263.29 avg × 18 sh = $4,739.22 total** (order id `423e61be-4c4c-47b2-aaba-fe847e656fb0`). Executed per research-log 10/1 CRWD "Buy at open" plan — highest-conviction diversifier, non-AI-cohort, non-rate-sensitive SaaS cybersecurity cohort, Q2 FY27 rev +26% YoY to $1.47B + ARR +25% YoY to $5.84B + record net-new ARR $333M (+51% YoY, 5th consecutive accelerating Q), Morgan Stanley OW $254 / Stephens OW $280 PT raises Sep 2026 + OpenAI Marketplace distribution + Falcon Guardian/GPT-5.6-Cyber partnership. Q3 FY27 print late-Nov = OUTSIDE 2wk lesson-#1 boundary. Position sizing 18 sh × $263.29 = $4,739.22 = **~4.77% of $99,383.13 Day Open** (within 5% cap). Position construction note: research-log estimated 10 sh if CRWD ~$497 — actual CRWD opened near $263 (research-log price estimate was stale by ~1.9x — likely confused with a pre-split or earlier-quarter reference), so share count re-sized to 18 sh at the live price while holding to the same 5%-max position cap.
+- **CRWD 10% trailing stop placed 9:31:07 AM ET, LIVE & GTC** (order id `e2ab0fc3-a33e-4b39-b402-e85cbcce0da1`; stop **$235.9935**, hwm **$262.215**, expires 2026-12-30 per Alpaca 90-day rollover). Fresh-position cushion ~11.17% from stop at $262.32 last; realized-if-triggered floor $235.9935 vs entry $263.29 = **−10.37% / ~−$491 max locked-in loss floor** on 18 sh until first HWM ratchet.
+- **Pre-Trade Guardrail Checklist (all 6 ✓):**
+  1. Position size ≤ 5% ($4,739.22 / $99,383.13 = 4.77%) ✓
+  2. New positions this week ≤ 3 (CRWD = 1 of 3) ✓
+  3. Portfolio down < 3% from Day Open (−0.011% intraday post-fill) ✓
+  4. Market cap > $1B (CRWD ~$269B at all-time-high area) ✓
+  5. Not a CRWD earnings day (Q3 FY27 late-Nov; ACN BMO / NKE AMC today = no overlap) ✓
+  6. Cash remaining after trade ≥ 20% ($91,050.61 / $99,372.25 = 91.63%) ✓
+- **Quick news check (CRWD pre-open):** No adverse breaking news. Stock at/near all-time high $264.75 Wed close; cyber-cohort rotation bid from AI/chip profit-taking continues to support; CEO Kurtz sold 19,900 sh across 9/28-9/29 at $248-$262 avg (routine insider program, flagged for awareness but not a short-term red flag given price has rallied through sale range into fresh ATH; small size relative to position); Benchmark virtual mgmt meeting scheduled Oct 5 = positive-adjacent catalyst into Mon 10/5 window.
+- **V intraday post-open:** $359.97 (+$0.64 / +0.178% intraday from Wed close $359.33). Cushion ~3.60% from stop $347.01291 (marginally recovered from Wed close 3.43%). HWM unchanged $385.5699. No ratchet. Lesson #3 dominates — do NOT tighten manually.
+- **Trailing stops re-verified live & GTC at post-open:**
+  - V `7309fffa-1668-4014-98fa-16c7cbfa6412` stop **$347.01291** (hwm **$385.5699**; UNCHANGED since 2026-08-26)
+  - CRWD `e2ab0fc3-a33e-4b39-b402-e85cbcce0da1` stop **$235.9935** (hwm **$262.215**; new, placed 9:31:07 ET today)
+- **Cash floor:** 91.63% ($91,050.61) — dramatically above 20% floor. Room for 2 more adds Mon 10/5 (would land ~82-85% cash if AVGO/NVDA + LLY re-entry both execute at 5% positions each).
+- **Earnings no-buy today (Thu 10/1):** ACN BMO, NKE AMC, MKC, AYI — no watchlist overlap. Fri 10/2 light; verify STZ pre-open Fri.
+- **Mid-day check armed:** >7% intraday cut rule on CRWD would need break <$244.86 (−7.00% from fill $263.29) = well below stop $235.9935 → stop would trigger first. V cut-line $334.17 = well below stop → stop triggers first. Daily-loss cap $96,401.64 cleared by 300 bps.
+- **Next decision window:** **Thu 10/1 12:00–4:00 PM ET midday check** — V + CRWD intraday watch + >7% cut rule arm; chip-cohort tape digestion of MU blowout; 10Y-direction read; cool-PCE Day 2 regime continuation vs reversal. **Thu 10/1 4:00 PM ET close routine:** log day performance vs SPY (SPY opened near $770 implied by futures); verify no stop trigger; CRWD Day-1 trailing-stop verification; refresh Fri 10/2 pre-NFP pre-open plan (NO NEW TRADES Fri pre-NFP-digest per deferral discipline).
 
 ## Today's Market Close Routine — 2026-09-30 (Wednesday; Week 19 day 3 of 5; COOL AUGUST PCE PRINT + MU AMC PENDING + DAY UND −0.394pp; trailing stops UNCHANGED; NO TRADES; NO MIDDAY OR CLOSE-TRIGGERED CUT ACTIONS)
 
