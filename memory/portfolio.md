@@ -16,7 +16,13 @@
 - **State reconciliation vs today's pre-open:** V $359.85 (Alpaca lastday) → $362.00 pre-open = +$2.15/sh = +$21.50 intraday on 10 sh (+0.597%). CRWD $266.09 (Alpaca lastday) → $268.25 pre-open = +$2.16/sh = +$38.88 intraday on 18 sh (+0.812%). Portfolio delta Thu close $99,438.13 → Fri pre-open $99,499.10 = +$60.97 (V +$21.50 + CRWD +$38.88 = +$60.38; residual $0.59 within quote-timing + reconciliation noise). Note Thu close memo recorded V at $359.79; Alpaca lastday shows $359.85 = $0.06/sh end-of-day print update = within noise.
 - **CRWD Day-2 open — 2nd HWM ratchet NEAR TRIGGER:** CRWD pre-open $268.25 vs HWM $269.30 = only $1.05/sh below HWM = **0.39% below day-1 HWM**. If pre-mkt or any intraday print breaks >$269.30 = 2nd mechanical ratchet triggers. Current stop $242.37 unchanged; cushion at $268.25 = **9.65% ($25.88/sh)** = healthy.
 - **V intraday Day — cushion recovered to 4.14% (ABOVE 4% soft-floor for first time this week):** V $362.00 pre-open → cushion from stop $347.01291 = **4.14% ($14.987/sh)** = **CLEANLY RECOVERED above 4% soft-floor watch zone** from Thu close 3.55% (+59 bps) and Thu AH 3.87% (+27 bps). Sub-3% cushion-compression watch REMAINS DEACTIVATED at pre-open; re-activation requires break back below ~$357.74 = −1.18% from $362.
-- New positions this week (9/28–10/2): **1 of 3** — CRWD executed Thu 10/1 open; **2 slots held in reserve for Mon 10/5 Week-20 Day-1 execution window per Fri 10/2 pre-NFP + Fri-week-close deferral discipline + post-weekend-regime-digest overlay. Note Mon 10/5 slot deployment flows against Week-20 count (slot resets to 0 of 3 Mon 10/5 Week-20 Day 1)**.
+- New positions this week (10/5–10/9 Week 20): **0 of 3** — Week-19 close + weekly-review trigger fired Fri 10/2 4:00 PM ET; counters reset for Week 20. Week-19 carry: 2 of 3 slots deferred into Mon 10/5 Week-20 Day-1 execution window (AVGO + LLY re-entry per compound-binary partial-release lesson (xi) deferral discipline + post-NFP + weekend-regime-digest overlay).
+
+## Weekly Review Rollover — Week 20 (10/5–10/9)
+- **Week Start Value:** **$99,527.82** (Fri 10/2 close = Alpaca portfolio_value at 4:00 PM ET close; carried as Mon 10/5 open ref).
+- **Week Start SPY:** **$769.65** (Fri 10/2 close, Alpaca IEX authoritative daily bar; carried as Mon 10/5 open ref).
+- **New Positions This Week:** **0 of 3** (reset; see line above for Week-19 deferred-slot context into Mon 10/5).
+- **Cumulative since launch (entering Week 20):** portfolio $100,000 → $99,527.82 = **−0.472% absolute**; SPY $739.17 → $769.65 = **+4.124%** → **−4.60pp cumulative UND vs SPY** (widest UND of campaign; Weeks 10–18 reconstruction priority queue remains deferred to weekend 10/3-4 window with SPY-reference methodology correction per lesson (ix)).
 - Closed positions this week: **0**.
 - Daily Loss Today (pre-open): **+$60.38 / +0.0607%** (positive — no loss-cap concern).
 - Daytrade count: 0; trading not blocked.
