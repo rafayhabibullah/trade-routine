@@ -4425,3 +4425,84 @@ Fri 10/2 = NO NEW TRADES per NFP-binary deferral + Week-close deferral disciplin
 - (c) trade-log.md: CRWD 10/1 buy entry already captured; no outstanding backfills
 
 ---
+
+## Tomorrow's Watch — 2026-10-05 (Monday Week 20 Day 1 — POST-CLOSE UPDATE Fri 10/2 4:00 PM ET; POST-NFP + POST-WEEKEND REGIME-DIGEST + SPY REFERENCE LOG DAY + DESIGNATED AVGO-vs-LLY EXECUTION WINDOW)
+
+**Post-close reality reset — Fri 10/2 recap (Week 19 close):**
+- **Fri 10/2 DAY performance vs SPY:** portfolio +0.0853% vs SPY +0.726% = **−0.641pp DAY UND** = classic lesson #2 UP-tape UND behavior at expected magnitude for 91.5% cash floor on a strong post-NFP risk-ON tape. SPY close $769.65 (Alpaca IEX authoritative) = post-NFP RISK-ON held into close (pulled back from pre-open +0.904% high $771.01 by ~18 bps on into-weekend profit-taking). NFP outcome signal implied by SPY response = IN-LINE-to-COOL on rate-cut-friendly read (not growth-scare); growth + chip + cyclicals rallied through 10Y-5.30% hawkish overlay dampener.
+- **CRWD Day-2 — 2nd HWM ratchet TRIGGERED:** CRWD close $270.35 (+1.601% intraday / +2.681% cumulative from fill $263.29); intraday broke above Day-1 HWM $269.30 → new Day-2 HWM $273.5351 (+$4.235/sh ratchet) → new stop $246.18159 (prior $242.37 → +$3.81/sh). Realized-if-triggered floor IMPROVED from −7.94%/−$376.56 → −6.49%/−$307.86 = +$68.70 additional locked-in protection Day-2. Lesson #3 validated TWICE on CRWD across 2 sessions — automatic ratcheting delivered 2 ratchets without any manual intervention.
+- **V close $360.66 — cushion compressed back below 4% soft-floor:** V +0.225% intraday (vs lastday $359.85) = +$0.81/sh / +$8.10 on 10 sh. V-vs-SPY: +0.225% vs +0.726% = **−0.501pp single-name UND** = rate-agnostic-payments cohort continuation UND vs cyclicals/growth-cohort bid on post-NFP rate-cut-re-price tape. Cushion from stop $347.01291 = 3.78% ($13.647/sh) = **re-entered sub-4% soft-floor watch zone** from pre-open 4.14% (−36 bps intraday give-back). Total P&L +$65.62/+1.853% from entry. HWM $385.5699 unchanged → 6th ratchet not triggered. Lesson #3 dominates — DO NOT tighten manually.
+- **Book state at close:** portfolio $99,523.50 (+0.0853% DTD); cash $91,050.60 (91.49%); 2 open positions (V + CRWD); NO trades Fri; CRWD Day-2 ratchet triggered (automatic); NO V ratchet; NO stop hits; NO daily-loss-cap breach; NO midday/close-triggered cut actions.
+- **Week 19 preliminary cadence (full codification in /review skill run during weekend 10/3-4):**
+  - Mon 9/28: Day OP (prior memo +0.763pp)
+  - Tue 9/29: Day UND (prior memo; data to confirm during /review run)
+  - Wed 9/30: Day OP-restated to **+0.201pp** (methodology correction Alpaca-IEX authoritative)
+  - Thu 10/1: Day **−0.175pp UND** (portfolio +0.0554% vs SPY +0.231%)
+  - Fri 10/2: Day **−0.641pp UND** (portfolio +0.0853% vs SPY +0.726%)
+  - Net Week 19 preliminary estimate: 3 OP days vs 2 UND days (Tue to confirm) → net Week 19 UND **~−0.5pp to −1.0pp** vs SPY (preliminary — full codification Weekend).
+
+**Positions to monitor:**
+- **V — CUSHION-COMPRESSION WATCH REACTIVATED (3.78% at Fri close, re-entered sub-4% soft-floor):**
+  - Watch (a) Mon pre-mkt drift — if V drifts ≥+0.3% pre-open = cushion recovers ≥4.08%; if drifts further down <$358 = sub-3% cushion soft-floor near-approach + Q4 earnings-proximity watch escalates;
+  - Watch (b) ISM Services PMI 10:00 AM ET Mon 10/5 — growth-cohort read; expansionary >50 = cyclicals continuation bid → payments-cohort UND continuation risk;
+  - Watch (c) V-vs-MA/PYPL/AXP cohort behavior continuing watch;
+  - Watch (d) **V-GTC-expiration workflow Mon 10/5 pre-open** — 5 TDs to expiration (2026-10-09) = Alpaca 90-day auto-rollover vs manual re-place verification required;
+  - Watch (e) **lesson-#1 catalyst-proximity:** Q4 FY26 earnings Tue 10/27 AMC = **15 TDs out at Mon close** → approaching 2wk-boundary mid-week next week (crosses boundary Fri 10/9 close / Mon 10/12 open) → lesson #1 partial-trim-discretionary-bias may arm Mon/Tue 10/5-6 IF cushion compresses back below 3% at that point; CURRENTLY NOT ARMED;
+  - Watch (f) 6th HWM ratchet requires break >$385.5699 = +6.90% from $360.66 = VERY LOW probability on Mon tape;
+  - Watch (g) midday >7% intraday cut rule armed = would need break <$335.41 = well below stop → stop triggers first regardless;
+  - Watch (h) daily-loss cap Mon estimated at **~$96,537.80** ($99,523.50 × 0.97) = requires portfolio drawdown ~$2,985 = effectively unreachable given 91.5% cash floor;
+  - **Lesson #3 dominates** — DO NOT tighten manually.
+- **CRWD — DAY-3 POST-2ND-RATCHET WATCH:**
+  - Day-3 trailing-stop verification live & GTC (stop $246.18159 / hwm $273.5351);
+  - Pre-mkt drift check — watch for continuation of Day-1/Day-2 strength vs mean-reversion toward fill $263.29;
+  - Cushion at Fri close 8.94% from stop = healthy; sub-5% cushion threshold would require break <$259.14 (−4.15% from close) = LOW probability on Mon tape;
+  - Midday >7% intraday cut rule armed = would need break <$251.42 = well above stop → cut-rule could arm first on sharp drawdown but narrow margin ($5.24 above stop);
+  - 3rd HWM ratchet requires break >$273.5351 = +1.17% from close $270.35 = PLAUSIBLE on Mon tape if post-weekend risk-ON continuation;
+  - **Benchmark virtual mgmt meeting Mon 10/5 = positive-adjacent catalyst** (potential CRWD read-through to broader cybersecurity cohort or CRWD-specific momentum bid).
+
+**Macro events Mon 10/5:**
+- **10:00 AM ET — ISM Services PMI (September):** growth-cohort read; expansionary >50 = cyclicals bid signal; subsiding <50 = growth-concern defensive-bid regime.
+- No other first-tier macro Mon 10/5.
+- **Week 20 remaining:** Wed 10/7 2:00 PM ET — FOMC Minutes (Fed Sep 15-16 meeting); Thu 10/8 — Weekly Initial Jobless Claims; Fri 10/9 — nothing first-tier scheduled (CPI Wed 10/14, PPI Thu 10/15 next week).
+
+**Earnings Mon 10/5:**
+- **AMC — STZ (Constellation Brands)** — consumer-discretionary cohort read; no watchlist overlap (STZ guide-down to $11.30-$11.60 EPS from $12.60-$12.90 flagged in prior research = cohort-adjacent read-through, immaterial to Bull watchlist).
+- **Week 20 earnings sweep (preview):** Tue 10/6 BMO MKC (McCormick); Tue 10/6 AMC 32 companies incl UNFY; Wed 10/7 nothing first-tier; Thu 10/8 DAL (Delta) + LEVI (Levi Strauss); Fri 10/9 light.
+- **Watchlist earnings clearance (confirmed):**
+  - AVGO: Q4 FY26 late-Dec = OUTSIDE 2wk boundary ✓
+  - CRWD: Q3 FY27 Dec 2 2026 = OUTSIDE 2wk boundary ✓ (already held)
+  - NVDA: Q3 FY27 mid-Nov = OUTSIDE 2wk boundary ✓
+  - LLY: Q3 CY26 Thu 10/29 BMO = 17 TDs out = OUTSIDE 2wk boundary ✓
+  - V: Fiscal Q4 2026 Tue 10/27 AMC = 15 TDs out at Mon close = **OUTSIDE 2wk boundary but APPROACHING** (crosses Fri 10/9 / Mon 10/12) — already held
+  - MA: Q3 late-Oct = outside 2wk boundary (correlation gate with V still binds)
+
+**Thesis notes:**
+- **Execution plan Mon 10/5 pre-open — DESIGNATED AVGO + LLY RE-ENTRY EXECUTION WINDOW:**
+  - **Primary plan (contingent on weekend-regime stability + Mon pre-mkt tape):** AVGO + LLY both at open — size 5% max each (~$4,976 per slot on $99,523 book);
+    - AVGO ~14 sh at ~$343.80 reference (verify Mon pre-mkt); chase-out ceiling +3% = ~$354.11 above which reduce to half-size 7 sh;
+    - LLY ~4 sh at ~$1,150.63 reference (verify Mon pre-mkt); chase-out ceiling +3% = ~$1,185.15 above which hold off / reassess;
+  - **Contingency: LLY only** if any new negative-catalyst shock Fri AH / weekend (ISRG-style pre-earnings crowded-trade unwind; 10Y spike >5.40%; geopolitical shock);
+  - **Contingency: both at open** if post-weekend tape is stable or mildly risk-ON (preferred);
+  - **Hard-defer trigger:** any extreme shock (geopolitical, overnight gap-down >1.5% on futures, 10Y spike >5.45%, fresh single-name negative on AVGO or LLY) → defer all to Tue 10/6+;
+- **Week-20 slot counter resets:** 0 of 3 used Mon 10/5 (slot count rolls forward from Week 19 only to maintain non-this-week-count-count); Mon slot deployment flows against Week-20 count.
+- **SPY reference log** — Mon 10/5 is a Monday → **record SPY opening/midday reference per non-negotiable guardrail** (also: Mon = SPY reference log day per weekly discipline).
+- **CRWD Day-3 posture:** HOLD; verify trailing-stop live & GTC pre-open; monitor Day-3 drift; 3rd ratchet near-trigger (requires break >$273.5351); lesson #3 dominates — no manual tightening.
+- **V single-name thesis:** +1.853% total P&L / cost-basis-protected at −2.00% floor / cushion compressed back below 4% soft-floor. Thesis intact per analyst consensus Strong Buy + PT $419. Do NOT re-underwrite on 1-week cohort behavior; lesson #1 catalyst-proximity watch approaching Fri 10/9 / Mon 10/12 crossing.
+
+**Compound-binary gate read — Mon 10/5 pre-open preview:**
+- **Gate 1 (same-session macro binary):** NONE — ISM Services PMI 10:00 AM ET is secondary macro, not binary gate magnitude; pre-open execution window is clear.
+- **Gate 2 (chip-cohort momentum MU-blowout + post-NFP continuation):** FAVORABLE — Fri RISK-ON confirmed chip + growth cohort re-pricing through 10Y-5.30% dampener; Mon continuation plausible.
+- **Gate 3 (10Y at 5.30% hawkish overlay):** HOLDS — monitor Mon pre-mkt for easing vs continuation; if 10Y eases <5.20% = AVGO window UPGRADED; if 10Y spikes >5.40% = AVGO window DOWNGRADED → defer to Tue 10/6.
+- **Gate 4 (candidate-set quality — AVGO/LLY):** CLEARED — Day-4 observation complete at Mon open (since 9/30 reconstruction); execution-ready.
+- **Gate 5 (Week-20 slot count):** 0 of 3 used — full room for AVGO + LLY both.
+- **Gate 6 (weekend-regime overlay):** PENDING — Mon pre-open verification required; geopolitical/overnight-shock scan Sun evening.
+- **Gate 7 (Week-close/weekly-review window):** RELEASED Mon open — weekend /review-skill run complete.
+
+**Weekend 10/3-4 priorities:**
+- (a) Week 19 /review-skill run to codify weekly cadence + lesson-learned entries
+- (b) Weeks 10-19 SPY-vs-portfolio reconstruction + methodology correction (Alpaca IEX authoritative replacing WebSearch SPY data)
+- (c) macro-regime evolution reconstruction across gap window (CPI Aug 12 + PPI Aug 14 + NFP Aug + FOMC Jul 28-29 outcome + Fed-speaker cadence)
+- (d) overnight geopolitical/macro-shock scan Sun evening pre-Mon-pre-open
+- (e) finalize Mon 10/5 execution ordering + size calcs for AVGO + LLY (contingent on weekend-regime overlay)
+
+---
