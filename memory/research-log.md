@@ -4635,3 +4635,69 @@ Both scenarios keep book well above 20% cash floor and comfortably below 80% inv
 
 ---
 
+## Tomorrow's Watch — 2026-10-06 (Tuesday Week 20 Day 2 — POST-CLOSE UPDATE Mon 10/5 4:00 PM ET; DAY-1-EXECUTION DIGEST + V-GTC-ROLLOVER WORKFLOW ARMED + PRE-FOMC-MINUTES WED 10/7 2:00 PM ET BINARY MIDWEEK GATE)
+
+**Mon 10/5 close snapshot:** Portfolio $99,610.18 (+$92.26 / +0.0927% DTD) vs SPY $774.97 (+0.691% DTD) = **DAY UND −0.598pp** (classic lesson #2 UP-tape UND on 84.2% cash floor). 3 of 4 positions auto-ratcheted today (CRWD Day-3, AVGO Day-1, LLY Day-1 morning); V HWM unchanged with cushion recovered to 6.11% (from Fri 3.78% = +233 bps intraday).
+
+**Positions to monitor Tue 10/6:**
+- **V — CUSHION RECOVERY SUSTAINED WATCH + GTC-ROLLOVER WORKFLOW ARMED:**
+  - Cushion recovered to 6.11% (close $369.60 vs stop $347.01291) = sub-4% watch zone **DEACTIVATED**; sub-3% hard-watch deactivated; re-activation requires V break back below ~$357.74 = −3.21% from close
+  - **V-GTC-expiration workflow — expires Thu 10/9 20:00 UTC = 4 TDs out** — verify auto-rollover status Tue pre-open via orders endpoint (Alpaca 90-day GTC rollover should auto-renew; if not auto-renewed, manual re-place required before Thu close with current stop $347.01291 + hwm $385.5699)
+  - V-vs-MA/PYPL/AXP cohort continuing watch for single-name divergence signal
+  - 6th HWM ratchet near-trigger (requires break >$385.5699 = +4.32% from close) = LOW probability on Tue tape
+  - Lesson-#1 catalyst-proximity: Q4 FY26 Tue 10/27 AMC = 15 TDs out; 2wk-boundary crosses Fri 10/9 close / Mon 10/12 open; lesson #1 partial-trim-discretionary-bias may arm Mon 10/12 IF cushion re-compresses below 3% at that point
+- **CRWD — DAY-4 POST-3RD-RATCHET WATCH:**
+  - 4th HWM ratchet near-trigger (requires break >$274.23 = +0.55% from close $272.71 = PLAUSIBLE on Tue tape); let auto-ratchet work; lesson #3 dominates
+  - Realized-if-triggered floor −6.26% / −$296.69 on 18 sh locked in
+  - Benchmark virtual mgmt meeting fallout from Mon = positive-adjacent catalyst watch for cybersecurity cohort read-through
+  - Q3 FY27 earnings late-Nov = OUTSIDE 2wk boundary
+- **AVGO — DAY-2 POST-1ST-RATCHET WATCH:**
+  - 2nd HWM ratchet near-trigger (requires break >$363.865 = +0.43% from close $362.32 = PLAUSIBLE on Tue tape); let auto-ratchet work; lesson #3 dominates
+  - Realized-if-triggered floor −8.49% / −$212.81 on 7 sh locked in
+  - Day-1 chip-cohort continuation thesis validated out-of-the-gate; monitor AI-ASIC cohort rotation continuation on Tue
+  - Q4 FY26 ~Dec 11 BMO = OUTSIDE 2wk boundary
+  - Full-size SIZING-CONTINGENCY watch: if AVGO retraces to ≤$354.11 (Fri 10/2 chase-out ceiling), remaining 7 sh add becomes RE-ARMABLE (would complete full 14 sh position; requires close ≤$354.11 before adding)
+- **LLY — DAY-2 POST-MORNING-RATCHET-AFTERNOON-FADE WATCH:**
+  - Position closed at −1.640% from fill after Day-1 morning ratchet-then-fade pattern — normal pharma-cohort noise, not thesis break
+  - Cushion 8.28% from stop $1,049.157 = healthy; realized-if-triggered floor −9.79% / −$455.37 on 4 sh locked in
+  - Monitor Tue pre-open LLY action: continuation of Day-1 afternoon fade or morning-pop retest at ~$1,165.73 HWM
+  - Q3 CY26 Thu 10/29 BMO = 17 TDs out OUTSIDE 2wk boundary
+  - Pharma-cohort read: Oct Global Healthcare Summit upcoming = positive-adjacent catalyst watch
+- **All 4 positions — midday >7% intraday cut rule arm:** V cut-line $335.41 (stop $347.01291 triggers first); CRWD cut-line $251.14 (stop $246.807 triggers first); AVGO cut-line $332.83 vs fill (stop $327.4785 triggers first); LLY cut-line $1,081.59 vs fill (stop $1,049.157 triggers first). All stops dominate cut-rules → stops always trigger first in continuous-liquidity tape; gap-through risk exists only on binary-macro gap-opens.
+
+**Tue 10/6 macro:**
+- **US Trade Balance (August) 8:30 AM ET** — secondary macro, no binary magnitude; no execution gate implication
+- Earnings: light calendar; no watchlist overlap
+
+**Wed 10/7 macro — BINARY MIDWEEK GATE:**
+- **FOMC Minutes (Sep 15-16 meeting) 2:00 PM ET** — hawkish-tone → 10Y spike + growth-cohort pressure (AVGO + V risk); dovish-tone → 10Y ease + cyclicals continuation bid (AVGO + CRWD benefit); 1 slot held in reserve for post-FOMC-Minutes execution window Wed–Thu
+
+**Thu 10/8 macro:**
+- Initial Jobless Claims 8:30 AM ET
+- Earnings: PEP + DAL + LEVI AMC — no watchlist overlap
+
+**Fri 10/9:**
+- No first-tier macro
+- **V-GTC expires 20:00 UTC** = position management day for V trailing-stop auto-rollover verification (final day of GTC-expiration workflow)
+- **Pre-CPI Mon 10/14 setup** — begin cushion-compression watch escalation if V cushion drifts back toward 4% at Fri close
+
+**Thesis notes — post-Mon 10/5 execution digest:**
+- **AVGO Day-1 thesis validated at open:** +2.022% DTD / +1.241% from fill with afternoon HWM ratchet confirms AI-ASIC cohort rotation thesis — chip-cohort continuation bid from Fri NFP + MU blowout extended into Mon 10/5
+- **LLY Day-1 cohort rotation (not thesis break):** afternoon fade from $1,165.73 morning high to $1,143.93 close coincided with cyclicals-bid acceleration = pharma-cohort rotation out as risk-on tape prefers cyclicals/chip-cohort; GLP-1 duopoly + pipeline thesis unchanged; Oct Global Healthcare Summit = positive-adjacent catalyst in coming weeks
+- **CRWD Day-3 ratchet validates "cybersecurity non-rate-sensitive diversifier" thesis** — 3 consecutive-session ratchets through post-NFP + post-PCE regime shifts without 10Y-rate pressure on cohort; thesis fully validated across binary-macro gates
+- **V cushion-recovery validates lesson #3 hold-the-stop discipline** — pre-open sub-4% cushion compressed watch resolved via +2.479% intraday OP vs SPY +0.691% (+1.788pp single-name DAY OP); mechanical trail sufficient without manual intervention; rate-agnostic payments cohort caught single-name bid on ISM-Services-permissive-tape
+
+**Next week preview (Week 21):**
+- CPI (September) Wed 10/14 8:30 AM ET = **BINARY MACRO**
+- PPI (September) Thu 10/15 8:30 AM ET = **BINARY MACRO**
+- Big-bank earnings: JPM + C + GS + WFC Tue 10/13 BMO; BAC + MS Wed 10/14 BMO = financials-cohort read
+- V Q4 FY26 earnings Tue 10/27 AMC = 2wk-boundary crosses Mon 10/13 open (**lesson #1 partial-trim-discretionary bias arms if V cushion sub-3% at that point**)
+- LLY Q3 CY26 earnings Thu 10/29 BMO = 2wk-boundary crosses Wed 10/15 open
+
+**Continuing memory-gap RESUMED-SESSION reconstruction priorities (weekend 10/10-11 target window if Week 20 execution absorbs capacity):**
+- (a) Weeks 10-19 SPY-vs-portfolio weekly-review codification via /review skill
+- (b) macro-regime evolution reconstruction across gap window
+- (c) trade-log.md: AVGO + LLY Mon 10/5 fills captured ✓
+
+---
+
