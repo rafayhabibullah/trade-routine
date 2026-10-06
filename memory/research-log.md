@@ -4777,3 +4777,54 @@ Tue 10/6 = NO NEW TRADES per pre-FOMC-Minutes-Wed-binary deferral discipline + 1
 
 ---
 
+
+## Tomorrow's Watch — 2026-10-07 (Wednesday Week 20 Day 3 — FOMC MINUTES BINARY MIDWEEK MACRO EVENT 2:00 PM ET)
+
+**Positions to monitor (all 4 open; 3 of 4 locked in NEW Day-2/Day-3 ratchets Tue 10/6; V HWM unchanged):**
+- **V — STANDARD WATCH + GTC-EXPIRATION DAY-2 VERIFICATION:**
+  - Watch (a) 10Y-direction read into/post FOMC-Minutes 2:00 PM ET — hawkish-tone minutes could re-trigger payments-cohort UND continuation; dovish-tone could soften rate-agnostic UND
+  - Watch (b) V-vs-MA/PYPL/AXP cohort continuing watch for single-name divergence signal
+  - Watch (c) **V-GTC-expiration workflow — expires Thu 10/9 20:00 UTC = 2 TDs out Wed close** — verify auto-rollover vs manual re-place status during Wed close routine; **Thu 10/8 close = LAST pre-expiration verification point before expiration day Fri 10/9**
+  - Watch (d) lesson-#1 catalyst-proximity: Q4 earnings Tue 10/27 AMC crosses 2wk-boundary **Fri 10/9 close / Mon 10/12 open** — lesson #1 partial-trim-discretionary-bias may arm only IF cushion compresses below 3% (requires V break <$357.74 = −3.47% from Tue close $370.64 = LOW probability absent regime shock)
+  - HWM $385.5699 unchanged; next 6th ratchet requires break >$385.5699 = +4.03% from Tue close
+- **CRWD — DAY-4 POST-RATCHET WATCH:**
+  - Day-4 drift read; cushion 7.32% healthy post Day-3 ratchet; HWM $286.9899 → next (5th) ratchet requires break >$286.9899 = +2.98% from Tue close $278.68 = possible on FOMC-Minutes dovish-tone cybersecurity/SaaS continuation bid; let auto-ratchet work; lesson #3 dominates
+  - Cybersecurity-cohort momentum read into FOMC-Minutes release; non-rate-sensitive SaaS cohort may be relative outperformer on hawkish-tone outcome
+  - Midday >7% intraday cut rule armed = cut-line $259.17 vs stop $258.29091 → stop triggers first in continuous-liquidity tape (very narrow margin — $0.88/sh = watch closely on tail-risk event)
+- **LLY — DAY-3 POST-RATCHET WATCH:**
+  - Day-3 drift read; cushion 8.48% healthy; HWM $1,177.065 → next ratchet requires break >$1,177.065 = +1.69% from Tue close $1,157.49 = PLAUSIBLE on Wed-tape single-name catalyst or dual-cohort bid continuation
+  - Pharma defensive-bid regime watch into FOMC-Minutes Wed hawkish-tone scenario (lesson #4 regime fit); dual-cohort bid Tue continuation into Wed if dovish-tone
+- **AVGO — DAY-3 POST-RATCHET WATCH (biggest Tue contributor, +3.74%):**
+  - Day-3 drift read; cushion 8.86% healthy; HWM $380.84 → next ratchet requires break >$380.84 = +1.27% from Tue close $376.08 = PLAUSIBLE on dovish-FOMC-Minutes cyclicals/chip-cohort continuation
+  - AI-custom-silicon duopoly thesis validated at scale Tue (+3.74%); monitor for cushion compression if FOMC-Minutes-hawkish-outcome pressures growth-cohort
+  - Potential HOT risk from chase-out ceiling consideration IF additional AVGO adds considered (not planned for Wed)
+
+**Wed 10/7 macro — BINARY MIDWEEK:**
+- **FOMC Minutes (Sep 15-16 meeting) 2:00 PM ET = BINARY MIDWEEK MACRO EVENT**
+  - Hawkish-tone minutes → 10Y spike + growth-cohort pressure (AVGO + V risk) + CRWD partial-resilience (non-rate-sensitive SaaS) + LLY potential defensive-bid; NVDA execution window DOWNGRADED
+  - Dovish-tone minutes → 10Y ease + cyclicals continuation bid (AVGO + CRWD benefit) + V/LLY mild rate-agnostic UND + NVDA entry window OPENS Thu 10/8 pre-open
+  - Gate 2 (next-session binary macro) RESOLVES at 2:00 PM ET → post-release Gate 2 CLEARS for Thu 10/8 execution window
+- MBA Mortgage Applications 7:00 AM ET (secondary)
+- No major earnings on watchlist
+
+**Thu 10/8 macro:**
+- Initial Jobless Claims 8:30 AM ET
+- PEP + DAL + LEVI + DPZ AMC — no watchlist overlap
+- **1-session FOMC-Minutes digest window** — NVDA execution candidate reassessment IF (a) hawkish-tone-minutes DIDN'T trigger 10Y spike >5.40% + (b) AVGO Day-3-4 drift stable (no cushion compression) + (c) NVDA pre-mkt not gap-up above chase-out ceiling
+- **V-GTC-expiration workflow LAST pre-expiration verification point** — verify auto-rollover status + manual re-place contingency
+
+**Fri 10/9 macro:**
+- No first-tier macro
+- **V-GTC expires 20:00 UTC** = position management day for V trailing-stop auto-rollover verification (final pre-expiration opportunity)
+- **2-session FOMC-Minutes digest window** = backup NVDA execution window if Thu lapses or Thu pre-open conditions unfavorable
+- **Pre-CPI Mon 10/14 setup** — begin cushion-compression watch escalation if any position cushion compresses sub-4% at Fri close
+
+**Thesis notes based on Tue 10/6 price action:**
+- **Dual-cohort bid regime confirmed Tue:** AI-cohort (AVGO +3.74%, CRWD +2.20%) + pharma defensive-bid (LLY +1.26%) simultaneously bid alongside SPY +0.533% = Week-20 book construction thesis holding; both diversifier-regime (lesson #4) and AI-cohort-cap (lesson #5) compatible
+- **Cash-cushion UND magnitude −0.262pp Tue vs −0.641pp Fri 10/2** = Week-20 slot deployment (LLY + AVGO) lifted portfolio beta ~700 bps from 91.5% cash → 84% cash = UND magnitude halved on strong UP-tape = material improvement in cash-cushion efficiency without compromising lesson-#5 cap compatibility
+- **V single-name UND −0.281pp Tue** = continued rate-agnostic payments cohort UND vs cyclicals/growth-cohort bid on risk-ON tape = lesson #4 sub-regime (rate-agnostic payments cohort UND on growth-cohort-friendly risk-ON tapes); not a thesis break; monitor for payments-cohort relative-strength signal on next pullback day
+- **FOMC-Minutes release Wed 2:00 PM ET determines Thu/Fri NVDA execution window** — hard-defer trigger if 10Y spikes >5.45% post-release; soft-defer if 10Y spikes 5.35-5.45%; execution window OPENS if 10Y stable/eases below 5.30%
+
+**Hard-defer trigger (persists through Wed FOMC-Minutes):** overnight gap-down >1.5% on futures; 10Y spike >5.45%; fresh geopolitical shock; pre-existing position stop-trip or >7% intraday cut rule arming; FOMC-Minutes-hawkish-tone triggering 10Y >5.40% spike + cross-cohort growth-cohort pressure.
+
+---
