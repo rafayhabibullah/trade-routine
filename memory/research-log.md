@@ -5143,3 +5143,31 @@ Thu 10/8 pre-open = **CONDITIONAL EXECUTION WINDOW for NVDA** per 10/7 compound-
 
 ---
 
+
+## Tomorrow's Watch — 2026-10-09 (Friday; Week 20 Day 5 of 5 = **V-GTC-EXPIRATION-FINAL EXECUTION DAY + WEEK-20 CLOSE + WEEKLY REVIEW WINDOW POST-CLOSE**)
+
+**Positions to monitor:**
+- **V — PRIORITY POSITION-MANAGEMENT:** GTC `7309fffa-1668-4014-98fa-16c7cbfa6412` **expires Fri 2026-10-09 20:00 UTC = at market close** = position would be unprotected into Mon 10/12 open without re-placement; current hwm $385.5699 / stop $347.01291 / cushion 7.49% / close $375.10. **ACTION:** Fri open routine must re-place trailing_stop at trail_percent=10 TIF=GTC. **Trade-off:** Alpaca may reset HWM to Fri-open price (losing ~$10.47/sh of locked-in protection, stop lifting from $347.01 → ~$337.59 if open ~$375.10), vs leaving unprotected into weekend. **DECISION PATH:** Fri open routine re-places at new HWM = Fri open price (standard 10% trail from current market); accept HWM reset (lose $10.47/sh locked-in protection but preserve 10% trail mechanic). Alternative: let auto-rollover Alpaca mechanism run (if 90-day GTC auto-rollovers occur) — unknown behavior; manual re-placement is safer.
+- **CRWD — SUB-2% HARD-WATCH ZONE SUSTAINED (elevated stop-trigger risk):** close cushion 1.87% ($4.909/sh); stop $258.29091 vs close $263.20 — next −1.87% move triggers stop. 18 sh position = ~$89.98 locked-in-floor loss if stop trips. Monitor cybersecurity-cohort (PANW/ZS/FTNT) for cohort-rotation resolution signals. **If CRWD gaps down >1.5% at open or compresses below 1.5% cushion intraday, elevated stop-trip risk into weekend.**
+- **AVGO — APPROACHING SUB-5% WATCH ZONE:** close cushion 5.06% ($18.333/sh); AI-silicon cohort profit-taking regime signal; chip-cohort (NVDA/TSM/SMH) correlation watch. **If AVGO cushion compresses sub-5% Fri intraday, lesson #1 cushion-compression-into-weekend discretionary partial-trim framework ARMS** — but earnings catalyst ~Dec 11 BMO is >2wk out so lesson-#1 catalyst-proximity partial-trim bias not activated; monitoring only.
+- **NVDA — DAY-2 WATCH:** Day-1 close $230.75 vs entry $234.64 = −1.66% drift; HWM auto-ratched to $237.07 / stop $213.363; cushion 7.54%; standard Day-2 drift monitoring; auto-ratchet mechanics continue.
+- **LLY — pharma-defensive stability watch:** close $1,164.95; cushion 6.78%; HWM unchanged $1,206.63; next ratchet requires break >$1,206.63 = +3.58% from close = requires catalyst continuation; Q3 CY26 earnings Thu 10/29 BMO = **15 TDs = APPROACHING 2wk boundary Fri 10/15 close**.
+
+**Macro events tomorrow (Fri 10/9):**
+- No first-tier macro scheduled (no CPI/PPI/NFP/Fed/FOMC)
+- **DAL Q3 BMO** = airlines/transports reference print (~6:30 AM ET release / 10:00 AM call); no watchlist overlap but macro-services-demand signal
+- **V-GTC EXPIRES 20:00 UTC at market close** = position-management PRIORITY DAY
+- **Week-20 close + weekly-review window post-close** = Fri 4:00 PM ET → weekend review workstream (3 OP + 1 UND through Day 4; Fri outcome determines final Week-20 OP/UND cadence; cash-cushion lesson-#2 in-pattern)
+
+**Thesis notes based on Thu close:**
+- **DAY OP +0.188pp vs SPY −0.421% = classic lesson #2 cash-cushion DOWN-tape OP delivered** at expected magnitude for 83.09% cash floor. Thu adds to Wed (+0.154pp) = Week 20 running +0.342pp cumulative OP across adjacent mild-DOWN days. Pattern validates cash-cushion strategic positioning on soft-tape macro-digest regimes.
+- **V single-name OP +1.227pp on DOWN-tape** validates rate-agnostic-payments cohort structural bid as defensive-cohort complement; adds to lesson #4 regime-expansion sub-cohorts.
+- **AI-cohort profit-taking regime signal:** AVGO −4.10% + NVDA Day-1 −1.66% + CRWD (cohort-adjacent) −0.84% = chip/AI combined DTD −2.26% weighted = standard post-rally profit-taking consolidation; cohort-cap check at close: AVGO $2,527.62 (2.54% of portfolio) + CRWD $4,737.60 (4.76%) + NVDA $1,153.75 (1.16%) = $8,418.97 = **8.46% combined** = well under lesson-#5 15% cap. No lesson-#5 cap-breach risk.
+- **CRWD cushion compression −0.94pp intraday despite only −0.84% price move** = cushion-mechanics mathematical (stop-fixed at $258.29; price drift narrows spread). Below 2% hard-watch zone sustains. Stop-trip risk Fri = elevated but not alarming; 1.87% buffer = healthy by any pre-rotation standard.
+- **AVGO cushion compression −2.61pp intraday on −4.10% day** = regime signal (chip-cohort profit-taking day) vs stop-trigger risk (still 5.06% buffered). Approaching Fri-watch threshold if cushion continues compressing.
+- **NVDA Day-1 HWM auto-ratchet TRIGGERED** validates mechanical system working on fresh entry — $2.56/sh stop-lift locked within hours of fill without any manual intervention. Lesson #3 validated Day-1 of new position.
+- **Week-20 slot cap FULL 3 of 3** — Fri = no new entries regardless of macro; backup NVDA-execution window RELEASED (Thu executed per NEUTRAL-TONE branch).
+
+**Hard-defer trigger (persists through Fri 10/9 close + weekly review window):** overnight gap-down >1.5% on futures; 10Y spike >5.45%; fresh geopolitical shock; **CRWD cushion compresses to <1.5% pre-mkt or stop-trips Fri intraday**; **AVGO cushion compresses to <5% Fri intraday (triggers monitoring escalation only; no auto-execute action)**; pre-existing position >7% intraday cut rule arming on any position; fresh single-name negative on any held position.
+
+---
