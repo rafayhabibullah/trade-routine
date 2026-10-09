@@ -5328,3 +5328,32 @@ Week 20 reporters (10/5–10/9) OFF LIMITS — remaining Fri:
 **Hard-defer trigger (persists through Fri 10/9 close + weekly review window + Mon 10/12 open):** overnight gap-down >1.5% on futures; 10Y spike >5.45%; fresh geopolitical shock; **CRWD cushion compresses to <1.5% pre-mkt or stop-trips Fri intraday**; **AVGO cushion compresses to <5% Fri intraday (triggers monitoring escalation only; no auto-execute action)**; pre-existing position >7% intraday cut rule arming on any position; fresh single-name negative on any held position; V-GTC re-placement failure (critical process risk — if `POST /v2/orders` fails, retry with exponential backoff + escalate to manual-order path).
 
 ---
+
+## Tomorrow's Watch — 2026-10-12 (Mon — Week-21 Day 1 of 5; Columbus Day — US equity markets OPEN; bond markets closed)
+
+**Context:** Week-20 closed Fri 10/9 at $99,922.22 (+0.406% WTD; vs SPY +0.457% WTD = essentially flat week on 82-84% cash floor; 3 OP + 2 UND cadence = cash-cushion lesson-#2 pattern in-line). V-GTC-expiration-workflow EXECUTED SUCCESSFULLY Fri pre-open 12:40 UTC — new order `a68cef47` with hwm $386.84 / stop $348.156 captured intraday ratchet (+$1.27 above prior HWM $385.5699; +$11.43 locked-in protection improvement). Week-21 slot count resets to 0 of 3.
+
+**Positions to monitor (priority order):**
+- **AVGO cushion SUB-5% WATCH sustained into Mon open** — Fri close 5.28% ($19.114/sh above stop $342.756), only 28 bps above 5% hard-defer threshold; chip-cohort consolidation regime could compress further on risk-off Mon open or recover on continuation bid. Watch: Mon open cushion read vs Fri close 5.28% + whether HWM $380.84 remains the ceiling.
+- **CRWD cushion recovery monitoring** — Fri close 5.98% ($16.43/sh) recovered from Thu SUB-2% hard-watch (1.87%); watch for sustained >5% cushion into Mon or re-compression into sub-3% zone. HWM $286.9899 unchanged — would need +4.5% rally from Fri $274.72 to trigger new ratchet.
+- **V-vs-earnings-proximity (Q4 FY26 Tue 10/27 AMC = 11 TDs out):** cushion 9.91% at Fri close = far above lesson-#1 partial-trim-arm threshold (<3% cushion inside 2wk boundary); Mon 10/13 close = TD +9 = INSIDE 2wk boundary. Watch for cushion compression dynamics across Mon-Wed if V consolidates post +9.134% total P&L.
+- **NVDA Day-3 drift read** — Fri close −2.186% from fill cumulative; cushion 7.04% healthy; HWM $237.07 Day-1 ratchet basis unchanged. Watch for cohort-rebid continuation (Mon chip-cohort direction).
+- **LLY approaching Q3 CY26 earnings (Thu 10/29 BMO = 14 TDs out):** cushion 7.81% healthy at Fri close; Mon 10/13 close = TD +9 inside 2wk boundary; lesson #1 catalyst-proximity-cushion-compression framework ARMS Mon close if cushion compresses materially.
+
+**Macro events Mon 10/12:**
+- **Columbus Day — US equity markets OPEN; US bond markets CLOSED** = secondary impact only (no equity trading halt; bond-market closure may affect rate-sensitive flow dynamics but equity cash markets fully functional)
+- No first-tier macro data scheduled Mon
+- **Mon 10/14 CPI = BINARY first-tier macro** = 2 TDs out from Mon open = pre-binary deferral framework ARMS for new entries (slot cap FULL anyway through Week-20; Week-21 slot count resets to 0 of 3 but any new entry Mon-Tue would run into pre-CPI deferral discipline)
+- 10Y yield watch: Fri close ~5.27-5.35% range (bond markets closed Mon = no fresh print; equity-side read via TLT proxy)
+
+**Thesis notes based on Fri close price action:**
+- **UP-tape UND −0.231pp vs SPY in-pattern** for 82.78% cash floor on risk-ON tape — lesson #2 confirmed; no regime concern
+- **CRWD cushion recovery +4.11pp intraday on +4.45% rally** validates Thu SUB-2% hard-watch zone was mechanical cushion-mathematics (price-near-stop narrows spread), NOT a stop-trip imminent regime — lesson #3 validated (DID NOT tighten manually on Thu; Fri recovered mechanically)
+- **V-GTC-expiration workflow executed cleanly** — critical process risk mitigated; new order captures intraday HWM ratchet; next workflow verification point ~early January 2027 (~90 days out)
+- **V +9.134% total P&L approaching double-digit without triggering 15% winner-tightening consideration** — lesson #3 dominates; auto-mechanism tight
+- **AVGO SUB-5% WATCH into weekend** = monitor Mon open for whether chip-cohort consolidation extends or Mon rebid restores >5% cushion; cushion compression into <5% hard-defer threshold has NO auto-execute action (monitoring escalation only — lesson #3 dominates; auto-mechanism tight at 10% trail from HWM $380.84)
+- **Week-21 Mon open candidate screening** can begin but **execution deferral framework ARMS** 2 TDs ahead of Mon 10/14 CPI binary = no Mon-Tue execution window; earliest viable execution window = Wed 10/15 post-CPI digest IF regime clears (hawkish-CPI >0.4% m/m core = hard-defer; cool-CPI <0.2% m/m core = execution window opens on Wed digest)
+
+**Hard-defer trigger (persists through Fri 10/9 close + Mon 10/12 open):** overnight gap-down >1.5% on futures; 10Y spike >5.45% (via TLT proxy Mon as bond markets closed); fresh geopolitical shock over weekend; existing position stop-trip or >7% intraday cut rule arming on any position; fresh single-name negative on any held position; CRWD cushion re-compression to <2% Mon pre-mkt; AVGO cushion compression to <4.5% Mon pre-mkt (triggers monitoring escalation only; lesson #3 dominates — no auto-manual-tighten action).
+
+---
