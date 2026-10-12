@@ -5328,3 +5328,174 @@ Week 20 reporters (10/5–10/9) OFF LIMITS — remaining Fri:
 **Hard-defer trigger (persists through Fri 10/9 close + weekly review window + Mon 10/12 open):** overnight gap-down >1.5% on futures; 10Y spike >5.45%; fresh geopolitical shock; **CRWD cushion compresses to <1.5% pre-mkt or stop-trips Fri intraday**; **AVGO cushion compresses to <5% Fri intraday (triggers monitoring escalation only; no auto-execute action)**; pre-existing position >7% intraday cut rule arming on any position; fresh single-name negative on any held position; V-GTC re-placement failure (critical process risk — if `POST /v2/orders` fails, retry with exponential backoff + escalate to manual-order path).
 
 ---
+
+## Research — 2026-10-12 (Monday — Week 21 Day 1 of 5 = **WEEK-START + SPY REFERENCE LOG DAY + COLUMBUS DAY (bond market closed / equity market OPEN) + V 2WK-EARNINGS-BOUNDARY CROSSES INSIDE TODAY (lesson #1 catalyst-proximity timer ARMS for V) + PRE-Q3-BANK-EARNINGS-CASCADE TUE 10/13 BMO + PRE-CPI-WED-10/14 BINARY MACRO**; book: V + CRWD + LLY + AVGO + NVDA + 82.74% cash entering Week 21; **0 of 3 Week-21 slots used** (reset by Fri 10/9 weekly-review routine); **NO NEW TRADES Mon per compound-binary gate state** — pre-CPI/pre-PPI binary deferral + Tue big-bank-earnings cascade cohort-blockage + V/LLY/MSFT 2wk-earnings-boundary density + 5-position concentration already; **AVGO cushion compressed to ~4.79% pre-mkt = SUB-5% WATCH ZONE RE-ACTIVATED** (Fri close 5.06% → Mon pre-mkt 4.79% = −0.27pp on Fri profit-taking continuation); CRWD cushion materially recovered Fri 10/9 close bid to ~7.28% pre-mkt from Thu 10/8 close 1.87%; V-GTC `a68cef47` live post Fri 10/9 re-placement with new hwm $386.84 / stop $348.156)
+
+### Market Conditions
+
+Pre-mkt Mon 10/12 ~6:00 AM ET (10:11 UTC). **Futures tape (per WebSearch Mon pre-mkt 5:46 AM EDT snapshots):** S&P 500 futures mixed/mildly firm — Tickmill +0.3%, Yahoo Finance +0.1%, TipRanks +0.12%, Benzinga +0.56%; Dow futures +0.09% (TipRanks) to +0.84% (Benzinga); Nasdaq-100 futures roughly flat (−0.04% TipRanks to +0.1% Yahoo). Oil: Brent crude futures ~$105.61/bbl. **10Y Treasury yield ~5.24%** (slight easing from recent 5.27-5.35% post-FOMC-Minutes-NEUTRAL-TONE range = growth-cohort-pressure MILDLY EASING). Gold near $4,200/oz. VIX: not retrievable in standard-mode search; **mkt-structure read is calm pre-open** (mixed/mildly-firm futures with no fresh overnight shock).
+
+**S&P 500 (cash) Fri 10/9 close:** 7,811.54 per LPL/La Nacion = **+0.60% day** / **+1.21% WTD** (Week 20 cash). **Alpaca IEX authoritative SPY Fri 10/9 close:** $778.51 (open $776.23 / high $779.41 / low $775.195 / vwap $777.706 / v=705,445) = **+0.598% DTD** vs Thu close $773.88 — matches LPL cash-index weekly path. SPX intraday near Aug 13 record 7,816.70 = index extended to session highs; mkt-structure read = BULLISH RISK-ON regime continuation entering Week 21 pre-macro-binary cycle.
+
+**Weekend regime overlay — NO HARD-DEFER TRIGGERS FIRED:** no overnight gap-down >1.5% on futures; 10Y ~5.24% not spiked >5.45%; no fresh geopolitical shock (Trump-Xi China truce still Nov expiry overhang but no fresh escalation); no fresh single-name negative on any held position; AVGO SUB-5% watch zone RE-ACTIVATED on Fri's price action (not an auto-execute trigger per hard-defer-trigger list definition).
+
+**Columbus Day structure:** Bond market CLOSED (government securities / fixed income); equity market OPEN (NYSE, Nasdaq); SPY reference log day per weekly cadence; equity liquidity typically ~85-90% of normal Monday session.
+
+**Portfolio pre-mkt equity $99,979.53 vs Fri last_equity $99,919.70 = +$59.83 / +0.060% pre-mkt** = essentially flat on CRWD +1.28% pre-mkt bid + NVDA +0.14% + V/LLY flat offset by AVGO −0.43% give-back. balance_asof 2026-10-09 ✓ = clean Fri rollover. **Daily-loss cap trigger today: $96,922.11** ($99,919.70 × 0.97); pre-mkt clears cap by ~306 bps.
+
+**AI-cohort cumulative-exposure read (lesson #5 ≤15% combined-AI cap check):** AVGO $2,519.93 (2.52% of portfolio) + CRWD $5,014.08 (5.02%) + NVDA $1,148.00 (1.15%) = **$8,682.01 = 8.68% combined-AI** = well under lesson-#5 15% cap. Non-AI cohort: V $3,858.10 (3.86% rate-agnostic payments) + LLY $4,719.20 (4.72% pharma defensive-bid) = $8,577.30 = 8.58% non-AI defensive/payments diversifier anchor. Book thesis-regime: cohort-balanced = payments + pharma + custom-silicon + cybersecurity-SaaS + AI-compute.
+
+### SPY Reference Price
+
+**Monday 10/12 — WEEK 21 START SPY REFERENCE: $778.51** (Fri 10/9 Alpaca IEX authoritative daily bar close — same as Mon reference per Fri weekly-review carry; Mon live SPY opening print recorded post-market-open supplement if needed). **Week 20 Final:** SPY $769.65 → $778.51 = **+1.151%** vs portfolio Fri 10/9 close $99,909.73 (+0.394% WTD) = **−0.757pp UND** = Week 20 Grade D (per Fri 10/9 weekly-review routine; up-tape UND in-pattern for lesson #2 cash-cushion regime at 82-83% cash floor).
+
+**Cumulative Since Launch (20 weeks):** Portfolio $99,909.73 (−0.090% absolute from $100,000) vs SPY $739.17 → $778.51 = **+5.323%** = **−5.41pp cumulative UND** (status quo entering Week 21).
+
+### Earnings This Week — Do Not Buy
+
+Week 21 (10/12–10/16) reporters OFF LIMITS (all confirmed via WebSearch Mon pre-mkt + prior week research-log):
+- **Tue 10/13 BMO:** **JPM (JPMorgan Chase) Q3** + **C (Citigroup) Q3** + **WFC (Wells Fargo) Q3** + **GS (Goldman Sachs) Q3** + **JNJ (Johnson & Johnson) Q3** + **UNH (UnitedHealth) Q3** = big-bank + large-cap-healthcare earnings cascade (cohort-blockage for financials AND healthcare-mega-cap candidates)
+- **Tue 10/13 BMO:** **DPZ (Domino's) Q3** (restaurants reference; no watchlist overlap)
+- **Wed 10/14 BMO:** **BAC (Bank of America) Q3** + **MS (Morgan Stanley) Q3** (financials cohort continuation)
+- **Thu 10/15 BMO:** **USB (US Bancorp) Q3** + **SCHW (Charles Schwab) Q3** (financials cohort close)
+- **Fri 10/16:** no first-tier watchlist earnings scheduled
+
+**Watchlist earnings clearance (candidates confirmed NOT reporting this week):**
+- **V (held):** Q4 FY26 Tue 10/27 AMC = **11 TDs from Mon = CROSSES INSIDE 2wk boundary at Mon 10/12 OPEN** → lesson #1 catalyst-proximity timer ARMS TODAY for V (discretionary partial-trim bias ARMS IF V cushion compresses sub-3% during Week 21).
+- **LLY (held):** Q3 CY26 Thu 10/29 BMO = **13 TDs from Mon = APPROACHING 2wk boundary** (crosses INSIDE Thu 10/15 close); lesson #1 timer ARMS Thu 10/15.
+- **AVGO (held):** Q4 FY26 ~Dec 11 BMO = **OUTSIDE 2wk boundary** (~44 TDs).
+- **CRWD (held):** Q3 FY27 Nov 25 AMC = **OUTSIDE 2wk boundary** (31 TDs).
+- **NVDA (held):** Q3 FY27 Nov 18 AMC working estimate = **OUTSIDE 2wk boundary** (25 TDs).
+- **MSFT (candidate):** Q1 FY27 Thu 10/29 AMC estimate = **13 TDs from Mon = APPROACHING 2wk boundary** (crosses INSIDE Thu 10/15 close); narrow Mon-Wed Week 21 execution window IF other gates clear (currently gated by pre-CPI-Wed binary + big-bank cascade cohort-blockage overlap + 5-position concentration).
+- **NFLX (candidate):** Q3 Oct 21 AMC = **7 TDs from Mon = INSIDE 2wk boundary → SKIP as near-term earnings candidate**; revisit Week 22+ post-NFLX-print digest.
+- **GOOGL (candidate):** Q3 CY26 earnings date not confirmed in search but 2025 pattern = Oct 23 AMC working estimate = **~8 TDs from Mon = INSIDE 2wk boundary → SKIP**.
+- **ADBE (candidate):** Q4 FY26 typically mid-December = OUTSIDE 2wk; thesis-side consideration below.
+- **PANW (candidate):** Q1 FY27 late-Nov/early-Dec = OUTSIDE 2wk; thesis-side cohort cap below.
+
+### Macro Events This Week
+
+- **Mon 10/12 (today):** Columbus Day — US BOND MARKET CLOSED / US EQUITY MARKET OPEN; no first-tier macro scheduled.
+- **Tue 10/13 BMO:** Big-bank + large-cap-healthcare Q3 earnings cascade (financials-cohort BLOCKED for new entries + macro-tape-tone-setter).
+- **Wed 10/14 8:30 AM ET:** **CPI (September) = BINARY MACRO EVENT** — consensus headline +0.6% m/m (prior +0.4%) / +3.6% y/y (prior +3.4%); core +0.2% m/m (prior +0.3%) / +2.5% y/y (prior +2.4%). Risk-skew: HOT headline + sustained-cooling core = Fed-cut-expectation preservation vs HOT across-board = 10Y >5.40% spike + risk-off; COOL across-board = growth-cohort relief + risk-ON continuation.
+- **Thu 10/15 8:30 AM ET:** **PPI (September) = BINARY MACRO EVENT** + **Retail Sales (September)** (consumer tape-tone-setter).
+- **Thu 10/15 after close:** LLY 2wk-earnings-boundary CROSSES INSIDE for Thu 10/29 BMO; MSFT 2wk-earnings-boundary CROSSES INSIDE for Thu 10/29 AMC.
+- **Fri 10/16 8:30 AM ET:** Import/Export Price Indexes + 9:15 AM ET Industrial Production (minor macro + week-close + weekly-review-trigger-day).
+
+### Watchlist for Tomorrow's Open
+
+**NO NEW TRADES Mon 10/12 regardless of macro — compound-binary gate state DEFERS all execution to Week 21+ post-CPI/PPI digest window AND cohort-concentration review.** Slot cap at 0 of 3 used but EFFECTIVE execution gated by: (a) pre-CPI-Wed-10/14 binary deferral discipline; (b) pre-PPI-Thu-10/15 binary deferral; (c) Tue 10/13 big-bank-earnings cascade cohort-blockage for financials; (d) V 2wk-earnings-boundary CROSSES INSIDE Mon → lesson #1 ARMS; (e) MSFT 2wk-earnings-boundary CROSSES INSIDE Thu 10/15 close; (f) overall 5-position concentration post-Week-20 full cap; (g) Columbus Day thin-liquidity equity session.
+
+| Symbol | One-Line Thesis | Rev Growth | Moat Type | Analyst Rating | Action |
+|--------|-----------------|------------|-----------|----------------|--------|
+| MSFT | Enterprise AI cloud at scale — Azure +43% Q4 FY26 → $100B+ FY26 annual; Q4 rev $90B/+18%; capex $41B; FY27 guide "another year of double-digit revenue + op income growth"; $135B OpenAI stake; **Q1 FY27 Thu 10/29 AMC estimate = CROSSES INSIDE 2wk-boundary Thu 10/15 close** → narrow Mon-Wed Week 21 pre-CPI/pre-PPI window if other gates clear | **+18% YoY (Q4 FY26) / +43% Azure** | Switching costs (enterprise/M365) + scale (cloud) + platform + OpenAI equity | Strong Buy consensus; avg PT ~$557-$560; Citi $600 / Wells Fargo $650 / Bernstein $647 all raised post-Q4 | **DEFER — pre-CPI/pre-PPI binary deferral + 2wk-boundary density + AI-cohort combined cap concern (would add 4th AI name AVGO + CRWD + NVDA + MSFT = widens single-cohort exposure)**; execution window narrows to Mon-Wed Week 21 ONLY if ALL gates clear (CPI benign + no fresh single-name shock + MSFT doesn't pre-print 2wk INSIDE) |
+| NFLX | Streaming leader; ARM/Ads tier scaling; Q3 Oct 21 AMC = **7 TDs INSIDE 2wk-boundary from Mon → SKIP** per lesson #1 catalyst-proximity | ~+18% YoY | Content library + network effects + global scale | Buy consensus | **SKIP Mon — INSIDE 2wk earnings boundary blocks near-term entry; revisit Week 22+ post-NFLX-print digest** |
+| GOOGL | Mega-cap-AI re-consideration — Q2 FY26 rev $119.8B/+24%; Cloud +82% to $24.8B; Gemini 950M MAU; capex guide raised $195-205B; **Q3 2026 earnings ~Oct 23-30 AMC = INSIDE 2wk-boundary at Mon → SKIP** | **+24% YoY (Q2 FY26) / +82% Cloud** | Search + Android + YouTube network effects + Cloud scale + Gemini AI platform | Strong Buy consensus | **SKIP Mon — INSIDE 2wk earnings boundary blocks near-term entry; lesson #5 mega-cap-AI stop-out history (6/2 GOOGL −9.07%) adds cohort-reentry caution**; revisit Week 22+ post-GOOGL-print digest |
+| ADBE | AI-creative platform — Q3 FY26 rev $6.76B/+13%; AI-first ARR +150% YoY; Firefly ARR ~$300M; total ARR $27.5B/+11.2%; Q4 FY26 guide $6.80-6.85B; **analyst-side SPLIT (Citi $250 Neutral / Jefferies $275 Hold / Morgan Stanley Underweight $240 citing AI-substitution threat)**; growth decelerating from +15% prior quarters to +13% | +13% YoY (Q3 FY26) | Creative-suite switching costs + Firefly AI tooling | **MIXED — bulls raised; bears cut on AI-substitution risk** | **DEFER — thesis-weakness primary driver (not timing); growth decelerating + bear analyst narrative + no near-term positive catalyst**; revisit after Q4 FY26 print mid-December if growth re-accelerates |
+| PANW | Cybersecurity platform — Q4 FY26 rev $3.41B beat (cons $3.35B); EPS $1.02 beat (cons $0.98); FY27 rev guide $14.1-$14.2B; Q1 FY27 guide $3.3-$3.31B; post-CyberArk acquisition; Q1 FY27 ~late Nov/early Dec earnings = OUTSIDE 2wk; **cybersecurity-cohort overlap with CRWD** | +15% YoY (Q4 FY26) | Platform scale + switching costs + Zero Trust leadership + CyberArk IAM acquisition | Buy consensus | **DEFER — cybersecurity-cohort overlap with CRWD held (would compress single-cohort exposure beyond 1 slot); 5-position concentration already**; defer evaluation to post-CRWD-earnings Week 25+ when cohort-rotation decision rebalance opens |
+| MA / PYPL / AXP | Payments diversifier cohort gate with V (held) binds; adding another payments name 11 TDs before V Q4 would compress single-cohort exposure | varies | Network effects | varies | **SKIP Mon — V-cohort correlation gate; defer evaluation to post-V-Q4 Week 22+** |
+| Financials (JPM/BAC/GS/MS/C) | Q3 bank-earnings crescendo Tue-Wed 10/13-14 Week 21 = **INSIDE Mon 10/12 execution window → cohort-blockage emerges** | varies | Scale + capital + regulatory moat | varies | **SKIP Mon — all big banks reporting Tue-Wed Week 21; defer to post-Q3-bank-earnings-digest Week 22+** |
+| MSTR / COIN / HOOD | Crypto-adjacent | — | — | — | **PERMANENT SKIP — guardrail: no crypto-adjacent stocks** |
+| V | (held — HOLD; pre-mkt flat +0.09%; cushion ~9.74% healthy; **V 2wk-earnings-boundary CROSSES INSIDE TODAY (Q4 FY26 Tue 10/27 AMC = 11 TDs from Mon)**; lesson #1 catalyst-proximity timer ARMS → discretionary partial-trim bias ARMS IF cushion compresses sub-3% during Week 21) | ~17% YoY | Rate-agnostic duopoly + network effects | Strong Buy avg PT ~$419 (100% Buy) | **HOLD — lesson #3 default dominates; monitor cushion-compression trajectory for lesson #1 arming** |
+| CRWD | (held — HOLD; pre-mkt +1.28% bid = **cushion MATERIALLY RECOVERED** from Thu close 1.87% → Mon pre-mkt 7.28%; HWM unchanged $286.9899; next ratchet requires break >$286.9899 = +3.03% from pre-mkt; next earnings Nov 25 OUTSIDE 2wk → lesson #1 catalyst-proximity does NOT bind → lesson #3 default-hold-the-stop dominates) | +26% YoY (Q2 FY27) | Switching costs + Falcon network effects + Zero Trust leadership | Buy consensus | **HOLD — Fri intraday + Mon pre-mkt validate Thu cushion-compression was cohort-rotation (not thesis-break); cushion-recovery confirms system worked** |
+| LLY | (held — HOLD; pre-mkt flat; HWM unchanged $1,206.63; cushion ~7.95% healthy; pharma defensive-bid regime fit; **Q3 Thu 10/29 BMO = 13 TDs from Mon = APPROACHING 2wk boundary (crosses Thu 10/15 close)** → lesson #1 catalyst-proximity timer ARMS Thu 10/15) | **+48% YoY (Q2 2026)** | GLP-1 duopoly + pipeline + manufacturing scale | Buy consensus avg PT ~$1,276.96 | **HOLD — lesson #3 dominates; monitor Mon-Thu for 2wk-boundary catalyst-proximity-timer arming** |
+| AVGO | (held — HOLD; pre-mkt −0.43% give-back; HWM unchanged $380.84; **cushion compressed to ~4.79% pre-mkt = SUB-5% WATCH ZONE RE-ACTIVATED** (Fri close 5.06% → Mon pre-mkt 4.79% = −0.27pp continuation; Fri intraday profit-taking continuation); next earnings ~Dec 11 OUTSIDE 2wk boundary → lesson #1 does NOT bind → lesson #3 + lesson (xii) non-catalyst-cushion-compression resolves via trail mechanism) | ~+86% YoY (Q3 FY26) | Custom silicon design wins + VMware switching costs + $73B AI backlog | Strong Buy consensus; Benchmark $485 PT | **HOLD — monitor cushion trajectory Mon intraday; sub-4% breach = provisional lesson (viii) alert; stop auto-triggers at $342.756; lesson #3 default-hold-the-stop dominates per lesson (xii)** |
+| NVDA | (held — HOLD; pre-mkt +0.14% flat; HWM $237.07 → next ratchet requires break >$237.07 = +3.26% from pre-mkt = MODERATE probability on continued AI-cohort rebound; Day-3 drift standard; Q3 FY27 Nov 18 AMC working estimate OUTSIDE 2wk boundary) | **+106% YoY (Q2 FY27)** | CUDA developer-ecosystem network effects + AI-training installed-base switching costs + Blackwell scale moat | **Strong Buy** avg PT $270-$300 | **HOLD — Day-3 standard watch; monitor HWM ratchet trigger on continued pre-mkt-bid followthrough + Hugging Face $12.93B acquisition thesis-reinforcement** |
+
+**Bottom-line watchlist read for Mon 10/12:** **NO NEW TRADES per compound-binary gate state.** All 5 held positions on HOLD. **AVGO cushion sub-5% watch zone re-activated** (4.79% pre-mkt from Fri close 5.06%) — monitor intraday for sub-4% breach = provisional lesson (viii) alert escalation. CRWD cushion materially recovered 1.87% (Thu close) → 7.28% (Mon pre-mkt) = Thu cushion-compression validated as cohort-rotation regime signal (not thesis-break). V/LLY/NVDA stable.
+
+### Existing Position Notes
+
+| Symbol | News | Thesis Still Valid? | Action |
+|--------|------|---------------------|--------|
+| V | Mon pre-mkt **$385.81** vs Fri close $385.45 lastday reference = **+0.093% pre-mkt flat**. Total P&L **+$317.12 / +8.956%** (positions endpoint) = fresh HIGH in P&L since launch. HWM **$386.84** (post Fri 10/9 GTC re-placement). Cushion from stop $348.156 = **~9.74%** ($37.654/sh) = healthy standard-watch zone. **No breaking single-name news overnight**; standing regulatory overhang unchanged (Australia surcharge ban + revised interchange caps live 10/1/26; Visa Europe Consumer Funding Fee live 10/1/26; Visa Embedded Payments Acquirer Fee effective 10/23/26) — none fresh. Analyst consensus Strong Buy avg PT ~$419 (100% Buy). **Q4 FY26 earnings Tue 10/27 AMC = 11 TDs from Mon = CROSSES INSIDE 2wk-boundary TODAY → lesson #1 catalyst-proximity timer ARMS** (discretionary partial-trim bias ARMS IF cushion compresses sub-3% during Week 21). Realized-if-triggered floor Fri-re-place-ratchet basis: **−1.69% / −$59.98 locked-in floor** on 10 sh = cost-basis-protected. V-GTC id `a68cef47-dadb-4725-bd1b-e94d7adeea91` (post Fri 10/9 re-placement; expires 2027-01-07 21:00 UTC). | ✅ Thesis intact — no overnight news; cushion healthy; **approaching Q4 earnings 2wk-boundary CROSSED INSIDE today = lesson #1 timer ARMS**. | **HOLD** — trailing stop live & GTC ($348.156 / hwm $386.84 / order id `a68cef47`); lesson #3 default dominates; monitor cushion trajectory Mon-Fri for sub-3% compression + lesson #1 partial-trim bias arming; midday >7% intraday cut rule arm. |
+| CRWD | Mon pre-mkt **$278.56** vs Fri close $275.04 lastday reference = **+1.280% pre-mkt bid**. Total P&L **+$274.86 / +5.797%** from fill $263.29 = position materially above cost basis. HWM unchanged $286.9899 → cushion recovered from Thu close 1.87% → **Mon pre-mkt 7.28% ($20.269/sh) = SUB-2% HARD-WATCH ZONE FULLY CLEARED** (+5.41pp cushion-recovery across Fri + Mon pre-mkt). Stop $258.29091. **No breaking single-name negative overnight**; cybersecurity-cohort rebound regime continues (Fri +4.46% recovery session + Mon pre-mkt +1.28% follow-through). CrowdStrike positive narrative continues ($500M share-repurchase authorization + 2026 Gartner Peer Insights MDR + HCLTech partnership + IBM agentic-SOC collab — not fresh overnight but ongoing thesis-reinforcement). Q3 FY27 earnings **Nov 25 AMC** = 31 TDs out = FAR OUTSIDE 2wk boundary → **lesson #1 catalyst-proximity trim mitigant DOES NOT bind** (requires <2wk window). Realized-if-triggered floor at Day-3-ratchet stop $258.29091 basis: **−1.90% / −$89.98 locked-in floor** on 18 sh = cost-basis-protected. **Lesson (xii) EMPIRICALLY VALIDATED by Fri recovery** — non-catalyst-sub-2% cushion-compression resolved via trail mechanism; no partial-trim intervention required. | ✅ Thesis INTACT + CUSHION FULLY RECOVERED — Thu DOWN-tape cushion-compression validated as cohort-rotation regime signal (not thesis break); +5.41pp recovery confirms system worked. | **HOLD** — trailing stop live & GTC ($258.29091 / hwm $286.9899 / order id `e2ab0fc3-a33e-4b39-b402-e85cbcce0da1`; GTC expires 2026-12-30); monitor Mon intraday for continued cohort rotation + potential HWM ratchet on break >$286.9899 (+3.03% from pre-mkt = PLAUSIBLE on continued cybersecurity-cohort bid). |
+| LLY | Mon pre-mkt **$1,179.80** vs Fri close $1,179.27 lastday reference = **+0.045% pre-mkt flat**. Total P&L **+$67.20 / +1.445%** from entry (4 sh × $1,179.80 − $4,652 cost basis). HWM unchanged $1,206.63 (Wed 10/7 intraday ratchet basis). Cushion at pre-mkt $1,179.80 from stop $1,085.967 = **~7.95%** ($93.833/sh) = healthy. **No breaking single-name news overnight**; prior Q2 2026 results Aug 6 ongoing thesis-reinforcement (Q2 revenue $23B / +48% YoY; Mounjaro $9.9B / +91%; Zepbound $4.9B / +44%; raised FY26 outlook 2nd time); orforglipron now marketed as Foundayo (US submission complete / FDA approved as oral GLP-1 for adults with obesity); December 7, 2026 Investment Community Meeting planned; $756.8B market cap sustains; FY26 EPS guide $35.50-$37.00 / revenue $82-$85B. **Q3 CY26 earnings Thu 10/29 BMO = 13 TDs from Mon = APPROACHING 2wk boundary** (crosses Thu 10/15 close) → lesson #1 catalyst-proximity timer ARMS Thu 10/15. Lesson #3 dominates — DO NOT tighten manually. Realized-if-triggered floor Wed-ratchet basis: **−6.62% / −$308.13** on 4 sh. | ✅ Thesis intact — pre-mkt flat on no fresh single-name negative; pharma defensive-bid cohort structural bid holds; orforglipron continuation + Mounjaro/Zepbound +43% YoY revenue thesis-reinforced. | **HOLD** — trailing stop live & GTC ($1,085.967 / hwm $1,206.63 / order id `8a75fc03-1746-4c05-b120-e4cc0d521f9a`; GTC expires 2026-12-31); monitor Mon-Thu for 2wk-earnings-boundary catalyst-proximity-timer arming at Thu 10/15 close. |
+| AVGO | Mon pre-mkt **$359.99** vs Fri close $361.54 lastday reference = **−0.429% pre-mkt give-back** = Fri profit-taking continuation. Total P&L **+$14.77 / +0.590%** from entry (7 sh × $359.99 − $2,505.16 cost basis). Cushion at pre-mkt $359.99 from stop $342.756 = **~4.79%** ($17.234/sh) = **SUB-5% WATCH ZONE RE-ACTIVATED** (Fri close 5.06% → Mon pre-mkt 4.79% = −0.27pp continuation; Fri intraday profit-taking continuation + Mon mild give-back). HWM unchanged $380.84 (Day-2 ratchet basis; next ratchet requires break >$380.84 = +5.79% from pre-mkt). **No breaking single-name negative overnight**; Trefis Oct 6 analysis cites next earnings ~Dec 11 BMO (OUTSIDE 2wk boundary); AI-partnership-cascade thesis-reinforced ongoing (OpenAI custom-chip 10GW + Thor Ultra 800G AI NIC + Apple $30B custom-silicon + Google TPU ~$21B + Anthropic $42B financing). Realized-if-triggered floor Day-2-ratchet basis: **−4.23% / −$105.87 locked-in floor** on 7 sh = cost-basis-protected. Lesson #3 dominates — DO NOT tighten manually; lesson (xii) non-catalyst-cushion-compression framework = trail mechanism absorbs. **ESCALATION TRIGGERS:** sub-4% cushion breach Mon intraday = provisional lesson (viii) alert escalation (would recommend assessing partial-trim bias ONLY if combined with fresh single-name negative); sub-3% breach = stop near-trigger risk; stop auto-triggers at $342.756. | ✅ Thesis intact — pre-mkt mild give-back on Fri profit-taking continuation; AI-custom-silicon duopoly thesis sustained by partnership-cascade. | **HOLD + CUSHION MONITORING ESCALATED** — trailing stop live & GTC ($342.756 / hwm $380.84 / order id `d8d5a269-a087-4696-ac33-c865839e6da7`; GTC expires 2026-12-31); midday >7% intraday cut rule armed = cut-line **$334.19 vs stop $342.756 → stop triggers FIRST by $8.57/sh**; monitor cushion trajectory Mon intraday for sub-4% breach = provisional lesson (viii) alert. |
+| NVDA | Mon pre-mkt **$229.60** vs Fri close $229.28 lastday reference = **+0.140% pre-mkt flat**. Total P&L **−$25.20 / −2.148%** from entry $234.64 = position mildly below cost basis. HWM $237.07 (Thu 10/8 Day-1 intraday ratchet basis). Cushion at pre-mkt $229.60 from stop $213.363 = **~7.08%** ($16.237/sh) = healthy. **Thesis-reinforcement update:** NVIDIA Hugging Face $12.93B acquisition agreed Sep 2026 (per WebSearch) = AI-platform-ecosystem expansion; NVIDIA Rubin Ultra AI chips launch + LG robotics MOU for humanoid bipedal robot (early 2027 debut) = AI-expansion-cascade continues; TSMC Q3 record $46.7B + SpaceX ~$40B GPU financing fundamental validators sustain. **No breaking single-name negative overnight.** Q3 FY27 earnings **Nov 25 AMC** = **CORRECTION: WebSearch cites Nov 25 AMC, not Nov 18 as prior memory** = 31 TDs out (vs memory's 25 TDs = ~1 week date-correction; still FAR OUTSIDE 2wk boundary). Realized-if-triggered floor Day-1-ratchet basis: **−9.07% / −$106.39 locked-in floor** on 5 sh. Lesson #3 dominates — DO NOT tighten manually. | ✅ Thesis intact + REINFORCED — pre-mkt flat on no fresh negative; AI-compute leader with structural moat validated by Hugging Face acquisition + Rubin Ultra + LG MOU partnership-cascade; **NVDA Q3 earnings date correction to Nov 25 AMC flagged for memory alignment**. | **HOLD** — trailing stop live & GTC ($213.363 / hwm $237.07 / order id `52531cb3-42fe-4929-a726-0b8272a80651`; GTC expires 2027-01-06); monitor Mon intraday for continued AI-cohort rebound + potential HWM ratchet on break >$237.07 (+3.26% from pre-mkt). |
+
+### Compound-Binary Gate Read — Mon 10/12 Execution Decision
+
+**Gate state Mon 10/12 pre-open ~6:00 AM ET:**
+- **Gate 1 (same-session macro binary):** No first-tier macro Mon; Columbus Day bond-closed / equity-open; no watchlist overlap → CLEAR for execution window from macro perspective (but blocked by other gates below)
+- **Gate 2 (next-session macro binary):** Tue 10/13 BMO big-bank-earnings cascade (cohort-tape-setter, non-binary for non-financials); Wed 10/14 CPI BINARY = pre-CPI deferral discipline Mon-Tue; Thu 10/15 PPI BINARY = pre-PPI deferral discipline Wed-Thu → **ADJACENT MACRO/CATALYST DENSITY = HARD-DEFER PRE-CPI-TUE-10/13**
+- **Gate 3 (10Y hawkish overlay):** HOLDS ~5.24% = growth-cohort-pressure MILDLY EASING vs recent 5.27-5.35% range; AI-cohort pre-mkt mixed → ✓ CLEAR
+- **Gate 4 (candidate-set quality):** MSFT (2wk-boundary crosses Thu 10/15; strong-buy; AI-cohort concentration concern) + ADBE (growth decelerating + bear-narrative; thesis-weak) + PANW (cybersecurity-cohort overlap with CRWD; thesis-strong but cohort-blocked) + GOOGL/NFLX (SKIP INSIDE 2wk) = **MSFT is sole marginally-executable candidate IF ALL OTHER GATES CLEAR**; but Gate 2 + Gate 5 preclude Mon
+- **Gate 5 (Week-21 slot count):** **0 of 3 used** (reset Fri 10/9 weekly-review); EFFECTIVELY GATED by 5-position concentration overlay + macro-binary density + cohort-cap overlap
+- **Gate 6 (Weekend/overnight-regime overlay):** CLEARED — no overnight shock; pre-mkt mixed/mildly-firm futures; no fresh single-name negative on any held position
+- **Gate 7 (Week-close/weekly-review window):** N/A Monday
+- **Gate 8 (V-GTC expiration workflow):** N/A — new GTC `a68cef47` live post Fri re-placement (expires 2027-01-07)
+- **Gate 9 (CRWD cushion-compression):** **FULLY RECOVERED** — pre-mkt cushion 7.28% above sub-2% hard-watch zone threshold + above sub-3% soft-watch zone (Fri close 7.32% → Mon pre-mkt 7.28% = continuous recovery); lesson #3 dominates
+- **Gate 10 (AVGO cushion-compression):** **SUB-5% WATCH ZONE RE-ACTIVATED** — pre-mkt cushion 4.79% below sub-5% monitoring threshold (Fri close 5.06% → Mon pre-mkt 4.79% = continuation of Fri's profit-taking give-back); lesson #3 default-hold-the-stop dominates per lesson (xii); escalation triggers = sub-4% breach Mon intraday = provisional lesson (viii) alert
+
+**Mon 10/12 execution thesis — NO NEW TRADES. All 5 positions HOLD. Monitor AVGO cushion compression + V lesson #1 timer arming + macro-event sequencing.**
+
+Pre-trade guardrail check: **N/A** (no new trade).
+
+Pre-mkt overnight shock scan: **NO HARD-DEFER TRIGGERS FIRED** (no overnight gap-down >1.5% on futures; 10Y not spiked >5.45%; no fresh geopolitical shock; no existing position stop-trip or >7% intraday cut rule arming; no fresh single-name negative on any held position; CRWD cushion fully recovered; AVGO cushion sub-5% watch zone re-activated = monitoring escalation only, not auto-execute action).
+
+**Mon action point sequence:**
+1. **Market open 9:30 AM ET (13:30 UTC):** Record Day Open Value from Alpaca last_equity + daily-loss cap trigger ($96,922.11); confirm all 5 trailing stops live & GTC via orders endpoint; verify no overnight stop-trips; AVGO + V opening-print snapshot vs cushion-watch thresholds; record Mon Week-21-start SPY $778.51 as recorded reference per weekly-review protocol
+2. **Mid-day 12:00–4:00 PM ET:** >7% intraday cut rule arm (AVGO cut-line $334.19 nearest; CRWD $249.19; LLY $1,097.00; NVDA $213.53; V $358.80) + daily-loss cap monitoring + AVGO cushion-compression hard-watch (sub-4% breach = provisional lesson (viii) alert) + CRWD cushion-stabilization read + V cushion-trajectory monitoring for lesson #1 arming
+3. **Close 4:00 PM ET:** Day performance vs SPY; AVGO/CRWD/V/LLY/NVDA cushion snapshot into Tue pre-mkt; big-bank-earnings-cascade pre-Tue regime read; Columbus-Day-session liquidity + volume + volatility read
+
+### Tomorrow's Watch — 2026-10-13 (Tuesday Week 21 Day 2) + Tue-Fri Preview
+
+**Positions to monitor (all 5 open):**
+- **V — LESSON #1 CATALYST-PROXIMITY TIMER ARMED (crossed INSIDE 2wk-boundary Mon 10/12):**
+  - Monitor cushion trajectory daily through Week 21 close; sub-3% compression = partial-trim-discretionary-bias ARMS
+  - Q4 FY26 Tue 10/27 AMC = 10 TDs from Tue = INSIDE 2wk-boundary firmly
+  - HWM $386.84 → next ratchet requires break >$386.84 = +0.27% from Mon pre-mkt = HIGH probability on continued post-GTC-re-placement price action
+- **CRWD — CUSHION-RECOVERED STANDARD WATCH:**
+  - Cushion trajectory read — target sustained >5% for regime-pressure-resolved classification
+  - HWM $286.9899 → next ratchet requires break >$286.9899 = +3.03% from Mon pre-mkt = PLAUSIBLE
+  - Monitor cybersecurity-cohort (PANW/ZS/FTNT) for cohort-rotation resolution signals
+- **LLY — DAY-6 POST-RATCHET WATCH + CATALYST-PROXIMITY APPROACHING:**
+  - Day-6 drift read; cushion 7.95% healthy
+  - Q3 CY26 earnings Thu 10/29 BMO = **CROSSES INSIDE 2wk-boundary Thu 10/15 close** → lesson #1 catalyst-proximity timer ARMS Thu 10/15
+  - Pharma defensive-bid regime fit continues post-FOMC-Minutes digest + 10Y-easing environment
+- **AVGO — SUB-5% WATCH ZONE ACTIVE:**
+  - Day-6 drift read; cushion 4.79% RE-ACTIVATED watch zone
+  - HWM $380.84 → next ratchet requires break >$380.84 = +5.79% from Mon pre-mkt = LOW probability
+  - **Hard-watch escalation:** sub-4% breach Tue intraday = provisional lesson (viii) alert → assess cushion-compression partial-trim bias (NOT auto-execute; discretionary review only); sub-3% breach = stop near-trigger risk
+- **NVDA — DAY-4 POST-ENTRY STANDARD WATCH:**
+  - Day-4 drift read; cushion 7.08% healthy
+  - HWM $237.07 → next ratchet requires break >$237.07 = +3.26% from Mon pre-mkt = MODERATE probability
+  - Monitor AI-cohort continuation + Hugging Face acquisition thesis integration
+
+**Tue 10/13 macro:**
+- Big-bank-earnings cascade BMO: JPM, C, WFC, GS, JNJ, UNH (cohort-tape-tone-setter + financials-cohort BLOCKED for new entries)
+- Pre-CPI-Wed binary deferral discipline sustained → **NO NEW TRADES Tue regardless of macro**
+
+**Wed 10/14 macro:**
+- 8:30 AM ET CPI (September) BINARY MACRO EVENT (consensus headline +0.6% m/m / +3.6% y/y; core +0.2% m/m / +2.5% y/y)
+- BAC + MS Q3 BMO (financials-cohort continuation)
+- Post-CPI digest window opens post-release pending tone (COOL = risk-ON continuation; HOT headline + cooling core = Fed-cut-expectation preserve; HOT across-board = 10Y >5.40% spike + risk-off)
+
+**Thu 10/15 macro:**
+- 8:30 AM ET PPI (September) + Retail Sales (September) BINARY MACRO EVENTS
+- USB + SCHW Q3 BMO
+- **LLY 2wk-earnings-boundary CROSSES INSIDE at Thu close** → lesson #1 ARMS for LLY
+- **MSFT 2wk-earnings-boundary CROSSES INSIDE at Thu close** → MSFT entry window CLOSES for Week 21 entry
+
+**Fri 10/16 macro:**
+- Import/Export Prices + Industrial Production (minor macro)
+- Week-close + weekly-review-trigger-day
+- **Primary Week-21 execution window = Fri pre-close ONLY if** (a) CPI/PPI both land benign + (b) no fresh single-name shock on 5 held positions + (c) cohort-concentration cap allows a 6th slot (currently combined-AI 8.68% < 15% cap allows ~5-6pp headroom for a modest-size add; 5-position book structurally concentrated argues DEFER to Week 22+)
+
+**Week 21 execution window outlook — DEFER-BIASED:**
+- **Mon 10/12 — Columbus Day;** NO NEW TRADES per compound-binary gate state
+- **Tue 10/13 BMO — JPM/C/WFC/GS/JNJ/UNH cascade;** NO NEW TRADES per pre-CPI binary deferral + cohort-blockage
+- **Wed 10/14 — CPI binary;** NO NEW TRADES pre-release; post-release digest window CONDITIONAL on tone (HOT = defer continuation; COOL/BENIGN = narrow post-digest execution window Thu PRE-PPI pivot)
+- **Thu 10/15 — PPI binary;** NO NEW TRADES pre-release; post-release digest window CONDITIONAL on tone + LLY/MSFT 2wk-boundary crossing simultaneously
+- **Fri 10/16 pre-close — PRIMARY WEEK-21 EXECUTION WINDOW if gates clear**; CPI/PPI both benign + no single-name shock + cohort-cap allows = modest-size add possible; LIKELY DEFER to Week 22+ given 5-position book concentration
+
+**Thesis notes based on Mon pre-mkt price action:**
+- **AI-cohort rebound regime** continues validating Thu DOWN-tape was cohort-rotation (not thesis-break); CRWD +1.28% pre-mkt + Fri intraday recovery sustain the signal
+- **CRWD cushion-recovery sustained Mon pre-mkt** (+5.41pp from Thu close across Fri + Mon) empirically validates lesson (xii) non-catalyst-sub-2% cushion-compression resolves via trail mechanism
+- **AVGO cushion-compression Fri+Mon continuation** signals Thu profit-taking regime extends; sub-4% breach Mon intraday would mark provisional lesson (viii) steep-compression framework trigger (requires separate decision)
+- **V/LLY/NVDA stable pre-mkt** validates no fresh single-name negative overnight; defensive/payments/AI-compute cohort stability regime continues
+- **10Y mildly easing to ~5.24%** softens recent 5.27-5.35% hawkish-overlay bias; growth-cohort pressure mildly reducing pre-CPI
+
+**Hard-defer trigger (persists through Mon 10/12 close + Tue 10/13 open):** overnight gap-down >1.5% on futures; 10Y spike >5.45%; fresh geopolitical shock; **AVGO cushion compresses to <4.0% Mon intraday = provisional lesson (viii) alert escalation + review**; **AVGO cushion <3.0% = stop near-trigger risk + possible pre-stop partial-trim bias**; pre-existing position >7% intraday cut rule arming on any position; fresh single-name negative on any held position; CRWD cushion compresses back below sub-3% soft-watch.
+
+---
