@@ -6068,3 +6068,53 @@ Pre-mkt overnight shock scan: **NO HARD-DEFER TRIGGERS FIRED** in standard-mode 
 - **Hard-defer triggers (persist Thu-Fri):** overnight gap-down >1.5% on futures; 10Y spike >5.45% post-PPI; **AVGO cushion compresses to <0.5% Thu intraday pre-PPI OR gaps through stop by >$8/sh at open = elevated stop-trigger-risk alert + lesson-xiv candidate CONFIRMATION event**; **NVDA cushion compresses to <2.0% Thu intraday = provisional lesson (viii) alert**; fresh single-name negative on any held position or PANW candidate; fresh geopolitical shock.
 
 ---
+
+## Tomorrow's Watch — 2026-10-16 (Friday; Week 21 Day 5 of 5 CLOSE — WEEK-CLOSE + WEEKLY-REVIEW TRIGGER DAY)
+
+**Updated post-Thu-close (2026-10-15 20:00 UTC) following post-PPI digest + AVGO + NVDA stop fills + LLY/V HWM auto-ratchets**
+
+### Positions to monitor:
+- **V (10 sh, +12.91% total P&L, close $399.80 / HWM $403.205 / stop $362.8845)** — cushion 9.23% at close; **Q4 FY26 earnings Tue 10/27 AMC = 7 TDs from Fri = INSIDE 2wk-boundary firmly** → lesson #1 catalyst-proximity timer FULLY ARMED but DOES NOT FIRE at current cushion ≥ 3%. HWM ratchet #10 confirmed afternoon; monitor Fri for potential #11 ratchet if payments-cohort rate-agnostic bid continues. Options-implied Q4 move ~±4.3% / ~±$17 adds pre-earnings cushion-compression risk late Week 21/early Week 22. Lesson #3 dominates — DO NOT tighten manually.
+- **LLY (4 sh, +7.35% total P&L, close $1,248.50 / HWM $1,275.88 / stop $1,148.292)** — cushion 8.03% at close; **Q3 CY26 earnings Thu 10/29 BMO = 9 TDs from Fri = INSIDE 2wk-boundary firmly** → lesson #1 catalyst-proximity timer FULLY ARMED (crossed INSIDE at Thu close as projected) but DOES NOT FIRE at current cushion ≥ 3%. Massive Thu intraday HWM advance +$59.17/sh / stop lift +$53.25/sh (lesson #3 validated — auto-mechanism optimally tight). LLY gave back some of midday +5.20% high ($1,271.62 → $1,248.50 close = −$23.12/sh afternoon fade) but HWM/stop ratchets locked at the intraday high. Monitor Fri for continued pharma-defensive-bid regime or afternoon-fade continuation; cushion drops to sub-5% would trigger lesson (viii) alert.
+- **AI-cohort exposure post-AVGO + NVDA stop fills:** 0% AI-cohort combined (vs lesson #5 ≤15% cap). Non-AI anchor only: V $3,998 (4.01%) + LLY $4,994 (5.01%) = $8,992 = **9.02% equity / 90.98% cash**. Maximum lesson-#5 headroom available for Week 22+ rebuilds; concentration-risk effectively zero.
+
+### Macro events tomorrow (Fri 10/16):
+- **8:30 AM ET Import/Export Prices (September)** — minor macro
+- **9:15 AM ET Industrial Production (September)** — minor macro
+- **TRV Q3 BMO** (financials-cohort residual; no watchlist overlap)
+- **Fri close = Week-21 close** → weekly-review-trigger-day via weekly-review routine
+- **Mon 10/19:** market CLOSED (holiday — tentative; verify in weekly review); if open, standard pre-mkt routine; if closed, next trading day Tue 10/20
+
+### Thesis notes based on Thu 10/15 PPI digest + post-stop-fill market structure:
+- **Lesson #2 cash-cushion WTD OP VALIDATED on hot-CPI/benign-PPI week with growth-cohort sell-off tape** — Week-21 WTD portfolio −0.273% vs SPY −0.866% = **+0.593pp OP WTD** on 90.98% cash cushion + V #10 ratchet + LLY massive intraday ratchet absorbing growth-cohort weakness; cash-cushion delivered DOWN-tape alpha as framework predicts. Grade B WTD entering Fri.
+- **Lesson #4 defensive-bid regime continuation** — LLY +3.289% Thu vs SPY +0.275% = **+3.014pp day OP = textbook defensive-bid-payoff on PPI-benign-digest growth-scare continuation**; adds 4th validation data point to lesson #4 (prior: Jun 25-26 PCE, Jul 1-2 ISM, Jul 2 cool-NFP, Wed 10/14 hot-CPI = 4-of-4 pharma-defensive-bid confirmations in binary-regime cohorts).
+- **Lesson-xiv candidate RE-VALIDATED 2-of-2 with NVDA counterexample** — CRWD CPI 10/14 ($8.78/sh below stop) + AVGO PPI 10/15 ($5.65/sh below stop) = binary-macro-0-TD sub-2% cushion gap-through pattern now confirmed across TWO consecutive data events. Counterexample: NVDA 10/15 PPI fill $1.401/sh ABOVE stop favorable slip in SAME binary regime = mechanical slip dispersion within same session shows gap-through is NOT deterministic — tail distribution. **Codification path at weekly review:** likely codify as "elevated gap-through RISK (not deterministic effect) when sub-2% cushion coincides with 0-TD binary macro = asymmetric realized-loss distribution skews below cost-basis-protected floor"; action implication = NO manual intervention per lesson #3 (mechanical fill is still optimally tight) but trade-sizing on entries into fresh binary-macro windows should factor the asymmetric tail-risk.
+- **Lesson #3 dual-position validation** — V #10 ratchet confirmed afternoon ($403.205 HWM / +$5.4135/sh stop lift intraday) + LLY massive HWM $1,275.88 lock-in (+$53.25/sh stop lift) = auto-mechanism performed as designed on winning positions during intraday volatility; no manual intervention required and no counterfactual tightening would have improved outcome. 10% trail delivered **~+$375.14 total locked-in protection** across session (10 sh V × $5.4135 + 4 sh LLY × $53.25).
+
+### Week-21 Fri execution-window gates:
+- **Fri 10/16 pre-close — PRIMARY WEEK-21 EXECUTION WINDOW** conditional on:
+  - **Gate 1 (position concentration):** 2 positions / 90.98% cash = room for 1-3 adds; condition RELEASED
+  - **Gate 2 (macro-tone):** post-PPI benign digest + minor Fri data = condition RELEASED pre-Fri-print
+  - **Gate 3 (lesson-#5 AI-cohort cap):** 0% AI exposure = full capacity available
+  - **Gate 4 (slot cap):** 3 of 3 slots available for Week 21
+  - **Gate 5 (fresh single-name shock):** monitor pre-mkt Fri + overnight gap scan
+  - **Gate 6 (Fri 10/16 macro overlay):** no binary data (minor); released
+  - **Gate 7 (holiday-week transition):** Mon 10/19 potentially closed = overnight gap risk Mon→Tue; conservative sizing bias
+  - **Gate 8 (candidate list refresh):** Week-21 primary deferral was PANW (half-size ~5 sh @ ~$380 ≈ $1,900 / ~1.9%) + V-add (deferred) + MSFT (now 2wk-boundary CLOSED post-Thu-close); **PANW remains primary Fri candidate** if gates clear
+- **Decision bias:** OPPORTUNISTIC-REBUILD given 0% AI exposure + Week-21 OP already locked at +0.593pp = can afford 1 conservative half-size add (PANW) to re-establish non-crowded-trade cohort diversification; OR DEFER to Week 22 if any gate fails. **Default-execute per lesson (vi) framework:** if PANW setup presents and no hard-defer trigger fires, half-size execution per lesson (xi) chase-out-ceiling-contingency as default (not contingency).
+
+### Hard-defer triggers (persist Fri):
+- Overnight gap-down >1.5% on futures Thu→Fri
+- 10Y spike >5.45% post-Fri-minor-macro
+- Fresh single-name negative on V, LLY, or PANW candidate
+- Fresh geopolitical shock
+- V or LLY cushion compresses to <3% Fri intraday = lesson #1 trim-arming threshold fire + lesson (viii) steep-compression alert
+
+### Weekly review trigger Fri close:
+Weekly review routine fires post-Fri-close to:
+1. Compile Week-21 final return vs SPY (Grade A-F)
+2. Review lesson-xiv candidate codification eligibility (CRWD + AVGO 2-of-2 + NVDA counterexample dataset)
+3. Refresh Week-22 watchlist + reset Week-22 counters
+4. Document lesson #2 cash-cushion WTD OP persistence (binary-regime defensive-bid framework validation extended to Week-21)
+5. Document lesson #4 pharma-defensive-bid regime 4-of-4 confirmation
+6. Set Mon 10/19 holiday-closed-market handling (if confirmed) or Mon routine schedule
