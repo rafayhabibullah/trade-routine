@@ -6272,3 +6272,44 @@ Pre-mkt overnight shock scan: **NO HARD-DEFER TRIGGERS FIRED** in standard-mode 
 6. Set Mon 10/19 pre-mkt routine schedule (normal trading day confirmed)
 7. Document LLY-GTC `8a75fc03` 90-day GTC expiration monitoring workflow for mid-December 2026 re-placement (lesson xiii)
 
+---
+
+## Tomorrow's Watch — 2026-10-19 (Monday — Week 22 Day 1 of 5; POST-CLOSE UPDATE Fri 10/16 4:00 PM ET; **WEEK-22 START + SPY REFERENCE LOG DAY + POST-RISK-OFF-WEEK DIGESTION + V/LLY BOTH INSIDE 2WK-EARNINGS-BOUNDARY FIRMLY**)
+
+### Context
+- Fri 10/16 close ended Week 21 FINAL with **Grade B/A**: portfolio **−0.211% WTD vs SPY −1.950% WTD = +1.739pp OP WTD** on a −1.95% risk-off SPY week. Massive OP recovery via cash-cushion + V+LLY defensive-bid delivery (lesson #2 + lesson #4 textbook). 3 mid-week mechanical stops (CRWD/AVGO/NVDA = total realized losses −$492.84) fully absorbed by structural alpha delivery.
+- **Week 22 slot cap RESETS to 0 of 3** at Mon 10/19 open. Current book: V (10 sh / +13.70% / 9.52% cushion) + LLY (4 sh / +8.09% / 8.65% cushion) + $90,644.76 cash (90.92% cash floor).
+- **Record fresh Week Start SPY reference at Mon open.** Fri 10/16 SPY close $763.335 is the WTD baseline for Week 22 unless Mon pre-mkt gaps materially.
+- **Mon 10/19 CONFIRMED NORMAL TRADING DAY** per 2026 NYSE holiday calendar (next holiday Thanksgiving Thu 11/26).
+- **Cumulative since launch (21 weeks):** −0.301% absolute vs SPY +3.269% = −3.570pp cumulative UND (gap narrowed +1.202pp Fri on risk-off OP).
+
+### Positions to Monitor
+- **V — Q4 FY26 EARNINGS TUE 10/27 AMC = 6 TDs OUT = INSIDE 2wk-boundary FIRMLY.** Fri close $402.61 (+$485.12 / +13.70% from entry $354.098). HWM $404.742 / stop $364.2678 (cushion **9.52%** / $38.3422/sh) — healthy. Ratchet #11 confirmed at Fri 9:35 AM ET open-print. Lesson #1 catalyst-proximity timer ARMED but cushion ≥ 3% threshold = DOES NOT FIRE. Not above +15% total P&L optional-tightening threshold. Monitor for pre-earnings cushion-compression on continued CPI/PPI growth-cohort rotation. GTC `a68cef47-542a-45d0-b585-37a6f1135f3f` expires 2027-01-07 21:00 UTC.
+- **LLY — Q3 CY26 EARNINGS THU 10/29 BMO = 9 TDs OUT = INSIDE 2wk-boundary FIRMLY.** Fri close $1,257.03 (+$376.12 / +8.09% from entry $1,163.00). HWM $1,275.88 (unchanged Thu basis — no new intraday high Fri) / stop $1,148.292 (cushion **8.65%** / $108.738/sh) — healthy. Lesson #1 catalyst-proximity timer ARMED but cushion ≥ 3% = DOES NOT FIRE. Monitor for pre-earnings cushion-compression. Note Thu 10/29 earnings day overlaps FOMC Oct 28-29 decision window — compound-binary gate state likely re-engages for LLY earnings day. GTC `8a75fc03-1746-4c05-b120-e4cc0d521f9a` expires 2026-12-31.
+
+### Macro Events Mon 10/19 and Early Week 22
+- **Mon 10/19:** NAHB Housing Market Index (10:00 AM ET) — tier-3 macro, no binary-macro-regime trigger
+- **Tue 10/20:** Housing Starts + Building Permits 8:30 AM ET (CPI/PPI echo tape-read for growth-cohort rotation sentiment); V reports Q4 FY26 AMC = earnings-day DO-NOT-BUY V (already held — monitor only); plus various mid-caps
+- **Thu 10/22:** Initial Jobless Claims + Existing Home Sales
+- **Fri 10/24:** Flash PMIs (Manufacturing + Services) — tier-2 macro, soft-data tape-read for growth-trend
+- **No FOMC event in Week 22;** next FOMC **Oct 28-29** (= Oct 29 2 PM ET decision = overlaps with LLY earnings day). Compound-binary gate state may re-engage for LLY Thu 10/29.
+- **Watch for post-CPI/PPI growth-cohort rotation continuation vs reversal** — Fri's SPY −1.09% session was continuation; a reversal day Mon would signal digestion complete and open the Week-22 primary execution window.
+
+### Earnings This Week (Do-Not-Buy / Earnings-Day Monitoring List)
+- No position overlaps on Mon 10/19 or early Tue 10/20 AM. V earnings TUE 10/27 AMC INSIDE 2wk — DO NOT BUY V this week (already held — monitor only); LLY earnings THU 10/29 BMO INSIDE 2wk — DO NOT BUY LLY this week (already held — monitor only).
+- Pre-mkt Mon refresh: full Week-22 earnings calendar; tier-1 names reporting Mon 10/19 to carry over (NFLX AMC = AI-adjacent tape-read; others minor).
+- Carry-over earnings-day consultation: TRV reported Fri 10/16 BMO (financials-cohort continuation — no position overlap).
+
+### Buy Candidates (Week 22 cap resets to 0 of 3)
+- **Primary consideration:** given 90.92% cash + 2-position book + V/LLY both INSIDE 2wk-boundary, Week-22 book-expansion window is TECHNICALLY OPEN but conditional on: (a) Fri risk-off digestion complete signal (Mon reversal day or Mon flat-to-mildly-green), (b) no fresh single-name shock, (c) macro-density assessment post-FOMC-Oct-28-29 setup.
+- **Preferred cohort per Week-21 lesson #2 + #4 regime validation:** Non-AI defensive-bid (financials, pharma, consumer staples, healthcare, payments-duopoly comps). AI-cohort/chip-cohort re-entries are permitted per lesson #5 cap (0 of 3 AI slot-headroom) but only after Fri's growth-cohort sell-off is digested cleanly on Mon-Tue tape.
+- **Watchlist to refresh pre-Mon:** MA (payments duopoly comp to V — but Q3 earnings 10/29 = INSIDE 2wk, DO-NOT-BUY this week); BRK.B (financials defensive-bid, no near-term earnings); JPM (post-Q3-earnings 10/14 BMO already clear, financials defensive-bid); UNH (healthcare defensive-bid, Q3 earnings Oct 23 Thu BMO = INSIDE 2wk, DO-NOT-BUY); PG (consumer staples defensive-bid, Q1 FY27 earnings 10/22 Wed BMO = INSIDE 2wk, DO-NOT-BUY); JNJ (defensive-bid, Q3 reported 10/14 clear); PANW (AI-adjacent cybersecurity — chase-out ceiling review per lesson vi + xi); AVGO/NVDA/CRWD re-entry candidates (post-stop cool-off period per lesson, re-evaluate thesis freshness post post-CPI/PPI digest).
+- **CRITICAL EARNINGS DENSITY WEEK 22:** V/LLY both earnings-day inside 2wk + many S&P names reporting Q3 → earnings-day DO-NOT-BUY list likely large; prefer execution on clean non-earnings-week names (e.g., BRK.B, JPM).
+
+### Thesis Notes Based on Fri's Price Action
+- **Lesson #2 cash-cushion-as-cushion delivered +1.144pp OP on Fri's −1.09% SPY risk-off session** — exactly the regime structural cash cushion is designed to absorb. Week 21 FINAL +1.739pp WTD OP on −1.95% SPY week = cash cushion fully validated per 21-week rolling framework (lesson #7 revised framework: NET positive across adjacent binary-regime pairs when the up-tape carries defensive-bid character OR the down-tape delivers alpha).
+- **Lesson #4 non-AI defensive-bid regime validated THIRD regime type this week:** (a) hot-CPI growth-cohort rotation Wed, (b) hot-PPI growth-cohort continuation Thu, (c) post-CPI/PPI risk-off continuation Fri — all three days V + LLY delivered green vs cohort red. The structural non-AI defensive book role has now been validated across the full CPI/PPI binary-regime hot-tape week. Lesson #4 regime scope now expanded to FOUR confirmed regime types (adding "post-binary-macro-hot-print risk-off continuation" to prior three).
+- **Lesson #3 (do NOT tighten manually) continues to prove right:** V has ratcheted 11 times without any manual tightening; mechanical trail is optimally tight. LLY also fully auto-mechanism-driven. 11 V ratchets over 68 TDs = ~1 ratchet per 6 TDs = healthy upward drift absorbed cleanly.
+- **Lesson-xiv candidate** (sub-2%-cushion + 0-TD binary macro = gap-through pattern) stands at **2-of-2 confirmed** (CRWD/AVGO) with **1 counterexample** (NVDA favorable slip in same session as AVGO). Weekly review next Fri will codify or defer. Codification question: is the pattern binary-macro-general, CPI-specific vs PPI-specific, chip-cohort-specific, or merely tail-distribution risk?
+- **Week 22 posture:** cash preservation default (90.92% cash is structural alpha source on risk-off continuation); book expansion gated on digestion-complete signal + non-AI defensive-bid candidate availability + earnings-density week-navigation. **No forcing-function to deploy.** V/LLY earnings-day sessions (10/27, 10/29) will dominate Week-22 attention; book expansion to 3-4 positions is nice-to-have, not must-have.
+
