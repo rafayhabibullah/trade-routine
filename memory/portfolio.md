@@ -1,10 +1,17 @@
 # Portfolio
 
-**Last Updated:** 2026-10-16 CLOSE 4:00 PM ET / 22:00 CEST / 20:00 UTC — Friday; Week 21 Day 5 of 5 CLOSE = **WEEK 21 FINAL — RISK-OFF SPY DAY ABSORBED CLEANLY VIA CASH-CUSHION + V/LLY DEFENSIVE-BID DELIVERY**: SPY close **$763.335** (−1.093% DTD vs Thu $771.77 = post-CPI/PPI growth-cohort sell-off continuation); portfolio close **$99,698.98** vs Day Open **$99,648.70** = **+$50.28 / +0.0505% DTD = OP SPY by +1.144pp DTD** on V +0.715% + LLY +0.433% both delivering non-cohort defensive-bid continuation on risk-off tape (lesson #2 + lesson #4 textbook execution); V HWM ratchet #11 **$403.205 → $404.742** / stop $362.8845 → **$364.2678 = +$1.3833/sh at Fri 9:35 AM ET open-print** (updated_at 2026-10-16T13:35:46 UTC); LLY HWM unchanged **$1,275.88** / stop **$1,148.292** (no new intraday high — close $1,257.03 is $18.85/sh below HWM); book **2 positions (V $4,026.10 + LLY $5,028.12) + $90,644.76 cash = 90.92% cash**; **Week 21 FINAL: portfolio −0.211% vs SPY −1.950% = +1.739pp OP WTD = Grade B/A** (massive OP on a −1.95% risk-off SPY week via cash cushion + V+LLY defensive-bid delivery; 3 mechanical stops this week — CRWD/AVGO/NVDA — total realized losses −$492.84); 2 trailing stops verified live & GTC post-close; lesson-xiv candidate stays at 2-of-2 confirmed with NVDA counterexample pending Week-22 weekly-review codification
+**Last Updated:** 2026-10-16 WEEKLY REVIEW POST-CLOSE 4:00 PM ET / 22:00 CEST / 20:00 UTC — Friday; Week 21 Day 5 of 5 FINAL + Week 22 Start Counters Reset **POST-WEEKLY-REVIEW ROUTINE**: Week 21 final — SPY close **$763.335** vs Week Start $778.51 = −1.949%; portfolio close **$99,698.98** vs Week Start $99,909.73 = **−0.211% = +1.738pp OP vs SPY = Grade B** = LARGEST weekly OP since Week 6's +2.46pp; book **2 positions (V $4,026.10 + LLY $5,028.12 = $9,054.22) + $90,644.76 cash = 90.92% cash**; V HWM $404.742 / stop $364.2678 (fresh Fri intraday HWM ratchet #11 captured); LLY HWM $1,275.88 / stop $1,148.292 (Thu intraday HWM ratchet carried); 2 trailing stops verified live & GTC post-close; **lesson (xiv) codified** = 0-1 TD binary-macro gap-through risk overrides lesson-xii non-catalyst resolution when sub-2% cushion into release (2-of-3 confirmed Week 21: CRWD CPI gap-through + AVGO PPI gap-through; NVDA PPI counterexample favorable-slip); Week 22 Start Counters reset for 10/19-10/23)
 **Account:** Alpaca Paper Trading
 **Endpoint:** https://paper-api.alpaca.markets
 
-## Week 21 Start Counters (reset by weekly-review routine 2026-10-09 post-close; Day-5 Fri 10/16 CLOSE updated = **WEEK 21 FINAL**)
+## Week 22 Start Counters (reset by weekly-review routine 2026-10-16 post-close)
+- **Week Start Value:** **$99,698.98** (Alpaca portfolio_value Fri 10/16 close reference)
+- **Week Start SPY:** **$763.335** (Alpaca IEX daily bar Fri 10/16 close; Mon 10/19 reference)
+- **New Positions This Week:** **0 of 3** (cap resets Mon 10/19)
+- **Week 21 Final Return:** −0.211% vs SPY −1.949% = **+1.738pp = Grade B**
+- **Cumulative Since Launch (21 weeks):** Portfolio Fri 10/16 close $99,698.98 (**−0.301% absolute from $100,000**) vs SPY from $739.17 (5/15 launch) → $763.335 close = **+3.269%** = **−3.57pp cumulative UND vs SPY since launch** (narrowed from −5.41pp at Fri 10/9 close on Week 21's +1.738pp OP contribution)
+
+## Week 21 Start Counters (archived; replaced by Week 22 Start Counters above; reset by weekly-review routine 2026-10-09 post-close; Day-5 Fri 10/16 CLOSE updated = **WEEK 21 FINAL**)
 - **Week Start Value:** **$99,909.73** (Alpaca portfolio_value Fri 10/9 close reference)
 - **Week Start SPY:** **$778.51** (Alpaca IEX daily bar Fri 10/9 close; Mon 10/12 reference)
 - **Fri 10/16 Day-5 Open:** **$99,648.70** (Alpaca last_equity = Thu 10/15 close; balance_asof 2026-10-15 ✓ clean Thu rollover). Daily-loss cap trigger today: **$96,659.24** ($99,648.70 × 0.97). Close equity $99,698.98 = **+$50.28 / +0.0505% DTD** = cleared cap by ~304 bps of headroom.
