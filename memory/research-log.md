@@ -6468,3 +6468,42 @@ Pre-trade guardrail check for PANW half-size (~5 sh @ ~$345-355):
 - **FOMC Oct 28-29 Wed/Thu:** compound-binary gate state re-engages for LLY earnings-day Thu 10/29
 - **Hard-defer triggers (persist Mon-Fri Week 22):** overnight gap-down >1.5% on futures; 10Y spike >5.45%; V or LLY cushion compresses to <3% intraday = lesson #1 trim-arming threshold fire; PANW (if filled) sub-5% cushion = provisional lesson (viii) alert; fresh single-name negative on any held position; mega-cap-AI earnings-cascade negative-tape sell-off
 
+## Tomorrow's Watch — 2026-10-20 (Tuesday Week 22 Day 2 of 5; POST-CLOSE UPDATE Mon 10/19 4:00 PM ET; HOUSING STARTS/BUILDING PERMITS 8:30 AM ET TIER-2 MACRO + NFLX Q3 AMC 4:00-4:45 PM ET MEGA-CAP STREAMING EARNINGS + PRE-TSLA/META-WED PRE-POSITIONING)
+
+**Mon 10/19 close recap:**
+- Portfolio close **$99,635.09** vs Day Open $99,698.98 = **−$63.89 / −0.0641% DTD**; SPY close $766.60 vs Fri close $763.335 = **+0.428% DTD**; **−0.492pp UND DTD = Day 1 Grade C** (lesson #2 cash-cushion UND regime on UP-tape day).
+- V close **$402.8333** (+0.055% / +$2.233 on 10 sh); P&L +$487.35 / +13.76% = fresh HIGH since launch; HWM $404.742 unchanged (close $1.909/sh below HWM); cushion 9.574%.
+- LLY close **$1,240.50** (−1.315% / −$66.12 on 4 sh); P&L +$310.00 / +6.664% (pharma defensive-bid give-back on growth-cohort rebound); HWM $1,275.88 unchanged; cushion 7.433%.
+- Book stable: V $4,028.33 + LLY $4,962.00 = $8,990.33 (9.02%) + cash $90,644.76 (90.98%).
+- **No trades Mon 10/19** — PANW half-size CONDITIONAL mid-session window did not clear; Week 22 slot cap **0 of 3 used entering Tue**.
+- Trailing stops both verified live & GTC post-close; no HWM ratchets Mon on either position.
+- Cumulative since launch: Portfolio −0.365% abs vs SPY +3.711% = **−4.076pp UND cumulative** (widened from −3.570pp Fri close by Mon's −0.492pp UND).
+
+**Positions to monitor Tue 10/20:**
+- **V (10 sh, +13.76% P&L close):** Q4 FY26 Tue 10/27 AMC = **5 TDs from Tue = INSIDE 2wk-boundary DEEPER FIRMLY**; lesson #1 timer ARMED but DOES NOT FIRE at cushion 9.574% ≥ 3%; **#12 HWM auto-ratchet requires intraday print >$404.742**; pre-earnings cushion-compression trajectory watch (options-implied ±4.3% / ±$17 into print).
+- **LLY (4 sh, +6.664% P&L close):** Q3 CY26 Thu 10/29 BMO = **7 TDs from Tue = INSIDE 2wk-boundary DEEPER FIRMLY**; lesson #1 timer ARMED but DOES NOT FIRE at cushion 7.433% ≥ 3%; **next HWM ratchet requires intraday print >$1,275.88**; monitor pharma defensive-bid cohort regime continuation vs give-back.
+- **PANW re-eval:** Mon-close signal + Tue broader-tape digest; chase-out ceiling moves with Mon close reference; cybersecurity-cohort tape tone post-NOW/ANET read.
+
+**Tue 10/20 macro + earnings:**
+- Housing Starts + Building Permits 8:30 AM ET = tier-2 macro (standalone move risk low)
+- **NFLX Q3 AMC 4:00-4:45 PM ET = streaming-cohort tape-tone-setter** + cross-asset tape read into TSLA/META Wed
+- Mon close digest + NFLX pre-print positioning dominate Tue trading
+- BAC, GS, JNJ, UNH residual earnings-day DO-NOT-BUY cross-check (if Q3 reports fall Tue — verify pre-mkt)
+
+**Thesis notes based on Mon close state:**
+- **Mon tape delivered digestion-complete signal** (SPY +0.428% DTD = measured recovery from Fri risk-off, not a snap-back); PANW CONDITIONAL window did not fire = Tue re-eval window opens if cohort stabilization continues.
+- **Lesson #2 cash-cushion UND on UP-tape day** (expected trade-off; alpha delivery regime not fired Mon); **next OP windows = DOWN-tape or defensive-bid-regime days** later this week (pre-earnings positioning Thu/Fri or FOMC Oct 28-29 next week).
+- **LLY give-back** on growth-cohort rebound Mon is noise — cushion 7.433% ≥ 3% threshold = lesson #1 does not fire; monitor Tue for continuation (defensive-bid cohort rebuild) vs further give-back (watch 3% cushion threshold).
+- **V nearly flat Mon** with payments-cohort rate-agnostic bid continuing; Q4 FY26 Tue 10/27 AMC = 5 TDs out at Tue — pre-earnings crowded-trade cushion-compression monitoring active per lesson #1 catalyst-proximity-split.
+- **Lesson (xiv) candidate**: no held position sub-2% + no binary macro Tue = framework not firing; next test window FOMC Oct 28-29 Wed/Thu (into LLY earnings).
+- **Mega-cap-earnings density**: NFLX Tue AMC + TSLA/META Wed + PG Thu + GOOGL Fri (est) = Week 22 earnings-density risk cohort tape-tone-setter signal; **book expansion gate review** — PANW half-size candidacy sustained but may defer further pending NFLX/TSLA/META/GOOGL cohort reads.
+
+**Tue action point sequence:**
+1. **Pre-mkt 6:00-9:30 AM ET:** passive monitoring; verify Alpaca trailing stops V + LLY live & GTC; read Housing Starts/Building Permits 8:30 AM ET; monitor overnight gap/futures continuation; refresh PANW live quote closer to open; check NFLX pre-print IV spike for cross-asset streaming-cohort read.
+2. **Market open 9:30 AM ET:** Record Day Open Value from Alpaca last_equity + daily-loss cap trigger; V #12 HWM auto-ratchet open-print verification (requires print >$404.742); LLY ratchet watch (requires print >$1,275.88); PANW open-print read for continuation of Mon stabilization signal.
+3. **Mid-session 10:30 AM-3:30 PM ET:** PANW decision window reopens if Mon cohort stabilization confirms Tue; book expansion gate review (NFLX pre-print positioning + cohort tape); daily-loss cap monitoring at Tue trigger.
+4. **Pre-NFLX positioning 3:00-4:00 PM ET:** streaming-cohort tape monitoring; any book-level derisking into Tuesday close (likely none at current cushion levels).
+5. **4:00 PM ET close:** Week 22 Day 2 close performance vs SPY; NFLX Q3 AMC print monitoring 4:00-4:45 PM ET for Wed open positioning.
+
+**Hard-defer triggers (persist Tue):** overnight gap-down >1.5% on futures; 10Y spike >5.45%; V or LLY cushion compresses to <3% intraday = lesson #1 trim-arming threshold fire; PANW (if executed Tue) sub-5% cushion; fresh single-name negative on V or LLY; NFLX pre-print cohort collapse; mega-cap-AI earnings-cascade negative-tape sell-off.
+
