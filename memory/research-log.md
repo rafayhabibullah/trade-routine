@@ -6813,3 +6813,49 @@ Pre-trade guardrail check (preserved for Thu/Fri SNOW half-size ~5-6 sh @ ~$300-
 
 **Hard-defer triggers (persist Wed-Fri Week 22):** overnight gap-down >1.5% on futures; 10Y spike >5.45%; V or LLY cushion compresses <3% intraday = lesson #1 trim-arming threshold fire; fresh single-name negative on held position; mega-cap-AI earnings-cascade (TSLA/META/IBM Wed AMC) negative-tape sell-off → pre-mkt Thu Nasdaq futures <−1.0% gap-down; SNOW opens −2%+ pre-Thu or fresh SNOW single-name negative surfaces → DEFER SNOW to Fri or Week 23+; AI-valuation-overhang sell-off continuation in SaaS cohort → DEFER SNOW.
 
+## Tomorrow's Watch — 2026-10-22 (Thursday Week 22 Day 4 of 5 — **POST-TSLA/META/IBM AMC MEGA-CAP-AI COHORT CASCADE DIGESTION DAY + PG Q1 FY27 BMO + UNH Q3 BMO defensive-cohort reads + SNOW CONDITIONAL PRIMARY EXECUTION WINDOW gated on cascade digestion net-cohort-positive + SNOW price stabilization in $300-325 band**)
+
+**Wed 10/21 close recap (recorded 20:12 UTC post-close):**
+- SPY $773.13 close (+0.525% DTD risk-ON up-tape; Benzinga sector read "cyclicals top; defensives trail" aligned with LLY −1.006% give-back)
+- Portfolio $99,806.26 close (−0.0389% DTD / −$38.84) = **−0.564pp UND vs SPY** on structural cash-cushion UND regime (lesson #2 textbook)
+- V +0.315% (+$12.80 on 10 sh); **HWM RATCHET #13 confirmed at 12:18 PM ET** $408.59 → $409.5299; stop lifted $367.731 → $368.57691 (+$0.846/sh locked); P&L **+15.18%** = **crossed +15% P&L optional-tightening threshold** (DEFAULT 10% TRAIL RETAINED per lesson #3)
+- LLY −1.006% (−$51.64 on 4 sh) = cohort-rotation give-back from Tue +3.493% record-high move; **HWM UNCHANGED** $1,311.6957 (no Wed intraday print exceeded); cushion compressed from 8.03% → 7.10% but still ≥ 3% threshold = lesson #1 timer DOES NOT FIRE
+- Book: 2 positions (V $4,078.50 + LLY $5,083.00 = $9,161.50) + $90,644.76 cash = 90.82% cash
+- Week 22 slot cap: **0 of 3 used** (clean Mon + Tue + Wed = compound-defer chain)
+- WTD cumulative: Mon −0.49pp + Tue −0.114pp + Wed −0.564pp = **−1.176pp UND WTD** entering Day 4 (cash-cushion UND regime deepening Week 22)
+
+**Positions to monitor (both HWM/stop states post-Wed close):**
+- **V (10 sh, +15.18% P&L Wed close @ $407.85; +$537.52 unrealized)** — **HWM $409.5299 / stop $368.57691 / cushion 9.63%** = healthy entering Thu after RATCHET #13 at Wed 12:18 PM ET; realized-if-triggered floor +$144.79 / +4.09% = cost-basis-protected AND profitable. **Q4 FY26 Tue 10/27 AMC = 3 TDs from Thu = INSIDE 2wk-boundary DEEPER DEEPER FIRMLY**; lesson #1 timer ARMED FIRMLY DEEPER DEEPER but cushion ≥ 3% = DOES NOT FIRE. Next HWM ratchet trigger requires Thu intraday print >$409.5299. **+15% P&L optional-tightening threshold crossed — 10% trail RETAINED per lesson #3**; monitor for cushion compression on pre-earnings crowded-trade unwind (lesson #1 pre-earnings cushion-compression discretionary-trim framework arms IF cushion compresses sub-3% at 3 TDs INSIDE 2wk).
+- **LLY (4 sh, +9.265% P&L Wed close @ $1,270.75; +$431.00 unrealized)** — **HWM $1,311.6957 / stop $1,180.52613 / cushion 7.10%** = healthy entering Thu despite Wed cohort-rotation give-back; realized-if-triggered floor +$70.10 / +1.51% = cost-basis-protected AND profitable per Tue-MASSIVE-ratchet basis. **Q3 CY26 Thu 10/29 BMO = 5 TDs from Thu = INSIDE 2wk-boundary DEEPER DEEPER FIRMLY**; lesson #1 timer ARMED FIRMLY DEEPER DEEPER but cushion ≥ 3% = DOES NOT FIRE. Next HWM ratchet trigger requires Thu intraday print >$1,311.6957 = ambitious given Wed give-back; monitor for continued cohort-rotation give-back vs defensive-bid regime re-engagement signal.
+
+**Thu 10/22 macro + earnings:**
+- Initial Jobless Claims + Existing Home Sales (September) 8:30 AM ET — tier-2 macro soft-data; no binary-regime fire
+- **PG Q1 FY27 BMO + UNH Q3 BMO** = consumer-staples + healthcare defensive-cohort reads (post-cascade digestion input)
+- **Post-TSLA/META/IBM AMC digestion dominates Thu tape** — key tape-tone-setter for post-cascade cohort read + Thu/Fri execution window
+
+**Thesis notes based on Wed close state (pending post-cascade digestion read):**
+- **Wed TSLA + META + IBM AMC earnings cascade (4:00-5:30 PM ET) pending** — post-close digestion sets Thu pre-open positioning; cross-asset signal into SNOW conditional window
+- **Lesson #2 cash-cushion** structural trade-off: WTD −1.176pp UND cumulative deepens on Wed +0.525% SPY up-tape; delivery expected on next DOWN-tape or defensive-bid-regime day; Week 21 +1.738pp OP alpha retention trajectory: 65.1% Day 2 → 32.3% Day 3 = alpha give-back trajectory watch
+- **Lesson #4 defensive-bid regime** 7-of-8 preliminary (Wed LLY −1.006% = cohort-rotation one-day signal, not thesis-break); monitor Thu post-cascade for regime re-engagement
+- **Lesson #5 ≤15% combined-AI cap** = maximum headroom (0% AI); SNOW half-size addition would be ~1.95% exposure = well below cap maximum, non-mega-cap-AI SaaS adjacent
+- **Lesson (vi) HARD-AUTOMATED default-execute** = NOT ACTIVE Thu on PANW (hard-defer trigger terminated the deferral chain); SNOW will not be subject to lesson (vi) escalation given it is a Week-22 primary candidate first-use
+- **Lesson (xiv) candidate** (sub-2%-cushion + 0-TD binary macro = gap-through pattern): no held position sub-2% + no binary this week = framework not firing Thu; next test window FOMC Oct 28-29 Wed/Thu Week 23 (into LLY earnings)
+
+**Week 22 outlook — DENSITY-APEX-DEFER-OR-ADD-BIASED (updated Wed close):**
+- **Mon 10/19 CLOSED:** SPY $766.60 / portfolio $99,635.32 / UND −0.49pp; PANW deferred (muted bounce)
+- **Tue 10/20 CLOSED:** SPY $769.09 / portfolio $99,845.10 / UND −0.114pp; PANW deferred (zero-day vuln surfaced); V+LLY HWM ratchets locked (V #12 + LLY largest-since-inception); LLY intraday record high $1,311.21
+- **Wed 10/21 CLOSED:** SPY $773.13 / portfolio $99,806.26 / UND −0.564pp (deepening WTD UND); V HWM RATCHET #13 at 12:18 PM ET (crossed +15% P&L threshold / retain 10% trail per lesson #3); LLY −1.006% cohort-rotation give-back; TSLA/META/IBM AMC cascade pending
+- **Thu 10/22 TOMORROW:** PG Q1 FY27 + UNH Q3 BMO defensive-cohort reads; **SNOW CONDITIONAL PRIMARY WINDOW** gated on Wed cascade digestion net-cohort-positive AND SNOW price stabilization/consolidation in $300-325 band; Initial Jobless Claims + Existing Home Sales 8:30 AM ET tier-2 macro
+- **Fri 10/23:** AXP BMO + GOOGL Q3 CY26 AMC (est unconfirmed); SNOW secondary window if Thu deferred
+- **Tue 10/27:** V Q4 FY26 AMC = CRITICAL held-position earnings print; options-implied ±4.27%; **3 TDs from Thu INSIDE 2wk-boundary DEEPER DEEPER**
+- **Thu 10/29:** LLY Q3 CY26 BMO = CRITICAL held-position + MSFT Q1 FY27 AMC + MA Q3 2026 + FOMC decision overlap; **5 TDs from Thu INSIDE 2wk-boundary DEEPER DEEPER**
+- **Wed/Thu 10/28-10/29:** FOMC Oct decision + presser → compound-binary gate state re-engages into LLY earnings
+
+**Hard-defer triggers (persist Thu-Fri Week 22):** overnight gap-down >1.5% on futures; 10Y spike >5.45%; V or LLY cushion compresses <3% intraday = lesson #1 trim-arming threshold fire; fresh single-name negative on held position; mega-cap-AI earnings-cascade (TSLA/META/IBM Wed AMC) negative-tape sell-off → pre-mkt Thu Nasdaq futures <−1.0% gap-down → DEFER SNOW to Fri or Week 23+; SNOW opens −2%+ pre-Thu or fresh SNOW single-name negative surfaces → DEFER SNOW to Fri or Week 23+; AI-valuation-overhang sell-off continuation in SaaS cohort → DEFER SNOW.
+
+**Thesis notes based on today's price action (Wed 10/21):**
+- **V HWM ratchet #13 at +15% P&L crossing** = payments-cohort structural bid continuing to deliver despite Wed Benzinga "defensives trail" cyclicals-rotation theme (V ambiguously-cohorted — reads as consumer-finance adjacent, caught moderate bid). Lesson #3 absolute retention through +15% P&L optional-tightening threshold = retire framing of discretionary-tighten on same-day HWM events; mechanical trail optimally tight for Wed state.
+- **LLY −1.006% give-back from Tue record-high = ONE-DAY cohort-rotation on cyclicals-leading pre-cascade regime overlay, NOT thesis-break** — Tue +3.493% record-high was 6-of-6 defensive-bid regime path validation, Wed −1.006% is modest reversion within normal variance envelope; monitor Thu post-cascade for regime re-engagement signal (if PG + UNH BMO defensive-cohort reads land strong = re-engagement; if cascade digestion drives Nasdaq futures >+1.0% pre-Thu with defensives still rotating out = continued cohort-rotation watch).
+- **Cumulative since launch Wed close:** portfolio $99,806.26 (−0.194% absolute) vs SPY $773.13 (+4.594%) = **−4.788pp cumulative UND** (widened from Tue −4.202pp on Wed −0.564pp UND = structural cash-cushion UND on UP-tape per lesson #2; 32.3% retention of Week 21's +1.738pp OP alpha net Mon+Tue+Wed = alpha give-back trajectory watch).
+- **TSLA + META + IBM AMC cascade result pending** = key input into Thu pre-mkt routine thesis-formation; outcome will drive: (a) SNOW conditional execution window gate state; (b) broader-tape cohort-regime read (growth-leading continuation OR defensive-bid re-engagement OR mixed-digestion); (c) V + LLY pre-earnings cushion-compression trajectory watch into V 10/27 AMC (3 TDs from Thu).
+
