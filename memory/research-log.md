@@ -7024,3 +7024,46 @@ Pre-trade guardrail check (preserved for Fri SNOW half-size ~5-6 sh @ ~$310-330)
 - **Wed/Thu 10/28-10/29:** FOMC Oct decision + presser → compound-binary gate state re-engages into LLY earnings
 
 **Hard-defer triggers (persist Thu-Fri Week 22):** overnight gap-down >1.5% on futures; 10Y spike >5.45%; V or LLY cushion compresses <3% intraday = lesson #1 trim-arming threshold fire; fresh single-name negative on held position; cascade re-digestion sour → Nasdaq futures <−1.0% pre-Fri gap-down → DEFER SNOW to Week 23+; SNOW opens −2%+ pre-Fri or fresh SNOW single-name negative surfaces → DEFER SNOW to Week 23+; AI-valuation-overhang sell-off continuation in SaaS cohort → DEFER SNOW; GOOGL AMC Fri reports negative-tape sell-off → re-evaluate SNOW gate for Fri late-day OR Week 23+.
+
+## Tomorrow's Watch — 2026-10-23 (updated Thu 10/22 post-close; Friday Week 22 Day 5 of 5 = **WEEK-CLOSE + WEEKLY-REVIEW TRIGGER DAY + AXP BMO + GOOGL Q3 CY26 AMC (unconfirmed 10/23 OR 10/28) + S&P GLOBAL FLASH PMIs 9:45 AM ET TIER-2 MACRO + SNOW PRIMARY CONDITIONAL EXECUTION WINDOW ARMED post Thu close gates CLEARED materially**)
+
+**Thu 10/22 close recap (feeds Fri setup):**
+- Portfolio Thu close **$100,002.42** vs Day Open $99,806.26 = **+$196.16 / +0.1965% DTD**. **PORTFOLIO CROSSED ABOVE $100,000 FOR THE FIRST TIME SINCE LAUNCH** (+$2.42 absolute / +0.00242% cumulative = GREEN since inception first-time).
+- SPY Thu close **$764.03** vs Wed $773.13 = **−1.177% DTD** on post-cascade digestion sell-off (META operating income −37% YoY margin-pressure read drove cohort rotation).
+- **Portfolio DTD +0.1965% vs SPY −1.177% = +1.374pp OP DTD** = **TEXTBOOK LESSON #2 CASH-CUSHION DELIVERY ON DOWN-TAPE DAY** (highest single-day OP since early July).
+- V +16.66% / LLY +12.355% — **both fresh HIGHS since launch**; both delivered green on SPY DOWN-tape = lesson #4 defensive-bid regime 8-of-9 FIRMLY confirmed (V +1.285% / LLY +2.828%).
+- V HWM **DOUBLE-RATCHET #14+#15** Thu intraday (11:27 AM ET + 12:32 PM ET; combined +$5.07/sh HWM / +$4.56/sh stop lift from Wed basis to HWM $414.60 / stop $373.14).
+- LLY HWM **MASSIVE-RATCHET** Thu 11:25 AM ET on pharma defensive-bid full re-engagement (+$8.56/sh stop lift to HWM $1,321.21 / stop $1,189.089 — largest-ever LLY stop basis on 4 sh).
+- Week 22 WTD **FLIPPED from −1.176pp UND entering Day 4 to +0.2133pp OP WTD** on single-day lesson #2 delivery.
+- Cumulative since launch **narrowed from Wed −4.788pp to Thu −3.360pp** on +1.428pp OP Thu = **largest single-day cumulative-UND narrowing event since Week 7**.
+
+**Positions to monitor (Fri 10/23 open):**
+- **V (10 sh, +16.66% P&L close, HWM $414.60 / stop $373.14)** — **Q4 FY26 Tue 10/27 AMC CONFIRMED = 2 TDs from Fri = INSIDE 2wk-boundary DEEPER DEEPER DEEPER FIRMLY**; lesson #1 timer FULLY ARMED but DOES NOT FIRE at cushion 9.67% ≥3%; pre-earnings cushion-compression monitoring active heading into Mon pre-report day; further ratchet watch requires print >$414.60 Fri intraday (plausible on continued payments-defensive-bid regime continuation).
+- **LLY (4 sh, +12.355% P&L close, HWM $1,321.21 / stop $1,189.089)** — **Q3 CY26 Thu 10/29 BMO CONFIRMED = 4 TDs from Fri = INSIDE 2wk-boundary DEEPER DEEPER DEEPER FIRMLY**; lesson #1 timer FULLY ARMED but DOES NOT FIRE at cushion 9.00% ≥3%; FOMC Oct 28-29 overlap compound-binary gate state Week 23; further ratchet watch requires print >$1,321.21 Fri intraday (ambitious after Thu's +2.828% magnitude but plausible on continued regime re-engagement).
+- **SNOW (candidate — primary CONDITIONAL BUY ARMED)** — Fri 10/23 open execution window gates **MATERIALLY CLEARED** per Thu close conditions: (a) cascade digestion net-positive-mixed (TSLA soared + IBM beat/raised + META margin pressure digested); (b) no fresh single-name negative on SNOW; (c) SNOW stabilization within $300-325 target band through Thu close (actual Thu close TBD on Fri pre-mkt read). Fri open-print continuation remains the gating variable; GOOGL AMC Fri (if confirmed) is an incremental risk-tape read.
+
+**Macro events Fri 10/23 tomorrow:**
+- S&P Global Flash PMIs — Manufacturing + Services (October) 9:45 AM ET — tier-2 macro soft-data growth-trend tape-read; no binary-regime fire
+- **AXP BMO** = payments-cohort V-adjacent cross-asset read (positive AXP tape = positive V-adjacent read)
+- **GOOGL Q3 CY26 AMC** (unconfirmed 10/23 OR 10/28) — mega-cap-AI tape-tone-setter; lesson #5 cohort-reentry caution; GOOGL negative tape could re-pivot cascade digestion risk-off
+- Week-close + weekly-review trigger day execution
+
+**Thesis notes based on Thu close action:**
+- **Lesson #2 cash-cushion TEXTBOOK DELIVERY TODAY** — Days 1+2+3 UND cumulative resolved to Day-4 OP delivery per rolling-4-week-horizon framework; the structural cash-cushion UND trade-off on UP-tapes paid off exactly as expected on the first DOWN-tape day (SPY −1.177% Thu). Lesson #2 single-day +1.374pp OP on a −1.177% SPY day = highest single-day OP since early July.
+- **Lesson #4 defensive-bid regime 8-of-9 FIRMLY CONFIRMED** — simultaneous V +1.285% AND LLY +2.828% on SPY −1.177% DOWN-tape = both held positions delivered defensive-bid green = **dual-regime signal**. Wed −1.006% LLY give-back was ONE-DAY cohort-rotation on cyclicals-leading theme (not thesis-break); Thu's full re-engagement confirms the regime is intact.
+- **Lesson #3 default 10% trail dominates across V DOUBLE-RATCHET session** — V crossed +16% P&L fresh HIGH; mechanical trail executed optimally without agent intervention; DOUBLE-RATCHET #14+#15 Thu intraday locked +$5.07/sh HWM lift + $4.56309/sh stop lift from Wed basis. Lesson #3-refinement: do NOT tighten on same-day double-ratchet event (would set up early-exit risk on next session consolidation).
+- **Lesson #5 ≤15% combined-AI cap** = 0% AI-cohort exposure = maximum headroom for Fri SNOW half-size add (~1.6-1.98% exposure as non-mega-cap-AI SaaS = well below cap).
+- **Lesson (vi) HARD-AUTOMATED default-execute** NOT ACTIVE on SNOW (primary candidate first-use; PANW chain terminated by hard-defer trigger).
+- **Lesson (xiv) candidate** (sub-2%-cushion + 0-TD binary macro = gap-through pattern): NOT firing this week — V 9.67% / LLY 9.00% cushions + no binary Fri = framework not firing; next test window FOMC Oct 28-29 Wed/Thu Week 23 (overlaps LLY earnings Thu 10/29).
+
+**Week 22 outlook — POST-DOWN-TAPE-DEFENSIVE-BID-DELIVERY (updated Thu close):**
+- **Mon 10/19 CLOSED:** SPY $766.60 / portfolio $99,635.32 / UND −0.49pp; PANW deferred (muted bounce)
+- **Tue 10/20 CLOSED:** SPY $769.09 / portfolio $99,845.10 / UND −0.114pp; V+LLY HWM ratchets locked (V #12 + LLY largest-since-inception); LLY intraday record high $1,311.21
+- **Wed 10/21 CLOSED:** SPY $773.13 / portfolio $99,806.26 / UND −0.564pp (WTD deepening UND); V HWM RATCHET #13 at 12:18 PM ET (crossed +15% P&L threshold / retain 10% trail per lesson #3); LLY −1.006% cohort-rotation give-back; TSLA/META/IBM AMC cascade DIGESTED NET-POSITIVE MIXED
+- **Thu 10/22 CLOSED:** SPY $764.03 / portfolio **$100,002.42** / **+1.374pp OP** = TEXTBOOK LESSON #2 DOWN-TAPE DELIVERY; **PORTFOLIO CROSSED $100K FIRST TIME SINCE LAUNCH**; V DOUBLE-RATCHET #14+#15 (+$5.07/sh HWM / +$4.56/sh stop) + LLY MASSIVE-RATCHET (+$8.56/sh stop); both fresh HIGHS (V +16.66% / LLY +12.355%); **WTD flipped from −1.176pp UND to +0.2133pp OP**
+- **Fri 10/23 TOMORROW:** AXP BMO + GOOGL Q3 CY26 AMC (unconfirmed) + S&P Global Flash PMIs 9:45 AM ET tier-2 macro; **SNOW PRIMARY CONDITIONAL EXECUTION WINDOW ARMED** post Thu close gates MATERIALLY CLEARED (cascade digestion net-positive-mixed + no fresh single-name negative on SNOW); gating remaining variables = SNOW Thu close within $300-325 band + Fri open-print continuation + no fresh single-name negative Fri pre-mkt; Week-close + weekly-review trigger day
+- **Tue 10/27:** V Q4 FY26 AMC = CRITICAL held-position earnings print; options-implied ±2.5-2.8%; **1 TD from Fri INSIDE 2wk-boundary DEEPER DEEPER DEEPER DEEPER FIRMLY**
+- **Thu 10/29:** LLY Q3 CY26 BMO = CRITICAL held-position + MSFT Q1 FY27 AMC + MA Q3 2026 + FOMC decision Wed-Thu overlap
+- **Wed/Thu 10/28-10/29:** FOMC Oct decision + presser → compound-binary gate state re-engages into LLY earnings
+
+**Hard-defer triggers (persist Fri Week 22 Day 5):** overnight gap-down >1.5% on futures; 10Y spike >5.45%; V or LLY cushion compresses <3% intraday = lesson #1 trim-arming threshold fire; fresh single-name negative on held position (incl. V earnings-pre-week jitters); cascade re-digestion sour → Nasdaq futures <−1.0% pre-Fri gap-down → DEFER SNOW to Week 23+; SNOW opens −2%+ pre-Fri or fresh SNOW single-name negative surfaces → DEFER SNOW to Week 23+; AI-valuation-overhang sell-off continuation in SaaS cohort → DEFER SNOW; GOOGL AMC Fri (if confirmed) reports negative-tape sell-off → re-evaluate SNOW gate for Fri late-day OR Week 23+.
