@@ -7216,3 +7216,36 @@ Pre-trade guardrail check (preserved for Mon 10/26 SNOW half-size ~5-6 sh @ ~$30
 - Pre-MA/MSFT/LLY Thu 10/29 earnings cluster
 
 **Hard-defer triggers (persist Mon pre-FOMC-week):** overnight gap-down >1.5% on futures; 10Y spike >5.45%; V or LLY cushion compresses <3% intraday = lesson #1 trim-arming threshold fire; fresh single-name negative on held position (incl. V earnings-pre-week jitters); AI-valuation-overhang sell-off continuation in SaaS cohort → DEFER SNOW; SNOW opens −2%+ pre-Mon or fresh single-name negative over weekend → DEFER SNOW to Week 24+; pre-FOMC-week tape risk-off deepens → DEFER SNOW.
+
+---
+
+## Market Close Routine — 2026-10-23 (Friday; Week 22 Day 5 of 5 FINAL)
+
+**Fri 10/23 close summary (recorded for Mon pre-mkt reference):**
+- Portfolio close **$99,822.86** vs Day Open $100,014.92 = **−0.192% DTD** (daily-loss cap $97,014.47 NOT triggered); below $100k again after Thu's first-crossing.
+- SPY close **$759.83** vs Thu $764.03 = **−0.550% DTD** → **portfolio +0.358pp OP DTD** on cash-cushion mechanical absorption (NOT lesson #4 defensive-bid — both V/LLY underperformed SPY DOWN-tape on post-ratchet-day give-back).
+- **Week 22 FINAL:** portfolio $99,698.98 → $99,822.86 = **+0.1242% WTD** vs SPY $763.335 → $759.83 = **−0.4592% WTD** = **+0.5834pp OP = Grade B/A** (3rd consecutive weekly OP: Week 21 Grade B/A +1.738pp + Week 20 Grade D −0.757pp + Week 22 Grade B/A +0.583pp).
+- Positions: **V** $413.0901 → $408.4263 = **−1.427% day** / P&L +15.343% / cushion 9.67% → **8.64%** / HWM $414.60 unchanged / stop $373.14 unchanged. **LLY** $1,306.69 → $1,273.46 = **−2.543% day** / P&L +9.498% / cushion 9.00% → **6.63%** / HWM $1,321.21 unchanged / stop $1,189.089 unchanged.
+- No ratchets Fri (both closes below HWMs); no stops filled; no new trades (Week 22 slot cap closes 0 of 3 = full-week slot preservation per compound-defer chain Mon→Tue→Wed→Thu→Fri).
+
+## Tomorrow's Watch — 2026-10-26 (Monday; Week 23 Day 1 of 5 OPEN = **WEEK-START + SPY REFERENCE LOG DAY + V Q4 FY26 Tue 10/27 AMC = 1 TD INSIDE 2wk DEEPER DEEPER DEEPER DEEPER DEEPER FIRMLY + LLY Q3 CY26 Thu 10/29 BMO = 3 TDs INSIDE 2wk DEEPER DEEPER DEEPER DEEPER FIRMLY + FOMC OCT 28-29 WED/THU DECISION DAY-OF OVERLAP WITH GOOGL WED 10/28 AMC + LLY THU 10/29 BMO = COMPOUND-BINARY GATE STATE RE-ENGAGES WEEK 23 + SNOW PRIMARY CONDITIONAL EXECUTION WINDOW ARMED pending Mon pre-FOMC-week conditions**)
+
+**Positions to monitor (Mon 10/26 open — updated with Fri close data):**
+- **V (10 sh, +15.343% P&L close, Fri close $408.4263 / cushion 8.64%)** — **Q4 FY26 Tue 10/27 AMC CONFIRMED = 1 TD from Mon = INSIDE 2wk-boundary DEEPER DEEPER DEEPER DEEPER DEEPER FIRMLY** = HIGHEST-VIGILANCE pre-earnings cushion-compression window; Mon = T−1 pre-report day; options-implied Q4 move ±2.5-2.8%; lesson (xiv) candidate framework arms IF cushion compresses sub-3% at 1 TD INSIDE boundary; realized-if-triggered floor **+$190.42 / +5.38%** = cost-basis-protected AND materially profitable floor. **AXP Fri 10/23 BMO cross-asset signal:** parse Fri's AXP tape read as V-adjacent cross-asset indicator for Mon pre-report positioning; positive AXP tape = positive V-adjacent read into Tue V print; negative AXP tape = V pressure risk heading into Tue earnings.
+- **LLY (4 sh, +9.498% P&L close, Fri close $1,273.46 / cushion 6.63%)** — **Q3 CY26 Thu 10/29 BMO CONFIRMED = 3 TDs from Mon = INSIDE 2wk-boundary DEEPER DEEPER DEEPER DEEPER FIRMLY** + FOMC Oct 28-29 Wed decision + Thu post-decision overlap = **COMPOUND-BINARY GATE STATE RE-ENGAGES WEEK 23**; largest-magnitude post-ratchet-day give-back Fri (−2.543%) compressed cushion from 9.00% → 6.63% (still ≥3% threshold); discretionary partial-trim framework arms IF cushion compresses sub-3% at 3 TDs INSIDE boundary; realized-if-triggered floor **+$104.36 / +2.244%**.
+- **SNOW (candidate — primary CONDITIONAL BUY ARMED carried to Mon 10/26 Week-23 Day 1 open window)** — execution gates: (a) Thu/Fri close holds $305-325 target entry band + Mon pre-open AND (b) no fresh single-name negative over weekend AND (c) Mon pre-FOMC-week tape positive AND (d) no AI-valuation sell-off continuation. Half-size 5-6 sh @ ~$305-325 target entry = ~$1,525-$1,950 ≈ 1.52-1.95% exposure per lesson (xi) half-size default framework. 10% trail GTC immediately post-fill. Hard-defer triggers Mon: SNOW opens −2%+ pre-Mon OR fresh single-name negative OR AI-valuation sell-off continuation OR Nasdaq futures <−1.0% pre-Mon gap-down → DEFER to Week 24+.
+
+**Macro + earnings Mon 10/26:**
+- **No binary macro Mon 10/26** (clean session for pre-FOMC-week positioning)
+- Pre-V Tue 10/27 AMC earnings (held-position catalyst, 1 TD from Mon)
+- Pre-GOOGL Wed 10/28 AMC + pre-FOMC Wed 10/28 decision + Thu 10/29 post-decision positioning
+- Pre-MA Thu 10/29 BMO (payments-cohort V-adjacent post-earnings read) + pre-MSFT Thu 10/29 AMC + pre-LLY Thu 10/29 BMO earnings cluster
+- Week 23 = largest compound-catalyst density of Q4 CY26 (FOMC + GOOGL + V + LLY + MSFT + MA)
+
+**Thesis notes:**
+- **Fri's cash-cushion absorption pattern (OP day on NOT-defensive-bid day)** = pure lesson #2 mechanical delivery; distinguishes from Thu's lesson #4 defensive-bid regime engagement (Thu V +1.285% + LLY +2.828% delivered on SPY −1.177% = active defensive-bid). Week 23 pre-FOMC-week pre-earnings-cluster will test both regimes: if both V and LLY cushions hold ≥3% through Mon-Tue-Wed pre-report, lesson #1 catalyst-proximity does NOT fire and lesson #3 default dominates; if cushion compresses sub-3% at pre-report, lesson #1 discretionary partial-trim framework arms.
+- **V HWM $414.60 / LLY HWM $1,321.21 are Thu's double/massive-ratchet basis** = largest-ever stop basis on both positions; Fri's close is $6.17/sh below V HWM and $47.75/sh below LLY HWM = next ratchet trigger requires print >HWM; Mon pre-report give-back deepening would compress cushion toward 3% threshold and arm lesson #1.
+- **AXP Fri 10/23 BMO result** = parse at Fri close as cross-asset V-adjacent signal for Mon pre-report positioning (positive → V-positive carry; negative → V pressure risk).
+- **Weekly review routine** fires post-close as separate task; Week 22 Grade B/A +0.583pp OP vs SPY = structural alpha delivery continues.
+
+**Hard-defer triggers (persist Mon pre-FOMC-week):** overnight gap-down >1.5% on futures; 10Y spike >5.45%; V or LLY cushion compresses <3% intraday = lesson #1 trim-arming threshold fire; fresh single-name negative on held position (incl. V earnings-pre-week jitters); AI-valuation-overhang sell-off continuation in SaaS cohort → DEFER SNOW; SNOW opens −2%+ pre-Mon or fresh single-name negative over weekend → DEFER SNOW to Week 24+; pre-FOMC-week tape risk-off deepens → DEFER SNOW.
